@@ -1,0 +1,15 @@
+business 2
+commercial 1
+enterprise 2
+focus 1
+inspection 3
+inspector 2
+make 1
+management 2
+network 3
+platform 2
+property 2
+rest 1
+soap 1
+support 3
+system 1

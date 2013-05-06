@@ -1,0 +1,5 @@
+Contract workflow management
+Paperlex
+Paperlex is a management system for contract workflow. Their Paperlex OneDoc product allows users to upload and track their contracts through private dashboard. Different versions of multiple contracts can be maintained on the dashboard, as well as their different stages, such as ???in negation,??? ???signed,??? and more. The Paperlex API is a RESTful protocol that exposes the dashboard???s contract management functionality. It returns JSON-encoded data. 
+enterprise law 
+Enterprise

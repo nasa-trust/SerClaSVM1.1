@@ -1,0 +1,5 @@
+Securities holdings database service
+XigniteHoldings
+The XigniteHoldings API gives you access to a complete list of institutional holders of a security as of a specific date. You can search by manager, historical holders and more.
+financial markets 
+Financial

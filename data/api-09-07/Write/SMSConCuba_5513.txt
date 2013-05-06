@@ -1,0 +1,5 @@
+SMS messaging to Cuba
+SMSConCuba
+SMSConCuba provides a feature to send any message to specified script (using HTTP-POST request) or e-mail. It also provides a method to know the message status. Full documentation is either unavailable or cannot be found. Site is in Spanish.
+cuba Global sms telephony 
+Telephony

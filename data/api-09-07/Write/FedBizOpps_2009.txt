@@ -1,0 +1,7 @@
+U.S. government procurement and purchasing service
+FedBizOpps
+The service provides access for direct interaction with the U.S. government database of procurement orders and contracts. Businesses can discover selling opportunities and track contracts awarded, by type of product, location, and purchasing agency. Government agencies can solicit vendor bids and interact with providers to meet procurement needs.
+
+API methods support solicitation for bids and posting of notices to bidders, posting of contract award notifications, and related functions. Methods also support review of such notifications and submission of bids to provide goods or services.
+contract government 
+Government

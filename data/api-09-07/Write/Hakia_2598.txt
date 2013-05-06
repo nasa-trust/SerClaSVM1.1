@@ -1,0 +1,5 @@
+Semantic search engine
+Hakia
+Hakia is a semantic search engine. The API is currently in beta. In order to access the beta you must sign up for an account at http://club.hakia.com/
+search semantic 
+Search

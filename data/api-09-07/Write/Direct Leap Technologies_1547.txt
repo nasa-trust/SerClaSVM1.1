@@ -1,0 +1,9 @@
+Campaign (phone, telemessaging) service
+Direct Leap Technologies
+Direct Leap Technologies supports non-profit communication and campaign efforts, namely phonebank and telemessaging campaigns. 
+
+Direct Leap offers APIs for their two main services, Popvox (phonebank campaign technology) and telemessaging services.
+
+Public documentation and more information about this API are unavailable.
+telephony Voice 
+Telephony

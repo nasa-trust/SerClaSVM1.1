@@ -1,0 +1,5 @@
+Training eLearning services
+Dojo Learning
+Use the Dojo Learning API to access lessons, users and other data on Dojo Learning, an elearning platform for companies and trainers to create, deliver, and sell training. The Dojo Learning service allows external clients to access and manipulate the Dojo data layer. The API is open to current Dojo users; both free and paid user accounts are available.
+enterprise training 
+Enterprise

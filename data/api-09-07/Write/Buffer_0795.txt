@@ -1,0 +1,7 @@
+Tweet management and scheduling service
+Buffer
+Buffer is a service that allows users to manage and schedule their tweets throughout the day. Users add tweets to their &quot;Buffer,&quot; and Buffer schedules them to go out regularly throughout the day.
+
+The Buffer API allows developers to access and integrate the functionality and data of Buffer with other applications and to create new applications. Some example API methods include retrieving user and profile information, creating and managing updates, and accessing the sent and pending updates.
+schedule social Twitter 
+Social

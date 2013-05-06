@@ -1,0 +1,17 @@
+affiliate 5
+commission 1
+earn 1
+find 1
+marketing 1
+merchant 1
+multiple 1
+network 1
+party 1
+product 1
+promote 1
+shopping 2
+third 1
+tool 1
+tracking 1
+transactions 1
+trust 1

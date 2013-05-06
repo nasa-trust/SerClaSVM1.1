@@ -1,0 +1,5 @@
+Bookmarking and web content parsing service
+Bookie
+Bookie is a web bookmarking service. It is under development as an open source alternative to Delicious, another popular bookmarking service. Bookie can import users bookmarks from Delicious and browsers such as Chrome, and offers a bookmarklet app for browsers. Once users bookmark a page, Bookie will store a copy of its content to allow users to run fulltext searches. Users can query their saved content with several relational database systems such as MySQL, Sqlite, and Postgresql. Bookie???s API exposes the site???s web-content parsing function. It is a RESTful API that users can post URLs to and will return readable JSON-formatted data.  
+bookmarks tools 
+Tools

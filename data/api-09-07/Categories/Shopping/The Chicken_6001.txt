@@ -1,0 +1,8 @@
+chicken 4
+datum 1
+experience 1
+own 1
+product 2
+review 2
+shopping 2
+write 1

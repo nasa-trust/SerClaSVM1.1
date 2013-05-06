@@ -1,0 +1,5 @@
+SMS marketing service
+Express Text
+Express Text is an SMS marketing service that allows users to reach an audience of potential customers and clients via mobile phones. Express Text&#039;s API allows anyone to integrate the Premium Grade Tier 1 Carrier Network with their applications. Express Text&#039;s API allows users to send and receive SMS Messages to and from all Mobile Carrier Networks in the United States. Documentation is not publicly available.
+bulk marketing messaging sms usa 
+Messaging

@@ -1,0 +1,5 @@
+Yahoo profile directory service
+Yahoo Social Directory
+The Social Directory API provides profile (identity) and connection (relationship) information about Yahoo! users. A profile is a collection of user provided information that is descriptive of the user, such as the user&#039;s name, gender, location, photo, and relationship status. The connections of a user identify other users who might be friends and business associates.
+social 
+Social

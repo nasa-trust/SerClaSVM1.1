@@ -1,0 +1,10 @@
+character 1
+expand 2
+filling 1
+internet 2
+perfect 1
+size 1
+tweet 1
+twitter 1
+url 2
+utility 1

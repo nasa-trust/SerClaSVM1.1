@@ -1,0 +1,5 @@
+Cancer Research and Innovation Sharing Service
+The Cancer
+The Cancer API (CANAPI) was designed to make it it easier to collect, follow, and share emerging innovations in the research field as well as all other available information. The service collects information from institutions, businesses, individuals, and aggregates it to be used in a standard format. The data can be accessed and republished or used in mashups as needed. The API is currently in private Alpha. 
+medical research 
+Medical

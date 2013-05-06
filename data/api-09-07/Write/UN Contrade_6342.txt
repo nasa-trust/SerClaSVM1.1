@@ -1,0 +1,8 @@
+International trade statistics service
+UN Contrade
+The United Nations Statistical Data and Metadata Exchange offers a repository of data about international trade devoted to encouraging information sharing and trade among UN member countries and business organizations worldwide. The initiative is aimed at improving efficiency of processes for exchanging information to track commerce and support financial decision-making.
+
+Data sets available depending on access rights, but may include
+Comtrade data summarizing international transactions by country, industry classification, and year. Also available are data about tariffs and total international trade. Data can also be retrieved directly into a SQL Server database.
+finance government international reference statistics 
+Government

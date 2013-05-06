@@ -1,0 +1,7 @@
+Online advertising and marketing service
+Adknowledge
+Adknowledge is an advertising and marketing service that helps advertisers and publishers reach their target audiences through various advertising and marketing techniques. Some example features include email marketing, optimized targeting, and social media outreach.
+
+The Adknowledge API allows developers to integrate the Email Adstation functionality of Adknowledge with other applications. Public documentation is not available; API access is limited to customers. Interested developers can sign up here: http://www.adknowledge.com/publisher/email/signup.
+advertising campaign email marketing 
+Advertising

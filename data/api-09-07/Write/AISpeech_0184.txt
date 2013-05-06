@@ -1,0 +1,11 @@
+Speech recognition service
+AISpeech
+AI Speech specializes in computer speech recognition, analysis, tone analysis and dialog management techniques. AISpeech JavaScript API provides AI Speech Ltd&#039;s pronunciation evaluation, speech recognition, and text-to-speech technologies. With the API developers can implement speech enabled applications. AISpeech API supports:
+
+* Audio Recording.
+* Speech Pronunciation Evaluation, Chinese and English.
+* Multi-style Text-to-Speech, Chinese and English. 
+
+Documentation is in Chinese.
+recognition speech utility Voice 
+Utility

@@ -1,0 +1,5 @@
+App performance testing
+TestFlight
+TestFlight is a mobile app testing service. It provides space for testing and tools for analyzing trial use. Developers first upload their SDKs. Then, TestFlight distributes them to the developers??? testers and analyzes usage for performance reports. Their Upload API allows developers to streamline the development process by incorporating the SDK upload into their workflow. It is a RESTful API that provides responses in XML, JSON, and PLIST.
+mobile performance testing 
+Project Management

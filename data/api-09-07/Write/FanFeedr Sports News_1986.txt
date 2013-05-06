@@ -1,0 +1,11 @@
+Sports news and information service
+FanFeedr Sports News
+The FanFeedr API is a flexible content platform that allows developers to customize news, photos, video, scores, tweets, and other information for athletes, teams, leagues, and events.
+
+Our platform provides aggregated sports news and data for 55,000 athletes and 4,000 teams from over 8,000 sources. 
+ 
+Our API can be queried by entity, content type, keyword, time period, &#039;hotness&#039;, and geolocation to create engaging user experiences and applications.
+
+While basic API access is free, paid services are also available for developers who require higher rate limits, access to the original URL&#039;s of news items, or email and phone support.
+aggregator news schedules scores sports 
+Sports

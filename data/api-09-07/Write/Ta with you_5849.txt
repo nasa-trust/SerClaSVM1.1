@@ -1,0 +1,5 @@
+Machine translation service
+Ta with you
+Use the &quot;Ta with you&quot; API (or TauYou Translation API) machine translation service to get 1-1 translations between different languages for texts of up to 250 words. Available languages are Chinese, Korean, Japanese, Portuguese, Dutch, Swedish, Italian, Spanish, French, German, and English.
+deadpool mobile Translation utility 
+Utility

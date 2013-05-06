@@ -1,0 +1,7 @@
+Online collaboration and project management service
+Simprove Workity
+The service headquartered in Germany provides task management, scheduling, messaging, and related functions for online project management and collaboration within a project team. Services supported include adding and assigning team members, creating tasks with due date and other scheduling functions, posting notes, tagging objects with keywords and task relationships, etc.
+
+Methods handle functions like work item retrieval and updating as well as user account lookup and update. Task-related methods support ticket creation, assignment, updating, and tracking.
+project-management 
+Project Management

@@ -1,0 +1,7 @@
+Federal recreation database
+Recreation.gov
+Recreation.gov stores information about federal recreation areas, facilities, events, activities, and more in the Recreational Information Database (RIBD). This information has been made available through the RIBD Web Services API.
+
+The RIBD API uses the HTTP and SOAP protocols, and returns responses in XML.
+activities database government recreation 
+Other

@@ -1,0 +1,7 @@
+Mobile payment service
+Buck
+Buck is a mobile payment service. Merchants can use Buck for accepting credit card payments with one click on mobile applications.
+
+The Buck API allows developers to access and integrate the functionality of Buck with applications. Some example API methods include creating checkout pages, processing payments, and accessing payment reports.
+deadpool ecommerce mobile payment 
+Payment

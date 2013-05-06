@@ -1,0 +1,17 @@
+account 1
+add 1
+address 6
+book 5
+contact 2
+edit 1
+integrate 1
+network 1
+notation 1
+object 1
+off 1
+request 1
+result 1
+retrieve 1
+return 1
+sent 1
+yahoo 3

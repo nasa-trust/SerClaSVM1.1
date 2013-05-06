@@ -1,0 +1,5 @@
+Daily deal aggregator service
+DealSurf
+DealSurf is a daily deal aggregator service. It offers deals from hundreds of providers including LivingSocial, kgb Deals, GroupOn and more. The API exposes site data that developers can integrate into their own web sites or applications. Functionality includes returning today&#039;s daily deals in a specified city and returning deals by ID. The API uses RESTful calls and responses are formatted in XML and JSON.
+deals local shopping 
+Shopping

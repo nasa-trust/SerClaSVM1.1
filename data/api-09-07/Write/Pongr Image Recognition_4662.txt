@@ -1,0 +1,6 @@
+Image Recognition Service
+Pongr Image Recognition
+The Pongr Image Recognition API is a cloud-based image recognition API, with support for pure JavaScript and mobile apps available. The Pongr Image Recognition API uses computer vision, logo detection, and brand gaming to provide cool features for mobile apps. For users thinking of developing a branded mobile application that includes visual engagement and/or photo marketing, The Pongr Image Recognition API can speed development time and provide a rich set of functionality for users.
+
+image photo recognition search 
+Tools

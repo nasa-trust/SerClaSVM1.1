@@ -1,0 +1,9 @@
+correction 2
+given 1
+reference 2
+search 1
+spelling 5
+suggest 1
+suggestion 2
+term 1
+yahoo 2

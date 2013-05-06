@@ -1,0 +1,7 @@
+Database of regular expressions
+RegExLib
+RegExLib is a library of regular expressions. It contains more than 3400 expressions from over 2000 contributors around the world. Users may search the library for an expression to perform a particular task, or they may contribute a new expression that they???ve figured out.
+
+The RegExLib API allows users to retrieve a list of regular expressions or to retrieve information on a specific expression. The API also allows users to search for regular expressions matching a given query term. The RegExLib API operates via SOAP calls using the XML data format.
+programming reference 
+Reference

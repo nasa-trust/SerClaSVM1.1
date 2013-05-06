@@ -1,0 +1,5 @@
+RDF proxy service
+Virtuoso Sponger Proxy
+The OpenLink Virtuoso Sponger Proxy turns a web resource into RDF, which is useful in Ajax and other apps. This can be done through the service endpoint, essentially just concatenate the service endpoint URI with a resource URI and you will get the RDF.
+internet utility 
+Internet

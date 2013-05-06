@@ -1,0 +1,5 @@
+Product video services
+CultClip
+Use the CultClip API to integrate product videos into your site. EAN codes associated with a video are matched with the SKUs on a product. The videos are delivered automatically to the player, so existing Shop users no longer need to manually manage video clips. You can change the size and color of the player, as well as specify whether the video automatically starts or is started with a user click. Also, you can specify whether the video is set to repeat.
+deadpool video 
+Video

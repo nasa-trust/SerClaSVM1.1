@@ -1,0 +1,12 @@
+advertising 4
+brand 2
+circular 1
+content 1
+display 1
+distribution 1
+documentation 1
+management 2
+promotion 1
+shopping 1
+specific 1
+store 1

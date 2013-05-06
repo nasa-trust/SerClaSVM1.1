@@ -1,0 +1,5 @@
+Job search and recruiting service for freelancers
+Freelancer
+From their site: &quot;The Freelancers API lets users access public information on Freelancer.com programmatically. Such information has to be used in accordance with the Freelancer.com and Affiliate Program Terms of Service. Allowed uses include displaying open public projects or information from user profiles on affiliate websites with appropriate links to Freelancer.com projects or profiles. This information will be useful for all Freelancer.com members. Users who are experienced in programming will be able to create their own widgets with a large degree of flexibility (see API calls). Less experienced users can simply paste the code given in the examples on their web page to enjoy the benefits of our web widgets.&quot;
+jobs recruiting 
+Job Search

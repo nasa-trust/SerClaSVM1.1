@@ -1,0 +1,7 @@
+Restaurant application service
+ChowNow
+ChowNow is a mobile and Facebook application for restaurants to manage food orders. Restaurants can use ChowNow to create their own applications for their customers to order food from, either from mobiles or Facebook.
+
+The ChowNow API allows developers to access and integrate the functionality of ChowNow with other applications and to create new applications. Public documentation is not available; interested developers should sign up for more information here: http://www.chownow.com/#!/api.
+food mobile restaurant 
+Food

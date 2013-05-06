@@ -1,0 +1,5 @@
+Mobile SMS Service
+AT&T SMS
+The SMS API allows developers to send, receive, and get the delivery status of messages sent to one or more AT&T mobile devices.
+sms telephony messaging mobile Global
+Messaging

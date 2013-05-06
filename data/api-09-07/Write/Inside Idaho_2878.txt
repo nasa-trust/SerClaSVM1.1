@@ -1,0 +1,7 @@
+State geospatial information service
+Inside Idaho
+The service delivers geospatial data to support mapping of resources within the state of Idaho. Compliant with Open Geospatial Consortium (OGC) standards, the platform uses ArcGIS and other resources to promote sharing of data, effective communication, and activity coordination among state agencies and other government units. Applications can use the service to map biological and environmental features, climatology, structures, and other featurs of the state.
+
+API methods support mapping of animal and plant species, elevation and other geological features, and climatic conditions. Applications can also map jurisdictional boundaries, transportation resources, structures, and other prominent infrastructure within Idaho 
+gis government Idaho mapping 
+Mapping

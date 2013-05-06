@@ -1,0 +1,5 @@
+Agent-based optimization services
+Conductrics
+Conductrics provides an agent-based decision optimization solution. It uses machine learning to optimize website or application behavior to meet defined objectives. The developer API for lean application development and optimization is based on intelligent agent methodology. Tools include A/B & multivariate testing, adaptive control, targeted learning/optimization, and decision attribution. The API uses RESTful calls and responses are formatted in XML, JSON or URL redirects. Full documentation is not publicly available.
+Agent multivariate Optimization testing 
+Internet

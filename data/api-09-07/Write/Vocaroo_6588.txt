@@ -1,0 +1,5 @@
+Voice recording service
+Vocaroo
+Vocaroo is an online voice-recording web tool. Users can record messages through their computers onto an app on the Vocaroo homepage. Vocaroo will save the user???s message for a limited time and provide a link where it can be played back. The site is still in beta. The API exposes Vocaroo???s uploading and link sharing functionality. It is a RESTful API that returns JSON formatted data. 
+recording tools Voice 
+Tools

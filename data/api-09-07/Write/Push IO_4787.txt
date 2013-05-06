@@ -1,0 +1,5 @@
+Notification Alerts and Mobile Data Delivery
+Push IO
+Push IO is a provider of real-time push notification alerts and mobile data delivery. The API offers methods for sending category-based target broadcasts and test device push notifications to all platform users with a single call. The Push IO API is a simple RESTful API with JSON responses and POST calls.
+alerts chat messaging notifications push utility 
+Messaging

@@ -1,0 +1,5 @@
+Gender neutral bathroom search
+Safe2pee
+Safe2pee is a resource where people can find the locations of gender free bathrooms. It provides a RESTful API that lets users query the site data and integrate it with their apps. Users can also use the API to upload new locations. Responses are formatted in JSON.
+bathroom local mapping places 
+Search

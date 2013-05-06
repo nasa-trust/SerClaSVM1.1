@@ -1,0 +1,5 @@
+Time zone data service
+World Weather Online Time Zone
+This helper API from World Weather Online can be used along with its weather API, but it also sits well on its own. The Time Zone API returns current local time and UTC offset hour and minute. There are a number of ways to search for the time zone. You can use a city/town name, postal code (US, UK and Canada), airport code, latitude/longitude and even IP address.
+local reference timezone 
+Reference

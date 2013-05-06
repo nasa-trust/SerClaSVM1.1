@@ -1,0 +1,5 @@
+Disposable email address service
+SpamOn
+SpamOn! is a free service that provides disposable e-mail addresses when users fill out forms, register on websites or meet new people. The API allows users to integrate SpamOn! data on their website or application. There is currently no restrictions on the number of queries allowed. The API uses RESTful calls and responses are formatted in JSON.
+disposable email spam 
+Email

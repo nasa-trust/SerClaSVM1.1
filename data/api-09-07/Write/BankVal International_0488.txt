@@ -1,0 +1,5 @@
+IBAN and SWIFT validation services
+BankVal International
+The BankVal International API lets you validate IBAN BIC codes, SWIFT BIC codes, and ABA routing numbers. Verify codes against the official SWIFT BIC directory. Validate IBAN numbers against ECBS standards. Validate ABA routing numbers against the most recent Routing Numbers Database.
+finance 
+Financial

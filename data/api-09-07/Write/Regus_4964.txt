@@ -1,0 +1,25 @@
+Global Meeting Room, Video, Hot Desks on demand
+Regus
+Regus is the world&#039;s largest provider of flexible workspaces with over 4500 meeting rooms, 1200 video studios, 38000 day offices and hot desks available on demand, hourly and daily.
+
+Earn commission or revenue share through utilising this API which on Business Meetings alone allows you to serve the ??125bn market. 
+
+Spanning 1200 business centres, 550 cities and 95 countries, the Regus API, supporting both SOAP and REST protocols, allows developers to access the Regus central inventory system. With this access, you can take advantage of functionality such as searching, checking availability, pricing, making a booking, and making amendments and cancellations.
+
+This API offers online booking directly into the global inventory system. In a market that is still largely booked by voice online booking is a huge efficiency advantage. Industry research shows that on average each voice booking takes 11 minutes and typically the venue has to make manual diary checks and will not come back with a response until 1 hour 51 minutes later. By contrast, the API allows you to search, book and pay in a simple three step process - just a matter of seconds. 
+
+Resources
+Developers 
+http://www.developer.regus.com
+
+Partners
+http://www.regus.co.uk/etrading-solutions/become-a-partner/index.aspx
+
+What do Regus Offer a Partner
+http://www.regus.co.uk/etrading-solutions/regus-workplaces-on-demand/index.aspx
+
+Partner Toolkit
+http://www.regus.co.uk/etrading-solutions/index.aspx
+
+booking bookingAPi Dayoffice meeting rooms video 
+Enterprise

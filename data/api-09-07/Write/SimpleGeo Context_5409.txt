@@ -1,0 +1,5 @@
+Location Context Search
+SimpleGeo Context
+SimpleGeo Context provides relevant contextual information such as weather, demographics, or neighborhood data for a specific location. You give SimpleGeo Context a latitude and longitude, and it turns that point into structured data that is meaningful and useful to real people. The SimpleGeo API lets developers make more meaningful location apps by using a latitude/longitude to look up real-time information on a location.
+deadpool demographics geocoding mapping weather 
+Mapping

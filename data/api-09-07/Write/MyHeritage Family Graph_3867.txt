@@ -1,0 +1,7 @@
+Free and instant access to millions of families
+MyHeritage Family Graph
+Family Graph by MyHeritage.com allows users to share their family trees and photos with other people. Family Graph also allows users to connect with other families that use MyHeritage.com.
+
+The Family Graph API allows users to access data and functionality from MyHeritage.com to build other applications. Some example API methods include accessing photos and albums, retrieving user information, finding other members and families, and connecting to other users and families.  
+family genealogy MyHeritage photo social Tree 
+Social

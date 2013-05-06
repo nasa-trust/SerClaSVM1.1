@@ -1,0 +1,5 @@
+Flash games provider
+CasualCafe
+CasualCafe is a browser-based game arcade which uses Flash technology. CasualCafe includes social networking features and offers Facebook integration. The API uses REST and JavaScript protocols. Responses are formatted in XML.
+deadpool flash games 
+Games

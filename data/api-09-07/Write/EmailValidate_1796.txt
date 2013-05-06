@@ -1,0 +1,8 @@
+Email address validation service
+EmailValidate
+The service validates email addresses via syntax analysis, lookup against MX records, and checks against SMTP availability. It reviews a submitted address list and validates the entries without sending email to the recipients, allowing clean-up of lists that does not risk damage to customer relationships. 
+
+API methods support submission of email addresses  and return response codes and messages. Responses specify validity of address syntax, validity against MX records, and SMTP availability.
+
+campaign email marketing messaging 
+Email

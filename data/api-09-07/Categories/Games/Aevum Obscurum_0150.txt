@@ -1,0 +1,14 @@
+connect 1
+functionality 1
+game 7
+league 1
+manage 1
+map 1
+news 1
+organize 1
+player 1
+poll 1
+royal 1
+signature 1
+standing 1
+strategy 2

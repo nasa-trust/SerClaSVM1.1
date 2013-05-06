@@ -1,0 +1,7 @@
+Online music service
+Maestro.fm
+Maestro.fm enables users to access and manage their entire music library on-demand from any connected device (laptop, phone, etc.) by using a web-based utility via a hybrid client application and cloud-based solution. Combined with an interactive experience at Maestro.fm, Maestro has a social component, enhancing the personal experience, connecting users within the network,and driving social discovery. 
+
+Maestro.fm&#039;s API enables programmers to build applications that interact with Maestro&#039;s core system. With this API, developers are able to perform a variety of tasks with Maestro, such as show and play a user&#039;s library and playlist, browse and manage user favorites, and see what a user is currently playing.
+music social 
+Music

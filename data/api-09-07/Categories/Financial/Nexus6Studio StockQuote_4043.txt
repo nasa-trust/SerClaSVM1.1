@@ -1,0 +1,9 @@
+delay 1
+documentation 1
+finance 2
+limited 1
+minute 1
+organization 1
+quote 2
+reference 1
+stock 3

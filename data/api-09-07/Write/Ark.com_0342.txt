@@ -1,0 +1,7 @@
+People search directory
+Ark.com
+Ark.com is an online platform that allows users to search for people on the web. Ark.com offers people search capabilities, either for new people, new business contacts, old classmates, and current friends. Users can also browse people by current city, gender, college, and more.
+
+The Ark.com API allows developers to access and integrate the functionality of Ark.com with other applications. Public documentation is not available; interested developers should email devkey@ark.com for an API key and access.
+friends people search social 
+Search

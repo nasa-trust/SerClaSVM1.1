@@ -1,0 +1,5 @@
+Stock price data service
+Xignite BATSLastSale
+This web service provides real-time BATS Exchange Last Sale stock prices and trade data for US-listed stocks traded on NASDAQ, NYSE, AMEX and OTC exchanges.
+financial stock 
+Financial

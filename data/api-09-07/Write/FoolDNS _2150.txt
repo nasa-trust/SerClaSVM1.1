@@ -1,0 +1,5 @@
+Online privacy protection service
+FoolDNS 
+FoolDNS is a service that provides protection from malware, phishing and tracking cookies. With this API users can integrate their system with FoolDNS. It exposes a REST interface that can be queried via HTTP calls. Responses are returned in XML, JSON, HTML and YML format.
+internet security 
+Security

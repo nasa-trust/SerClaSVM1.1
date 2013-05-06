@@ -1,0 +1,7 @@
+eBay item and product recommendation service
+eBay Merchandising
+The eBay Merchandising API retrieves relevant information about products or item listings on eBay to help users sell more merchandise to eBay buyers. 
+
+This API can be used to create applications that provide suggested products or item listings based on buyers&#039; searching or selection activity. Sellers can also use this API to augment their own listings with cross-promotions for their users.
+listings Products recommendations sales 
+Shopping

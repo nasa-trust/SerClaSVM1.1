@@ -1,0 +1,6 @@
+Press material database for German businesses
+Presseportal
+The Presseportal API allows access to all content (text, image, sound and video) within the Presseportal database for private use in projects and applications. The API is designed for all developers and project managers free of charge. Presseportal is the database for press material in text, image, video and sound of more than 15,000 press offices of business, industry, politics, sports and culture. The API uses RESTful protocol and responses are formatted in XML. An API key is needed to use the API. Site is in German but documentation is in English.
+
+enterprise press 
+Enterprise

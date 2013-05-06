@@ -1,0 +1,5 @@
+Online storage service
+Google Storage
+Google Storage for Developers is a RESTful web service API for storing and accessing your data on Google&#039;s infrastructure. The service combines the performance and scalability of Google&#039;s cloud with advanced security and sharing capabilities. With this API: all data is replicated to multiple U.S. data centers, offers read-your-writes data consistency, and allows objects of hundreds of gigabytes in size per request with range-get support.
+paas storage 
+Storage

@@ -1,0 +1,5 @@
+Social media content syndication service
+dlvr.it
+dlvr.it provides bloggers, publishers and brands a way to syndicate content through their social channels. The API provides functionality such a listing routes and accounts as well as posting to accounts and creating short urls. The API uses RESTful calls and responses are formatted in XML and JSON.
+social syndication 
+Social

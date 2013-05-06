@@ -1,0 +1,5 @@
+Harvard Events Calendar
+CS50 HarvardEvents
+HarvardEvents is a calendar app that details events happening around the Harvard campus. The data is also available programaticaly through the RESTful HarvardEvents API in CSV, iCalendar, JSON, JSONP, PHP, RSS, or XML formats. This data can be used to integrate HarvardEvents into a developer&#039;s own applications. HarvardEvents is available for Non-Comercial use via a Creative Commons Attribution-Noncommerical 3.0 Unported license. For commercial use, contact the author.
+college events Massachusetts 
+Events

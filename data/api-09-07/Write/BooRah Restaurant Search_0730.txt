@@ -1,0 +1,5 @@
+Restaurant search service
+BooRah Restaurant Search
+The BooRah Restaurant Search API returns a list of restaurants based on specified name and location parameters. The name can be a full or partial restaurant name, a type of cuisine, or a type of food. The location can be identified as a city, zip code, neighborhood, address, or latitude and longitude. 
+food restaurant 
+Search

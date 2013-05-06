@@ -1,0 +1,5 @@
+Photo sharing service
+Smugmug
+From the site: Everything in the hacks section is provided as-is unless you specifically have a contract with smugmug. They&#039;re not supported, endorsed, or guaranteed in any way. We&#039;d love to fully support the API and other goodies with smugmug&#039;s AAA customer service, but we&#039;re just not there yet. Soon, we hope.&quot; Note they also offer a WebDAV interface for upload, as https://upload.smugmug.com/smugdav.mg.
+photo 
+Photos

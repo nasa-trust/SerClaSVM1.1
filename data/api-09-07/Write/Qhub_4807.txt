@@ -1,0 +1,5 @@
+Questions and answers service
+Qhub
+Ask and answer questions on your own Q&A site. While other Q&A websites are good for information sharing and communities, Qhub wants to offer a targeted community managed by the people that are interested in that particular subject area. Use a subdomain of qhub.com or your own hostname. The API supports question lists, asking questions and answering questions.
+answers 
+Answers

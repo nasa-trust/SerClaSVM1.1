@@ -1,0 +1,7 @@
+Mobile website creation service
+dotMobi goMobi
+dotMobi is a company specializing in the development of mobile services and systems for 3rd party businesses. .mobi is used as a naming convention to let consumers know that a site works on a mobile phone. goMobi, a product of dotMobi allows users to create a mobile website in minutes.
+
+With the goMobi API, resellers can auto-populate goMobi sites for their customers.  Please contact you goMobi Account Manager for more information. The configuration API allows users to modify the configuration settings of the goMobi service for a domain. It is made up of a set of API calls that permit the setting of configuration properties, such as the title and description of a goMobi site, the instantiation and de-instantiation of goMobi features or apps for a site, and the modification of theme of a site. The API uses RESTful calls and responses are formatted in XML.
+internet mobile 
+Internet

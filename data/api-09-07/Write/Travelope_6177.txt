@@ -1,0 +1,7 @@
+Travel booking and comparison services
+Travelope
+Travelope aggregates deals from the top online travel sites and offers an uncluttered and simple interface in contrast to the flashier sites of larger travel companies. Deals are arranged by date as well as user reviews, ranked from an exclusive, proprietary algorithm that rates the most relevant travel deals. Deal links are direct to the source, so users can get direct access to off-site content. The &quot;Best in Travel&quot; weekly feature also offers another source of popular deals ranked by Travelope as well as users.
+
+The free API allows developers to build applications using Travelope&#039;s aggregation techniques in a RESTful or SOAP framework. XML, JSON or RSS data formats are supported.
+comparison deals travel 
+Travel

@@ -1,0 +1,13 @@
+aggregation 2
+business 2
+communicate 1
+feed 2
+find 1
+improve 1
+individual 1
+medium 1
+product 1
+range 1
+social 2
+tool 1
+way 1

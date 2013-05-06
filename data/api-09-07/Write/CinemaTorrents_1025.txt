@@ -1,0 +1,5 @@
+Movie Torrent Search
+CinemaTorrents
+CinemaTorrents indexes movie torrents from the top 30 torrent sites on the web. The CinemaTorrents API provides open access to its database of torrents. When using the API, you need not attribute CinemaTorrents in your application in any way. The API is completely free to use. CinemaTorrents claims it &quot;is not a torrent site or tracker, and does not host or provide any files or torrents in any way, shape or form.&quot; 
+movies search 
+Search

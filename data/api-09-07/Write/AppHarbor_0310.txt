@@ -1,0 +1,7 @@
+.NET application deployment service
+AppHarbor
+AppHarbor is a cloud based Platform as a Service solution for .NET. that can be used to deploy and scale any standard .NET application. AppHarbor is used to host blogs, web sites and high traffic web applications.
+
+The AppHarbor API allows developers to write apps and scripts that create, manipulate and monitor applications on AppHarbor. The API can be used for integrating functionality such as application management into an AppHarbor hosted application. Resources such as applications, collaborations, service hooks and more are available. The API uses HTTP calls and responses are formatted in JSON.
+application internet management 
+Internet

@@ -1,0 +1,7 @@
+Job search service
+Careerjet 
+Careerjet is a job search engine that pulls job postings from company and organization websites in a variety of industries and locations. Users searching for employment may also post their resume on Careerjet, as well as create job alerts. 
+
+The Careerjet API allows developers to embed Careerjet search results into other websites. Search results can be returned by keywords, locations, companies, industries, and other criteria. The HTTP API is not documented, but client libraries are available for Java, Perl, PHP, .Net 2.0, and Ruby.
+jobs resume 
+Job Search

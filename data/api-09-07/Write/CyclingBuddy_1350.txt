@@ -1,0 +1,5 @@
+Cycling social network
+CyclingBuddy
+CyclingBuddy.com is a free biking community which allows members to find other members to go cycling with. Members can trade training tips, cycling routs and opinion with others. The site has members from 14 countries around the world who have logged over 150,000 cycling miles and shared over 1,100 of their favorite cycling routes. The API allows developers to access this information and use it in their own third party web sites and apps. Documentation for the API is not publicly available. 
+sports cycling social
+Social

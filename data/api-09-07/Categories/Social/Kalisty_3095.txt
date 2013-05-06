@@ -1,0 +1,16 @@
+collaborate 1
+create 1
+friend 1
+grocery 1
+keep 1
+list 7
+manage 1
+management 1
+organize 1
+private 1
+project 2
+public 1
+share 1
+sharing 1
+social 2
+task 1

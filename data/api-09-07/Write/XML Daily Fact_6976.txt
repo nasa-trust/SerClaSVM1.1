@@ -1,0 +1,5 @@
+XML daily fact widget
+XML Daily Fact
+This SOAP-based API allows the user to place a widget on their website that returns an XML daily fact. Daily facts focus on XML web services and the use of XML within the Microsoft .NET Framework.
+internet programming Random XML 
+Internet

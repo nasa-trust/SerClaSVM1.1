@@ -1,0 +1,7 @@
+Restaurant and food data
+Food Genius
+Food Genius tracks restaurant data in an effort to help businesses understand consumer personas and their habits, inspire new products, develop marketing strategies, and project demand. The data is gathered from over 14 million restaurant menu items and from tracking social sites where consumers comment on the restaurants.
+
+The Food Genius API provides developers access to this data. Included are more than 600,000 locations, 200,000 menus, and 14,000,000 dishes. Functionality is spread across three areas; places, menus and tastes. Places provides information on restaurant locations and allows for searches on these locations or a point, a city or neighborhood. Menus lets users discover menu items based on a restaurant name, description of the dish and more. Taste lets one track user preferences and provide recomendations. The API uses RESTful calls and responses are formatted in XML and JSON.
+food local recommendations restaurant social 
+Food

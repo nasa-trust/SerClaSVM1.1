@@ -1,0 +1,7 @@
+Event and organizational calendar service
+EMS Master Calendar
+The service provides online access to a shared, centralized event calendar allowing individuals and groups to coordinate activities. Each listing gives date, time, and location, along with details describing the event and directions. The service can be configured to provide additional information, as desired.
+
+API methods support listing of event bookings with details about venue and room needs and amenities, room setup options, and availability of facilities. Methods also support reserving specific venues and payment processing. 
+events 
+Events

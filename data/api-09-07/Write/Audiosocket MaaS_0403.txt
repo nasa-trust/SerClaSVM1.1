@@ -1,0 +1,5 @@
+Music licensing agency
+Audiosocket MaaS
+Audiosocket is a boutique music licensing agency representing more than 1800 emerging bands, composers and record labels from around the world. Audiosocket&#039;s MaaS (Music as a Service) provides an integration API that allows users to search, stream, and license thousands of tracks from the world&#039;s best independent musicians. The API uses RESTful calls and responses are formatted in JSON and JSONP.
+licensing music 
+Music

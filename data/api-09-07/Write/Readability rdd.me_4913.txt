@@ -1,0 +1,7 @@
+URL shortening service
+Readability rdd.me
+rdd.me by Readability is a link/URL shortener service for articles accessed on Readability. Users can create and share short URL links of Readability articles.
+
+The rdd.me API allows developers to access and integrate the functionality of rdd.me with other applications. The available API method is creating and returning shortened links. 
+internet url-shortener utility 
+Internet

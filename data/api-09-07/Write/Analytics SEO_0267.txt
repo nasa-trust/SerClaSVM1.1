@@ -1,0 +1,7 @@
+SEO optimization service
+Analytics SEO
+Analytics SEO is an online suite of SaaS based SEO tools that allow users to optimize multiple SEO campaigns. The API provides access to core site auditing functionality, ongoing site monitoring and let developers create their own SEO software reporting tools for SMBs under a revenue sharing agreement.
+
+The Analytics SEO API is divided into three sections: company functions, site functions, and system functions. Company functions are used by resellers to manage their customers&#039; companies. This includes adding new companies, and adding sites and users to those companies. These companies, users and sites are all visible in the Analytics SEO application. Site functions are used to manage sites which are not linked to any company in Analytics SEO. This means that these sites are not visible in the application, and can only be managed using the API. System functions provide information about the API. The API uses XML-RPC protocol and responses are in XML.
+internet marketing search SEO 
+Search

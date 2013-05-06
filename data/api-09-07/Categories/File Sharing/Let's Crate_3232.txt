@@ -1,0 +1,15 @@
+add 1
+crate 7
+create 1
+datum 1
+delete 2
+example 1
+file 8
+generate 1
+link 1
+listing 2
+method 1
+share 1
+sharing 4
+storage 1
+upload 2

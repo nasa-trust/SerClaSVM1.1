@@ -1,0 +1,7 @@
+SMS messaging service
+SMSFlight
+The service allows SMS messaging, either individual texts or bulk messaging. It also allows voice/SMS integration and SMS messaging driven by uploaded text and Excel files. Reporting functions list messages sent and failed attempts, by date or date range.
+
+API methods support sending single or multiple SMS messages, with sender, recipient, and message text supplied in the request. Status codes inform the requesting application about success and failure, and methods support overall reporting for specified date parameters.
+campaign messaging sms 
+Messaging

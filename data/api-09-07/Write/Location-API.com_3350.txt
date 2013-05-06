@@ -1,0 +1,8 @@
+Mobile location tracking service
+Location-API.com
+Location-API.com helps developers and mobile service providers to locate mobile phones and other mobile devices connected to the GSM and WCDMA networks.
+
+Geographic coordinates for latitude and longitude are provided from a database that includes cell IDs from 200+ countries and 4M+ cells. 
+
+geolocation mobile telephony 
+Telephony

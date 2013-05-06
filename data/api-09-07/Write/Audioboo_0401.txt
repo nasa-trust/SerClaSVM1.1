@@ -1,0 +1,5 @@
+Audio sharing platform
+Audioboo
+Audioboo is a mobile and web platform that allows users to record and upload audio for friends, family or others to hear. The Audioboo API allows developers to have their applications integrate with the platform. Functionality includes methods dealing with audio clips, users, followers and messages. The API uses RESTful protocol and responses are formatted in XML, JSON, JSONP and YAML. 
+Voice messaging audio mobile social
+Messaging

@@ -1,0 +1,17 @@
+analyst 2
+comparison 1
+datum 1
+earnings 5
+enterprise 1
+estimate 4
+finance 2
+growth 1
+industry 1
+money 1
+quarterly 1
+rates 1
+revision 1
+sector 1
+stocks 2
+surprise 1
+trend 1

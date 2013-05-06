@@ -1,0 +1,5 @@
+H.A.C.K. website status monitoring service
+HackSense
+H.A.C.K. is the Hungarian Autonomous Center for Knowledge. It is a hacker space created to provide infrastructure and community space for those looking for project ideas and information. The HackSense API shows the current status of the physical space and the timestamp of the last change in HTML, XML, TXT, CSV, and RSS formats. It can also show the website&#039;s history in HTML, XML, and CSV formats.
+hungary internet monitoring 
+Internet

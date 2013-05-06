@@ -1,0 +1,7 @@
+Common carrier reporting information service
+FCC Form 499 Filer Database
+The service provides access to records of the U.S. Federal Communications Commission (FCC) about organizations that register to provide interstate telecommunications services, including common carriers and providers of voice-over-IP (VoIP) services. These providers must file the FCC&#039;s Form 499, the Telecommunications Reporting Worksheet (FCC Form 499-A) to detail their operations. Filers must regularly update their registration information.
+
+API methods support interaction with the Universal Service Administrative Company (USAC), which manages the filing process for FCC, to create new registrations and update existing ones. Methods allow description of the filing organization, including its location, areas of service, types of services it provides, and related information
+government telephony VoIP 
+Government

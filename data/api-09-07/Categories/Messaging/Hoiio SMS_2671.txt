@@ -1,0 +1,11 @@
+communicate 1
+communication 1
+messaging 2
+people 1
+route 1
+seeking 1
+sm 4
+telephone 1
+telephony 1
+text 1
+world 1

@@ -1,0 +1,9 @@
+Bank and card validation
+Postcode Anywhere Payment Validation
+Postcode Anywhere is an &quot;information-as-a-service&quot; provider offering over 250 separate web services covering a broad range of business efficiency tools for address and data capture, validation and cleansing to geo-coding, mapping, and route planning and optimization. 
+
+The Payment Validation API lets users conduct Bank and card validation as well as correct payments before they bounce. With the API, users can validate bank accounts, sort codes, credit card number and international bank account number.
+
+The API uses a number of protocols including REST, SOAP and XML-RPC. Responses can be formatted in XML, JSON, CSV, HTML and PDF. 
+Credit finance security validation 
+Security

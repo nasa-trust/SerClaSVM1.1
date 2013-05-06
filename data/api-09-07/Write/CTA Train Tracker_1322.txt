@@ -1,0 +1,5 @@
+Chicago transit tracking service
+CTA Train Tracker
+The CTA Train Tracker API allows for querying near-real-time arrival times of Chicago Transit bus trains. The API is in beta and receives arrival time predictions via the QuikTrak rail system monitoring software (trains not currently GPS enabled). Each query responds with predictions for all platforms at a given train station in an XML document.
+chicago trains transit transportation 
+Transportation

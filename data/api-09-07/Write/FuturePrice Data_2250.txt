@@ -1,0 +1,7 @@
+live NYSE shares feed
+FuturePrice Data
+The FuturePrice Data API gives developers a cross-platform API to access real time and chronicled tick data and statistics for all shares listed on NYSE, NASDAQ, and AMEX.
+
+The API provides streaming and standard request/response mechanisms for complete market feeds. In addition, the API provides a variety of presentation styles for the information it pulls. 
+Data feed financial money monitoring stocks 
+Financial

@@ -1,0 +1,5 @@
+Abbreviation services
+Mnemotechniques Abbreviator
+Use the Mnemotechniques API allows you to automatically create acronyms or initialisms for different titles. These automatic abbreviation services might be useful if you have a graph and need to limit the text seen in the graph. You might also use it for table columns when character length needs to be minimized. The results returned suggest acronyms for a given phrase, and you can use the API to help maintain a list of created acronym-phrase mappings.
+deadpool reference utility 
+Tools

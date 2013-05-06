@@ -1,0 +1,8 @@
+Wiki management service
+Wikispaces
+The Wikispaces API can be used for the advanced management of Wikispace wikis. 
+
+This SOAP API is composed of six WSDL files. The WSDL files provide authentication, user, space, page, tag, and message services. The WIkispaces API is fully compatible with PHP, PERL, Python, ASP, and C#.
+
+wiki 
+Wiki

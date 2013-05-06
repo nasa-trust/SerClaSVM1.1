@@ -1,0 +1,5 @@
+Data encryption service
+CompletelyPrivateFiles
+With this JavaScript API users can read and write cookies that are secured with 256-bit AES encryption. Encryption happens client-side using a client secret such as a password, supplemental passphrase, or application generated value. Completelyprivatefiles provides industry-strength encryption services allowing users to store data in the cloud.
+cookies encryption security 
+Security

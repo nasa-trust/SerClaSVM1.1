@@ -1,0 +1,5 @@
+Social rating tool
+Chirpio
+The Chirpio API lets Twitter users rate each other through an app or web site. Users can also retrieve the current ratings and score of any Twitter user that has been rated on Chirpio. The Chirpio API is free to use and there are no quotas or API keys required during the beta phase. It uses a RESTful interface and responses are formatted in XML.
+social Twitter 
+Social

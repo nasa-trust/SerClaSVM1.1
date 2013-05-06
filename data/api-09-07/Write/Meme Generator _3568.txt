@@ -1,0 +1,5 @@
+Meme generation engine 
+Meme Generator 
+Meme Generator is graphics generating engine. Users can select from numerous backdrops and characters that are Internet memes and add humorous captions to them. Images from around the web and from users??? personal files can also be uploaded. Resultant creations can be shared by means of a link. The RESTful Meme Generator API exposes the site???s primary functionality, allowing developers to access, resize, and create memes. 
+fun meme sharing tools 
+Tools

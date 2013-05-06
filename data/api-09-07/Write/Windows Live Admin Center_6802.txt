@@ -1,0 +1,5 @@
+Web site administration services
+Windows Live Admin Center
+From their site: The Windows Live Admin Center software development kit (SDK), version 3.0 , enables developers to programmatically manage their Windows Live Custom Domains user base by means of a Web service. This SDK is intended for customers and partners who want to programmatically accomplish many of the administration tasks that are available on the Windows Live Custom Domains Web site in addition to tasks that are not available on the Web site, such as importing and exporting user lists.
+internet 
+Internet

@@ -1,0 +1,9 @@
+Broadband Map for New Zealand
+New Zealand National Broadband Map
+The National Broadband Map provides web services for accessing demand data outside of the mapping application as well as being an open source application. The API uses both REST and SOAP protocols and responses can be formatted as XML, JSON, CSV and KML.
+
+The National Broadband Map exists to comprehensively map New Zealand&#039;s Broadband landscape and provide information and tools to aid in demand aggregation and infrastructure planning. The National Broadband Map can be accessed and consumed in a number of ways from the visual representation of Broadband supply and demand to raw access to the underlying data.
+
+Network suppliers around New Zealand voluntarily provide the State Services Commission with their network coverage. This is generally provided in the file format of their GIS (geographic information system) package and uploaded to the National Broadband Map. Networks around New Zealand map their coverage for a variety of reasons with this normally being carried out using specialist GIS packages, By using the standard file formats of these packages the National Broadband Map removes the need to remap or re-estimate network coverage. 
+internet mapping newzealand 
+Internet

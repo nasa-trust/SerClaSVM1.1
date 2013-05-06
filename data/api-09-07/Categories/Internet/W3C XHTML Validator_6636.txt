@@ -1,0 +1,14 @@
+check 2
+document 2
+format 2
+free 1
+html 3
+internet 2
+markup 1
+protocol 1
+response 1
+soap 1
+syntax 1
+validation 1
+validity 1
+write 1

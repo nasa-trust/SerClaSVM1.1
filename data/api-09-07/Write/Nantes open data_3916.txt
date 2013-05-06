@@ -1,0 +1,5 @@
+Nantes, France city data
+Nantes open data
+Nantes open data is the government data portal for the city of Nantes, France. Available data includes: schedules and routes of local transit; real-time parking lot availability; real-time traffic; hours of local cultural facilities; lists of public facilities (by theme); environmental data; names of children born in Nantes (by year); and more. A RESTful API is available to access much of this data. Responses are returned in XML and JSON. The site and documentation are in French.
+amenities Data datasets france government 
+Government

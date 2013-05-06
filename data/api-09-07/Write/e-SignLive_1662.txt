@@ -1,0 +1,7 @@
+Electronic signature service
+e-SignLive
+e-SignLive provides a comprehensive set of electronic signature methods that clients can use to secure their online operations and interactions with third parties. Their services can be used to secure and maintain a web portal, allowing users to sign in anywhere from any web-enabled device without installing software. Log files and watermarks help to secure other digital assets such as digital contracts or documents.
+
+e-SignLive offers a web service API via REST that allows for third party integration of their electronic signature and security capabilities. A variety of file types can be secured using their API, including .DOC and .PDF, which can be accessed and verified using variety of sign-in methods. At a minimum, the API is secured with a username and password, though other forms of authentication are available based on user needs.
+esignature security 
+Security

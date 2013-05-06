@@ -1,0 +1,5 @@
+Online notepad
+Shrib
+Shrib is an online notepad that lets users store and retrieve notes. Users can also designate their notes to be confidential so that they may only be accessed by those with permission. The Shrib API provides the same functionality in a programmatic manner. Developers can use the API to integrate their services with Shrib. The API uses HTTP calls and responses are in plain text.
+notes office tools 
+Tools

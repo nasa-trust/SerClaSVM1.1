@@ -1,0 +1,5 @@
+Books database
+ISBN db
+From their site: ISBNdb.com&#039;s remote access application programming interface (API) is designed to allow other websites and standalone applications use the vast collection of data collected by ISBNdb.com since 2003. As of this writing, in July 2005, the data includes nearly 1,800,000 books almost 3,000,000 library records close to a million subjects hundreds of thousands of author and publisher records parsed out of library data more than 10,000,000 records of actual and historic prices. Using the API you can look up information by keywords, by ISBN, by authors or publishers, etc. In most situations the API is fast enough to be used in interactive applications.
+search 
+Reference

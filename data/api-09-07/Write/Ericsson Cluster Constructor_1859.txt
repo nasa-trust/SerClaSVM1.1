@@ -1,0 +1,5 @@
+Service for Finding Data Clusters in Submitted Datasets
+Ericsson Cluster Constructor
+The Ericcson Cluster Constructor API is a RESTful API that lets users upload a dataset and calculate clusters in the data. These clusters are then available for further analysis. The dataset is uploaded as a comma separated value (csv) file and data is returned in either JSON or XML format.
+tools 
+Tools

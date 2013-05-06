@@ -1,0 +1,16 @@
+city 1
+department 1
+food 2
+format 1
+get 1
+health 5
+inspection 2
+interface 1
+over 1
+pizza 2
+rat 2
+real 1
+restaurant 5
+result 2
+return 1
+scores 3

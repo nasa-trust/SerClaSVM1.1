@@ -1,0 +1,5 @@
+Online relationship management service
+Nimble
+Nimble is a online relationship management product. With it users can connect all their contacts, calendars, communications and social conversations. Nimble&#039;s API enables users to extend the Nimble platform functionality by deploying custom applications, creating widgets, and leverage Nimble&#039;s data in external applications. The API lets users integrate their application with all aspects of Nimble, from the contacts page to messages and the stream. The API is currently in beta and documentation is not available.
+CRM enterprise sxsw11 
+Enterprise

@@ -1,0 +1,17 @@
+book 1
+covering 1
+improve 1
+japan 1
+japanese 4
+metadata 2
+method 1
+pc 2
+phone 1
+proprietary 1
+reader 1
+require 1
+search 1
+sell 1
+shopping 1
+title 1
+upgrade 1

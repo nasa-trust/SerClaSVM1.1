@@ -1,0 +1,7 @@
+Distributed user reviews service
+Notches
+Notches is a free, open, distributed platform for reviews. 
+
+The platform handles normalization, entity aliasing, summarization, personalization, spam prevention, gaming detection, and recommendations. Notches helps end the fragmentation of review systems and can handle pretty much any type of review: music, products, services, restaurants, people, and more. 
+deadpool LocalSearch Products recommendations reviews social 
+Recommendations

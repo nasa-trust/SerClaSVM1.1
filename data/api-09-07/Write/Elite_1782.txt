@@ -1,0 +1,5 @@
+Legal practice management service
+Elite
+Elite offers legal practice management software. The software automates accounting operations and gives access to critical financial and operational data. In addition to practice management, the software also provides performance monitoring tools. The Elite XML API allows third party systems to integrate with the software allowing sharing of data between the two systems. Public documentation is not available for the API.
+enterprise law management office 
+Office

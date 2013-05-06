@@ -1,0 +1,15 @@
+campaign 1
+cart 1
+cm 1
+commerce 1
+create 1
+customer 1
+datum 1
+distribute 1
+email 4
+interact 1
+manage 1
+marketing 3
+shopping 1
+specialize 1
+way 1

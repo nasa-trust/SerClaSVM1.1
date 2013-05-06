@@ -1,0 +1,5 @@
+Transactional email service
+Jango SMTP Event
+Jango SMTP is a transactional email delivery service that adds tracking and authentication to email. Using the service allows for open tracking, click tracking, DomainKeys/DKIM signing, grouping, logging, and extreme email delivery. The Event API can make an HTTP call to any web service or web page upon a specified event without requiring polling. Events include sending and opening of email, a click of a URL in an email, an unsubscribe or bounce and compalints.
+email notification 
+Email

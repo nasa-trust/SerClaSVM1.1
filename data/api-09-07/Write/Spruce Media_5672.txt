@@ -1,0 +1,5 @@
+Social advertising platform
+Spruce Media
+SpruceMedia is a social advertising platform allowing users to manage their advertisments on Facebook. SpruceMedia offers an API that allows advertisers to provide scalable performance advertising on Facebook to their customers or within their product. The API provides functionality across areas including advertisers, ads, campaigns, groups and specs. It uses RESTful calls and responses are formatted in JSON.
+advertising social 
+Advertising

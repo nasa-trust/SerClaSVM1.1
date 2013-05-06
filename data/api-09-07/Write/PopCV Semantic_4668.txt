@@ -1,0 +1,5 @@
+application processing service
+PopCV Semantic
+The Semantic Engine Systems API is designed to help those in charge of hiring better sort through applications. The engine can access your inbox, scan through the attached resumes and CVs, and pull out the candidates that best match the open positions within your company. Sign up and API key required, commercial use must be applied for. 
+jobs recruiting semantic 
+Job Search

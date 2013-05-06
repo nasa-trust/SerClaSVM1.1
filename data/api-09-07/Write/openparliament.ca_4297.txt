@@ -1,0 +1,5 @@
+Canadian Parliament Hansards
+openparliament.ca
+openparliament.ca is an independent, non-governmental website aimed at making Canadian government more easily accessible.  The site provides information about what is being discussed/debated in the House of Commons, recent bills and votes, and other news in and about Parliament. A RESTful API is available for accessing Hansards of the House. Responses are returned in JSON or XML format. 
+canada government voting 
+Government

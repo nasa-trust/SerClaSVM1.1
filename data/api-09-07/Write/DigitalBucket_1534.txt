@@ -1,0 +1,5 @@
+Online storage service
+DigitalBucket
+From their site: DigitalBucket.net provides a web interface that can be used to store and retrieve data, at any time, from anywhere on the web. 
+storage 
+Storage

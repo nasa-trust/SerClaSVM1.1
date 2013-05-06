@@ -1,0 +1,5 @@
+Protein alignment and binding site detection service
+ProBiS
+ProBiS is a service that allows users to find binding site similarities and local pairwise alignments for any PDB (RCSB Protein Data Bank) protein structure. ProBiS contains records of over 30,000 structures against which proteins input by the user can be compared. The RESTful ProBiS API allows users to retrieve information in XML, JSON, or PDB format.
+bioinformatics science 
+Science

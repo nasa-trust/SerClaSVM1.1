@@ -1,0 +1,7 @@
+Intuit hosted payments service
+Intuit QuickBooks Online
+Intuit Hosted PayPage is a payment form that can be integrated into a software application. PayPage is optimized for merchant-facing or customer-facing applications. The PayPage is often used for eCommerce applications where the user wants to accept direct payments from their customers.
+
+The API consists of getting a transaction ticket and operation id, redirecting the merchant to the PayPage terminal, querying for transaction status, and optionally processing transaction results sent from PayPage to the user&#039;s website. It uses RESTful calls and responses are name value pairs.
+accounting enterprise office 
+Enterprise

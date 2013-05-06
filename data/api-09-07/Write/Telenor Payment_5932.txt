@@ -1,0 +1,5 @@
+Content Access Billing Service
+Telenor Payment
+Telenor provides a SOAP-based web API that allows CPA content providers to bill mobile clients for accessing/downloading listed content (games, ringtones, music, wallpaper, etc.). The application using the API must follow certain rules dealing with order processing, refunds, and billing methods for streaming content in order to access the API.
+payment telephony 
+Payment

@@ -1,0 +1,7 @@
+Online fashion community
+Chictopia
+Chictopia is an online fashion blogging community. With over 200,000 registered users Chictopia is a leading online fashion network offering members fashion inspiration.
+
+Chictopia offers partners a free API that lets them pull images from the site and created branded style galleries. Users can access these images through JSON data feeds. Public documentation is not available. 
+blogging Fashion social 
+Social

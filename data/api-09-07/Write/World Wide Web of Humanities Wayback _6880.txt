@@ -1,0 +1,7 @@
+Archived internet research service
+World Wide Web of Humanities Wayback 
+The WWWoH project is an attempt to establish a possible framework for e-Humanities (also called Digital Humanities) research using available open source tools and technologies and archived web content.
+
+The XML API uses a RESTful interface to give users access to the indexes generated to support Wayback services (i.e. the ability to browse back through time) for these collections.
+humanities reference 
+Reference

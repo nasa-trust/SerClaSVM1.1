@@ -1,0 +1,5 @@
+Visual data reader for videos
+Veenome
+Veenome is a unique video data service provider. Their product intakes video and puts out descriptive metadata about it. Objects, brands, faces, and more, are recognized by Veenome and turned into tags to describe the video. The tags are machine-readable, time-stamped for their location in the video, and can be used for anything from SEO and categorization to moderation and filtering. Veenome???s core product is a RESTful API that exposes the service???s entire functionality. 	
+advertising Data metadata video 
+Video

@@ -1,0 +1,5 @@
+Biomedical search engine
+novoseek
+The novo|seek service is a biomedical search engine for searching biomedical journals and other sources of published biomedical knowledge. Search results are broken down by concepts, such as pharmacology, genes and diseases. The novo|seek API will allow you to enrich your content with free access to the search capabilities. Search documents and concepts, basic or advanced.
+deadpool science search 
+Search

@@ -1,0 +1,5 @@
+Online learning and instruction platform
+Khan Academy
+Khan Academy is a non-profit educational organization that provides a free, online education to anyone, anywhere. The site contains over 3,200 online videos covering subjects from finance and physics to math and art. The API gives developers access to nearly all of the data stored on the site categorized by Playlists. Within each playlist, users can discover videos or use the playlists to get information about the exercises for each. The API also returns information about badges awarded via the exercise dashboard. The API methods are split into topics, videos, exercises, badges and user data. The API uses RESTful calls and responses are formatted in JSON.
+education internet video 
+Education

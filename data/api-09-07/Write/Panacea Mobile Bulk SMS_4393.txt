@@ -1,0 +1,5 @@
+Bulk SMS messaging service
+Panacea Mobile Bulk SMS
+The Panacea Mobile Bulk API enables users to interface directly with an application or web-services in order to communicate with customers. Panacea Mobile is a mobile services company servicing an umbrella of requirements. They specialize in the entire mobile value chain, from the development of software through to the delivery of bulk SMS via an advanced SMS Gateway. Users can access HTTP, SMPP & SMTP APIs. With Panacea Mobile&#039;s SMS Gateway, users can send high volume 2-way SMS to any destination in the world. In addition to interfacing with applications users can also set delivery reports. 
+Global messaging mobile sms telephony 
+Messaging

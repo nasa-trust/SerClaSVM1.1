@@ -1,0 +1,5 @@
+Authentication services
+TokBox
+From their site: You can use the API to integrate TokBox into your site and auto-register/auto-authenticate your users. This way, you can seamlessly offer your users an option to chat with each other live or send each other video messages. There are two ways to integrate TokBox on websites: embedding the widget and using the API. While embedding the widget is a simple way of using a TokBox account on any webpage (like a personal webpage or your favorite social network profile page), the API is designed for developers of other websites, so their users can register and use TokBox on that website.
+authentication deadpool identity security social 
+Security

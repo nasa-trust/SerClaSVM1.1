@@ -1,0 +1,7 @@
+Hosted customer-service platform
+Comm100
+The service provides an open-source, hosted platform for customer interactions. Communication options include real-time chat, email, phone call, and bulk email marketing. Applications can also use the service to implement a customer-facing knowledge base, online, forum and self-service help function. 
+
+API methods support set-up and management of a company account and configuration of customer-service tools. Methods give control of customer-facing content, designation of sub-sites, and related functions.
+customer-service enterprise 
+Enterprise

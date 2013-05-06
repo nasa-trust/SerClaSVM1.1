@@ -1,0 +1,5 @@
+Data management for schools
+Clever
+Clever is an education-oriented data organization tool. Intended for developers of software developers and school administration, Clever provides data processing, organizing, integration, and security for student information. Administrators and teachers can upload student information to Clever once and share that information with other enabled systems and apps. The Clever API exposes the Clever???s information retrieval functionality. It is a RESTful API that returns JSON-encoded data. 
+Data education school telephony tools 
+Education

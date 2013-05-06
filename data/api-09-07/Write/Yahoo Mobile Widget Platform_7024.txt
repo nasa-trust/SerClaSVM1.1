@@ -1,0 +1,5 @@
+Mobile widget platform
+Yahoo Mobile Widget Platform
+From their site: Anyone will be able to write a Snippet or Widget and deploy it across hundreds of phones, potentially reaching millions of customers you never could before. We take care of the hard part and let you focus on what you do best: content. The new Blueprint language (currently in preview form) allows developers to start building mobile widgets easily and quickly using straightforward XML. You can also build a simple mobile widget with RSS Instead of Blueprint if you like.
+deadpool mobile widgets 
+Widgets

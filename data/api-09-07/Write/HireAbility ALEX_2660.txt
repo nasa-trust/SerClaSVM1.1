@@ -1,0 +1,7 @@
+R??sum?? document processing and formatting service
+HireAbility ALEX
+The service provides a processing routing for r??sum?? documents submitted by job seekers, structuring the content for integration with HR and recruiting applications. It extracts unstructured text and breaks it down to standard fields for processing and tracking job applicants. Without additional human effort to copy and paste into database forms, this processing enables both automated data capture and advanced search against selected fields.
+
+API methods support parsing of text from submitted document  files or from URLs supplied by applicants. Methods also allow application status checks and retrieval of job seeker records based on submitted criteria.
+enterprise HR jobs resume 
+Enterprise

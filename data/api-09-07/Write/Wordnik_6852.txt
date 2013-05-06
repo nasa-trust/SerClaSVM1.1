@@ -1,0 +1,5 @@
+Dictionary, spelling, and other word reference
+Wordnik
+Wordnik APIs let you request definitions from the The Century Dictionary, frequency data reflecting occurrences in our corpus, example sentences for words, spelling suggestions, word autocompletion, and words of the day, and more on the way.
+Dictionary reference spelling 
+Reference

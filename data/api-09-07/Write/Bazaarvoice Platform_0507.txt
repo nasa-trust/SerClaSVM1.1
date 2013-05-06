@@ -1,0 +1,7 @@
+Social marketing platform
+Bazaarvoice Platform
+Bazaarvoice is a social marketing company that helps clients to integrate social data across their entire organization. The Bazaarvoice Platform lets businesses capture and analyze customer conversations to help drive campaigns.
+
+The Bazaarvoice Platform API allows developers to integrate the functionality of the Platform, including customer reviews, in their own web sites and application. The API uses RESTful calls and responses are formated in XML and JSON. Full documentation requires registration.
+marketing social 
+Social

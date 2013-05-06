@@ -1,0 +1,5 @@
+Book reading social services
+bkkeepr
+Use the bkkeepr API to get a reader&#039;s reading data and get the reading data for a book. Some ideas for developer projects are to see who&#039;s reading similar things, locate most-read books, create charts of book stats, who reads the most pages, and who&#039;s reading this book now widgets. Bkkeepr, which is meant to be a Last.fm-like service for books so that you can track your reading and bookmark on the go, is a project from booktwo.org, whose mission is, in part, to stimulate and debate the future of literature.
+bookmarks books social 
+Social

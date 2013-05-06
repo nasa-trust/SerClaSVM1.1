@@ -1,0 +1,7 @@
+Photo hosting service
+PicZasso
+PicZasso is a free photo hosting site that allows users to upload images for hosting and sharing. Users can also search all photo uploads.
+
+The PicZasso API allows developers to add PicZasso&#039;s photo hosting services to other websites. This allows users to upload photos on other sites using PicZasso&#039;s functionality.
+photo 
+Photos

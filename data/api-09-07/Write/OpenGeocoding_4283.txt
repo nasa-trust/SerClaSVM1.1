@@ -1,0 +1,7 @@
+Worldwide crowdsourced geocoded address service
+OpenGeocoding
+The service intends to accumulate address and geocoding information for locations worldwide via a participatory contributions by users. It crowdsources geocoded address data, such as postal addresses matched to location coordinates, then it gives web-based access to the repository for applications worldwide, focused especially on serving developing countries. 
+
+API methods support retrieval of data upon request specifying, country code, province, city, district, and street. Data inputs are invited via bulk upload.
+address geocoding mapping 
+Mapping

@@ -1,0 +1,5 @@
+Hosted database accessible from JavaScript
+NextDB 
+NextDB is a hosted database accessible from JavaScript. Unlike a traditional database, NextDB does not require installation. A NextDB account lets you can create as many databases as you like. Entire database apps can be written in HTML and JavaScript.
+database 
+Database

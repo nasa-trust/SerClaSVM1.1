@@ -1,0 +1,7 @@
+Parking information application
+ParkingInMotion
+ParkingInMotion is an application that provides parking data and information in real-time. ParkingInMotion covers parking information in around 500 cities in the US, Canada, and Europe. Parking information includes locations, rates, hours of operation, and entrance points of parking locations.
+
+The ParkingInMotion API allows developers to access and integrate the data and functionality of ParkingInMotion with other applications. Public documentation is not available; interested developers should email sales@parkinginmotion.com for API information and access.
+mapping parking places transportation 
+Transportation

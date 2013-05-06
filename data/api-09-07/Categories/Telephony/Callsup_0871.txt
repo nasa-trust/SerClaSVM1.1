@@ -1,0 +1,17 @@
+call 3
+customer 1
+detect 1
+discount 2
+documentation 1
+functionality 1
+give 1
+given 1
+international 1
+internet 1
+landline 1
+mobile 3
+mode 1
+phone 1
+public 1
+rate 1
+telephony 2

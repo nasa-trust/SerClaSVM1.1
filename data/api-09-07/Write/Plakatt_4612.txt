@@ -1,0 +1,5 @@
+Searchable Events Database
+Plakatt
+Plakatt is a website built around events. Users can view events, add tags, comments, pictures or videos, or create new events. Events can be browsed by city or by tags. The Plakatt API allows developers to integrate the Plakatt events database into their own sites.
+events 
+Events

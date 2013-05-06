@@ -1,0 +1,5 @@
+Online video transcoding service
+Zencoder
+Web-based encoding software as a service, designed to quickly convert any video into web and mobile compatible formats. The platform can perform fast encoding and can handle unusual or corrupt files that some other services cannot handle. Developers can use the service with a REST based API, with JSON as the data structure. The API is tightly bound to the Amazon S3 service, with some of the API functions requiring an S3 bucket to save the transcoded videos.
+Encoding video 
+Video

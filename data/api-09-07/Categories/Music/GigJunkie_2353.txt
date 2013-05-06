@@ -1,0 +1,17 @@
+artist 1
+concert 1
+date 1
+datum 1
+event 3
+filter 1
+genre 1
+integrate 1
+location 1
+music 3
+query 2
+range 2
+return 1
+search 1
+simple 1
+so 1
+specific 1

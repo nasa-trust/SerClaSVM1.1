@@ -1,0 +1,5 @@
+Satellite data purchasing service
+NASA Moderate Resolution Imaging Spectroradiometer
+MODIS (or Moderate Resolution Imaging Spectroradiometer) is a key data-gathering instrument aboard the Terra and Aqua satellites, which view Earth&#039;s entire surface every 1 to 2 days. From this vantage point, MODIS generates imagery of Earth in 36 spectral bands. This imagery is available for public purchase online. The MODAPS API allows users to search, order, and download certain types of MODIS imagery through a programmable interface.
+astronomy Earth science 
+Science

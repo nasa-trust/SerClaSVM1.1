@@ -1,0 +1,13 @@
+article 1
+content 5
+documentation 1
+example 1
+http 2
+image 1
+integrate 1
+library 3
+own 1
+reference 3
+store 1
+system 1
+technical 2

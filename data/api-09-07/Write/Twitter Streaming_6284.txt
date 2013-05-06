@@ -1,0 +1,5 @@
+Public Twitter Stream
+Twitter Streaming
+From Website: The Twitter Streaming API allows high-throughput near-realtime access to various subsets of public and protected Twitter data. The Streaming API contains public statuses from all users, filtered in various ways: By userid, by keyword, by random sampling, by geographic location, etc. User Streams provides Public statuses from all users, filtered in various ways: By userid, by keyword, by random sampling, by geographic location, etc.
+realtime social 
+Social

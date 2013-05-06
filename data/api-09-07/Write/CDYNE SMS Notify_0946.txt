@@ -1,0 +1,11 @@
+SMS messaging service
+CDYNE SMS Notify
+Utilize this XML Web Service to send immediate or scheduled SMS messages one at a time or thousands simultaneously to any phone number in the United States and Canada. 
+
+CDYNE SMS Notify provides any company an automated method to send and receive single or bulk SMS text messages. This service is currently being used by universities, schools, delivery companies, monitoring applications, and many others. SMS messages are sent instantly and return the status of every message sent. 
+
+This service does not require a cell phone carrier name, only the message and phone number to send to. For every message sent, users will receive a unique identification number that can then be used to query delivery status and message responses as needed or automatically. The service can be programmed to retrieve replies from messages sent and post them back to an application.
+
+The SimpleSMSSend operation is ideal for sending out single basic notifications while the AdvancedSMSSend operation is better used for scheduling send time and using an assigned dedicated long code. The API uses SOAP protocol and responses are formatted in XML.
+Global messaging sms telephony usa 
+Messaging

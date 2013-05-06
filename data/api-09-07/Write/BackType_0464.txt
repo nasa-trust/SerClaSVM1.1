@@ -1,0 +1,5 @@
+Social site comment repository services
+BackType
+BackType is a service that lets you find, follow, and share comments from across the web. The BackType API allows you to develop applications that leverage their dataset and interact with their website. The way that BackType works is that when a Web user fills out the Website or URL box in a comment form on someone&#039;s blog, BackType assigns it to that person. Then, that commenter has a BackType profile that includes the comments they&#039;ve posted on the Web.
+blog deadpool internet social 
+Blogging

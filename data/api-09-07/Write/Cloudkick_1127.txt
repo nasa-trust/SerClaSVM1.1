@@ -1,0 +1,5 @@
+Cloud server monitoring tool
+Cloudkick
+Cloudkick is a cloud monitoring that helps system admins manage cloud servers. Cloudkick enables a company to manage internally hosted servers and run the Cloudkick&#039;s agent and report into the same console as your cloud computing infrastructure from AWS, RackSpace, SliceHost and others.
+cloud internet monitoring 
+Internet

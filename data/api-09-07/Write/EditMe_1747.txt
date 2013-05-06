@@ -1,0 +1,7 @@
+Collaborative website and wiki service
+EditMe
+EditMe is a wiki website service. EditMe specializes in collaborative, wiki websites that allow users to collaborate, create, edit, and share web content and documents. 
+
+The EditMe API allows developers to integrate and access EditMe&#039;s functionality. Some examples of the API methods include accessing and editing pages, email groups, attachments, users, and account information.  
+sbweb wiki 
+Wiki

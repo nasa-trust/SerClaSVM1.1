@@ -1,0 +1,7 @@
+Linked data/RDF format validator service
+Vapour
+The service validates RDF/XML found at a URL specified in the request and confirms that the data is correctly formatted and compliant with best practices. A public web service allows manual submission of a URL, but it is open source and available for local install under the license from the W3C or via public API.
+
+API methods support submission of a URL where a file in RDF/XML format is available, and returned data provide a file specifying the results of format validation tests. Requests can optionally specify output format as RDF/XML (the default) or XML.
+internet rdf semantic validation 
+Internet

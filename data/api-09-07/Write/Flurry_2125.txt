@@ -1,0 +1,5 @@
+Mobile analytics platform
+Flurry
+Flurry is a mobile apps analytics platform serving over 60,000 companies in over 150,000 applications across iOS, Android, BlackBerry, Windows Phone, JavaME and HTML5 platforms. Flurry provides a set of APIs that offer programmatic access to the data stored on the platform. With the APIs, users can request a list of the top applications by a given metric, request information such as name, version, apiKey, platform, and creation date of one or all of a company&#039;s applications and request information about events. The API uses RESTful calls and responses are formatted in XML and JSON.
+analytics mobile telephony tracking 
+Telephony

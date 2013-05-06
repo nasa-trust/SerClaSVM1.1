@@ -1,0 +1,5 @@
+Dummy text generator
+RandomText.me
+RandomText is a tool designers and developers can use to grab dummy text in either Lorem Ipsum or Giberish format. The API lets developers integrate random text generation into a CMS. The API offers parameters that let the user choose the type and number of elements and number of words. It uses RESTful calls and responses are formatted in JSON.
+text tools webdesign 
+Tools

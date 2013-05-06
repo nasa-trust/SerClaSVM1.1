@@ -1,0 +1,5 @@
+Issue tracking app
+Bugly
+Bugly is an issue tracking service with emphasized user experience and integration components. Bugly provides SCM integration, issue dependencies, project permissions, and much more. Their RESTful API is still in Beta. It is inspired by the Stripe API and responds in JSON. Its pricing is based on users??? team need and has an unlimited 30-day free trial.
+project-management tools tracking 
+Project Management

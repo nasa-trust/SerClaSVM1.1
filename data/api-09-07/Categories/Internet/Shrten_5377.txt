@@ -1,0 +1,10 @@
+advertising 1
+create 2
+fly 1
+internet 2
+requirement 1
+short 2
+shortener 1
+shortening 1
+type 1
+url 4

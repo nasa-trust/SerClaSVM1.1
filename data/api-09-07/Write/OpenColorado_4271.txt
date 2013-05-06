@@ -1,0 +1,7 @@
+Colorado Open Data Catalog
+OpenColorado
+OpenColorado is working to make public data available and accessible to the citizens of Colorado from cities, counties, school districts, and special districts across the state. 
+
+The OpenColorado Data Catalog and the catalog API provide access to a wealth of government data becoming available from participating jurisdictions.
+colorado Data government open 
+Government

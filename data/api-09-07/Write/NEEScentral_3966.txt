@@ -1,0 +1,5 @@
+Earthquake engineering services
+NEEScentral
+The NEESit API lets earthquake engineers organize and share their data, participate in experiments and more. Use methods to access all data in NEEScentral, including CRUD capabilities through the API and file uploading. Located at the San Diego Supercomputer Center and supported by the National Science Foundation, the NEES Cyberinfrastructure Center (NEESit) seeks to give IT tools and  infrastructure so that earthquake  engineers can remotely engage in  experiments, do simulations, organize and share data, and collaborate.
+earthquakes research science 
+Science

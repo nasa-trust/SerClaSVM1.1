@@ -1,0 +1,5 @@
+Language identification, translation, and processing services
+RACAI Linguistic
+The Research Institute for Artificial Intelligence provides a handful of linguistics tools that perform tasks such as text processing, translating between English and Romanian, and identifying both modern and rare languages. These services are available as SOAP APIs. Although the website hosting these services is available in both Romanian and English, all API documentation is provided exclusively in English.
+ai romania semantic tools 
+Tools

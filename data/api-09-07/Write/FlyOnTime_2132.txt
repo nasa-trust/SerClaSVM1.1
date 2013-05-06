@@ -1,0 +1,7 @@
+Flight time and delay resource
+FlyOnTime
+FlyOnTime is a resource for travellers and others to search for and access flight times, delays, security line wait times, and weather information. FlyOnTime uses US Government data, as well as publicly supplied data, on flight information. Users can contribute information on security wait times via a mobile site or Twitter.
+
+The FlyOnTime API allows users to access data from FlyOnTime on airlines, flights, flight routes, and airports.  
+airport flight travel 
+Travel

@@ -1,0 +1,7 @@
+Near Real-Time Information on the Current Congress Session
+Sunlight Labs Real-time Congress
+Sunlight Labs provides a RESTful API for viewing near real-time data from the current congress and archived data from the previous congress (data stored in MongoDB, for archived congress information, see GovTrack.us or the NYT Congress API). The Real Time Congress API contains no original data; all data is taken automatically from other sources.
+
+This is version 1 of the API. New data and methods may be added to it without notification, but no data will be removed, and no backwards-incompatible changes will be made without seeking community input, or advancing to a version 2.
+congress government politics 
+Government

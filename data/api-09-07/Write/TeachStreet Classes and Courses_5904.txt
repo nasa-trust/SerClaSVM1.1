@@ -1,0 +1,5 @@
+Local and online class search and community
+TeachStreet Classes and Courses
+TeachStreet is home to the largest selection of local and online classes, lessons and workshops in more than 500 subject areas. The TeachStreet API empowers partners and web application creators to build upon this course data. The TeachStreet Classes & Courses API provides access to TeachStreet&#039;s class/course search engine, delivering local and online class listing data and metadata. It uses RESTful calls and responses are formatted in JSON.
+deadpool education social 
+Education

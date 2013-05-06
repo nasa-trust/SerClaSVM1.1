@@ -1,0 +1,5 @@
+Global interest rates and government bond yields
+XigniteRates
+From their site: This web service provides current and historical benchmark interest rates in the US, Europe, Canada and Asia. XigniteRates include Fed Funds, US & Canada Treasury rates, LIBOR, EURIBOR & other interbank rates, OTC swap rates, US mortgage rates and more.
+enterprise finance money 
+Financial

@@ -1,0 +1,5 @@
+Restaurant staffing and scheduling service
+Schedulefly
+The service provides hiring, staffing, and shift scheduling specifically intended for restaurants and similar establishments. It provides tools for managing job postings, listing current staff and employee categories, and assigning shifts to employees. 
+restaurant enterprise scheduling
+Enterprise

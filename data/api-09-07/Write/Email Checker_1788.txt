@@ -1,0 +1,8 @@
+Email address validation service
+Email Checker
+The service integrates real-time validation of email addresses into other web applications or sites. It prevents users from creating accounts using false emails to receive services without complying with site terms of service. It can also help to ensure delivery of e-commerce order notifications and validate contact data collected via non-web methods. 
+
+API methods support submission of email addresses provided by customers or collected in other ways, and return data provide the result of the validation check. 
+
+campaign email marketing messaging 
+Email

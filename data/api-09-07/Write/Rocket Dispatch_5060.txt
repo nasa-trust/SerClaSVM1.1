@@ -1,0 +1,5 @@
+Mass messaging service
+Rocket Dispatch
+Rocket Dispatch provides a mass messaging communications and business processing services. These services allow users to send messages by SMS, email, voice, or chat an audience ranging from one to many. Users can also receive feedback from their audience through Rocket Dispatch. Their API exposes the integrative functionality of their customizable mass messaging service. 
+communication email messaging sms usa 
+Messaging

@@ -1,0 +1,9 @@
+ability 1
+engine 1
+give 1
+query 1
+real 3
+search 4
+source 1
+stream 1
+variety 1

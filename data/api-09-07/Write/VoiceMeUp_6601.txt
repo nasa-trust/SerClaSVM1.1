@@ -1,0 +1,7 @@
+VoIP service provider
+VoiceMeUp
+VoiceMeUp is a VoIP service provider. VoiceMeUP internationally in most countries. Features include caller ID, voicemail, call forwarding, and call return.
+
+The VoiceMeUp API allows developers to integrate VoiceMeUp&#039;s functionality with other applications. Some example API methods include retrieving DID information, call information, and managing account information.
+telephony VoIP 
+Telephony

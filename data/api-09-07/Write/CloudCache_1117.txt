@@ -1,0 +1,5 @@
+Cache in the cloud
+CloudCache
+CloudCache offers an API with a RESTful interface to offer memcached-like cache in the cloud.  Using OAuth, it looks very much like S3 and features fast, transient key-value store.  The API offers open source language bindings for Ruby, Java, PHP, Python, and more to follow.
+cache cloud deadpool 
+Storage

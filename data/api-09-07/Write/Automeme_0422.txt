@@ -1,0 +1,5 @@
+Automated meme generator
+Automeme
+Automeme is an automated meme generator, churning out random nonsense on demand. The API lets users add memes to their web site or application. It uses RESTful calls and responses are formatted in JSON, HTML and TXT.
+fun internet Random 
+Internet

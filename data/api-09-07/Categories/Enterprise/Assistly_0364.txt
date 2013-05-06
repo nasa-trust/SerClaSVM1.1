@@ -1,0 +1,14 @@
+case 2
+create 1
+customer 3
+desk 1
+enterprise 2
+helpdesk 2
+integrate 1
+interaction 1
+particular 1
+party 1
+retrieve 2
+system 1
+tool 1
+update 1

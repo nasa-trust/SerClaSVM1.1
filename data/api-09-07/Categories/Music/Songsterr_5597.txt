@@ -1,0 +1,9 @@
+artist 1
+get 1
+guitar 2
+music 2
+present 1
+search 2
+song 2
+tab 2
+tablature 1

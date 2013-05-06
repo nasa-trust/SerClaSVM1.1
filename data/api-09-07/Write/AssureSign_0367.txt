@@ -1,0 +1,5 @@
+Web-based E-signature service
+AssureSign
+AssureSign offers its DocumentNOWï¿?and DocumentTRAKï¿?API tools, which allow users to integrate with existing environments, including Microsoft applications. Developers can use the AssureSign DocumentTRAKï¿?API to instantaneously transmit executed documents into existing systems. DocumentNOWï¿?and DocumentTRAKï¿?provide users with several implementation options, including seamless integration to existing business applications, such as salesforce, sharepoint and oracle.
+enterprise esignature
+Enterprise

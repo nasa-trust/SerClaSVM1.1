@@ -1,0 +1,7 @@
+Commodities exchange resource service and platform
+Exchangery Trading
+The Exchangery is a commodities trading resource. The Exchangery offers users resources for commodity trading, such as technology, infrastructure, regulatory and clearing relationships, and online platforms so exchanges and commodities have a personalized online presence.
+
+The Exchangery API allows developers to access the functionality and data within the Exchangery. Some example API methods include adding and editing information on trades, products, accounts, and screens.
+finance trading 
+Financial

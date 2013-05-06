@@ -1,0 +1,7 @@
+Health care practitioner information service
+National Practitioner Data Bank
+The service provides a clearinghouse of confidential information about the professional credentials of doctors, nurses, and other health care providers. The U.S.-government repository was created by Congress in 1986 as a single source of reports about professional competency in health care, including licensure actions taken against all health care practitioners and health care entities and adverse actions by peer organizations. Reports are accepted from qualified organizations and made available to those reviewing medical credentials.
+
+API methods support submitting and retrieving competency reports on individual practitioners or facilities.  Related functions such as user account and password management are also supported.
+medical ratings reputation 
+Medical

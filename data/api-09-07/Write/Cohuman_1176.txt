@@ -1,0 +1,5 @@
+Project task coordination tool
+Cohuman
+Cohuman is a task-centric, team productivity tool that helps users coordinate and plan their daily tasks to effectively complete projects on time. The Cohuman API allows anyone to develop applications for the web, mobile devices and the desktop. With the API users can make a new task, assign the task to a person or to a team of people, and add content to the task by starting a conversation thread, attaching a file, or scheduling a due date. The API uses RESTful protocol and responses are formatted in XML and JSON.
+project-management tasks 
+Project Management

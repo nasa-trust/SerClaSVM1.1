@@ -1,0 +1,5 @@
+Email delivery services
+SmartSource
+SmartSource is a proivder of e-marketing applications and email delivery services including development, hosting and management. The SmartSource API allows developers to integrate email delivery services into their existing applications. These services include dedicated domains and IP addresses, ISP relations management, broadcasting, status checks, and management of tracking, opt-outs and complaints. Full documentation is not publicly available.
+email hosting marketing 
+Email

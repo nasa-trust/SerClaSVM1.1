@@ -1,0 +1,5 @@
+Historical product sales data
+Amazon Historical Pricing
+The Amazon Historical Pricing web service gives developers programmatic access to over three years of actual sales data for books, music, videos, and DVDs (as sold by third-party sellers on Amazon.com). Sellers can use Amazon Historical Pricing to make informed decisions on pricing and purchasing. Provides access to three years of actual sales history from books, music, videos, and DVDs sold on Amazon.com. Returns the average, minimum, maximum, and median price for items with a sales history so users can examine pricing trends 
+deadpool shopping 
+Shopping

@@ -1,0 +1,13 @@
+avenue 2
+blogger 1
+business 1
+empire 2
+feature 1
+finance 2
+friend 1
+investment 1
+local 1
+share 1
+social 1
+stocks 1
+trade 1

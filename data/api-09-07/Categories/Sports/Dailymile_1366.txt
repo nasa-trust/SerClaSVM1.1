@@ -1,0 +1,14 @@
+compete 1
+create 1
+datum 1
+log 1
+map 1
+own 1
+platform 1
+post 1
+route 1
+runner 1
+social 3
+sport 2
+training 1
+workout 3

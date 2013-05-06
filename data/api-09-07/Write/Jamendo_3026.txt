@@ -1,0 +1,5 @@
+Access to a range of music related information
+Jamendo
+The Jamendo API offers users and developers access to Jamendo&#039;s database of albums, artists, tracks, playlists, reviews, and more. The API can be used through a RESTful protocol, and data is returned in formats ranging from XML to JSON to others.
+music 
+Music

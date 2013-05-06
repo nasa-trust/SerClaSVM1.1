@@ -1,0 +1,7 @@
+Tag search service
+Sapo Tags
+SAPO is a Portuguese Internet service provider whose main web site acts as a web portal featuring a directory of Portuguese sites. SAPO Services provides a large suite of web services and applications to developers worldwide. 
+
+The Tags API allows users to query the Sapo platform for items that are tagged. Users can search bookmarks, tags associated with a user, and collections. The API uses RESTful calls and returns RSS feeds.
+search tagging 
+Search

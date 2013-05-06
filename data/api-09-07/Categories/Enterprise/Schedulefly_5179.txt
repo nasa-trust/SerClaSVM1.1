@@ -1,0 +1,17 @@
+assigning 1
+category 1
+current 1
+employee 2
+enterprise 2
+establishment 1
+hire 1
+intend 1
+job 1
+listing 1
+manage 1
+posting 1
+restaurant 3
+scheduling 3
+shift 2
+staff 3
+tool 1

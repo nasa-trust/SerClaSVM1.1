@@ -1,0 +1,14 @@
+add 2
+announce 1
+arrival 1
+departure 1
+friend 2
+location 3
+mapping 1
+network 1
+place 1
+post 1
+remove 2
+sharing 1
+social 3
+times 1

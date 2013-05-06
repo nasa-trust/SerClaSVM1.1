@@ -1,0 +1,5 @@
+Online Flashcard Learning Service
+Ediscio
+Ediscio is an online flashcard learning website. Users can create their own flashcards and set a learning schedule. Ediscio also provides a RESTful API to allow developers to create their own websites and applications using Ediscio flashcards. Methods include downloading cardboxes, downloading all flashcards in a cardbox, and sending learning statistics back to Ediscio.
+education tools 
+Education

@@ -1,0 +1,9 @@
+display 1
+generator 1
+internet 1
+kind 1
+page 1
+photo 1
+require 1
+thumbnail 4
+tool 2

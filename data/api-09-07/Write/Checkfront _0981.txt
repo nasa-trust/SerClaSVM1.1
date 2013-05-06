@@ -1,0 +1,5 @@
+Booking management service
+Checkfront 
+Checkfront is a booking service that allows businesses to manage their schedule based inventories, centralize reservations, and process payments online. It can be used to manage accommodation, events, rentals and professional service bookings. 
+booking enterprise finance payment saas 
+Enterprise

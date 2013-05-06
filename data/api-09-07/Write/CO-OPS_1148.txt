@@ -1,0 +1,5 @@
+Coastal oceanographic information service
+CO-OPS
+As part of NOAA, CO-OPS (Center for Operational Oceanographic Products and Services) monitors, assesses, and distributes information relating to tides, currents, water levels, and other coastal oceanographic indicators. CO-OPS provides several SOAP APIs that return information on water levels, tides, currents, harmonics, station metadata, and meteorology for locations along the U.S. coast.
+ocean science 
+Science

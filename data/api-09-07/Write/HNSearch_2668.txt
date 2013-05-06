@@ -1,0 +1,5 @@
+Hacker News search engine
+HNSearch
+HNSearch is a search engine for Hacker News. HNSearch provides search functionality for the Hacker News community site. The HNSearch API enables developers to access HN data programatically via simple HTTP requests. All responses are formatted in JSON. 
+news unofficial hackernews search
+News

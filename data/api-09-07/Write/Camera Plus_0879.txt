@@ -1,0 +1,5 @@
+iPhone photo application
+Camera Plus
+Camera+ is an iPhone application that contains several features not included in the standard camera app. Camera+ offers a web sharing API that allows Twitter client authors to show user content within tweet feeds. It also lets users integrate their own Camera+ photos into their websites and applications. The API exposes data for thumbnails and picture metadata as well as user info. It uses RESTful calls and responses are formatted in XML, JSON and TXT.
+mobile photo sharing 
+Photos

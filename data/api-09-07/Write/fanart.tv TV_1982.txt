@@ -1,0 +1,7 @@
+TV and movie fan art repository
+fanart.tv TV
+fanart.tv is an online repository for art and images created about TV shows and movies by fans. Users can upload images and search for images by TV or movie title.
+
+The fanart.tv API allows developers to access the functionality and images of fanart.tv for integration with other applications. API methods available searching for images by types and names and retrieving information about the images. 
+art entertainment fan image movies television 
+Entertainment

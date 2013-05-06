@@ -1,0 +1,7 @@
+Real-time cloud environment monitoring service
+Boundary
+Boundary is a real-time monitoring service for cloud-hosted applications and sites. Boundary monitors and collects data on cloud-hosted applications and programs to identify high traffic and spot problems to be solved.
+
+The Boundary API allows developers to integrate Boundary functionality with other applications. Some example API methods include accessing data to build customized dashboards, manage data annotations, and create and manage monitoring metrics. Public documentation is not available; API access is available with Boundary account.
+cloud monitoring realtime utility 
+Utility

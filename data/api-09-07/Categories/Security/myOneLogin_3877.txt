@@ -1,0 +1,13 @@
+active 1
+assertion 1
+authentication 2
+exist 1
+generate 1
+internet 1
+part 1
+security 2
+session 1
+sign 1
+single 1
+soap 1
+utilize 1

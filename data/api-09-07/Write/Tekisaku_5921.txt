@@ -1,0 +1,7 @@
+Japanese vegetable crop establishment and pricing predictions
+Tekisaku
+The Tekisaku website aims to help Japanese farmers predict the unit prices and shipping costs for field-grown vegetables at the time of harvest. A service is also provided to estimate the probability of successfully raising a specific type of crop in a given region based on historical weather data. Currently, Tekisaku works with about 20 varieties of vegetables including cabbages, Chinese cabbages, radishes, onions, spinach, lettuce, carrots, and potatoes.
+
+Documentation is provided exclusively in Japanese.
+Agriculture food japan 
+Food

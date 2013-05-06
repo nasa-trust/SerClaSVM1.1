@@ -1,0 +1,5 @@
+Twitter advertising service
+140 Proof
+The 140 Proof API gives users programmatic access to the 140 Proof service. 140 Proof delivers 140 character brand messages postioned directly above the Twitter stream to targeted users based on their interests, using public Twitter data. The API uses RESTful calls and responses can be formatted in either XML, JSON and HTML.
+advertising Twitter 
+Advertising

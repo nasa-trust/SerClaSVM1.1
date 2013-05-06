@@ -1,0 +1,14 @@
+add 1
+book 5
+call 1
+community 1
+exchange 3
+get 1
+give 1
+line 1
+longer 1
+need 1
+output 1
+support 1
+url 1
+want 1

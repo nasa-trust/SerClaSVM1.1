@@ -1,0 +1,5 @@
+Geo enrichment platform
+GeoMaker
+GeoMaker allows users to find and display geographical information in texts, web sites and RSS feeds. Visitors can use GeoMaker to create microformats and maps from geographical information embedded in texts. The GeoMaker API lets developers integrate the service into their web sites or applications. It uses RESTful calls and responses are formatted in XML, JSON, CSV, HTML, KML and microformats.
+geolocation mapping 
+Mapping

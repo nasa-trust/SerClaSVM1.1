@@ -1,0 +1,5 @@
+Programming Project Management Service
+ScrumNinja
+ScrumNinja is a programming project management service that is designed to increase efficiency, increase productivity, and create greater transparency in highly complex projects. The ScrumNinja API allows access to all of the project data by using RESTful calls. The service uses a secure SSL connection and is available on a tiered pricing scale. 
+programming project-management real-time scrum tracking 
+Project Management

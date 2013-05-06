@@ -1,0 +1,6 @@
+create 1
+email 4
+marketing 3
+own 1
+soap 1
+tool 1

@@ -1,0 +1,5 @@
+Public transit data aggregation service
+TransiCast
+TransiCast is a public transportation data aggregation platform with a REST API that provides real-time feeds and service network data of North American transit agencies in a single, unified format. TransiCast offers API services for the San Francisco Bay, Los Angeles, Chicago, Portland, Toronto, Boston, Oahu and Washington D.C. metro areas, and more. Users can get stops, routes and next bus and train times. The API uses RESTful calls and responses are formatted in XML.
+mobile schedule transit 
+Transportation

@@ -1,0 +1,6 @@
+allegro 1
+auction 3
+marketplace 1
+poland 1
+polish 1
+shopping 2

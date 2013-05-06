@@ -1,0 +1,6 @@
+Automotive reviews and news
+High Gear Media
+The High Gear Media API is for any developer that want to build Car/Automotive apps. High Gear Media is a vertical publishing company that publishes premium automotive content through websites targeting key buyer and vehicle segments. The API lets users load feeds from the many automotive sites on High Gear Media. The API uses RESTful protocol and responses are formatted in XML and JSON.
+
+cars news reviews 
+News

@@ -1,0 +1,7 @@
+Fantasy sports platform
+CBSSports.com
+CBSSports.com offers a fantasy sports platform for users to create and manage fantasy teams for football, baseball, and other sports. Users can create and join leagues for competition, draft players, make player transactions through the season, and compete in playoffs.
+
+The CBSSports.com API allows developers to access and integrate the data and functionality of CBSSports.com with other applications and to create new applications which developers can offer to the CBSSports.com community. Some example API methods include returning draft information and status, player information, team information, and scores and standings.
+fantasy sports 
+Sports

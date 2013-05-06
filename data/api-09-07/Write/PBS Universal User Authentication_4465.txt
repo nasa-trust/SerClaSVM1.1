@@ -1,0 +1,7 @@
+User authentication service
+PBS Universal User Authentication
+The PBS Universal User Authentication (UUA) API provides developers with a system that allows for secure creation and management of user accounts withing their application. Once user accounts are created, the PBS UUA API exposes RESTful methods for accessing and modifying information about authenticated users within the application.
+
+Access to this API is only granted on a case-by-case basis, and only where other methods of accessing and modifying user information will not work - for example on new platforms or devices which do not support standards-compliant user services.
+authentication internet user 
+Internet

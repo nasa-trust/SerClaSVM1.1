@@ -1,0 +1,5 @@
+URL shortening tool
+Shorty
+Shorty is a tool for creating shorter, human- readable links from long URLs. The Shorty API is a URL shortener with a twist. Instead of generating junk characters, it uses English words to make the URLs memorable and repeatable in addition to short. The API provides programmatic access to the URL shortener and the ability to specify a word (if available). Additionally, when links are created with Shorty the link remains working and available so long as your domain is working. The API uses RESTful calls and responses are formatted JSON.
+internet url-shortener utility 
+Utility

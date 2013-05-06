@@ -1,0 +1,7 @@
+Discount and reward display service
+Edtuit GeoPerks
+GeoPerks is an API that allows developers to access the functionality and data of GeoPerks location-aware reward and deal application. GeoPerks can be integrated with other applications and used to create other applications to display and list discounts and rewards by location of user memberships from companies, organizations, and other members-only services. 
+
+
+deals discounts retail rewards shopping 
+Shopping

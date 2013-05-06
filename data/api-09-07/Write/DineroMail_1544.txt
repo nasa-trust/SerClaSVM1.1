@@ -1,0 +1,7 @@
+Latin American payment processing service
+DineroMail
+The service provides payment processing for e-commerce serving Mexico, Argentina, Brazil, and Chile. Payments are denominated in any of the four local currencies. Implementation options include a white-label page to be formatted to match the base application, an iframe to embed the payment function in a local HTML page, or full API integration.
+
+API methods support submission of a payment request specifying currency, price, product purchased, purchaser, and any accompanying message. Payment is processed and a bar code image is returned to the requesting application.
+ecommerce payment shopping 
+Payment

@@ -1,0 +1,7 @@
+Email marketing service
+GetResponse
+GetResponse is a full-featured email marketing solution. Send newsletters, surveys and follow-ups. The GetResponse API lets you go further with advanced mail merge operations and a full set of methods to put GetResponse in your own interface and integrate with your in-house applications, databases, e-commerce shopping carts, CRM, and CMS systems.
+
+The GetResponse API provides access to accounts, campaigns, messages, contacts, links, blacklists and confirmations. Both requests and responses are formatted as JSON.
+email marketing sbweb 
+Email

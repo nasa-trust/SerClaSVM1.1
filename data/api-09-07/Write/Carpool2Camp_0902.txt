@@ -1,0 +1,7 @@
+Carpooling service for transportation to camp
+Carpool2Camp
+The service helps families to share transportation of campers to remote locations. Applications can embed the functions to collect starting locations and destinations, then match submissions with similar routes. Campers&#039; families can then coordinate trips between home and camp to reduce traffic, driving expense, and carbon emissions.
+
+API methods support embedding proprietary the PoolPass?? and Ride Match functionality into a camp web site. The API manages the database of ride requests as well as geolocation and ride-matching. Account admin functions provide records for a specific camp and create new user accounts. 
+camping carpool transportation 
+Transportation

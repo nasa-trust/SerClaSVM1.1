@@ -1,0 +1,13 @@
+Cloud services platform
+ThinkGrid
+ThinkGrid offers a platform that allows IT solution providers to move thier services to the cloud. With ThinkGrid, providers can create, bill and manage IT services from the cloud in real-time. ThinkGrid offers API that allow providers to integate their existing infrastructure or existing control panel with the ThinkGrid services. The API lets developers talk directly to some of ThinkGrid&#039;s systems via XML RPC. 
+
+Service APIs
+The service API provides integration with ThinkGrid to provision items such as Hosted Exchange, Dynamic Servers or Desktops with remote calls. Provisioning, management and other elements of the services can be done on the fly.
+
+Customer Management APIs
+For users wishing to utilise some of ThinkGrid&#039;s billing platform, customer data can be managed along side the Service API, allowing for pricing, upgrade paths and even a store to be integrated directly.
+
+Full documentation is not publicly available.
+cloud internet 
+Internet

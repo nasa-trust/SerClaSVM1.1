@@ -1,0 +1,9 @@
+State lottery game information service
+California Lottery
+The service provides an information stream about current lottery games run by the state of California. It serves information needs of partners by providing updated reports of games played, winners&#039; names and amounts won, and related updates about the games.
+
+API methods support retrieval of current game information including the most recent numbers drawn and jackpot amounts.
+
+
+california entertainment gambling games lottery 
+Entertainment

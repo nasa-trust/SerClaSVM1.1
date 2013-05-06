@@ -1,0 +1,5 @@
+Issue and bug tracker
+YouTrack
+YouTrack is a bug and issue tracking solution from JetBrains. It provides a simple, interactive project management dashboard that allows users to see and search posts. Users can search the board with keywords, tags, queries, and hotkeys for issues pertaining to their projects. The dashboard also allows administrators to create custom fields and workflow designs. The YouTrack API exposes the issue import and export functionalities, as well as the administrative functions. It is a RESTful API that returns XML-encoded data. 
+bug programming tools tracking 
+Tools

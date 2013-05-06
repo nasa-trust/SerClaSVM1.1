@@ -1,0 +1,5 @@
+Ad campaign management platform
+Epom
+Epom provides creative solutions for publishers, advertisers, and networks; namely, an integrated platform for digital ad-campaign management. The advanced ad serving and managing platform allows users to plan, buy, optimize, and analyze their ad campaigns all in one place. The Epom API enables users to retrieve campaign analytics data programmatically using REST calls in a variety of data formats.
+advertising analytics campaign Optimization 
+Advertising

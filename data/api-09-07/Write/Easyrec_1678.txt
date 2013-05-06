@@ -1,0 +1,5 @@
+Recommendation software
+Easyrec
+Easyrec is an open source recommender system that can be integrated into a website via a REST API. Developers can download the software to install on their own servers, or use a hosted version. The API exposes functionality such as viewing, buying and rating items, viewing recommendations and rankings. Responses are formatted in XML and JSON.
+OpenSource recommendations 
+Recommendations

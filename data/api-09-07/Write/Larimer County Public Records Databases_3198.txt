@@ -1,0 +1,5 @@
+Larimer County property and property tax information service
+Larimer County Public Records Databases
+Larimer County's Public Records Database APIs allow programmatic access to some of the information in Larimer County's public records. The SOAP-based APIs can be used to retrieve information on a property or on a property's taxes within Larimer County, Colorado. 
+tax government colorado
+Government

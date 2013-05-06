@@ -1,0 +1,7 @@
+Profanity filtering service
+CDYNE Profanity Filter
+CDYNE&#039;s Profanity Filter API finds and removes words that are considered profanity. It is designed to help maintain professionalism in web-based applications such as message boards, bulletin boards, chat rooms, and shout-boxes. CDYNE Profanity Filter also gives users the ability to create personalized profanity lists and filter levels.
+
+CDYNE is no longer maintaining this product. It&#039;s free to use at your own risk.
+censorship Filter language Profanity security swear 
+Security

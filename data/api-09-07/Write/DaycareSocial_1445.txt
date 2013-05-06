@@ -1,0 +1,5 @@
+Daycare directory
+DaycareSocial
+DaycareSocial is a resource for parents to interact with other parents, learn about current baby-related trends, exchange ideas, track and share their baby&#039;s progress, and more. DaycareSocial also provides a directory listing of daycare services, nannies, and babysitters. Access to this directory is also available via an API.
+daycare directory parenting social 
+Social

@@ -1,0 +1,5 @@
+Online payment and money management service
+Plastyc
+The Plastyc API allows businesses to enroll people into prepaid cards from their website or phone systems. Plastyc provides payment and money management services to anyone with Internet access through a platform that issues and maintains the UPside Visa prepaid card line of prepaid debit cards. The API allows companies to sign up users for UPside Visa prepaid cards, and then let users check their balances, share money card to card or suspend lost cards from within the companies? own websites. The API uses SOAP architecture and responses are formatted in XML.
+finance payment 
+Payment

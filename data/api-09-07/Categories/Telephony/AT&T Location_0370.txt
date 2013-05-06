@@ -1,0 +1,13 @@
+coordinate 1
+device 1
+gps 2
+latitude 1
+location 4
+longitude 1
+pinpoint 1
+return 1
+speeding 1
+support 1
+take 1
+telephony 2
+up 1

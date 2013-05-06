@@ -1,0 +1,15 @@
+academic 1
+contain 1
+course 1
+datum 5
+education 2
+function 1
+general 1
+personal 1
+private 1
+public 1
+registration 1
+section 1
+student 6
+university 3
+washington 2

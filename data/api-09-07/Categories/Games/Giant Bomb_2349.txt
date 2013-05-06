@@ -1,0 +1,10 @@
+bomb 3
+character 1
+company 1
+creator 1
+game 5
+giant 3
+large 1
+search 1
+video 2
+world 1

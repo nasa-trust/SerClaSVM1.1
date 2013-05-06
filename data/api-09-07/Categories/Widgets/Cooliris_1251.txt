@@ -1,0 +1,14 @@
+amount 1
+content 1
+embed 1
+flash 1
+large 1
+medium 2
+pleasing 1
+require 1
+showcase 2
+tool 1
+view 1
+wall 3
+way 1
+widget 2

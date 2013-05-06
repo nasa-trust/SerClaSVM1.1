@@ -1,0 +1,13 @@
+MavaIQ Currencies
+MavaIQ Currencies
+MavaIQ Currencies is a one-stop shop for self-service, pay-as-you-go, institutional-grade FX market data, available on-demand via a REST API (XML and JSON).
+
+MavaIQ Currencies delivers foreign exchange (FX) rate market data, enriched to include aggregate, return, risk, risk-adjusted return, momentum and technical/trading indicator metrics.
+
+MavaIQ Currencies&#039; FX market data feed can be easily integrated into any client code that supports REST API consumption, such as C#, ASP.NET, Java, Perl and PHP.
+
+MavaIQ Currencies delivers: referential data on currencies and countries; currency conversion; daily historical foreign exchange (FX) rates; returns & percentage returns; simple moving averages (SMAs); highs; lows; risk (standard deviations of rates and returns); Sharpe and Sortino Ratios.
+
+MavaIQ Currencies currently has enriched FX market data metrics for the following date ranges: 1 Day, 5 Days, 10 Days, 20 Days, 30 Days, 40 Days, 50 Days, 90 Days, 100 Days, 200 Days, 52 Weeks, Week-to-Date (WTD), Month-to-Date (MTD), Quarter-to-Date (QTD) & Year-to-Date (YTD).
+currency exchange financial Foreign forex fx 
+Financial

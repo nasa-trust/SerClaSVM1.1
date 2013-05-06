@@ -1,0 +1,9 @@
+Social media data delivery service
+Gnip
+The Gnip API provides notification of activities (events) occurring in a variety of services and, whenever possible, a guid that identifies the activity itself vis a vis the service it was created on. Activity examples include a user &quot;tweet&quot; (twitter), a user &quot;dugg&quot; (digg), a user creating a blog post, etc.
+
+There are two primary roles that API users fall into; Publishers and Subscribers. You may be one, the other, or both depending on your situation. Publishers push data into the system and subscribers consume data from the system.
+
+Gnip also provides access to Twitter firehoses for non-display purposes, sometimes with a fee.
+facebook management media social Twitter 
+Social

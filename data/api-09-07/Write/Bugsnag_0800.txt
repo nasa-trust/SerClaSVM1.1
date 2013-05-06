@@ -1,0 +1,7 @@
+Application error notification service
+Bugsnag
+Bugsnag captures exceptions from web, mobile, and desktop applications in real-time, so they can be understood and resolved as quickly as possible. It provides a pair of RESTful APIs that enable users to access its functions programmatically; the Notifier API and the Deploy Tracking API.
+
+The Bugsnag Notifier API can be used to alert Bugsnag of an error or exception in an application. The Bugsnag Deploy Tracking API tracks multiple deploys of an app so that developers can identify the deploy in which an error was introduced.
+bug internet tools 
+Tools

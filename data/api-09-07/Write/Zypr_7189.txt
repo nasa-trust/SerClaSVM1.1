@@ -1,0 +1,7 @@
+API aggregation service
+Zypr
+Zypr is an application with an API that is designed to work across a variety of platforms, including mobiles, web applications, and other electronic devices. Zypr&#039;s API collects numerous APIs, like Facebook, Twitter, weather APIs, and Amazon, categorizes them based on function, and turns those APIs into one API.
+
+Zypr&#039;s API, like Apple&#039;s Siri, allows developers to write voice activated commands for integration into other applications. Some example API methods include adding appointments to calendars, posting on Facebook or Twitter, and checking weather.
+aggregator mapping mobile social weather 
+Other

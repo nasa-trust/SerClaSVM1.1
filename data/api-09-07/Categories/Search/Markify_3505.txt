@@ -1,0 +1,17 @@
+customer 1
+datum 1
+domain 1
+engine 2
+europe 1
+functionality 1
+integrate 1
+method 1
+over 1
+recur 1
+register 1
+registration 1
+return 1
+search 7
+set 1
+trademark 8
+up 1

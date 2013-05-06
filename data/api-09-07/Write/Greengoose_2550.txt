@@ -1,0 +1,9 @@
+Wireless motion sensor game service
+Greengoose
+Greengoose was created with the intent to turn everyday things into opportunities to play. Using a variety of different types of sticker-based sensors, Greengoose allows you to creatively gamify everything in your life - from brushing your teeth to walking the dog.
+
+Each sensor is programmed to detect actions such as getting exercise or watering your plants by using an  internal accelerometer. Each sensor has a unique ID and transmits the data it collects to a USB basestation so you can monitor whatever real-life games you use Greengoose to create.
+
+The Greengoose API lets developers register and configure sensors with accounts and other affiliations. You can also use this API to check the status of your devices or to view sensed actions by specific sensor, user account, or basestation.
+environment games green reallife 
+Games

@@ -1,0 +1,5 @@
+Bitcoin transfer service
+BitInstant
+BitInstant is a rapid bitcoin transferring service. Users can use the BitInstant system for numerous financial transactions such as transfers, deposits, and withdrawals. BitInstant???s rate of transaction operates almost instantaneously, depending on the bitcoin market???s current pace. They model their transactional system to dynamically reflect the real time market conditions. Their RESTful API exposes data retrieval and transactional functionality, and returns JSON-encoded data.
+bitcoin currency financial transfer 
+Financial

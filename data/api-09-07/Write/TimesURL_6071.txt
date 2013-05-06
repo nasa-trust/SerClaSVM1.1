@@ -1,0 +1,5 @@
+URL shortening service
+TimesURL
+Use the Times URL API to submit a long URL and get a short URL in return. Or use the JSON API to return an array to see if a domain exists in the TimesURL repository and perform other actions.
+deadpool internet utility 
+Internet

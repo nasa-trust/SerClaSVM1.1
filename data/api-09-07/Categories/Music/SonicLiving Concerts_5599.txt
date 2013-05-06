@@ -1,0 +1,15 @@
+artist 2
+beta 1
+commercial 2
+concert 2
+date 1
+event 2
+key 1
+listing 1
+music 2
+one 1
+performance 1
+query 1
+require 1
+return 2
+single 1

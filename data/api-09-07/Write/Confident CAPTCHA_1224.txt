@@ -1,0 +1,7 @@
+Image-based captcha service
+Confident CAPTCHA
+The service provides multi-factor authentication by encrypting one-time authentication codes as image-based CAPTCHA challenges. Users must answer challenge questions by correctly choosing from a series of photos to gain access to the protected resource. It is intended to create easy-to-use but highly secure protection.
+
+API methods support generation of a visual CAPTCHA block, along with an audio block for alternative access. The API returns HTML to be incorporated into a page that implements the challenge specified by the request.
+captcha image security 
+Security

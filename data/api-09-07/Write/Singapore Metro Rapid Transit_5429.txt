@@ -1,0 +1,7 @@
+Mass transit information for Singapore
+Singapore Metro Rapid Transit
+Singapore Metro Rapid Transit is a service that provides information on Singapore&#039;s Metro Transit, such as trains, buses, taxis, and tourist attractions.
+
+The SMRT API allows developers to access and integrate the functionality and data of SMRT with other applications and to create new applications. Some example API methods include retrieving bus arrival times, retrieving timetables, and accessing bus service information.
+bus trains transit transportation 
+Transportation

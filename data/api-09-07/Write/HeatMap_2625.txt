@@ -1,0 +1,5 @@
+Heat map generator service
+HeatMap
+From their site: Heat map image generator for geographic information systems. A heat map is a graphical representation of two dimensional data (X, Y and Value) on a two dimensional surface by using colors. In our world, a heat map is a representation of density of latitude and longitude points on a map. Our software creates heat map images you can overlay on your maps in your software.
+mapping visualization 
+Mapping

@@ -1,0 +1,10 @@
+area 2
+art 3
+design 2
+event 5
+get 2
+latitude 1
+longitude 1
+medium 1
+popularity 1
+tokyo 3

@@ -1,0 +1,5 @@
+Gene expression information service
+Visual Omics aGEM
+aGEM (anatomic Gene Expression Mapping) is designed to integrate phenotypic information from spatial and temporal distributions of expressed genes. It provides easy access to information on gene expression in humans and mice. For those who are developing an application and wish to integrate with aGEM, API documentation is available by request.
+genetics medical science 
+Science

@@ -1,0 +1,5 @@
+Health information aggregation service
+Dossia
+Dossia aggregates users&#039; health information into one convenient and safe Web-based platform. From this platform, users can utilize their data and access personalized health tools. The Dossia API allows client applications to securely read and update a Dossia participant&#039;s health data. Developers can read and write medications, allergies, immunizations and other XML document types.
+health 
+Medical

@@ -1,0 +1,5 @@
+SMS messaging
+CellTrust
+From their site: CellTrust mobile solutions and technologies can be used in a wide range of applications, from enterprise applications, content management systems or to add mobile as a channel to an existing website regardless of the technology you are currently using. Our SMTP API makes it possible to integrate an application by using email. Simply send an email to us and we convert it to SMS.
+Global messaging sms telephony 
+Messaging

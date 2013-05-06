@@ -1,0 +1,5 @@
+Mobile payments service
+PayBy.Me
+ PayBy.Me is a mobile payments platform. Businesses can set up plans that allow their customers to pay by mobile or home telephone. There is no need for customers to register. Developers can integrate PayBe.Me???s payment gateway into apps or allow authorization by SMS. They can also set up customizable recurring billing cycles. The PayBy.Me is accessible to users with accounts only. 
+mobile payment 
+Payment

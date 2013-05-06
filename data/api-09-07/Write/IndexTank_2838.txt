@@ -1,0 +1,7 @@
+Realtime fulltext search
+IndexTank
+IndexTank is a realtime fulltext search engine as a service, hosted in the cloud. The IndexTank API defines methods to manage indexes (create and delete them), operate on them (add and delete documents, functions, etc), perform searches, etc. It uses HTTP protocol and responses are formatted in JSON.
+
+IndexTank announced that they would shut down their service on April 10, 2012. 
+deadpool internet realtime search 
+Search

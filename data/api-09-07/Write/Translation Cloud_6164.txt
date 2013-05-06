@@ -1,0 +1,5 @@
+Language translation service
+Translation Cloud
+Translation Cloud is an application created by Translation Services USA, that is an automated system for conducting transactions via its community of 10,000+ language translators. The Translation Cloud API allows developers to automate the entire workflow of submitting the translation job, viewing quotes and then submitting and reviewing the job done by the translator. The API uses RESTful calls and responses are formatted in XML.
+Human language tools Translation 
+Tools

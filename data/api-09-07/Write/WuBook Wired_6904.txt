@@ -1,0 +1,5 @@
+Online booking service
+WuBook Wired
+WuBook is an online booking service allowing hotels to support online booking and sync Internet Distribution Services. Wired!, the WuBook API, provides a web services framework for developers to integrate WuBook into 3rd party applications.
+booking hotel travel vacation 
+Travel

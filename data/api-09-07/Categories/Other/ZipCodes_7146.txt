@@ -1,0 +1,8 @@
+basic 1
+code 1
+hobbyist 1
+lookup 1
+operations 1
+reference 1
+simple 2
+zip 1

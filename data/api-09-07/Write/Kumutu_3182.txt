@@ -1,0 +1,5 @@
+Adventure sports distribution service
+Kumutu
+The Kumutu API allows users to interact and "sync" with suppliers from your own web sites and applications. Kumutu gives adventure operators an exclusive opportunity to market, sell and distribute their activities from one central location. Kumutu provides a distribution system for adventure activity operators and activities worldwide via a Rest XML and JSON API. Operators and activities include white water rafting, rock climbing, kite surfing, scuba diving, surfing, etc.  
+marketing travel adventure scuba diving surfing
+Travel

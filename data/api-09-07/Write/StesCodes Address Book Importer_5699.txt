@@ -1,0 +1,7 @@
+Mail Address Book Grabber
+StesCodes Address Book Importer
+Grabs email contact information (name, email, address, phone number) from a variety of mail service servers. Ability to export grabbed address information into a .csv file and confirm info through a pop-up screen.
+
+The API allows for multiple language integration, has a fully customizable UI and no OAuth redirects. A DLL version is available as well. 18 mail and message services (ex: Gmail, Hotmail, ICQ, AIM) are supported.
+contacts email social 
+Email

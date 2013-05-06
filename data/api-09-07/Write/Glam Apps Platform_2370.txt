@@ -1,0 +1,5 @@
+Women-focused content and social network
+Glam Apps Platform
+Create a Glam App, which is a widget or application that you can put on a Glam Network's site, and monetization opportunities exist. The Glam Network reaches over 75 million and has a strong niche in women-focused material, such as fashion and beauty. Your existing apps will likely work with a few tweaks because the platform uses the Google Gadget specification and OpenSocial standards.
+shopping social widgets 
+Social

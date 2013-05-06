@@ -1,0 +1,5 @@
+authenticate 1
+interface 1
+manipulate 1
+photo 4
+sharing 1

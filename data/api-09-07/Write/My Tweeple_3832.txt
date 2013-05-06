@@ -1,0 +1,5 @@
+Twitter management service
+My Tweeple
+My Tweeple is a people information management tool. The majority of its data comes from Twitter and its primary purpose is to help users decide which people to follow on Twitter. My Tweeple has a number of export features, including its API. The API features a RESTful inteface and returns data in the XML format.
+deadpool social Twitter 
+Social

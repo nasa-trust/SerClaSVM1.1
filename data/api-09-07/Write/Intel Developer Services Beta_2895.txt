@@ -1,0 +1,5 @@
+Geographic mapping features
+Intel Developer Services Beta
+Intel&#039;s Developer Services Beta introduces a suite of location-based Cloud APIs. The APIs provide an enhanced set of app development capabilities for developers wishing to add location-based features to their app. New and existing applications can be enhanced to be ???location aware??? with geographic mapping, routing, and point-of-interest location services.
+address geocoding location mapping 
+Mapping

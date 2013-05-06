@@ -1,0 +1,7 @@
+Weather forecast database
+NOAA National Weather Service (NWS)
+NOAA&#039;s National Weather Service provides weather forecasts, watch & warnings, advisories, and storm prediction. 
+
+National Digital Forecast Database (NDFD) Extensible Markup Language (XML) is a service providing the public, government agencies, and commercial enterprises with data from the National Weather Service&#039;s (NWS) digital forecast database.  The API uses the SOAP protocol and returns responses in an XML language called Digital Weather Markup Language (DWML).  
+government weather 
+Weather

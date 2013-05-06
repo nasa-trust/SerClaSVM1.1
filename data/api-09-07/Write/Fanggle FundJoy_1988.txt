@@ -1,0 +1,5 @@
+Fund Raising Service
+Fanggle FundJoy
+Fanggle provides cloud applications across various industries including retail and CPG, Non Profits, Automotive, Libraries, Media and Publishing, and more.  The FundJoy API is designed to help organizations with fundraising efforts. The service allows users to create and manage fundraising campaigns/events, receive donations, advertise through social media outlets, and integrate with payment services. Access to the API is available after joining the Licensing and Partnership program.
+campaign donation fundraising non-profit 
+Enterprise

@@ -1,0 +1,5 @@
+Biological database search service
+EBI WSDbfetch
+The EBI WSDbfetch API allows users to retrieve entries from various biological databases using entry identifiers or accession numbers. It provides an easy way to retrieve entries from databases at the European Bioinformatics Institute in a consistent manner. One request can return a maximum of 200 entries. This API can be accessed via SOAP or REST protocols.
+bioinformatics database science 
+Science

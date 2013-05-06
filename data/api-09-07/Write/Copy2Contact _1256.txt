@@ -1,0 +1,5 @@
+Online contact entry and data parsing service
+Copy2Contact 
+Copy2Contact allows a user to paste a single block of freeform text and intelligently parses it into a contact or event form to reduce data entry time and frustration. Copy2Contact reduces bounce rates, improves data accuracy, and eliminates errors. Copy2Contact Technology can be embedded into your online, mobile, and web applications via standard REST or SOAP web service calls. Supported in .NET, Java, PHP, and ASP.
+contacts enterprise sbweb 
+Internet

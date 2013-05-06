@@ -1,0 +1,5 @@
+Stock Photo Service
+Pixmac
+Pixmac is an online database of stock photos that can be used in print and web advertising and marketing. Pixmac includes both free pictures and high quality pictures for purchase. The Pixmac API allows developers to create their own application that allow users to search, view, and purchase/download Pixmac pictures outside of the Pixmac user interface. The API can be used via SSL for secure connections.
+photo stockphoto 
+Photos

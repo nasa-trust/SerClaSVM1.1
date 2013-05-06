@@ -1,0 +1,9 @@
+Social network analytics and monetization tools
+Sometrics
+Sometrics offers social intelligence; an understanding of who???s doing what within social networking websites and applications.  We unlock the potential of the social web for app developers and brands providing  audience analysis and social ad targeting.
+
+We help developers of social websites and applications make more money and expand their audiences. We tell them who???s visiting their sites or using their applications, including details about activity, traffic, demographics, interests and social actions within the social web.  Developers can use this insight to optimize their apps to boost traffic and revenue. 
+
+Sometrics offers two APIs, one for Social Analytics and another for their Virtual Currency Manager. Documentation is not publicly available.
+analytics social 
+Social

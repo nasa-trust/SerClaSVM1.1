@@ -1,0 +1,16 @@
+blip 1
+carry 1
+character 1
+connect 1
+conversation 1
+hear 1
+icon 1
+make 1
+opinion 1
+recommendation 3
+review 2
+smiley 1
+social 1
+sum 1
+up 1
+voice 1

@@ -1,0 +1,5 @@
+Send postal mail from electronic documents 
+ViaPost
+This API allows users to send physical post directly from their computer to any address in the UK. The electronic document to be mailed is printed at a location close to where it needs to go for physical mailing. 
+mail uk documents sbweb
+Other

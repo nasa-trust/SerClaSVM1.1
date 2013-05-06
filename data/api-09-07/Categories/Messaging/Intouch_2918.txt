@@ -1,0 +1,11 @@
+communications 1
+contact 1
+folder 1
+group 3
+message 1
+messaging 4
+mm 1
+mobile 2
+platform 1
+sm 1
+telephony 1

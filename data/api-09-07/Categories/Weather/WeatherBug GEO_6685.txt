@@ -1,0 +1,15 @@
+exist 1
+format 1
+google 1
+image 2
+map 2
+mapping 2
+over 1
+overlay 1
+place 1
+radar 1
+return 1
+satellite 1
+temperature 1
+tile 2
+weather 3

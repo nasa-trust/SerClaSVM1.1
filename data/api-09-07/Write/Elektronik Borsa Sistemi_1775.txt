@@ -1,0 +1,5 @@
+Online Turkish gold exchange service
+Elektronik Borsa Sistemi
+Istanbul Altin Borsasi, known in English as the Istanbul Gold Exchange, plays an important role in developing gold-based investment vehicles and in the international integration of the Turkish gold sector. The Elektronik Borsa Sistemi is an electronic exchange system provided by the Istanbul Altin Borsasi. This system is accessible using SOAP calls in XML format. All documentation is in Turkish.
+exchange financial turkey 
+Financial

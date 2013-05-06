@@ -1,0 +1,7 @@
+Movie and TV subtitle service
+Subtitleseeker
+The service provides subtitles for movies and television programs logged in the provider&#039;s database. Applications can specify movies by title or IMDb identifier number for the release and desired output language. Applications can specify TV series by episode and release ID along with the language desired for the subtitles.
+
+API methods support search for movie and TV series titles to determine whether they are listed in the database. Methods then support retrieval of subtitles in the desired language for a specified movie release or television program episode.
+entertainment movies subtitle television 
+Entertainment

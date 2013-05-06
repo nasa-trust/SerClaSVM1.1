@@ -1,0 +1,5 @@
+Targeted call back service
+CallFire Direct Connect
+CallFire provides a VoIP platform that powers voice broadcasts, call centers, call tracking, and text messaging campaigns. The direct connect service gives users control over the CallFire dialer and can be used to bypass the predictive logic. Typical usage includes setting up the system for an agent that needs to make targeted calls to old customers. Functionality included logging in of agents, returning agent IDs, play back of a pre-recorded message for calls landing on answering machines, starting and stopping campaigns and more. The API uses SOAP calls and responses are formatted in XML.
+calls telephony 
+Telephony

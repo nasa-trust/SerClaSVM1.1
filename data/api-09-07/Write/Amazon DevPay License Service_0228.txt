@@ -1,0 +1,5 @@
+Amazon web services licensing
+Amazon DevPay License Service
+From their siteAmazon DevPay instruments two Amazon Web Services to enable a new sort of Software as a Service. Amazon DevPay supports applications built on Amazon S3 or Amazon EC2 by allowing you to resell applications built on top of one of these services. Amazon DevPay License Service API allows you to programmatically query a customer&#039;s current subscription status.
+infrastructure money 
+Financial

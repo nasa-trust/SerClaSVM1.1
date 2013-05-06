@@ -1,0 +1,7 @@
+Stock media marketplace
+Pond5
+Pond5 is a stock media marketplace. Pond5 offers royalty-free videos, music tracks, sound effects, photos, illustrations, and After Effects projects. Customers can search and purchase media, and artists can submit their media for sale.
+
+The Pond5 API allows developers to integrate the functionality of Pond5 into other websites and applications. Developers can add Pond5 search functionality within other sites, as well as retrieving media.
+marketplace media music photo video 
+Media Search

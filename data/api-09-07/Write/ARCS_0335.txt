@@ -1,0 +1,6 @@
+Application resource control service
+ARCS
+ARCS is a service designed to control access to application resources. The ARCS API allows the user to begin a users session for them remotely based on the terminal they are using, bind that application to the users, and release the application when the user is finished. The service is offered through 3 different protocols: Basic, SOAP, and Form post. 
+
+security 
+Security

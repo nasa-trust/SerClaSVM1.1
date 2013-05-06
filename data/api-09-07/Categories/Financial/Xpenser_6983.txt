@@ -1,0 +1,6 @@
+enter 1
+expense 4
+finance 2
+management 1
+mobile 3
+tracking 2

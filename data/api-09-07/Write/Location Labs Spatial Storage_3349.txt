@@ -1,0 +1,7 @@
+Access and Search Geo-Tagged Content
+Location Labs Spatial Storage
+Location Labs brings safety and innovation to users through the power of mobile phone technology with products such as Family Safety, a mobile tracking product, and Safe Driving, a program that locks a phone from receiving/sending calls and texts while in a moving vehicle.  
+
+The Spacial Storage API is a RESTful API that allows developers of location-based applications to quickly query a database of geo-tagged data. Developers can also use the API to manage their own data scalable and safe way and make it available to their own application and 3rd party applications. The API also allows developers access to already available 3rd party data. 
+database location mapping 
+Search

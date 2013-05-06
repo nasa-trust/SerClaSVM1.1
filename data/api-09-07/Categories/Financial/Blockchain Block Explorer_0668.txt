@@ -1,0 +1,15 @@
+block 9
+chain 2
+chart 2
+currency 2
+datum 2
+example 1
+explorer 5
+finance 1
+functionality 1
+integrate 1
+listing 1
+manage 2
+method 1
+transactions 1
+wallet 2

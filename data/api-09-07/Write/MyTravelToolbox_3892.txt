@@ -1,0 +1,7 @@
+Travel website application
+MyTravelToolbox
+MyTravelToolbox is a website plugin for travel websites. MyTravelToolbox offers features such as online airline check-ins, airport codes, world time clocks, and currency exchange information.
+
+The MyTravelToolbox API allows developers to access and integrate the functionality and data of MyTravelToolbox with other applications and for customization. Some example API methods include retrieving airport delays, listing account information, accessing flight status, and listing airport codes. Public documentation is not available; interested developers should sign up here: http://www.mytraveltoolbox.com/account.
+airport flight international travel 
+Travel

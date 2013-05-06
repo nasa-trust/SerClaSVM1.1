@@ -1,0 +1,16 @@
+ability 1
+add 1
+collaboration 3
+enterprise 1
+file 1
+hook 1
+huddle 3
+management 4
+project 6
+sharing 1
+social 1
+team 2
+things 1
+tracking 1
+up 1
+workspace 1

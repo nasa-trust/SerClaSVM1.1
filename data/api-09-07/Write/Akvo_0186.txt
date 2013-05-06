@@ -1,0 +1,5 @@
+Development aid reporting tool
+Akvo
+Akvo creates open source software and builds partner networks to change the way development aid is allocated and reported, allowing funders to see where their money goes. Akvo Real Simple Reporting allows partners and funders to embed a project???s details on their sites. The Akvo RSR API  is a  read-only interface providing Akvo data to partners and other interested partners.
+charity donation project-management tools 
+Project Management

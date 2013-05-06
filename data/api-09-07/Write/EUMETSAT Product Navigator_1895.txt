@@ -1,0 +1,5 @@
+Satellite data product search service
+EUMETSAT Product Navigator
+The main purpose of the European Organisation for the Exploitation of Meteorological Satellites (EUMETSAT) is to make available weather- and climate-related satellite data, images, and products. The EUMETSAT Product Navigator is a service that allows users to search through the available data products. The Product Navigator can be accessed using either a web interface or a SOAP API.
+climate satellite science weather 
+Science

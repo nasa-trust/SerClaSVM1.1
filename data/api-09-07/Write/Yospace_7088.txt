@@ -1,0 +1,7 @@
+Mobile video platform and service
+Yospace
+Yospace is a platform and service for mobile video creation and delivery. Yospace allows publishers and broadcasters to host and manage their video content for mobile, advertisers to integrate video mobile ads into mobile applications, and developers to create mobile applications.
+
+The Yospace API allows developers to access and integrate the functionality of Yospace. Some example API methods include managing queues, uploading and managing media, and accessing account information.
+advertising marketing mobile video 
+Video

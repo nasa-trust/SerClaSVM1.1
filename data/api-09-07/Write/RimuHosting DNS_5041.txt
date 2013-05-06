@@ -1,0 +1,7 @@
+Domain Name Service 
+RimuHosting DNS
+RimuHosting specializes in Linux Virtual Private Server hosting plans, providing subscribed users with a choice of Linux distributions, SSH root access, and dedicated Linus sysadmin support.
+
+The RimuHosting API is especially useful for users who have a domain name that points to a changing IP address. The DNS API allows users to change a domain&#039;s IP address, automate the setup and changing of mail servers and text records, delete records, and more. An account with service and an API key are required to use this service.
+DNS internet 
+Internet

@@ -1,0 +1,7 @@
+GPS tracking device communications service
+Gink
+The service logs communications between a GPS device and global positioning system satellites to allow analysis and interaction with its history of activity. An application can use the data to track movements and status of the device over time including definition of geozones within which it has reported status. Alerts can be configured based on variations from patterns of device activity accumulated.
+
+API methods support uploading both event and status data exchanged between a a GPS device and a satellite. Methods allow either real-time access to data as it is logged or later retrieval of data accumulated over time. Data logged include most recent and historical position, events logged over time, distance traveled, etc.
+gps mapping 
+Mapping

@@ -1,0 +1,5 @@
+Nanaimo, B.C., datasets
+City of Nanaimo
+The City of Nanaimo website is a portal to the city government. Information and services for residents, businesses, and visitors are available through the website, as well as access to municipal hall and city government departments. In addition, a data catalogue is available which includes datasets and information for such topics as bid opportunities, business licenses, job postings, parks, public notices, and more. A RESTful API is allows public access to datasets, returning responses in JSON, JSONP, KML
+canada government 
+Government

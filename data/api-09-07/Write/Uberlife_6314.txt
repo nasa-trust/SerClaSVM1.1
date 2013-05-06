@@ -1,0 +1,5 @@
+Social location based platform
+Uberlife
+Uberlife is a location-based socializing application. Users share when and where they want to hang out with their network and discover other hang outs happening near them. The API lets users access data stored by Uberlife. Methods include HangoutIdea, CloseFriends, Venues, Messages and more. The API uses RESTful calls and responses are formatted in JSON.
+deadpool friends location social 
+Social

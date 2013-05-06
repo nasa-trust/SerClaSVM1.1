@@ -1,0 +1,7 @@
+Hosting management service
+Gandi Hosting
+Gandi provides VPS cloud hosting services. The Hosting API allows a user to manipulate and manage his various Gandi Hosting resources.  For example, he may create new virtual machines, new disks, release IP addresses, etc. Gandi.net is largely in French. 
+
+Hosting API is currently in Beta.
+france hosting internet 
+Internet

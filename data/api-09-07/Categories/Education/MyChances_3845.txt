@@ -1,0 +1,16 @@
+accuracy 1
+admission 3
+college 4
+datum 1
+education 2
+giving 1
+gpa 1
+know 1
+prediction 2
+probability 1
+receive 1
+response 1
+send 1
+sit 1
+student 1
+want 1

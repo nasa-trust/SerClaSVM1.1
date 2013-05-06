@@ -1,0 +1,10 @@
+configuration 1
+editing 1
+editor 1
+embed 1
+image 2
+instantiate 1
+loader 1
+parameter 1
+photo 2
+standard 1

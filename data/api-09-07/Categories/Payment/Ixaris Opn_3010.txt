@@ -1,0 +1,12 @@
+complex 1
+documentation 1
+external 1
+finance 2
+full 1
+institution 1
+make 1
+network 1
+party 1
+payment 5
+platform 1
+third 1

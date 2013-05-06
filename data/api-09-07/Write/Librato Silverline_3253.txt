@@ -1,0 +1,5 @@
+Application resource monitoring and management service
+Librato Silverline
+Librato Silverline is an application resource monitoring and management service that helps DevOps and Operations teams monitor and manage the resource consumption of their apps for troubleshooting, automated handling of unexpected situations, performance and availability management, capacity planning, and server utilization improvement. The Silverline API provides access to all of the Silverline monitoring and management functions and all of the data stored within the service. 
+application enterprise internet monitoring performance
+Internet

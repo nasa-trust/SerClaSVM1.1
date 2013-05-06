@@ -1,0 +1,5 @@
+API marketplace services
+StrikeIron
+StrikeIron&#039;s Marketplace API enables you to synch-up with the StrikeIron marketplace. With these 3 methods you can: 1) get the full list of over 70 APIs 2) register new users and 3) get customer usage details. 
+catalog deadpool marketplace 
+Other

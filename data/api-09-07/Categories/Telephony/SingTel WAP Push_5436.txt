@@ -1,0 +1,16 @@
+capability 1
+company 1
+expose 1
+grant 1
+individual 1
+internet 1
+marketplace 1
+mixture 1
+mobile 1
+point 1
+push 4
+representation 1
+set 1
+singapore 1
+telecom 1
+telephony 2

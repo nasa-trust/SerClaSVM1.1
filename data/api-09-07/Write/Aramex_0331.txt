@@ -1,0 +1,7 @@
+Global shipping service
+Aramex
+The service provides parcel, package, and freight delivery via a global network of shipping providers. Applications can integrate package shipping and rate calculations functions to generate shipments along with tracking to report on delivery progress while completed shipments are en route.
+
+API methods allow designation of sender and recipient address, shipment content, expedited delivery options, and related parameters. Methods return shipping rates and process shipments on agreed-upon terms, including label printing, pickup scheduling, and cancellation of scheduled shipments. Methods then allow shipment tracking and delivery status reporting.
+shipping transportation 
+Shipping

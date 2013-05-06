@@ -1,0 +1,7 @@
+Climate change information portal
+World Bank Climate
+The World Bank Climate Change Knowledge Portal offers information, reports, and data about climate and climate change.
+
+The World Bank Climate API allows developers to access and integrate the data from the Climate Change Knowledge Portal with other applications and to create new applications. Some example API methods include searching and returning climate data points, such as average temperatures and rainfalls and changes in averages and by countries.
+climate Data reference science 
+Reference

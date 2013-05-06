@@ -1,0 +1,7 @@
+Twitter tweet scheduling tool
+TweetLater
+Tweetlater is a Twitter productivity tool that lets users create tweets scheduled for the future. TweetLater makes certain functions available via an API so that application developers can integrate their applications with TweetLater. The API is HTTP-based and is a RESTful resource. It is able to produce results in both XML and JSON formats.
+
+UPDATE: Tweetlater API is now part of the SocialOomph API: http://www.programmableweb.com/api/socialoomph
+deadpool social Twitter 
+Social

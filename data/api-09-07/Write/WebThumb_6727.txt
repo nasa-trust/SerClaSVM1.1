@@ -1,0 +1,5 @@
+Thumbnail image generation service
+WebThumb
+From their site: Web Page Thumbnails with API support. 
+internet 
+Internet

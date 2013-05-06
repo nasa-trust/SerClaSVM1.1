@@ -1,0 +1,13 @@
+Multilingual Semantic Service
+Bitext
+Bitext develops software that makes it possible for machines to understand natural language. The Bitext API is a suite of multilingual semantic services. Currently four semantic service are available: entity and concept extraction, sentiment analysis and text categorization. 
+
+Utilizing NaturalExtractor technology, entity extraction finds names and other meaningful entities in the text and classifies them according to type. Concepts are meaningful text extracts such as ideas, objects and abstractions. 
+
+Sentiment analysis classifies how the author of the text is feeling towards the subject they are writing about. 
+
+Categorization simply classifies text into different categories according to a predefined dictionary.
+
+The API functionality is aimed towards developers who process user generated content like customer experience management tools or customer voice analytics. The API works in standard HTTP Post requests and output formats are represented as JSON, XML or CSV.
+languagel messaging semantic text utility 
+Utility

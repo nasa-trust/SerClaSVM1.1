@@ -1,0 +1,7 @@
+Delivery address search and information service
+ePostcode
+The service provides an address search service that returns a standard delivery address and unique identifier for a specified shipping address. It also provides street names and identifiers in a specified area, the distance between specified postal codes, and geographic information for the area of a specified postal code.
+
+API methods support submission of an address string, with returned data resolving that input to a unique identifier and standard version of the delivery address. Methods also support searching for street names and other geographic information in a postal code. Distance between postal codes is also available.
+address mapping shipping 
+Shipping

@@ -1,0 +1,8 @@
+display 1
+embed 2
+google 1
+international 2
+map 2
+mapping 2
+mechanism 1
+own 1

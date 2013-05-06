@@ -1,0 +1,14 @@
+aggregate 1
+aggregator 1
+blog 1
+categorize 1
+category 2
+common 1
+distributor 1
+feed 7
+headline 2
+news 8
+over 3
+process 1
+quick 1
+source 1

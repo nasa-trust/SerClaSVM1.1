@@ -1,0 +1,5 @@
+Global pairwise sequence alignment service
+EMBOSS Needle
+EMBOSS Needle is a program for performing global pairwise sequence alignments on DNA or protein sequences. Using the Needleman-Wunsch global alignment algorithm, this program takes two protein or nucleotide sequences and returns their optimal global sequence alignment. The European Bioinformatics Institute makes EMBOSS Needle available as an API via SOAP or REST protocols.
+bioinformatics genetics science 
+Science

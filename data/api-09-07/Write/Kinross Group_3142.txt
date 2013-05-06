@@ -1,0 +1,7 @@
+SMS messaging service
+Kinross Group
+The Kinross Group provides a web-to-mobile system for sending and receiving structured messages to and from mobile phones. These messages can be &#039;structured&#039; so that the presentation of the message to the user is done via a customizable form, and that the message content is delivered or sent via XML to external systems.
+
+The Kinross Group API provides methods for sending and receiving messages, as well as managing user accounts and templates, using SOAP and XML.
+messaging sms 
+Messaging

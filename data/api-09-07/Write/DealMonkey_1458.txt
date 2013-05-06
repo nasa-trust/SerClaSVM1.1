@@ -1,0 +1,5 @@
+Daily Geographic Deal Service
+DealMonkey
+DealMonkey is an Australian website that offers daily deals for stores and activities in Australian cities. The DealMonkey API allows users to retrieve daily deals from DealMonkey. The API uses REST calls and returns JSON or XML. To gain access to the API, an account with DealMonkey must be created at which point an access token will be generated. 
+Australia deals discounts shopping social 
+Shopping

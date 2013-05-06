@@ -1,0 +1,7 @@
+Sales lead tracking service
+LeadMaster
+The service documents marketing opportunities as sales leads, then helps salespeople contact potential customers and record interactions. Benefits are increased follow-up with prospective buyers and coordination between marketing/lead generation, sales, and call center activities. The API allows internal planning systems to incorporate these lead tracking functions and adapt them to sales processes.
+
+API methods support adding new sales leads and managing existing leads: updating, selecting, and deleting. Lead opportunities can be grouped and selected by account managers, partner organizations, and partner reps.  
+enterprise sales 
+Enterprise

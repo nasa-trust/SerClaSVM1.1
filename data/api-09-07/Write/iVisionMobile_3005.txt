@@ -1,0 +1,7 @@
+SMS gateway service
+iVisionMobile
+iVisionMobile provides mobile messaging and marketing solutions for companies looking to address their messaging needs with a web-based software platform. Their software handles both individual or batch messaging, depending on user needs.
+
+The iVisionMobile SOAP and REST-based API&#039;s include services for interacting with their SMS gateway, such as data importing and exporting, messaging, and reporting. Their API&#039;s also provide services for mobile content delivery, allowing users to deliver messages, set up SMS polls, or send inline links.
+Global mobile sms telephony 
+Telephony

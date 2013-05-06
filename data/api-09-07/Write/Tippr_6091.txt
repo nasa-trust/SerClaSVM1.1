@@ -1,0 +1,5 @@
+Daily deals aggregation service
+Tippr
+Tippr is a local daily deals aggregation web site. The Tippr API exposes the site data and allows developers to integrate it with their own web sites or applications. Data includes listing of channels and a listing of current offers for a specified channel. The API uses RESTful calls and responses are formatted in XML, JSON and YAML.
+coupons daily deals local retail shopping 
+Shopping

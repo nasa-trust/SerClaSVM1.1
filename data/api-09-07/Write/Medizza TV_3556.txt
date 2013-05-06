@@ -1,0 +1,5 @@
+Internet TV platform 
+Medizza TV
+Medizza TV is a web-based TV platform. Users can create networks of multiple channels and populate them with original video content. These channels can be monetized as packages and video storefronts. Medizza will encode users??? video as they upload it and allow them to manage their content with metadata, image, and more. The Medizza API exposes account and content updating functionality and returns both XML and JSON-formatted data. 
+deadpool media social television 
+Video

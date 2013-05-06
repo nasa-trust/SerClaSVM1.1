@@ -1,0 +1,15 @@
+automate 1
+billing 5
+fast 1
+finance 2
+launch 1
+leader 1
+make 1
+one 1
+operations 1
+payment 4
+product 2
+recur 2
+scale 1
+solution 1
+subscription 3

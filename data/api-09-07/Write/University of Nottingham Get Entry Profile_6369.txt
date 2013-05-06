@@ -1,0 +1,5 @@
+UCAS higher education course entry profile
+University of Nottingham Get Entry Profile
+The University of Nottingham Get Entry Profile API allows users to obtain a UCAS Entry Profile for a higher education course. The UCAS (Universities and Colleges Admissions Service) is the British admission service for students applying to university and college. This API is part of the e-Portfolio for Lifelong Learning Reference Model Project.
+education university 
+Education

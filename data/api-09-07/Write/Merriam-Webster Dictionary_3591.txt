@@ -1,0 +1,5 @@
+Dictionary and thesaurus products
+Merriam-Webster Dictionary
+Merriam-Webster has been producing language information???including dictionaries, thesauri, and translation materials???for over 150 years. The Merriam-Webster collection of APIs provide developer access to a variety of the company???s most prominent reference works. Free access is provided to non-commercial websites and applications. Free access is limited to two reference works with a maximum of 1000 queries a day per reference work. Full access is available for commercial use.
+Dictionary language reference Thesaurus Translation 
+Dictionary

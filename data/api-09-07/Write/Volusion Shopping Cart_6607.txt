@@ -1,0 +1,7 @@
+Hosted ecommerce and shopping cart service
+Volusion Shopping Cart
+The service hosts e-commerce storefronts with complete product browse and search service and checkout/payment functions to complete purchases. Users can manage product records and display templates via a native admin interface or by integrating via the API.
+
+API methods support import of XML files to populate product records as well as XML export of existing product information. Methods also support integration with StoneEdge and Endicia for fulfillment of completed purchases.
+ecommerce payment shopping 
+Shopping

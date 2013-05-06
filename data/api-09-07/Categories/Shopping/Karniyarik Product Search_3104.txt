@@ -1,0 +1,13 @@
+audience 1
+being 1
+discovery 1
+engine 2
+interface 1
+product 2
+search 2
+sell 1
+shopping 4
+structure 1
+target 1
+turkey 3
+turkish 1

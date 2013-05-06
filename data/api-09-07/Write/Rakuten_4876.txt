@@ -1,0 +1,5 @@
+Japanese shopping web service
+Rakuten
+Japanese shopping web service. Catalog includes books, CDs and DVDs.
+japan shopping 
+Shopping

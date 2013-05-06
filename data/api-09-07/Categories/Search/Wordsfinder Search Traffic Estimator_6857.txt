@@ -1,0 +1,15 @@
+analysis 1
+ask 1
+estimation 1
+estimator 2
+give 1
+google 1
+market 1
+monthly 1
+phase 1
+return 1
+search 6
+tool 2
+traffic 4
+volume 1
+yahoo 1

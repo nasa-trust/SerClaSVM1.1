@@ -1,0 +1,9 @@
+Find Wikipedia articles based on location
+WikiLocation
+The WikiLocation API is for developers wishing to search for Wikipedia articles by location. The data is gathered by downloading the Wikipedia database on a weekly basis and then parsing all of the geocoded entries. This data is stored in a database where it is able to be accessed via the API. 
+
+WikiLocation supports 36 languages, totaling over 3.8 million articles. At present, there are over 1 million entries from en.wikipedia.org alone.
+
+In addition to searching via location, users can also search via the venue and spot IDs of the two most popular geo-location networks; Foursquare and Gowalla as well as by Yahoo! WOEID. The API uses RESTful protocol and responses are formatted in XML, JSON, or JSONP.
+foursquare geolocation gowalla search unofficial wiki 
+Wiki

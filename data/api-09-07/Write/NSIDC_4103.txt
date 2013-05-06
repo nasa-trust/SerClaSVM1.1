@@ -1,0 +1,5 @@
+Frozen Earth observation datasets
+NSIDC
+The National Snow and Ice Data Center (NSIDC) supports research and provides datasets on Earth&#039;s cryosphere, or frozen areas, such as the polar ice caps and other frozen land and water. Data is available for topics such as snow and land ice, sea ice, glaciers and ice sheets, frozen ground, and more. More than 500 datasets are available, from both ground and satellite observations. A series of APIs are provided for accessing datasets and metadata. 
+Data datasets ice science 
+Science

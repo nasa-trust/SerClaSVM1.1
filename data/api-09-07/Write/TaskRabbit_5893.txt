@@ -1,0 +1,7 @@
+Task and errand contract labor service
+TaskRabbit
+The service links those who need to hire labor for small tasks and errands with background-checked providers willing to provide those services. People in need of assistance register task requests with the service, and its affiliated providers bid to fulfill the requests. The service facilitates the transaction.
+
+API methods support posting a task to be done, including short description, metro area, and maximum payment offered. Methods also allow additional specifications for location, relevant photos, and audio notations, as well as updating or deleting a posted task and user account management 
+collaboration community social 
+Social

@@ -1,0 +1,5 @@
+Movie subtitles service
+Opensubtitles
+Get movie subtitles. This database has 300,000+ subtitles. It is available in multiple languages and has many options.
+movies video 
+Video

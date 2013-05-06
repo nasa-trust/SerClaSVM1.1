@@ -1,0 +1,7 @@
+billing 1
+feature 2
+integrate 1
+interface 1
+payment 4
+recur 2
+shopping 1

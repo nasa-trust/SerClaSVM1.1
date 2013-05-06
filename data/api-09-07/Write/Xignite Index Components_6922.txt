@@ -1,0 +1,5 @@
+Stock index information service
+Xignite Index Components
+You can use XigniteIndexComponents to get the list of securities and weightings that comprise the stock indices.
+finance stock 
+Financial

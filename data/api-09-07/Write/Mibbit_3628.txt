@@ -1,0 +1,5 @@
+Chat client
+Mibbit
+Mibbit is an online chat client that can be embedded on third party websites. The Mibbit API allows users to gather information on their widget. The API can return information on the number of users on a widget and settings changes. It uses JavaScript protocol and responses are formatted in JSON, JSONP and PNG.
+chat social widgets 
+Chat

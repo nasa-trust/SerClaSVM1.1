@@ -1,0 +1,5 @@
+Mobile advertising network
+MdotM
+MdotM is a mobile ad network that provides application promotion and monetization services through advertising. The API lets users access the platform&#039;s functionality such as tracking conversion events, retrieving account history, campaign performance data, audience statistics and updating campaign parameters such as bids, targeting and caps. The API uses RESTful calls and responses are formatted in JSON.
+advertising mobile 
+Advertising

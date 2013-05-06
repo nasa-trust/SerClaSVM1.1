@@ -1,0 +1,5 @@
+Detect spam email service
+Block Disposable Email
+Block Disposable Email is a web site that helps companies and individuals reduce the number of anonymous subscribers in order to prevent userbase contamination by one-time accounts. The webservice helps to detect subscribers using disposable email addresses. It can replace local maintained blacklists. Prevents userbase contamination by fake accounts. block-disposable-email.com provides a JSON based API for validating emails. It uses RESTful calls and requires an API key.
+disposable email spam 
+Email

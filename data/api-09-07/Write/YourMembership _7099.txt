@@ -1,0 +1,7 @@
+Membership organization management service
+YourMembership 
+The service enables management of member lists, subgroups, and other functions of clubs, interest groups, not-for-profit associations, and similar membership organizations. It establishes a platform for social engagement among members, including granular management of connection networks. Members can post wall updates, upload media galleries, and communicate via messaging functions. 
+
+API methods support retrieval of member lists and profiles, member record creation, and updates to profiles and member data. Methods enable messaging functions like in-box management, read/unread status, etc. The API also supports tracking members&#039; financial histories with the organization.
+clubs management social 
+Social

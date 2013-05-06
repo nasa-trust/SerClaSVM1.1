@@ -1,0 +1,5 @@
+Protein interaction database
+STRING
+STRING is a database of known and predicted protein interactions, including both direct (physical) and indirect (functional) associations. They are derived from genomic context, high-throughput experiments, coexpression, and prior knowledge. STRING quantitatively integrates interaction data from these sources for a large number of organisms and transfers information between those organisms where applicable. The STRING database currently includes more than five million proteins from over one thousand organisms.
+bioinformatics science 
+Science

@@ -1,0 +1,5 @@
+Stock quote service
+Financial Content Snapshot Quote
+Snapshot Quotes offer simple delivery of full-exchange real time & delayed market data in industry standard CSV format. Data can be pulled using HTTP, with integrated GZip Content-Encoding to minimize bandwidth requirements.
+deadpool finance stock 
+Financial

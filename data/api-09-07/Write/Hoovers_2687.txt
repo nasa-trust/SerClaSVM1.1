@@ -1,0 +1,5 @@
+Corporate data services
+Hoovers
+Use the Hoover&#039;s API to create applications using Hoover&#039;s database of 60 million companies, 69 million people and First Research Industry information. You can stream reliable, on-demand information into enterprise-wide systems, and commercial software and web applications to provide business insight to employees and customers. Hoover&#039;s, a D&B Company, is based in Austin, TX.
+business database enterprise finance 
+Enterprise

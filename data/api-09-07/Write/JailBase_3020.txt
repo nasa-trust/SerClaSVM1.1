@@ -1,0 +1,5 @@
+Mugshot and Arrest Information for County Jails
+JailBase
+Jailbase is an informational site about arrested persons. With the site, users can search arrested persons with mugshots included if available, lookup recent arrests and be notified if someone they know is arrested. The API lets users search for arrested and booked individuals in county jails. It uses RESTful calls and responses are formatted in JSON.
+jail Prison search 
+Search

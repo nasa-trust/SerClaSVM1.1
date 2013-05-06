@@ -1,0 +1,5 @@
+SMS Messaging services
+Textingit
+An SMS API for mobile marketing campaigns. Use this API as part of a cost-effective, flexible, private-label solution. Possible uses are campaigns, real-time alerts, interactive displays, site integration, or customer support, classifieds, and real estate. Send messages to certain phone numbers. If the message is over 160 characters, the message will be broken into parts automatically. You also can schedule messages and specify a time zone for them. Cancel scheduled messages as needed. Enter a message ID and learn its delivery status. 
+enterprise messaging mobile sms telephony usa 
+Messaging

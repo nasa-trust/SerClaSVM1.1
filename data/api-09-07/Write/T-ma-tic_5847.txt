@@ -1,0 +1,5 @@
+Semantic meaning and connections service
+T-ma-tic
+The T-ma-tic API delivers structured data of similar and linked concepts so that you can create smart semantic apps. For example, the &quot;Michael Jackson&quot; T-ma-tic has the semecode 14995351 (unique identifier) and has the following similar T-ma-tics: Prince (musician), semecode: 57317, and is linked to the following T-ma-tics: Bad (album), semecode: 586840. Be an early adopter of this Web 3.0, SemanticWeb service by implementing the T-ma-tic search feature. To see the API in action, go to PeepToday.com, click on &quot;My Peeps&quot; button and then on the &quot;+&quot; button to experiment with the T-ma-tic search.
+internet search semantic 
+Internet

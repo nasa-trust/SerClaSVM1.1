@@ -1,0 +1,14 @@
+Online video editing service
+JayCut
+JayCut is an online based video editing service. The JayCut API allows users to integrate the video editing services into their websites. The API exposes the following functionality:
+
+*Embedding the editing tool on your site
+*Authorization of users
+*Upload of media, tied to users
+*Management of preset content
+*Streaming of video
+*Export of edited videos, out of the JayCut system
+
+The API uses RESTful calls and responses are formatted in XML.
+deadpool editing tools video 
+Video

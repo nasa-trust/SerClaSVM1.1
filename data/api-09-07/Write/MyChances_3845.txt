@@ -1,0 +1,5 @@
+College admissions prediction service
+MyChances
+The MyChances API allows sites to provide college admissions predictions. Send (a) the college you want to know about, and (b) information about the student (SAT, GPA, etc). Receive a response giving a 0-100% probability, as well as meta-data about the accuracy, etc.
+admissions college deadpool education 
+Education

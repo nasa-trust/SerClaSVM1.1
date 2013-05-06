@@ -1,0 +1,7 @@
+Digital gifting service
+CashStar
+CashStar is an eGifting provider that offers a digital gifting and incentives platform that enables users to email personalized gift cards. With CashStar businesses can integrate digital gifting strategies into their marketing and engagement programs.
+
+As part of their B2B partner program, CashStar offers an API that lets businesses expand their eGift Card sales into third party partner channels. Public documentation is not available but interested developers should contact the provider for detail about becoming a partner.
+digital enterprise gifts 
+Enterprise

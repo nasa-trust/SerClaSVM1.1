@@ -1,0 +1,5 @@
+Map image creation service
+Yahoo Map Image
+The Yahoo! Maps Map Image API allows you to get a URL pointing to a graphic of a map generated according to the parameters you specify.
+display image mapping 
+Mapping

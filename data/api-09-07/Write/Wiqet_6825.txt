@@ -1,0 +1,5 @@
+Multimedia and video widgets
+Wiqet
+Wiqet is a multimedia player to make an easy presentation. An online user can add photos, voice message, webcam recording or videos into the Wiqet. Websites can integrate the Wiqet tool by using the Wiqet API and offer Wiqet to their users.
+deadpool multimedia video widgets 
+Video

@@ -1,0 +1,7 @@
+Online ad management service
+adBrite
+The service manages clients&#039; web and video advertising through an open exchange implementing an auction where advertisers and web publishers agree to place ads. A user page view triggers a call to the service, which determines which advertising offering best matches the page and delivers that ad. Clients can access tools to track their ad exposure, click rates, and conversion.
+
+API methods support creating ad campaigns and defining criteria for matching them to content. The API also provides methods for reporting on and managing client accounts and ad campaigns.
+advertising 
+Advertising

@@ -1,0 +1,7 @@
+Text to speech service
+ByVoice
+The By Voice API generates voice messages from content on the web site it is placed. The service converts a written text into speech files in mp3 or wav format to include in a flash movie or other form of presentation.
+
+Account required to access API information https://www.3scale.net/signup
+speech TTS Voice 
+Utility

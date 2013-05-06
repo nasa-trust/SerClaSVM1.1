@@ -1,0 +1,17 @@
+android 1
+complement 1
+discount 1
+expand 1
+io 1
+meter 1
+mobile 3
+option 1
+payment 4
+platform 3
+program 1
+promotion 1
+purchase 1
+reward 1
+special 1
+subscription 1
+usage 1

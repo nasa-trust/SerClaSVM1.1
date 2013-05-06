@@ -1,0 +1,5 @@
+Protein functional site database
+ELMdb
+The ELMdb API provides a programmatic interface to the ELM database. The ELM database contains descriptions of functional sites, representations of functional sites, and known instances of ELMs (eukaryotic linear motifs). These ELMs are currently specified as patterns using Regular Expression rules. The ELMdb API can be accessed using SOAP calls in XML format.
+bioinformatics database science 
+Science

@@ -1,0 +1,7 @@
+Language translation service
+myGengo Human Translation
+Gengo is a Tokyo based startup, founded in 2008 with the aim of making high quality human translation simple and easy to integrate into virtually any web or mobile application or service. Gengo&#039;s hybrid translation platform, accessed via a well documented REST API, enables applications to request any combination of machine and human translations at varying service levels to optimize for speed, quality and cost. 
+
+Gengo has been integrated into a wide range of localization, digital publishing and communication services, and in addition to being integrated into popular systems, is directly accessible via the REST API, as well as pre-built client libraries for popular languages including Java, PHP, Python and Ruby. 
+cms Human language localization Translation 
+Enterprise

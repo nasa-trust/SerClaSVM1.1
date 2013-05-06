@@ -1,0 +1,5 @@
+Unified messaging service for voice, text, and email
+SoundBite
+The SoundBite web services let organizations send automated voice, text, and email messages directly from any application, according to your own business rules.  The standards-based API can be used from any language that supports SOAP and the appropriate security framework.
+email enterprise telephony 
+Telephony

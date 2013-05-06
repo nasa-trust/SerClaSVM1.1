@@ -1,0 +1,5 @@
+Image collection analysis service 
+Imagga
+Imagga is a photo processing service. Users can specify an entire collection on their computers or websites to scanned for certain graphic qualities. Analyses Imagga can run include color identification, auto-tagging, and more. Imagga can also run processes like smart-cropping on users??? images. They offer APIs the expose several functionalities, including color analyses, cropping and splicing, and image-type classification. The APIs are RESTful and provide JSON-formatted responses.
+analysis image photo tools 
+Photos

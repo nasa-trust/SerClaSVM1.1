@@ -1,0 +1,7 @@
+Online learning platform
+Desire2Learn
+Desire2Learn is an online learning platform that offers a variety of online learning products. Desire2Learn offers numerous features for both teachers and students for online learning/
+
+The Desire2Learn API allows developers to access and integrate the functionality of Desire2Learn with other applications and to create new applications. Some example API methods include managing user accounts, managing discussion forums, modules, and projects, and accessing gradebooks and dropboxes.
+education learning management 
+Education

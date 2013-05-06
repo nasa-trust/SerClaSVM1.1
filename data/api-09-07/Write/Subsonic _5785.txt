@@ -1,0 +1,7 @@
+Music streaming service
+Subsonic 
+Subsonic is a free music streamer that allows users to access and manage their music from anywhere. 
+
+The Subsonic API allows developers to build their own applications using Subsonic. These applications can be built for online platforms, desktop platforms, or mobile devices. With the API, users can search for music, access and create music playlists, stream music, access cover art, and retrieve random songs based on various criteria.
+music social 
+Music

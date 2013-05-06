@@ -1,0 +1,5 @@
+Wine database update system
+Cruvee Partner Link
+The Partner Link API can be used to integrate a site with Cruvee at the web browser level to allow winery owners/staff on a web site to ?claim? their winery on Cruvee, edit their winery profile on Cruvee, and add/edit their wines on Cruvee. Developers can then immediately pull this updated information from Cruvee using the query APIs. Cruvee provides business intelligence and performance management services for the wine industry.
+advertising CRM wine 
+Advertising

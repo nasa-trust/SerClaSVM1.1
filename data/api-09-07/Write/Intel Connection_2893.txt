@@ -1,0 +1,5 @@
+Device connection state monitoring tool
+Intel Connection
+The Intel Connection Web API provides web developers with JavaScript access to information about the device&#039;s connection state. For instance, in combination with other information about the device, a web app might use connection information to request a video stream which is approprate for the device&#039;s current bandwidth capability. A web app may determine that current signal strength is not sufficient for the app to function appropriatly for the desired user experience - and may prompt the user re-orient the device or move closer to a wireless access point.
+internet tools 
+Tools

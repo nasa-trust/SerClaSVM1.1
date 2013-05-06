@@ -1,0 +1,7 @@
+French secure online payment service
+Payline
+Payline is a French service for making secure online payments. It acts as a go-between for websites and financial institutions, providing the user&#039;s customers with a highly secure page for entering their payment details. Payline then encrypts and sends that data to the user&#039;s bank for payment. Payline is a multi-channel solution that works with any bank and includes tools to fight against online fraud. 
+
+The Payline website is provided solely in French.
+france payment security 
+Payment

@@ -1,0 +1,5 @@
+Cloud hosting services
+CloudSigma
+CloudSigma is an Infrastructure-as-a-Service (IaaS) provider offering high availability, flexible cloud servers and cloud hosting. The API provides access to the full feature set including user management, drives management, servers management and more. The API uses RESTful calls and responses are formatted in TXT.
+cloud hosting internet 
+Internet

@@ -1,0 +1,7 @@
+Web hosting management service
+Resellers Panel
+Reseller API v.2.0 provides users an interface from which they can combine the option of having a custom webdesign of a reseller store with the possibility for centralized management of their web hosting offering from the Reseller Control Panel. 
+
+Communication with the Reseller API is made via RESTful queries and responses are formatted in either XML or PHP format.
+hosting internet 
+Internet

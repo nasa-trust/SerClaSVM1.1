@@ -1,0 +1,5 @@
+Cloud based telephony application platform
+KooKoo
+KooKoo acts as an interface between your applications and telephony applications, allowing users to setup an extra delivery channel for their web applications. It can perform telephony applications like placing a call, receiving calls, send sms,gathering user input etc. It acts as another web page in an application which is accessible from the phone rather than the browser. With KooKoo users can build telecom applications, IVRs (Interactive Voice Response), office PBX and outbound campaigns. The API lets users take advantage of their existing web development skills to build telephony apps. The API uses RESTful protocol and responses are formatted in XML.
+cloud india telephony 
+Telephony

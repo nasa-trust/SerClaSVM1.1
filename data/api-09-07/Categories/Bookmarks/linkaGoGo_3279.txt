@@ -1,0 +1,9 @@
+adapt 1
+bookmark 5
+click 1
+dynamic 1
+favorite 1
+find 1
+free 1
+so 1
+social 2

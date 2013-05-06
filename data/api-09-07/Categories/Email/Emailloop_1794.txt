@@ -1,0 +1,16 @@
+account 1
+campaign 1
+connect 1
+content 1
+documentation 1
+email 3
+full 1
+list 1
+marketing 2
+own 1
+pull 1
+push 1
+report 1
+subscriber 2
+sync 1
+update 1

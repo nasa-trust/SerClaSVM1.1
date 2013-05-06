@@ -1,0 +1,5 @@
+Interact with Grooveshark music data
+Grooveshark
+From the website: &quot;Grooveshark makes available methods for accessing and interacting with Grooveshark data. This API is experimental, and may change. At present all methods require a &quot;method signature&quot; which means you need a web services key and secret to access them.&quot;
+mp3 music 
+Music

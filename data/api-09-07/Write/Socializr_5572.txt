@@ -1,0 +1,5 @@
+Event listing service
+Socializr
+Socializr is a social networking site aimed at event planning and online invitation services. It can be integrated with other online social networks such as Friendster, MySpace, Flickr and Facebook, making it possible to use photos and video from those sites. Events on Socializr can also be shared on these sites. Individuals and organizations can create profiles and promote events using Socializr. The API can be used to retrieve publicly available event listings, user and organization information. The API uses RESTful protocol and responses are formatted in JSON or RSS. 
+calendar events 
+Events

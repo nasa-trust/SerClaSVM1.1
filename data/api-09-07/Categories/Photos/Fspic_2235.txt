@@ -1,0 +1,10 @@
+desktop 1
+foursquare 3
+independent 1
+integrate 1
+mobile 1
+photo 4
+sharing 2
+social 1
+want 1
+who 1

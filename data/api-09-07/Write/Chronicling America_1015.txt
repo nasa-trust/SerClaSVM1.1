@@ -1,0 +1,5 @@
+Archive of US newspapers
+Chronicling America
+Chronicling America from the US Library of Congress, provides access to information about historic newspapers and select digitized newspaper pages. The site allows you to search and view newspaper pages from 1880-1922 and find information about American newspapers published between 1690-present. To encourage a wide range of potential uses, we designed several different views of the data we provide, all of which are publicly visible. You do not need an API key to use them. 
+government history news reference 
+News

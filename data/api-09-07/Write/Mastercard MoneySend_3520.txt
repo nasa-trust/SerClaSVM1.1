@@ -1,0 +1,5 @@
+Money transfer management service
+Mastercard MoneySend
+The MasterCard MoneySend program provides a host of money transfer functions. Users issue money from an originating institution, through a receiving institution, to a recipient. The API provides code for transaction management and interoperable account mapping functions. MoneySend is still in BETA and its services are still undergoing changes. The API uses RESTful calls and provides XML responses. Developers must register for access. 
+financial tools 
+Financial

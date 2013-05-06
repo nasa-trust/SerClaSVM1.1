@@ -1,0 +1,15 @@
+administration 1
+city 1
+current 1
+day 1
+forecast 2
+forecasting 1
+gather 1
+may 1
+national 2
+noaa 1
+oceanic 1
+retrieve 2
+seven 1
+update 1
+weather 8

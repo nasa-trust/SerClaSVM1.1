@@ -1,0 +1,5 @@
+URL shortening service
+B54.in 
+B54.in&#039;s URL Shortening API allows users to submit URLs via HTTP GET and POST calls and have them shortened with the option of customization. The service also allows users to access tracking stats for the short links at any time simply by adding a + to the end of the B54.in address.
+internet url-shortening utility 
+Internet

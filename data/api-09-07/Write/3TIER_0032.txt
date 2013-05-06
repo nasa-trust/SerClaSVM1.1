@@ -1,0 +1,14 @@
+Global wind and solar resource data
+3TIER
+3TIER&#039;s API enables you to integrate our scientifically derived, global wind and solar resource data into your own internal applications and customer experiences. You can use the API to build revenue-generating applications and mash-ups including:
+
+    ? Web-based lead generation programs
+    ? Internal and customer-facing sales tools
+    ? Product selection tools
+    ? Project design and financial modeling tools
+
+The API accesses 3TIER&#039;s global data using simple REST calls. It is an open, standards based, XML programming interface. To make integration simple and quick, 3TIER provides detailed developer documentation, programming examples, and sample code. 
+
+For more information, please visit: [[http://www.3tier.com/en/package_detail/prospecting-wind-api/ www.3tier.com]].
+energy environment green science weather 
+Weather

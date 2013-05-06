@@ -1,0 +1,7 @@
+Mobile entertainment service
+SendMe Mobile
+SendMe Mobile is a service that provides entertainment for use on mobile phones. Some features of SendMe Mobile include ringtones, wallpaper, games, and other entertainment options.
+
+The SendMe Mobile API allows developers to access and integrate SendMe Mobile data and functionality with other applications. Some example API methods include searching and returning mobile entertainment content and searching and listing the top mobile entertainment features users are accessing.
+entertainment games mobile 
+Entertainment

@@ -1,0 +1,7 @@
+Service job management service
+ServiceM8
+ServiceM8 (Service Mate) is an application that allows customers to manage field service delivery businesses. Features include job management, appointment scheduling, quoting tools, time tracking tools, and invoicing tools. ServiceM8 also offers an iPhone application. 
+
+The ServiceM8 API allows developers to access and integrate ServiceM8 functionality with other applications. Some example API methods include managing job information, managing contact information, retrieving what staff are on which jobs, and material information.
+enterprise invoicing sbweb time-tracking workforce 
+Enterprise

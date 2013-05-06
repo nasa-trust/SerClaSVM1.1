@@ -1,0 +1,7 @@
+Online recipe service
+Kraft Recipe
+The service provides recipes highlighting ingredients from the provider company that applications can incorporate. Recipes are categorized by meal and by applied classification such as kid-friendly, budget, health-conscious, and ethnic cuisine. Recipe data is broken down by ingredient, number of servings, preparation time, and other specifics.
+
+API methods support retrieval of recipes matching specified classifications with particular characteristics of interest such as ingredients and cooking time. Methods also support creation of users&#039; personal collections, ingredient shopping lists, and user polls.
+cooking food recipes search 
+Food

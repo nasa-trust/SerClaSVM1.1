@@ -1,0 +1,7 @@
+Font and web font service
+Fonts.com
+Fonts.com is a font and web font store that offers many fonts available for download and purchase. Fonts.com also offers typographic resources for designers.
+
+The Fonts.com Web Fonts API allows developers to integrate the functionality of the Fonts.com Web Fonts. With the API, developers can create and retrieve projects from Web Fonts, as well as access the Web Fonts library of fonts.
+design fonts webdesign 
+Other

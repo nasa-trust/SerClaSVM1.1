@@ -1,0 +1,5 @@
+Contact list management service
+CallFire List Service
+CallFire provides a VoIP platform that powers voice broadcasts, call centers, call tracking, and text messaging campaigns. This API allows account holders to create and manage their personal phonebook entries. Consumers can view, add or remove entries. The API lets users retrieve account lists associated with an ID, create new contact lists and validate the lists. The API uses SOAP calls and responses are formatted in XML.
+contacts telephony 
+Telephony

@@ -1,0 +1,8 @@
+Automatic cloud backup and restore service
+RestBackup
+The service enables automatic backup and restore functions within other applications or systems. It manages storage in the Amazon WS cloud, allowing users to upload data for safe backup and retrieve it to restore lost data. Users can implement the service to handle their own files, build automatic backup into their own services, or resell backup management via their own sites.
+
+API methods support creating and managing customer backup accounts, uploading and downloading backed up data, and file management functions like listing and removing files.
+
+backup fileshare storage 
+Storage

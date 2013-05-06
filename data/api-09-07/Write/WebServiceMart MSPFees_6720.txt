@@ -1,0 +1,5 @@
+MSP fee information service
+WebServiceMart MSPFees
+The WebServiceMart MSPFees API allows users to retrieve information regarding Medical Services Plan (MSP) fees. The MSP insures medically-required services, laboratory services, and diagnostic procedures for residents of British Columbia. This API returns specialty descriptions by code, or returns a list of all specialty codes. It also returns descriptions and fee amounts for fee item codes, or a list of fee items for a given specialty code.
+canada medical reference 
+Medical

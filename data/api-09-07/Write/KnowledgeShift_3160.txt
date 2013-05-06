@@ -1,0 +1,5 @@
+Training and content delivery platform
+KnowledgeShift
+KnowledgeShift is a workflow management solutions provider. They offer mobile learning technologies, workflow automation, marketing solutions, and more. They also provide workshops for training purposes. These can be accessed as PowerPoints, in-person workshops, and mobile simulations. Their other mobile offerings include content viewers, document conversion tools, and more. Their API exposes their sales and marketing automation tools. Developers can use them to integrate with backend or third-party software.
+analytics media-management tools 
+Media Management

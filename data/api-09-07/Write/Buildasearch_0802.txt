@@ -1,0 +1,5 @@
+BuildaSearch Site Search Services
+Buildasearch
+BuildaSearch site search technology is a fully scalable hosted search solution. BuildaSearch allows your visitors to find information on your site(s) fast! Our RESTful search API allows developers to integrate search services into their websites quickly and easily. Search results are formatted in either JSON or XML.
+search tools 
+Search

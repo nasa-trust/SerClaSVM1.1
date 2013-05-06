@@ -1,0 +1,7 @@
+Music storage and streaming service
+Mougg
+Mougg is a platform that allows users to upload and store all of their music in the cloud, so it is available on the web, mobile, and any other connected device. Some features of Mougg include organizing music, streaming music, sharing music, and other playback options, such as shuffling.
+
+Public documentation and methods for the Mougg API isn&#039;t available, and those interested in using the Mougg API should email qrpike@mougg.com to get an API Key and documentation access. 
+cloud music social 
+Music

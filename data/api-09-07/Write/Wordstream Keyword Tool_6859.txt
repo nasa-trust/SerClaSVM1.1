@@ -1,0 +1,7 @@
+Keyword suggestion service
+Wordstream Keyword Tool
+The Keyword Tool API allows users to programmatically download lists of keywords (sourced from our keyword database) related to a seed keyword. Using the API, users can embed the Free Keyword Tool on thier own site or application, giving their user base access to all the functionality of these keyword tools without leaving the site. WordStream is a search engine marketing software company offering an integrated keyword management solution for addressing the complexities of efficiently optimizing and expanding PPC and SEO efforts involving large numbers of keywords, on an ongoing, continuous basis.
+
+The Wordstream Keyword Tool API allows developers to implement the tool on their own sites and in their own applications. The Keyword Tool provides extensive, relevant keyword and related keyword suggestions. By using the Free Keyword Tool API, you&#039;ll be able to leverage the same dataset we use to return hundreds of thousands of relevant keyword suggestions to users every day. This data, representing over a trillion search queries and hundreds of millions of related terms, is aggregated from a number of sources through industry partnerships with search engines, Internet service providers and browser toolbars, resulting in a less biased mix of head and long-tail terms. The API uses RESTful protocol and responses are formatted in JSON.
+marketing search SEO 
+Search

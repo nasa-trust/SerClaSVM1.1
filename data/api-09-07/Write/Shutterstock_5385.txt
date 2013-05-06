@@ -1,0 +1,5 @@
+Photo sharing and storage service
+Shutterstock
+Shutterstock&#039;s API is best used by affiliates as a tool to increase earning potential through Shutterstock&#039;s Affiliate Program. Through use of the API Shutterstock&#039;s Affiliates can display Shutterstock&#039;s images directly on their sites. API is available upon request. Email affiliate@shutterstock.com to request access. Full documentation is available online at the API home page listed below.
+affiliate photo 
+Photos

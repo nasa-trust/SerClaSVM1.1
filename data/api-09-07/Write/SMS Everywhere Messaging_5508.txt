@@ -1,0 +1,6 @@
+SMS messaging service
+SMS Everywhere Messaging
+Using the API developers can create their own messaging applications with the language of their choice following the guidelines below. To send a message, data is posted over HTTP to SMS Everywhere Servers. SMS Everywhere lets users send text messages (SMS) to covered cell phones in the USA as well as receive replies. Users can try the API by using the demo keys. Usage of demo keys is limited to 5 messages/hour, and no more than 30 messages total. Complete documentation is not available publicly.
+
+messaging sms telephony usa 
+Messaging

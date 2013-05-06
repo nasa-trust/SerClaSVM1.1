@@ -1,0 +1,13 @@
+chord 6
+combination 1
+datum 1
+find 1
+fret 1
+given 1
+guitar 4
+modification 1
+music 3
+specify 1
+string 1
+utility 1
+variation 1

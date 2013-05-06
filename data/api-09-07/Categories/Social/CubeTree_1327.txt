@@ -1,0 +1,9 @@
+business 4
+create 1
+manipulate 1
+performance 1
+platform 2
+query 1
+resource 1
+revolutionize 1
+social 4

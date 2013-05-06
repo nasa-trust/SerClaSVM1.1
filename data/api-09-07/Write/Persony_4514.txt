@@ -1,0 +1,5 @@
+Conferencing and collaboration services
+Persony
+From their site: The REST API uses HTTP GET, POST, PUT, and DELETE to interface with the system. Currently, PUT and DELETE are implemented with POST. Persony is a leading provider of private label Web and video conferencing software. The smart-client allows individuals and small businesses to afford applications that were once only available to larger corporations.
+enterprise office 
+Enterprise

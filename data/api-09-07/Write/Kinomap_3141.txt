@@ -1,0 +1,5 @@
+Geolocated video sharing platform 
+Kinomap
+Kinomap provides geolocation solutions for video-making. Users who films of their travels, bike rides, or runs can create maps that track the route of their journey.  With their smartphones or GPS-enabled cameras and upload them directly to Kinomap through a downloadable app. Kinomap then hosts the videos online on their media-sharing platform. Kinomap offers APIs for uploading videos, embedding videos, and accessing data. The APIs are RESTful and return data encoded in XML and JSON. 
+geolocation social video 
+Video

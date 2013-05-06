@@ -1,0 +1,5 @@
+Denver area spatial data
+DRCOG
+The Denver Regional Council of Governments (DRCOG) has a goal of fostering regional cooperation among county and municipal governments in the Denver metropolitan area. The DRCOG database contains spatial and tabular data that is used for regional planning and policy decisions. Users can search this database by keyword or browse it by subject. The API allows users to look up data including geotable attributes, list geotable fields, retrieve features from a specified geotable and more. The API uses RESTful calls and responses are formatted in XML, JSON and KML.
+denver government location 
+Government

@@ -1,0 +1,7 @@
+U.S. DEA controlled substance validation service
+DEA Number
+The subscription service provides search-based access to the official database maintained by the U.S. Drug Enforcement Agency of those certified under the Controlled Substances Act to handle controlled substances. Hospitals and medical facilities can lookup DEA numbers to verify appropriate access to fulfill doctor prescriptions.
+
+API methods support submission of provider information and retrieval of a valid DEA number and information for that registrant, including location and license validity and expiration date. 
+drugs government usa 
+Government

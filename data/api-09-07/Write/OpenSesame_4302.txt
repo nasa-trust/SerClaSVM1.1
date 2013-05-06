@@ -1,0 +1,7 @@
+eLearning course management and marketplace platform
+OpenSesame
+OpenSesame is a platform for buying and selling eLearning courses. OpenSesame users can manage their eLearning courses, create and edit eLearning courses, and sell their eLearning courses to others, as well as buy eLearning courses.
+
+The OpenSesame API allows developers to access and integrate information and functionality from OpenSesame into other applications and sites. Some example API methods include searching and retrieving course and catalog information, integrating OpenSesame with other accounts, and accessing metadata about courses.
+education shopping 
+Education

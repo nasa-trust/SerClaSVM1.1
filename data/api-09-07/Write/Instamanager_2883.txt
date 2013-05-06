@@ -1,0 +1,5 @@
+Vacation rental service
+Instamanager
+Instamanager is a cloud-based vacation rental software provided by Bookt. The platform includes a public rental website and back-end reservation management software, among other services. The API allows for platform customization, creation of widgets and apps, and full interaction with user data on the cloud-based platform.
+rental travel vacation 
+Travel

@@ -1,0 +1,5 @@
+Note taking and management apps
+Syncode Synotes
+The Synotes REST API is created to give application developers the ability to write applications that interact with Synotes. Synotes is a note taking and management solution that syncs notes across iPad, iPhone, iPod touch, Mac OS and the web. The API provides functionality such as loading, adding and deleting notes. It uses RESTful protocol and responses are formatted in XML or JSON.
+deadpool pim 
+PIM

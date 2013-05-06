@@ -1,0 +1,9 @@
+Twitter Metrics and Analytics
+InfoChimps Social
+InfoChimps is a data marketplace where publishers and owners of datasets can charge for their usage.
+
+The InfoChimps Twitter API is a suite of Twitter measurements based on a growing 1.6 billion tweet, 55 million user data set. The calls provide users with metrics such as Twitter user reputation ranks, a user&#039;s 100 most characteristic words, top 100 users a user interacts with on Twitter and more. 
+
+The API uses RESTful protocol and responses are formatted in JSON or JSONP.
+social Twitter 
+Social

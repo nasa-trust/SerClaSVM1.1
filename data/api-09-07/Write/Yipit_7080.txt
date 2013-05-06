@@ -1,0 +1,5 @@
+Local coupon aggregation service
+Yipit
+Yipit provides aggregated online coupons, combining the offers provided by over 250 coupon services, including Groupon and LivingSocial. The Yipit API is currently in closed beta, though developers can express interest by filling out the form. No public documentation is available at this time.
+aggregator coupons shopping 
+Shopping

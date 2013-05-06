@@ -1,0 +1,16 @@
+bible 1
+christian 5
+directory 3
+graph 2
+job 1
+location 1
+ministry 1
+nonprofit 1
+opportunity 3
+output 1
+produce 1
+religion 1
+search 1
+social 2
+variety 1
+volunteer 4

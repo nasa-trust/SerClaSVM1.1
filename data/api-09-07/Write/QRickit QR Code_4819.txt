@@ -1,0 +1,5 @@
+QR code generation service
+QRickit QR Code
+The service generates QR codes that encode web URLs, email addresses, or other text for access by scanner-equipped devices. An application interacts with the service by submitting an HTTP request to its URL with variables specifying parameters for the code generated. Parameters can designate a web URL or other text string to be encoded plus footer text desired along with the size and colors of the image to be generated. The API generates the image and returns it in PNG format.
+barcode qr utility 
+Utility

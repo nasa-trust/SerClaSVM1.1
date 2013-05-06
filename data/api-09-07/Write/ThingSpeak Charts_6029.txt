@@ -1,0 +1,5 @@
+Networked device information platform
+ThingSpeak Charts
+ThingSpeak is a platform for users to share information about their networked devices. Users can post real time information about their devices to ThingSpeak through channels. The Charts API allows users to create an instant visualization of their data. The chart displays properly in all browsers and mobile devices. The chart can also show dynamic data by loading new data automatically. The API uses RESTful calls and responses are formatted in XML, JSON and CSV.
+charts device OpenSource visualization 
+Other

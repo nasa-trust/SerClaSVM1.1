@@ -1,0 +1,15 @@
+business 1
+chart 2
+create 1
+diagram 2
+diagramming 1
+drawing 1
+flowchart 1
+frame 1
+friendly 1
+map 1
+network 1
+office 1
+tool 1
+variety 1
+wire 1

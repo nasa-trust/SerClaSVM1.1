@@ -1,0 +1,5 @@
+Fashion images and other services for shopping
+Stylight
+Use the Stylight API to access a visual search engine for fashion products. For example, you could provide a search where someone could enter &#039;hugo boss&#039; and your app then displays a picture of the result. Construct requests to the Stylight database and receive images, prices or sizes of several brands and products.
+Fashion search shopping 
+Shopping

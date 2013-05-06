@@ -1,0 +1,5 @@
+OFAC screening service
+Lyons OFAC
+The Lyons OFAC web services provide streamlined access to the three most often used watch lists for clients looking to incorporate Office of Foreign Asset Control screening into their own applications. Lyons Commercial Data is a provider of U.S. financial institution data including bank routing numbers and other information critical to transaction processing. The API has simple methods that allow users to submit a name, or country and name, against the following watch lists: Office of Foreign Asset Control Specially Designated Nationals (SDN) list; Bureau of Industry and Security&#039;s (BIS) Denied Person&#039;s list; Non-SDN list (NS-PLC). The API uses SOAP protocol and responses are formatted in XML.
+money security 
+Security

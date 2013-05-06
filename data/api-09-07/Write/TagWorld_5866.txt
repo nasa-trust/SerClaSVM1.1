@@ -1,0 +1,7 @@
+Social web services
+TagWorld
+NOTE:As of 6/25/2008 it appears that this api is no longer available.
+
+From their site: Widgets are accessories to your website. Widgets can be purely decorative like the ?Virtual Flower? or it can provide integrated site functionality like a menu module or an RSS reader. Widgets are built on the Flash architecture due to the fact that this is currently the most portable rich media format. Flash is widely supported on the top browsers ? Firefox, Explorer, and Safari. It contains a secure sandbox model that doesn?t disrupt users pages. Most important, many sites block the other prevalent format ? DHTML javascript also known as Ajax. A widget can be added to virtually any site that allows for HTML to be added to the page. On social networking sites like TagWorld, you can either place a widget on your site or drop it in a user?s guestbook.
+widgets 
+Widgets

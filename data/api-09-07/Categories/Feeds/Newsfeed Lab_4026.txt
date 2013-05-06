@@ -1,0 +1,15 @@
+activity 2
+add 2
+call 1
+depend 1
+feed 5
+format 1
+host 1
+lab 2
+mobile 1
+multiple 2
+news 4
+plan 1
+response 1
+single 1
+stream 2

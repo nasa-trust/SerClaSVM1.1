@@ -1,0 +1,5 @@
+Streaming application management service
+Microsoft Silverlight Streaming
+The Silverlight Streaming service REST protocol is used to upload Silverlight applications for use on web pages.
+CDN media storage 
+Other

@@ -1,0 +1,17 @@
+come 1
+embed 3
+europe 1
+event 1
+example 1
+fan 3
+football 1
+functionality 1
+match 2
+method 1
+network 2
+platform 3
+soccer 2
+social 2
+specific 1
+sport 4
+watch 1

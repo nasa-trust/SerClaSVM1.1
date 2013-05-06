@@ -1,0 +1,5 @@
+News feed aggregator
+Feedzilla
+Feedzilla is a news feeds distributor, providing headlines and news feeds in over 2,000 categories for websites, blogs and common users. Feedzilla aggregates news feeds from over 250,000 sources, then processes and categorizes the news feeds in over 2,000 categories. Feedzilla?s news API offers easy and quick access to a vast database of news headlines.
+feeds news rss 
+Feeds

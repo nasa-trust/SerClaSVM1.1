@@ -1,0 +1,7 @@
+Semantic linking service
+Googe Refine ReconciliationService
+The service returns potential matches within a dataset for a specified name or label text. The match may be approximate so it helps to link ambiguous text strings to well-defined records or data entities. The service, based on the Freebase relevance service, functions as part of the Google Refine platform for data analysis and clean-up.
+
+API methods support submission of a query term, with limits on the number of results returned, the types of entities included in the result set, and technical details. Returned data include records from a dataset loosely matched to the submitted query string.
+matching semantic utility 
+Utility

@@ -1,0 +1,5 @@
+Price comparison services
+revAdd 
+revAdd creates price comparison engines that can be used to monetize a website or app. revAdd collects price data, creates comparison engines and keeps everything up to date. The comparison engines are made available to users via APIs which can be used to create custom widgets, apps and websites. The API uses RESTful calls and responses are formatted in XML and JSON.
+comparison ecommerce price retail shopping 
+Retail

@@ -1,0 +1,7 @@
+Online timetracking application
+BeeBole
+BeeBole is an online time tracking and billing application. BeeBole offers timetracking and reporting features, as well as budget assignment and billing for time worked. 
+
+The BeeBole API allows developers to access the data and functionality of BeeBole for integration with other applications and customizing applications. Some example API methods include searching and returning company lists, employee lists, attendance records, and managing time records.
+billing enterprise office time-tracking 
+Office

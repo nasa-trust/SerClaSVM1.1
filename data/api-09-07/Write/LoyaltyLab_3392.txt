@@ -1,0 +1,7 @@
+Customer engagement and loyalty promotion service
+LoyaltyLab
+The service is intended to build customer engagement by creating motivations for interactions, resulting in accelerated growth in loyalty. It tracks and manages purchases and over time, messaging between company and customer, involvement in brand-related events, and similar indicators of brand engagement.
+
+API methods support tracking of brand activity, product purchases, event attendance, and other shopper behavior. Methods track engagement as loyalty points, activities that increase customer point totals, and rewards to be redeemed in exchange for loyalty points.
+customer deadpool loyalty marketing shopping 
+Shopping

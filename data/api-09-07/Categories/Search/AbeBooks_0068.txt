@@ -1,0 +1,10 @@
+affiliate 1
+book 4
+bookseller 1
+marketplace 3
+out 1
+print 1
+search 2
+selling 1
+thousand 1
+world 1

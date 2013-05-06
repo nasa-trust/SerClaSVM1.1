@@ -1,0 +1,17 @@
+add 1
+appointment 2
+call 1
+create 1
+delete 1
+format 1
+functionality 2
+office 2
+read 1
+response 1
+schedule 1
+scheduling 2
+sign 1
+single 1
+software 1
+synchronize 1
+update 1

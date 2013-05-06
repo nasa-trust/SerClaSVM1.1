@@ -1,0 +1,5 @@
+Job posting management tool
+Employrium
+Employrium is a resource for both employers and job seekers in most major metropolitan areas. For job seekers, it offers realtime job search via web, mobile device and Twitter stream. Employers can pay for an account to make job postings. The API is made specifically for employers so they can easily track activity on their active postings (number of applicants, expiration date, etc.).
+HR jobs recruiting 
+Job Search

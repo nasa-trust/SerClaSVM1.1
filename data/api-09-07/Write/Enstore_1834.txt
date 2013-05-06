@@ -1,0 +1,5 @@
+Custom Enstore Client Creation
+Enstore
+The Enstore RESTful API allows developers to create their own custom Enstore clients. Developers can use the API to integrate an existing retail management application w/ Enstore, create a custom front-end store, or create a custom Enstore management application, among other things. 
+shopping 
+Shopping

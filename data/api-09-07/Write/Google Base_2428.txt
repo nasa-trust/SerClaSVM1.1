@@ -1,0 +1,9 @@
+Platform for structure and semi-structured data
+Google Base
+The Google Base API makes it possible to get items in and out of Google Base; a free service for submiting various content for Google to host and to make searchable online. The service allows content providers to upload structured data (including jobs, vehicles, recipes, events, products, reviews, and others) to Google, surface it across Google search properties, and syndicate it via apis, gadgets and gadget ads.
+
+The Google Base data API is designed to enable developers to do two things: (1) Query Google Base data to create applications and mashups. (2) Input and manage Google Base items programmatically. The query API makes it possible to search all of Google Base using attribute-based search refinements. For example, Google Base enables you to query for [used white toyota prius near mountain view, ca] by specifying condition, color, make, and other attributes. Using the Google Base Data API, developers can programmatically access Google Base. This allows for management of structured data, searching for data and syndicating content.
+
+Items inserted to Google Base may surface on Google.com. For example, see the query [used toyota] and the vehicles refinement option.
+database jobs reviews structured vehicles 
+Shopping

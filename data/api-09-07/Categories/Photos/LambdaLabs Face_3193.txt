@@ -1,0 +1,6 @@
+alternative 1
+create 1
+detection 1
+face 4
+photo 3
+recognition 3

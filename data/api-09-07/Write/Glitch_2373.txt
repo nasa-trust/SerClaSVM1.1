@@ -1,0 +1,5 @@
+Online massively multiplayer game
+Glitch
+Glitch is a web-based massively-multiplayer game. The Glitch API allows the user to expand and extend the game. The API provides information about players, skills, locations, times, dates and more. It uses RESTful calls and responses are formatted in JSON.
+games 
+Games

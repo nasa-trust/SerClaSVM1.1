@@ -1,0 +1,5 @@
+Massively multiplayer online science fiction games
+EVE Online
+From Wikipedia: EVE Online is a player-driven persistent-world massively multiplayer online game (MMOG) in a science fiction space setting in which players pilot a wide array of customizable ships. It is developed by the Icelandic company CCP Games. From their site: The world&#039;s largest game universe. The EVE API is a platform created to allow third party tools (programs, web sites, etc) to access character and corporation data for the purpose of enhancing the EVE experience. We have chosen to expose some game data with this goal in mind. 
+games 
+Games

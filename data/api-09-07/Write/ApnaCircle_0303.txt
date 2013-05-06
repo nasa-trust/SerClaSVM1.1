@@ -1,0 +1,7 @@
+Business and career networking site
+ApnaCircle
+ApnaCircle is a business and career networking site based in India. Users can access job listings, connect with colleagues, classmates, and peers, and join online communities based on interests and industries.
+
+The ApnaCircle API allows developers to access and integrate the functionality of ApnaCircle in other applications and services. Some example API methods include setting alerts for jobs and users, accessing messages, searching jobs and schools, and searching users. 
+business india jobs social 
+Social

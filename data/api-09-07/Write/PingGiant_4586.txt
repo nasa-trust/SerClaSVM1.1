@@ -1,0 +1,7 @@
+Lead generation service and database
+PingGiant
+PingGiant is a lead generation service that provides access to various databases. The data that PingGiant has can be incorporated into data feeds in real-time.
+
+The PingGiant API allows developers to access and integrate the functionality and data of PingGiant with other applications. Some example API methods include accessing PingGiant databases, finding out where visitors are coming from, and managing account information. Public documentation is not available; API access comes with account service.
+CRM customer Data enterprise 
+Enterprise

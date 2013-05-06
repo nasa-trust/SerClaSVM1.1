@@ -1,0 +1,5 @@
+Market data and stock quotes service
+Financial Content JavaScript Quote
+Financial Content is a provider of stock market data, business news and content syndication services. Financial Content develops content, traffic and revenue opportunities for publishers and advertisers in the financial media industry. Financial Content&#039;s Javascript Quote API allows you to integrate market data feeds into your web application.
+deadpool finance stocks 
+Financial

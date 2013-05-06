@@ -1,0 +1,5 @@
+DNS Hosting Service
+Point
+UK-based free DNS hosting service, with e-mail, HTTP web forwarding, and API for easy DNS management. The API allows users to interact with their point accounts in a similar way to the web interface. List, edit, create and delete DNS zones and zone records.
+deadpool DNS internet 
+Internet

@@ -1,0 +1,5 @@
+Web services integration platform
+ViaFo
+ViaFo provides a range of solutions for mobile developers that allow them to add services such as Twitter and Facebook in their apps. Viafo’s Services Gateway takes popular actions, such as share, upload, check in, local search, and tags and unifies them across the major services. For consumers, the service lets them aggregate all  RSS, news and social networking feeds onto their mobile device. For enterprises, ViaFo solutions allow mobile access to services from a dedicated client. The API gives developers access to the functionality of the ViaFo Services Gateway. It uses RESTful calls and responses are formatted in JSON. 
+internet platform applications mobile
+Internet

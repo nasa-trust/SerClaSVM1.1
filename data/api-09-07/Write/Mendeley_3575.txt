@@ -1,0 +1,5 @@
+Academic research paper sharing service
+Mendeley
+Mendeley provides access to academic research papers. From the site: &quot;Full documentation in forming proper calls will be available shortly. Currently all responses are in JSON, and JSONP is supported for callbacks. All methods are HTTP-based. An API key is required and will be given to developers who submit an application proposal. After the public launch, a simple Web form will be available for anyone wishing to obtain a developer API key and build an application. User-specific methods require authentication through OAuth. While no rate limits are imposed at the moment, except in special agreements, API calls will be limited/hour or user as determined by pre-launch testing. We welcome all feedback.&quot;
+education reference research 
+Education

@@ -1,0 +1,7 @@
+Wine shipping information service
+ShipCompliant Marketplace
+The service enables collaboration between online sellers of wine and wineries to allow fulfillment of orders compliant with government regulations on selling and shipping wine. It checks for legal compliance at the time a transaction is booked, ensuring documentation of the selling licensee, proper acceptance or rejection of the offer, processing of payment, and disbursement of proceeds.
+
+API methods support submission of an offer to purchase and compliance checks against state and federal law, based on the specific customer, seller, and shipper.
+e-commerce shipping shopping wine 
+Shipping

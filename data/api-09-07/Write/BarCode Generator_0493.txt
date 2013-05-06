@@ -1,0 +1,5 @@
+Barcode creation service
+BarCode Generator
+With this API users can draw different bar codes, for example, Code128, UPC-A, QRCode and more. It uses HTTP calls and responses are formatted in JSON.
+barcode tools 
+Tools

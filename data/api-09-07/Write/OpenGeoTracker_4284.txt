@@ -1,0 +1,5 @@
+GPS data tracking platform
+OpenGeoTracker
+This API lets users monitor their GPS-phone. Users have full control of their own data. Both client software (for phones) and server software is free open source. OpenGeoTracker is an open source platform (both client and server) for logging, retrieving and displaying GPS data. It open sources both the client and server allowing users to set up their own server and control all the data. It uses RESTful calls and responses can be formatted in CSV or KML.
+geolocation gps location mapping mobile 
+Other

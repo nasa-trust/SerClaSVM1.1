@@ -1,0 +1,7 @@
+Scientific research computing resource service
+NEWT NERSC
+The collection of REST-based services allow creation and operation of applications using the resources of the U.S. National Energy Research Scientific Computing Center (NERSC). It supports High Performance Computing (HPC) applications via browser interaction for easy retrieval and aggregations of agency content.
+
+API methods handle initial authentication followed by application interactions through AJAX calls against a javascript library (newt.jx). In this way applications can upload, browse, and download files and manage a persistent storage repository. Methods also run UNIX commands and submit batch jobs for execution.
+energy research science storage 
+Science

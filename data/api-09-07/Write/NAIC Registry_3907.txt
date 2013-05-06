@@ -1,0 +1,7 @@
+Insurance regulation compliance services
+NAIC Registry
+The service allows automated filing of standard reporting documentation required of insurance providers for compliance with state regulations. The provider is a cooperative agency maintained by state governments to encourage consistent regulatory and business practices for insurance companies. Services include filing OPTins reports and paying premium taxes electronically, submitting SEREFF insurance product registrations, and interacting with the Online Fraud Reporting System.
+
+API methods support submitting OPTins filings and payments, creating and updating insurance product registrations via the SEREFF system, and downloading centralized fraud reports from and submitting reports to OFRS.
+government Insurance 
+Government

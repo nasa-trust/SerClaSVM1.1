@@ -1,0 +1,5 @@
+Artist and Band Statistics
+Next Big Sound
+Next Big Sound is a website that measures the popularity of bands online by tracking things such as an artist&#039;s Facebook and Twitter fans and followers. The Next Big Sound API allows developers to access the data Next Big Sound gathers from social network websites and the statistics derived from that data and use it in their own applications. 
+Data music social sxsw11 tracking 
+Music

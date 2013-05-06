@@ -1,0 +1,5 @@
+Mobile messaging platform
+Kik
+Kik is a cross platform mobile messaging application for smartphones that aims to be faster and more social than standard SMS messages. Users can see when messages are delivered and read, and even when friends are typing. The Kik API lets users push content from one instance of a developer&#039;s app to other instances of the app on other phones. This is done via Kik messages. The Kik API, currently in beta, is made available via SDKs for either iOS or Android.
+android iPhone messaging mobile telephony 
+Messaging

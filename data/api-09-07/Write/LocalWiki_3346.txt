@@ -1,0 +1,7 @@
+Online community news platform
+LocalWiki
+LocalWiki is an online platform that allows users and communities to create and share local knowledge, news, and content about their communities. 
+
+The LocalWiki API allows developers to access and integrate the functionality of LocalWiki with other applications and to create new applications. Some example API methods include managing users, adding, deleting, and editing wiki content, and retrieving files, maps, and images. 
+local news wiki 
+Wiki

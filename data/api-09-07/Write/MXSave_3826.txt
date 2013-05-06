@@ -1,0 +1,5 @@
+Email backup and recovery service
+MXSave
+MXSave helps businesses and individuals with email continuity and backup. The MXSave API provides full capabilities to all services including managing clients and domains to utilize the backup mx service, managing users for the e-mail continuity service, retrieving client domain and user information useful for integrating with billing systems. MXSave provides services that queue e-mail messages automatically during mail server downtimes. The API uses XML-RPC protocol and responses are formatted in XML.
+backup email 
+Email

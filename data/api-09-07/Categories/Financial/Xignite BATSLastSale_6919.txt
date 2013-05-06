@@ -1,0 +1,15 @@
+amex 1
+bat 1
+datum 2
+exchange 2
+finance 2
+last 1
+list 1
+nasdaq 1
+nyse 1
+price 2
+real 1
+sale 1
+stock 3
+stocks 1
+trade 2

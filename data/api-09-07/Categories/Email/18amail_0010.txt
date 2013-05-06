@@ -1,0 +1,16 @@
+connect 1
+email 5
+exist 1
+hook 1
+list 1
+mailing 1
+marketing 3
+membership 1
+newsletter 1
+out 1
+populate 1
+quick 1
+send 1
+simple 1
+track 1
+up 1

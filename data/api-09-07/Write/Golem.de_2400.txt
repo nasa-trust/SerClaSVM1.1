@@ -1,0 +1,5 @@
+News article discovery service
+Golem.de
+The Golem.de web site is in German but appears to be a database of articles on the latest IT news. The API uses a RESTful interface to allow users to search and retrieve both articles and videos in a variety of ways or access article and video metadata. Responses are formatted in either XML or JSON.
+news technology 
+News

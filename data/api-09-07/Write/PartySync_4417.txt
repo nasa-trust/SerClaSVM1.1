@@ -1,0 +1,5 @@
+Messaging services
+PartySync
+NOTE: As of 6/27/2008 it appears that this service or api is no longer available
+deadpool events social 
+Social

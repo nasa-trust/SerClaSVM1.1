@@ -1,0 +1,12 @@
+budget 1
+city 3
+datum 2
+department 3
+fire 1
+government 4
+office 1
+open 1
+protocol 1
+rest 1
+seattle 4
+transportation 1

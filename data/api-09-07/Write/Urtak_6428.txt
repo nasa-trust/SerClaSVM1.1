@@ -1,0 +1,7 @@
+Question and answer tool
+Urtak
+Urtak is a question and answer poll service. Users can create questions for their audience to respond to with one of three simple responses: yes, no, or don&#039;t care. Urtak is embedded within content to ask questions of the audience.
+
+The Urtak API allows developers to integrate Urtak functionality into applications and platforms that are not already supported by Urtak. Some example API methods include listing Urtaks, showing an individual Urtak, creating Urtaks, and editing Urtaks.
+answers polls questions tools 
+Answers

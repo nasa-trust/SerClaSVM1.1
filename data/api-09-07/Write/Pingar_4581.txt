@@ -1,0 +1,5 @@
+Unstructured electronic data management service
+Pingar
+Pingar offers a technology platform for searching and analyzing large amounts of unstructured data. Its API suite allows a company???s existing software to work with Pingar???s data analysis and search technology to manage the company???s unstructured data. Unstructured data can include: documents (hard and soft), web-pages, emails or any kind of text. With the API, users can perform content analysis, entity extraction and rapid discovery. The API uses SOAP protocol with responses formatted in XML.
+extraction search 
+Search

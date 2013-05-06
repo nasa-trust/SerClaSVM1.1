@@ -1,0 +1,7 @@
+Designer/developer community
+Forrst
+Forrst is a community for designers and developers to connect and share their work. Users of Forrst can share links, screenshots of their current projects and code to help their fellow developers. The Forrst API provides access to all these types of posts, as well as user information. Applications can authenticate users to retrieve additional information.
+
+This API is in beta, with write methods planned soon.
+social webdesign 
+Social

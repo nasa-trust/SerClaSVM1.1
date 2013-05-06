@@ -1,0 +1,12 @@
+control 1
+event 1
+function 1
+music 3
+pause 1
+perform 1
+play 2
+player 2
+queue 1
+receive 1
+song 1
+streaming 1

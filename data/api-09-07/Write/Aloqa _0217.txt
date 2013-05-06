@@ -1,0 +1,7 @@
+Mobile content publishing service
+Aloqa 
+The Aloqa Content Publisher API allows you to publish location-relevant content (a business directory, social network, dating site or any other relevant content useful for people on the go) by creating a ???channel??? on Aloqa instead of building and supporting mobile applications for the many phones out there.
+
+REST API coming soon, now support of XML feeds only.
+mobile social 
+Other

@@ -1,0 +1,5 @@
+Virtual data storage service
+Orange Personal Content
+Orange is France Telecom&#039;s single brand for Internet, television and mobile. France Telecom is a leading telecommunications operator in Europe. The Personal Content API alpha is part of the Personal APIs suite. The Personal Content API gives user applications real time access to Orange France customers&#039; &quot;Mes donn¨¦es&quot;service, enabling them to upload content from their site to their virtual data storage application, with their permission. The API uses RESTful protocol and responses are formatted in XML.
+storage telephony 
+Storage

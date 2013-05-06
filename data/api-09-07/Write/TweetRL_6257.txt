@@ -1,0 +1,5 @@
+Revenue sharing twitter article service
+TweetRL
+The TweetRL API allows users to interface with the TweetRL service. TweetRL, is a 100% revenue sharing social Media website which automatically send your links to twitter and stumbleupon and that will be reviewed by all and will be relocated in twitter, based on Number of tweet, to the main page. When a user submits a news article it will be relocated in stumbleupon and twitter of that user and be placed in the upcoming area until it gains sufficient Tweets to be promoted to the main page. The RESTful API allows users to login to the pligg site or post new bookmarks to tweetrl.
+deapdool social Twitter 
+Social

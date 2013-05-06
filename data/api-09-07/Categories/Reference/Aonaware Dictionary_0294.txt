@@ -1,0 +1,13 @@
+definition 1
+dictionary 5
+format 1
+generate 1
+lookup 1
+multiple 1
+protocol 1
+pull 1
+reference 2
+resource 1
+response 1
+result 1
+soap 1

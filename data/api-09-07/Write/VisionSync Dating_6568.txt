@@ -1,0 +1,5 @@
+Virtual dating application
+VisionSync Dating
+VisionSync offers social applications on Facebook including its dating app SocialConnect that allows users to go on virtual dates. An API is offered for developers in the dating sector to share a single API with an established userbase of 500k profiles. Documentation is not publicly available.
+dating facebook social 
+Dating

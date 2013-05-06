@@ -1,0 +1,5 @@
+Singapore government data
+data.gov.sg
+The Government of Singapore offers an online data catalogue at data.gov.sg for data from dozens of government agencies. A number of APIs are available including APIs for maps (wireless hotspots, family services, performing arts centers, monuments, waste disposal sites, parks, hotels, tourist attractions, etc.); traffic (incidents, images, road conditions, parking availability, etc.); tourism (events, places, hotels, etc.); environment (weather conditions, vehicle and appliance pollution datasets, etc.); and library data feeds (eBook catalogues, library programs and locations, new item search, catalogue search, etc.). APIs are RESTful, JavaScript, and ESRI.
+government Singapore Tourism weather 
+Government

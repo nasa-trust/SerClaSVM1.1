@@ -1,0 +1,5 @@
+Document creation service
+LiveDocx MailMerge
+LiveDocx is a template-based document creation service. It allows developers to create word processing documents by combining user-defined Microsoft Word templates with data from disparate sources, such as XML files and databases. It is typically used to create professional, print-ready documents in DOCX, DOC, RTF, or PDF format. The LiveDocx API makes these functions available programmatically via SOAP calls.
+documents office tools 
+Office

@@ -1,0 +1,9 @@
+Hand-written thank you note service
+ThankThank Notes
+ThankThank Notes is a service that sends hand-written thank you notes to their clients&#039; customers. The thank you notes are customizable and can be sent individually or in bulk. 
+
+The ThankThank Notes API is an alternative to ThankThank Notes web form. Instead of filling out a web form for each thank you note batch, the API allows clients to integrate ThankThank Notes functionality into their website and/or CRM system, so ThankThank Notes go out automatically as determined by the client. 
+
+Public documentation is not available. 
+notes postal realworld sales 
+Other

@@ -1,0 +1,7 @@
+U.K. geocoded location information
+SignalFire Postcode
+The service provides geocoded location information for a specified U.K. postal code. Also available is a reverse geocoding service that supplies postal code geocoding information for a location in the U.K. specified by latitude and longitude.
+
+API methods support lookup of location information based on submission of a U.K. postcode as a string including the standard space. Methods also support the reverse process, with submission of latitude and longitude strings to retrieve a postal code and related geocoding information.
+geocoding mapping parcel shipping 
+Mapping

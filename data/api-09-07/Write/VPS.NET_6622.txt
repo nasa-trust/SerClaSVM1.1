@@ -1,0 +1,5 @@
+On demand cloud hosting provider
+VPS.NET
+VPS.NET is an on demand cloud hosting provider. The VPS.NET API allows resellers and integrators full access to all functions on the VPS.NET CP. Users can build their own Cloud offering, or manage thier VPS from within their application. Users must register to download API and full documentation.
+cloud hosting 
+Internet

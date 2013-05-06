@@ -1,0 +1,5 @@
+Question and answer site
+FixYa
+FixYa.com is a community-based question and answer site. Users log in and post any questions, specifically about technical problems they have. Other community members and subject experts provide solutions. Their API is offered through business-to-business partnership. It exposes their large repair and support solutions database to be integrated in customer service operations. 
+answers business database questions social 
+Social

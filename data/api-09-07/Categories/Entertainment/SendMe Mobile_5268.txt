@@ -1,0 +1,17 @@
+content 1
+datum 1
+entertainment 7
+example 1
+feature 2
+functionality 1
+game 2
+integrate 1
+listing 1
+method 1
+mobile 10
+option 1
+phone 1
+return 1
+search 2
+top 1
+wallpaper 1

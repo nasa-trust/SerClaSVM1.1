@@ -1,0 +1,12 @@
+User Agent checking service
+Freak CMS User-agents
+User-agents.freakcms.com is a searchable database of user-agents as used by browsers, search-engines spiders and crawlers, web-directories, download managers, link checkers, proxy servers, web filtering tools, harvesters, spambots, badbots. 
+
+This REST API connects to the Freak CMS database of bad bots and known spammers and returns a JSON response. 
+
+This API can be used to check user forums, blogs, sites etc, for known bad bots and spammers. It can also be used to do search and display bot information. 
+
+This api grabs a GET action and respond&#039;s with JSON, can list, match, search for spiders, bots, crawlers.
+ This is a must for any web masters who would like to put a stop to spam.  
+Agents internet security strings unofficial user 
+Security

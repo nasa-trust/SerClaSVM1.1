@@ -1,0 +1,7 @@
+Marketplace for books, movies and music
+Alibris
+The Alibris API gives users access to all of the information in Alibris&#039; database. Alibris is the world&#039;s largest independently owned and operated book, music and movie marketplace. They offer over 100 million used, new, collectible, rare and out-of-print items to consumers, libraries, and retail business partners. 
+
+The Alibris API gives users access to a multitiude of data including: current books, music, and movies for sale at very competitive prices; items listed by title, author, ISBN, etc.; bibliographic data, prices, cover images and more; information about our independent sellers; reviews and recommendations for desired items. Methods available include: search Method ??? Returns a list of items or Works that match the input parameters;  recommendations Method ??? Returns a list of recommended Works based on one or more Work IDs; reviews Method ??? Returns reviews at a Works level based on the Work ID. The API uses RESTful protocol and responses can be formatted in either XML or JSON. 
+deadpool shopping 
+Shopping

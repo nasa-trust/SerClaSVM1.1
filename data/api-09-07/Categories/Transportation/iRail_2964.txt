@@ -1,0 +1,14 @@
+arrival 1
+basic 1
+belgium 3
+board 1
+departure 1
+offering 1
+response 1
+return 1
+schedule 3
+station 1
+times 1
+train 3
+transit 1
+transportation 2

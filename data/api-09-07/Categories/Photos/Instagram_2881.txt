@@ -1,0 +1,16 @@
+authentication 1
+connection 1
+contact 1
+elements 1
+friend 2
+like 1
+medium 1
+mobile 2
+network 1
+photo 6
+share 1
+sharing 2
+social 1
+take 1
+twitter 1
+upload 1

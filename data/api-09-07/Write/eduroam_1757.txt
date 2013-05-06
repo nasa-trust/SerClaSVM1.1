@@ -1,0 +1,7 @@
+European internet resource management service
+eduroam
+The service registers uniform resource names (URNs) for European educational institutions and federations cooperating for delivery and sharing of internet resources. The registry is intended to facilitate single sign-on functions and ease of interaction for local networks of the G??ANT federation partner institutions.
+
+API methods support retrieval of registry listings, with URN and description for each supported resource within federation networks. Returned data can become part of authentication requests to fulfill resource sharing agreements.
+authentication internet 
+Internet

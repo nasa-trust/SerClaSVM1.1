@@ -1,0 +1,5 @@
+Fraud detection service
+IPInfoDB E-Commerce Fraud Detection
+The IPInfoDB E-Commerce Fraud Detection API compares shipping/billing information with IP geolocation data for all countries. For USA and Canada, the API also confirms area code and postal/zip code information. It is very flexible, and parameter weights can be set manually. For example, specify whether, if the IP is in the Spamhaus blacklist, the weight of importance of this factor should remain at #2, or specify whether to keep as #1 importance that the email address provider is a free email service.
+security shopping 
+Security

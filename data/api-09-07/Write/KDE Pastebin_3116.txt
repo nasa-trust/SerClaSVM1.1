@@ -1,0 +1,5 @@
+Pastebin service
+KDE Pastebin
+KDE Pastebin is an opensource pastebin service allowing users to upload snippets of text or code for public viewing. The API allows developers to create their own project pastebin, show individual pastebins or list a collection of pastebins. The API uses HTTP protocol and functions performed return the results in XML or JSON format.
+OpenSource pastebin programming tools 
+Tools

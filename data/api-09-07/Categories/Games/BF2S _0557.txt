@@ -1,0 +1,16 @@
+battlefield 2
+detail 1
+details 3
+essential 1
+game 3
+get 2
+locate 1
+main 2
+much 1
+play 1
+player 4
+profile 3
+return 2
+see 1
+socialize 1
+who 1

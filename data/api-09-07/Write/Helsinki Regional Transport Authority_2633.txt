@@ -1,0 +1,7 @@
+Helsinki public transit trip planner
+Helsinki Regional Transport Authority
+The Helsinki Regional Transport Authority (HRT) provides transit information for local bus, tram, metro, ferry, and commuter train services. Timetables and routes, information about tickets and fares, passenger guides, trip planning, and more is available on the HRT website. A RESTful API is available for the trip planner service. Responses are returned in XML.
+
+
+finland transit transportation 
+Transportation

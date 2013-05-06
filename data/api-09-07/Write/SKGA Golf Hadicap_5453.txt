@@ -1,0 +1,5 @@
+Golf handicap in Slovakia
+SKGA Golf Hadicap
+The SKGA Golf Handicap is a mobile app that allows users to list and lookup their handicaps on different Slovakian courses. The API itself is RESTful with responses formatted in XML.
+golf reference 
+Reference

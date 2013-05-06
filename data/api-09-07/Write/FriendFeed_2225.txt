@@ -1,0 +1,7 @@
+Activity stream aggregator
+FriendFeed
+The FriendFeed API enables developers to interact with the FriendFeed web site programmatically via simple HTTP requests. FriendFeed is a service that makes it easy to share with friends online. It offers a fun and interactive way to discover and discuss information among friends.
+
+The API uses RESTful calls and supports methods such as downloading and reading feeds and more. It&#039;s designed to make it possible for anyone to improve FriendFeed or integrate FriendFeed into other applications. Users can develop FriendFeed interface for a mobile phone, build a FriendFeed widget for blogs, or develop an application that makes it easy to post photos to a feed from an iPhone. The API supports both XML and JSON output formats.
+lifestream rss social 
+Other

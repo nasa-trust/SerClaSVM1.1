@@ -1,0 +1,17 @@
+chart 2
+conjunction 1
+coordinate 1
+datum 2
+direction 1
+distance 1
+elevation 7
+format 1
+generate 1
+given 1
+mapping 2
+open 3
+option 1
+output 2
+raw 1
+route 1
+two 1

@@ -1,0 +1,7 @@
+Grant application submission service
+Research.gov Application Submission
+The service accepts applications for grants from the National Science Foundation (NSF) so local applications can initiate grant applications, allow review and modification, and complete final submission for consideration by the agency. It gives access to lists of grant opportunities as well as functions to submit applications and track status through the decision and funding processes.
+
+API methods support retrieval of an opportunity list and detailed information about selected grant offerings. Methods also handle online submissions, with listings of all submissions for a grant and status inquiries for specific applications.
+financial government research 
+Government

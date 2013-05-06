@@ -1,0 +1,5 @@
+Skiing
+Skicow
+From their site: This API is designed for web masters who wish to embed a ski search facility on their web site. The Skicow API uses Javascript to dynamically present a search form and search results. AJAX is used to retrieve data from skicow.com without the need for entire page changes. Implement it with an iFrame or Javascript. Different regions and languages are available.
+skiing sports widgets 
+Widgets

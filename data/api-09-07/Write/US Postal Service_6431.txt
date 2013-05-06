@@ -1,0 +1,5 @@
+Package shipping and postage
+US Postal Service
+From their site: Integrate a variety of USPS Web Tools into your website, shipping operation, or customer service center - for no additional fee. Our Application Program Interfaces (APIs) provide U.S. Postal Service rates, shipping labels and much more while keeping your customers on your Web site.
+government shipping 
+Shipping

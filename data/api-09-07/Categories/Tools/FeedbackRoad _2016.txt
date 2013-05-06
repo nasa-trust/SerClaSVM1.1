@@ -1,0 +1,13 @@
+add 1
+collect 1
+company 1
+customer 4
+delete 1
+editing 1
+feedback 4
+functionality 1
+idea 4
+listing 1
+management 3
+method 1
+tool 2

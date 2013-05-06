@@ -1,0 +1,7 @@
+Neighborhood public issue reporting tool
+Baltimore Open311
+Baltimore Open311 allows developers to create third-party apps that citizens can use to report public neighborhood issues, such as potholes, graffiti and more, to Baltimore&#039;s 311 reporting service. 
+
+The Open311 API is RESTful, and returns responses in XML and JSON.
+government mapping open311 
+Government

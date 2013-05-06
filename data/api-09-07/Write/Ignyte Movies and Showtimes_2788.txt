@@ -1,0 +1,5 @@
+Local movie showtime service
+Ignyte Movies and Showtimes
+This web service lets users submit a zip code and a radius and returns a list of theaters along with all the movies playing for the current date. The service allows users to call it without registering for a key; however, when doing so it returns complete information for only one theater. The API uses SOAP protocol and responses are formatted in XML.
+events movies 
+Events

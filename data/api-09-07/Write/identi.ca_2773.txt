@@ -1,0 +1,5 @@
+Microblogging service
+identi.ca
+Use the identi.ca API to include Identi.ca either as an option in your programs or as the main platform for development. The Identi.ca API supports an API compatible with Twitter&#039;s, based on the open source project StatusNet. Identi.ca users can post small (140 chars or less) text notices and also subscribe to others&#039; posts. Also, Identi.ca now supports a full feed of the public timeline via XMPP, which is likely most useful for data aggregators. Identi.ca is different from Twitter, Jaiku, Pownce, Plurk, and others because it is open, transparent, built on free software, and all the data is openly available via the Creative Commons Attribution license.
+deadpool microblogging social 
+Blogging

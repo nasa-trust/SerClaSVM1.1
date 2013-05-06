@@ -1,0 +1,5 @@
+Video player customization services
+Ooyala Video Player
+The Ooyala Player API enables full customization of the Ooyala Player look and feel, as well as functionality. Embed videos into any site. 
+video 
+Video

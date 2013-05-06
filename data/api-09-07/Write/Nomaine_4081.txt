@@ -1,0 +1,5 @@
+Domain name generator service
+Nomaine
+Nomaine is a themed domain name generator with availability checking. After analysis, word parts from lists are rearranged to create random pronounceable names. The RESTful API allows users the same functionality with responses formatted in either XML or JSON.
+domain-names internet 
+Internet

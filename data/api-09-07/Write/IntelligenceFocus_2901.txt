@@ -1,0 +1,7 @@
+User analytics service
+IntelligenceFocus
+IntelligenceFocus is a user analytics service that looks beyond page views and into how users interact with a brand online across not only the web site but also on various media.
+
+The IntelligenceFocus APIs provide access to all the information stored in the IntelligenceFocus Database as a Service through open, standards-based SOAP Web Services. With the API developers can query the database to pull and push customer related data, create and render charts and reports and create custom analytics applications. Full documentation is not publicly available.
+analytics internet tracking visitor website 
+Internet

@@ -1,0 +1,11 @@
+close 1
+december 1
+details 1
+down 1
+home 1
+management 1
+page 1
+photo 4
+picture 3
+see 1
+shut 1

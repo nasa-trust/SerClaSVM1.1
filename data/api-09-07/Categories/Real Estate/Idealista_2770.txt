@@ -1,0 +1,16 @@
+address 1
+call 1
+datum 2
+estate 3
+expose 1
+format 1
+leading 1
+pic 1
+portal 2
+price 1
+real 3
+response 1
+search 3
+simple 1
+spain 2
+spanish 1

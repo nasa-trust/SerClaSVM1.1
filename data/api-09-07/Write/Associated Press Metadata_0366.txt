@@ -1,0 +1,5 @@
+News content metadata service
+Associated Press Metadata
+The Associated Press is the world's oldest and largest newsgathering organization. The AP Metadata service is a set of APIs that gives developers access to the metadata associated with the organization's news content. The metadata includes both the AP news taxonomy and the AP metadata tags. Data can be returned in XML, JSON, HTML or TTL. 
+news metadata
+News

@@ -1,0 +1,17 @@
+address 1
+datum 1
+feature 3
+fields 1
+hotel 1
+latitude 1
+longitude 1
+mapping 2
+open 2
+pub 1
+result 1
+return 1
+search 5
+source 1
+subset 1
+type 1
+version 1

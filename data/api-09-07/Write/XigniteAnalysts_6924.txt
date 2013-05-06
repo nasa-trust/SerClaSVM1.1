@@ -1,0 +1,5 @@
+Analysts ratings on U.S. stocks
+XigniteAnalysts
+From their site: This web service provides analyst stock ratings on U.S. stocks. Information includes details and statistics on average and consensus ratings, number of analysts with recommendations, upgrades and downgrades, and revision trends.
+enterprise finance money 
+Financial

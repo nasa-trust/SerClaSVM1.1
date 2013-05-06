@@ -1,0 +1,9 @@
+Italian open government data
+CKAN Italy
+CKAN is the Comprehensive Knowledge Archive Network, a non-profit registry of open data. CKAN prepares data and provides access to data in ways that make that data more discoverable and usable. 
+
+The government of Italy makes some datasets available through CKAN, including data on immigration; real-time parking in the city of Turin; National Energy Balance; tourist accommodations in various cities; Italian state schools; museums; and more. 
+
+The CKAN API provides access to this data. The API is RESTful and returns responses in JSON and JSONP.
+government italy 
+Government

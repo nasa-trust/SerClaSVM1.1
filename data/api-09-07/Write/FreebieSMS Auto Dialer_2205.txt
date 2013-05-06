@@ -1,0 +1,8 @@
+Send audio messages to phones
+FreebieSMS Auto Dialer
+The FreebieSMS Auto Dialer API lets users send an audio message to a landline or mobile phone. FreebieSMS offers bulk SMS provision to businesses who need to send SMS messages automatically. Public documentation for this API is not available.
+
+Coverage:
+global (pay-per-use), europe, usa, southafrica, malaysia, russia, australia (reverse charged)
+Global sms telephony uk Voice 
+Telephony

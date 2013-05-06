@@ -1,0 +1,12 @@
+add 1
+board 2
+call 1
+datum 1
+event 1
+format 1
+news 3
+notice 2
+public 2
+pulling 1
+report 1
+response 1

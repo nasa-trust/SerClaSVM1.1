@@ -1,0 +1,5 @@
+Music utility service
+Guitar Chord
+Guitar Chord API can find guitar chord variations based on given data about chord. You can specify chord name, chord modification, or/and string/fret combinations.
+guitar music 
+Music

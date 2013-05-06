@@ -1,0 +1,7 @@
+Online human transcription service
+FoxTranscribe
+FoxTranscribe provides human transcription services for video and audio content. 
+
+The FoxTranscribe API allows other applications to integrate with our service to provide transcription capabilities to their users. The API currently allows uploading audio/video media, placing and managing orders, and retrieving finished transcripts.
+audio Human tools Transcription video 
+Tools

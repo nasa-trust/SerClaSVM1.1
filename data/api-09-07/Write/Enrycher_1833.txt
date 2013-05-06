@@ -1,0 +1,7 @@
+Text analysis and keyword generation service
+Enrycher
+The service provides text analysis and processing at two levels. Shallow text processing reviews a sample to detect topic and keyword coverage and extract named entities, including people, places, organizations, and some numerical entities like percentages and amounts of money. Deep text processing attempts to resolve named entities detected with standard sources and linked datasets, including DBpedia, while also merging references to identical named entities, disambiguating word senses, and performing other complex semantic processing.
+
+API methods support identification of named entities within sample text and merging of separate references to a specific entity. Methods also detect matches for those entities within standard repositories, disambiguation of references to different entities, categorization, and export to RDF formats.
+analysis keyword reference semantic 
+Reference

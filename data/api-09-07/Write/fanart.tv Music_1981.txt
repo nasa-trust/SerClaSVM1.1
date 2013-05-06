@@ -1,0 +1,7 @@
+Music fan art repository
+fanart.tv Music
+fanart.tv Music is an online repository for art and images created about musicians and music by fans. Users can upload images and search the repository for images by musician name.
+
+The fanart.tv Music API allows developers to access the images in the fanart.tv Music repository for integration with other applications. API methods available are searching for images and retrieving images and the information associated with them.
+art fan image music 
+Music

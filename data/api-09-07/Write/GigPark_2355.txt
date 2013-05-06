@@ -1,0 +1,5 @@
+Local recommendations service
+GigPark
+GigPark is a local business recommendation service where you can see places your friends suggest. From real estate agents and lawyers, to hairdressers and chiropractors, the GigPark community helps you find the best service businesses near you. The GigPark API makes some of this recommendation data available to developers. Retrieve individual business, user and recommendation data, returned as developer-friendly JSON.
+local recommendations social 
+Recommendations

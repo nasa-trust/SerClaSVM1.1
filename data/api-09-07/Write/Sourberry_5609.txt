@@ -1,0 +1,5 @@
+Sourberry Internet Radio Status Tool
+Sourberry
+Sourberry is an open internet radio service based in Turkey. The service allows anyone to broadcast live radio, syndicated through the Sourberry network. Sourberry offers a RESTful API for developers to use to retrieve the status of the Sourberry service and its current programs. The API returns either JSON or XML formats and the documentation is in Turkish.
+music radio turkey 
+Music

@@ -1,0 +1,16 @@
+account 1
+action 1
+capture 1
+create 1
+event 1
+example 1
+functionality 1
+integrate 1
+manage 1
+method 1
+mobile 3
+record 1
+retrieve 1
+track 1
+usage 3
+utility 2

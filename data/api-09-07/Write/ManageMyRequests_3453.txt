@@ -1,0 +1,7 @@
+Information request tracking and reporting service
+ManageMyRequests
+The UK service provides case management to track and update a variety of ongoing information requests and similar engagements, in part to help maintain compliance with legal requirements for information disclosure. Sample applications include tracking Freedom of Information Act requests, requests related to enforcement of environmental laws, inquiries to law enforcement agencies and other public records managers, and personal information requests.
+
+API methods support creation of a case with all specifics when the engagement begins, designation of agents involved in the case, updating activities as they occur, and termination of the case when the request is fulfilled. Methods also generate reports of case status to verify request compliance.
+government law uk 
+Government

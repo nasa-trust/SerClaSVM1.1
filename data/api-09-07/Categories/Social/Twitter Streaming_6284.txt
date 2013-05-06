@@ -1,0 +1,17 @@
+contain 1
+datum 1
+filter 2
+high 1
+location 2
+near 1
+protect 1
+public 4
+sampling 2
+social 2
+status 2
+stream 2
+streaming 3
+subset 1
+throughput 1
+twitter 4
+ways 2

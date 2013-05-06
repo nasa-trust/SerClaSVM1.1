@@ -1,0 +1,5 @@
+Australian government information service
+OpenAustralia
+OpenAustralia.org aims to make it easy for people to keep tabs on their representatives in Parliament. OpenAustralia maintains a database of information about representatives, senators, debates, and government news. The OpenAustralia API returns lists and details about all of these components.
+Australia government 
+Government

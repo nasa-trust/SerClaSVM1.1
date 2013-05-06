@@ -1,0 +1,7 @@
+Payment interface service
+Developer Garden ClickandBuy
+Developer Garden provides API&#039;s for a variety of telecom and marketplace services, including ClickandBuy, a one click online payment gateway. ClickandBuy is designed with the intent to handle the charging or payment aspects of online transactions, leaving users free to concentrate on selling and shopping.
+
+The API gives programmatic control over initiating, canceling, and refunding transactions with ClickandBuy. Additionally, the API exposes methods for executing, processing, and managing batch transactions. This is a SOAP-based API that charges fees based on account activity and transactions.
+ecommerce payment 
+Payment

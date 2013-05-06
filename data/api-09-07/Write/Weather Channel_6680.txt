@@ -1,0 +1,5 @@
+Weather forecast data
+Weather Channel
+From their site: Since 1982, The Weather Channel has brought timely weather information to the world. Now you can include weather from The Weather Channel in your own application by signing up for access to our XML data feed. We&#039;ll enable you to search for a location and to integrate current conditions and the forecast for today and tomorrow in your application for free.
+weather 
+Weather

@@ -1,0 +1,5 @@
+Online gambling service
+BETDAQ
+The BETDAQ website allows users to place bets on sports such as horse racing, soccer, American football, rugby, and golf for real money. The site also offers poker and other online gambling games. Being based in the UK, BETDAQ deals primarily in euros and British pounds. The BETDAQ API allows users to interact with the website&#039;s betting functions programmatically.
+deadpool gambling games sports 
+Sports

@@ -1,0 +1,7 @@
+Video mass-distribution service
+Hey!Spread
+The service provides a scalable platform for distributing and tracking video online. Applications can use the service to mass-distribute and track video as part of promotional or other outreach campaigns. Tracking data provide insight in effectiveness of assets distributed via the service.
+
+API methods support management of sites that distribute video content, along with upload, management, and deletion of video assets with notification of successful upload. Methods also enable service account management and retrieval of tracking statistics.
+media streaming video 
+Video

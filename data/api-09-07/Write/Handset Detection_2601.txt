@@ -1,0 +1,5 @@
+Mobile phone database
+Handset Detection
+Handset Detection is a real time, self updating, database of thousands of mobile phones. The RESTful API allows users to query the service with XML or JSON and retrieve information such as a list of vendors for all devices in the system. Libraries are available in PHP, Python, Java and ASP.NET.
+mobile sbweb telephony 
+Telephony

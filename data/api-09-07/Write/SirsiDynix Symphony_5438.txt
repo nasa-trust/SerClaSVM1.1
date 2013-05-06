@@ -1,0 +1,5 @@
+Library automation services
+SirsiDynix Symphony
+SirsiDynix provides library automation systems for more than 23,000 libraries in more than 70 countries around the world. SirsiDynix offers APIs that allow libraries to gain full access to all information held within their system. The Symphony API includes tools for performing batch transactions and gives users the ability to gather, edit, load, export and format data within the system. Functionality includes access to the library catalog, ability to verify accounts and logins, access to user account information, retrieval of system information such as policies and much more. Interested developers should contact the provider for more information.
+library managment 
+Other

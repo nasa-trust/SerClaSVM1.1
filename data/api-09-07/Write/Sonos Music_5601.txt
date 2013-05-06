@@ -1,0 +1,5 @@
+Multi room audio system
+Sonos Music
+Sonos is a consumer electronics company offering a multi-room audio system that lets users listen to music stored on a computer or the cloud. The Sonos Music API is a web-services API that provides a consistent way for content to be delivered by web-based services and consumed by consumer playback devices. It is designed to support a range of content providers, including on-demand music services as well as internet radio streaming. Technical documentation is not publicly available but developers can obtain access by registering as a Sonos Music Partner.
+device music 
+Music

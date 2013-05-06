@@ -1,0 +1,5 @@
+Weather forecast and historical information service
+ServiceObjects DOTS Fast Weather
+The ServiceObjects DOTS Fast Weather API allows users to retrieve a variety of weather information including current weather, weather warnings, five-day forecasts, and historical weather conditions. Users may designate a location by zipcode, city, IP address, or WMO (World Meteorological Organization) ID number depending on the API call to be used.
+forecast weather 
+Weather

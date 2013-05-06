@@ -1,0 +1,5 @@
+Online video management platform
+Streamio
+Streamio is a media management platform for businesses. Client can manage video content on Streamio???s web-based platform. Once videos are uploaded, clients can categorize their videos with Smart Tags and video libraries. From the platform, clients can share their videos across multiple channels, such as intranets, websites, YouTube, and more. Streamio provides a RESTful API that exposes the platform???s video uploading and data management functionality. The API returns JSON-formatted data. 
+enterprise media-management video 
+Media Management

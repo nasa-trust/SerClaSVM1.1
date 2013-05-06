@@ -1,0 +1,7 @@
+Atmospheric science digital resource search service
+NCAR Digital Library
+The service provides search against the digital repository of the University Corporation for Atmospheric Research, part of the National Center of Atmospheric Research. The service can deliver resources based on free-text search or field-specific (advanced) search. Results can be sorted by relevance or by combinations of field-value filters, and limitations can be applied by date range, collection, or geographic location.
+
+API methods support submission of a query as free text or targeted to specific fields in the item description index. Methods also allow specification of a collection to retrieve only items contained in that subset. The API also allows submission of date range and geographic filters and specification of result ordering criteria.
+science search weather 
+Search

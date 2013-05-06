@@ -1,0 +1,5 @@
+Radio Station Information Service
+RadioPing
+RadioPing is a directory service for internet radio stations. The RadioPing API provides radio information to users. The API integration provides continually updated radio station information, arranged by location and genre, as well as the reliability and popularity for each radio station. RadioPing is offered as a RESTful web service that returns XML. An API Key can be obtained once a license contract has been completed, but a free public key is available for developers as a demo. 
+directory music radio Station 
+Music

@@ -1,0 +1,7 @@
+Mobile messaging service
+Textlocal
+Textlocal offers services for mobile marketing campaigns, allowing clients to execute SMS or MMS campaigns using individual or bulk messages. Organizations can upload their contact lists, or use a short code to allow people to join the campaign via text. Textlocal offers reporting and statistics services, and allows messages to be send instantly or scheduled for a later date and time.
+
+The Textlocal API can be used to connect email, applications, or internal systems to Textlocal services. The API exposes methods for sending and receiving SMS and MMS messages, checking credit balances, and adding numbers to campaign lists. The API requires purchased credits for sending and receiving messages, and the rates are determined by the number of credits purchased. This API operates over HTTP and uses the JSON data format.
+Global marketing messaging MMS sms telephony 
+Telephony

@@ -1,0 +1,15 @@
+account 1
+automate 1
+billing 4
+client 1
+create 1
+creation 1
+finance 2
+integrate 1
+invoice 2
+management 1
+payment 1
+support 1
+system 1
+ticket 1
+work 1

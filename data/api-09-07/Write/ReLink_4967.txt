@@ -1,0 +1,5 @@
+Content Management and Publishing Service
+ReLink
+Relink allows users to collect, manage, and publish the content they have on the web. The service includes a URL shortener and access to Web Containers. The API contains tools to encrypt, check the status or uploads, container linking, bank checks, merge relinks, and other services. The service uses REST calls. 
+affiliate url-shortener utility 
+Utility

@@ -1,0 +1,5 @@
+Local market research platform 
+Get Me Listed
+Get Me Listed is a local marketing service. Advertising agencies and search marketers can use it to improve businesses??? visibility in local listings. Get Me Listed provides a local market research analysis platform with keyword analysis, recommendations, reviews locators, and more. The Get Me Listed API exposes the research platform???s integration functionality and allows developers to connect it with in-house and third party software. 
+advertising deadpool local 
+Advertising

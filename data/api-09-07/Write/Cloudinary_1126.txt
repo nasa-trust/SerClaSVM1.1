@@ -1,0 +1,7 @@
+Digital asset management service
+Cloudinary
+Cloudinary is a web asset management platform that allows users to store and manage their digital and web assets in the cloud. Assets, such as images, can be stored, resized, and managed in the cloud.
+
+The Cloudinary API allows developers to access and integrate the functionality of Cloudinary with other applications. Some example API methods include retrieving images, managing asset information, and managing account information.
+cloud image media media-management 
+Media Management

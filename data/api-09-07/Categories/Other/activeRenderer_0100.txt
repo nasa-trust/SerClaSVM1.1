@@ -1,0 +1,7 @@
+bring 1
+experience 1
+outline 3
+power 1
+publishing 4
+radio 2
+tool 1

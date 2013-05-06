@@ -1,0 +1,12 @@
+ally 3
+automate 1
+commerce 2
+customer 1
+merchant 2
+payment 4
+process 1
+processing 2
+series 1
+solution 1
+transactions 1
+wallet 3

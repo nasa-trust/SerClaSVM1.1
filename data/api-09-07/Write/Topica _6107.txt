@@ -1,0 +1,7 @@
+Email marketing service
+Topica 
+Topica is an email marketing service. Topica offers its customers features like creating HTML email campaigns, sign-up forms on websites, campaign reports, and automatic email subscriptions. 
+
+The Topica API allows developers to access the subscription functionality of Topica for integration with other applications and sites. The API method allows for email subscription management, such as adding and deleting email addresses and exporting subscriber lists. 
+email marketing 
+Email

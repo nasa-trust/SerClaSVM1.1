@@ -1,0 +1,7 @@
+Interactive mind-mapping service
+Strand Map
+The Strand Map Service (SMS), together with the National Science Digital Library (NSDL), provide an interactive graphical interface to help K-12 students understand the relationships between science concepts. Educators can use the Strand Map Service to insert Strand Maps provided by the American Association for the Advancement of Science (AAAS) into websites.
+
+The JavaScript API helps educators to easily display Strand Maps, and also exposes the functionality to add custom content and event listeners into the maps. This API is freely available, and uses JSON as its data format.
+brainstorm education learning science 
+Education

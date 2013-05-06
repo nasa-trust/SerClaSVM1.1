@@ -1,0 +1,5 @@
+Mapping service
+South African YellowPages Maps
+This API allows users to load a map of the entire world. Users can watch the map and also make different type of utilities using the API. Developers can add map controls and overlays, calculate driving directions, and search within the map. The API uses JavaScript protocol and responses are formatted in JSON.
+deadpool display mapping places southafrica viewer 
+Mapping

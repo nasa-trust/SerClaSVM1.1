@@ -1,0 +1,5 @@
+Biometric check processing service
+AllTrust
+AllTrust is the maker of Paycheck Secure, the leading biometric check cashing solution. Paycheck Secure uses biometric fingerprint technology to help stop check fraud and make check cashing transactions faster. The API allows developers to integrate Paycheck Secure and other AllTrust solutions into their applications. The solutions that can be integrated using the API include Check Cashing, Check Guarantee, Bill Payment, Prepaid Services and Identity Management with optional biometric ID. Public documentation is not available.
+biometric checking payment 
+Payment

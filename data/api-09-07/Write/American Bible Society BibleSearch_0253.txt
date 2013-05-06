@@ -1,0 +1,7 @@
+Bible access and search service
+American Bible Society BibleSearch
+American Bible Society is a nonprofit organization which publishes, distributes and translates the Bible and provides study aids and other tools to help people engage with the Bible. 
+
+The BibleSearch API allows any developer to include Scripture content and text anywhere in their website or application for non-commercial purposes. It provides access to multiple Bible versions, search across them by keyword or passage, and return Scripture in a number of formats. The API uses RESTful calls and responses are formatted in XML and JSON.
+bible reference religion search 
+Reference

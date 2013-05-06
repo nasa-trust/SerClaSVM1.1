@@ -1,0 +1,5 @@
+Domain name suggestion service
+DomainsBot
+DomainsBot is a leading provider of domain name suggestion services including domain name search. The API allows developers to integrate this functionality into their own website. The domains returned are checked against local zone file copies that are refreshed daily. The API uses RESTful calls and responses are formatted in XML, JSON and CSV.
+domain internet search 
+Internet

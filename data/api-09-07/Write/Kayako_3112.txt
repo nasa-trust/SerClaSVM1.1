@@ -1,0 +1,5 @@
+Help desk software
+Kayako
+Kayako is help desk software that lets users manage email, tickets, live chat, calls and remote support. The Kayako API lets developers develop applications to connect and integrate into their Kayako helpdesk. With the API, users can build a custom plugin, connect Kayako to another app or pull data from Kayako into other internal systems. The API lets users retrieve, add and modify data in their helpdesk. Nearly every object in Kayako (ticket, user, staff, etc) can be manipulated using the API. The API uses RESTful calls and responses are formatted in XML.
+enterprise helpdesk office 
+Enterprise

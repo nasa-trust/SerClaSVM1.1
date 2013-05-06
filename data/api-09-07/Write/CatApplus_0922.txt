@@ -1,0 +1,5 @@
+Android app organization service
+CatApplus
+CatApplus is a service that lets users automatically categorize their android apps. Users do not need to create folders and drag their apps, the apps are automatically categorized into 30 available categories. The API gives users access to statistics for the application. These statistics include the total number of apps, total publishers, top 30 requested apps and more. The API uses RESTful calls and responses are formatted in JSON.
+application categorization organization tools 
+Tools

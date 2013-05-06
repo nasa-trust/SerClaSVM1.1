@@ -1,0 +1,17 @@
+activity 1
+beta 1
+build 2
+design 1
+display 1
+flash 2
+give 1
+location 3
+mapping 3
+movement 1
+network 1
+own 1
+place 1
+private 1
+social 2
+technology 1
+tool 1

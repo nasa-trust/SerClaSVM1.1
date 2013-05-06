@@ -1,0 +1,5 @@
+Educational framework and tools
+Triumph
+The Triumph API allows users to retrieve lessons and tests on unspecified subjects. It also provides a calendar/planner function and methods for accessing media resources. It has the capacity to keep track of multiple users and their information. The Triumph API operates via SOAP using the XML data format.
+calendar education media planning 
+Education

@@ -1,0 +1,7 @@
+Photograph sales service
+ExposureManager
+ExposureManager provides business tools for photographers, such as selling photographs, proofing capabilities, order management, and more. ExposureManager is a service for photographers optimized for sales - online and offline.
+
+The ExposureManager API provides a programmable interface to galleries, photos, image uploads, and processing.
+marketing photo shopping 
+Photos

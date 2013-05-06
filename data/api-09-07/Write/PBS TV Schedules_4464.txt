@@ -1,0 +1,5 @@
+TV schedule data service
+PBS TV Schedules
+PBS offers the TV Schedules API to allow developers direct access to TV schedule metadata. The methods exposed by this API make a variety of types of data available, including air dates, program info, station info, and future schedules. This free service operates via REST, returns data in JSON, and requires an API key for access.
+entertainment reference schedule television 
+Entertainment

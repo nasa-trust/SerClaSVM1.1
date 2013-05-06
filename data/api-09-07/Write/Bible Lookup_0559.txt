@@ -1,0 +1,5 @@
+Bible lookup service
+Bible Lookup
+Makes the entire American Standard edition of the Holy Bible available by chapter, verse etc. through SOAP.  
+bible books deadpool religion 
+Other

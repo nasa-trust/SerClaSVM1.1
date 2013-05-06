@@ -1,0 +1,5 @@
+Stock and market price data service
+FinancialContent Fundamental Data
+FinancialContent is a provider of stock market data, business news and content syndication services. Financial Content develops content, traffic and revenue opportunities for publishers and advertisers in the financial media industry. The XML Fundamental Data API covers most stocks and includes information needed to display stock quotes including ticker symbol, exchange code, closing price and much more. The data can be accessed via HTTP calls.
+financial market stocks 
+Financial

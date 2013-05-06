@@ -1,0 +1,7 @@
+Real-time public transit information
+RouteShout
+RouteShout provides free mobile apps to any transit agency and the public. RouteShout uses  General Transit Feed Spec. (GTFS) for data collection and currently provides services for over 173 transit agencies in the United States and Canada.
+
+RouteShout also exposes their API for outside developers. The API uses HTTP GET and returns responses in the JSON format.
+aggregator bus gtfs transit 
+Transportation

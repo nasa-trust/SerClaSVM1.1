@@ -1,0 +1,7 @@
+Email marketing and CRM synchronization system
+EmailManager
+The Emailmanager API is a way for you to be able to synchronize your customer base, CRM, CMS or shopping cart e-commerce with the EmailManager email marketing system. You no longer need to constantly import and export manually updated lists between EmailManager and its database; both lists are automatically synchronized. This API also performs list management functions, functions for creating and sending issues, and developers can also retrieve campaign statistics.
+
+The EmailManager API, currently in Beta, provides data as XML, JSON or serialized PHP. Developers can use either a simple HTTP API or XML-RPC, where method calls are wrapped in XML.
+CRM email marketing 
+Email

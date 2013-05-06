@@ -1,0 +1,5 @@
+Social ecommerce service
+Tinypay.me
+Tinypay.me is an e-commerce service that allows users to sell their products or services online by creating a quick listing. The listing is then shared with a user&#039;s social network. The API enables developers to create their own e-commerce apps. The API will enable other users log in with their PayPal account, put items up for sale and receive payments - all from within the application. The API uses HTTP POST protocol and responses are formatted in XML.
+shopping social 
+Shopping

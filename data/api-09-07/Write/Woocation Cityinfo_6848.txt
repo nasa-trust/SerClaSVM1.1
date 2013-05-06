@@ -1,0 +1,10 @@
+City information resource
+Woocation Cityinfo
+Woocation gives travelers information about the places they want to visit. The site does this by collecting as much data as it can about a place. The Woocation Cityinfo API provides information about cities worldwide.
+From currency to 
+nearest domestic and international airports, it provides data which developers can pick from to make new applications.
+
+NOTE  : The nearest airport facility is only available for asia and oceanic continents as of now but we will be updating this for whole of the world in coming weeks very very soon.
+
+local travel 
+Travel

@@ -1,0 +1,5 @@
+Tech and gadgets trade-in marketplace
+TechForward 
+TechForward is a tech marketplace. It offers consumers and merchants a streamlined system for updating electronic gadgetry. Merchants can subscribe to a network that allows them to make use of trade-in technology. Consumers can find plans with willing merchants that provide guaranteed prices for trade-ins. TechForward also provides an API for merchants. It exposes information of the merchants??? network.
+commerce electronics shopping 
+Shopping

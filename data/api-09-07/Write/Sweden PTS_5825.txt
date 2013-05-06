@@ -1,0 +1,5 @@
+Swedish telecom agency
+Sweden PTS
+PTS is the National Post and Telecom Agency of Sweden (Post- och telestyrelsen). PTS offers online directory services, compare prices for telephone and internet services, computer diagnostic tools, and more. A SOAP-based API is available for the &quot;search operator&quot; service, which identifies which operator a particular phone number belongs to. 
+sweden telephony 
+Telephony

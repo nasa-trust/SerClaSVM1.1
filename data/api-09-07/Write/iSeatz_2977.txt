@@ -1,0 +1,5 @@
+Customized online travel and entertainment solutions
+iSeatz
+iSeatz is a global provider of customized online travel and entertainment website solutions that offer immediate access to nearly 200,000 services and products. iSeatz flexible platform is centered on the proprietary aggregation application, iSeatz OneView.  The iSeatz API can gather information from multiple sources and communicate the information in a uniform way regardless of the form of input. It uses an XML/Web Service based framework. Public documentation is not available on the site.
+travel 
+Travel

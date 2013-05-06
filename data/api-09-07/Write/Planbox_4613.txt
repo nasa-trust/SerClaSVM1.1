@@ -1,0 +1,7 @@
+Project management service
+Planbox
+Planbox is a project management and collaboration service. Built on SCRUM, Planbox offers a dashboard that allows project and product management, tracking, and collaboration between team members.
+
+The Planbox API allows developers to access Planbox&#039;s functionality and data. Some example API methods include searching and retrieving product information, accessing tasks, and retrieving resources.
+collaboration project-management tasks 
+Project Management

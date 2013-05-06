@@ -1,0 +1,7 @@
+Blogging platform
+Yandex Ya.ru
+Yandex is the largest search engine in Russia and develops a number of Internet-based services and products. Yandex offers owners of websites and blogs tools with which they can apply the functional services of Yandex in their projects. The site and documentation are in Russian. 
+
+The Ya.ru API provides programmatic access to the Ya.ru blogging platform data services. With this access users can develop applications that integrate with the Ya.ru platform. Examples of such applications include: logging client for creation of posts; graph a user&#039;s social ranking and statistics, publish pictures and videos from Ya.ru on other sites and mobile applications. The API uses RESTful protocol and responses are formatted in XML.
+blog russia 
+Blogging

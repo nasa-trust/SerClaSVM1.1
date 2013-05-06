@@ -1,0 +1,5 @@
+Species datasets
+Global Biodiversity Information Facility
+Global Biodiversity Information Facility (GBIF) enables access to over 7000 datasets by over 200 data providers as part of a UDDI Registry. Get species data, including plants, animals, fungi and micro-organisms, plus species occurrence records with classifications and scientific and common names. Participants in the GBIF network can use a toolkit to efficiently publish to the Internet biodiversity data. GBIF is an international group that works to make the world&#039;s biodiversity data accessible anywhere. The GBIF office is at the University of Copenhagen, Denmark, in the Zoological Museum.
+biology science 
+Reference

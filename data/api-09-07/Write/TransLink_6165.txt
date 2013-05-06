@@ -1,0 +1,5 @@
+Transit data service
+TransLink
+TransLink is the transit authority for Vancouver (British Columbia). Route and schedule information are available via Google Transit Feed Specification (GTFS) format and accessible with a JSON-based API (read and agree to the terms of service for access to the API documentation).  
+canada gtfs transit transportation vancouver 
+Transportation

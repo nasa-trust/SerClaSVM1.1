@@ -1,0 +1,7 @@
+Sports betting information service
+Pinnacle Sports
+Pinnacle Sports is an online service that offers sports odds and other information for betting on sports. Pinnacle Sports offers information on multiple sports, including football, soccer, baseball, rugby, and the 2012 summer Olympics.
+
+The Pinnacle Sports API allows developers to access and integrate the functionality of Pinnacle Sports with other applications. Some example API methods include retrieving lists of sports, retrieving lists of leagues, and retrieving sports feeds.
+betting gambling sports 
+Sports

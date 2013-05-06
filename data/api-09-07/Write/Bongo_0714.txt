@@ -1,0 +1,5 @@
+Iowa cities transit data
+Bongo
+Bongo provides transit schedule information for Iowa City, the University of Iowa, and the city of Coralville, Iowa. Realtime location information as well as estimated arrival times are accessible via the Bongo API. The API is RESTful and returns responses in XML, JSON, and JSONP. 
+bus iowa schedules transit transportation 
+Transportation

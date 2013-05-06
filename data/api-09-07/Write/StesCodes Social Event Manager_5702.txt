@@ -1,0 +1,5 @@
+Social network calendar management service
+StesCodes Social Event Manager
+StesCodes is a web solution provider. As part of their portfolio of services, StesCodes offers several APIs. The StesCodes Social Event Manager provides the ability to create one click buttons from which the user can give access to StesCodes to manage their calendars across various social networks. Using the API, events from StesCodes will be placed in the user&#039;s calendar. The API uses HTTP calls and responses are formatted in XML and JSON.
+calendar social 
+Social

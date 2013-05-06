@@ -1,0 +1,6 @@
+Online rhyming dictionary
+RhymeBrain
+RhymeBrain displays the best rhyming and most commonly used words for a search query. The API allows users to include RhymeBrain.com rhyming results on their web site. It uses RESTful calls and responses are formatted in JSON.
+
+Dictionary reference rhyming 
+Dictionary

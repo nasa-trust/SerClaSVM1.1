@@ -1,0 +1,7 @@
+Link (URL) shortening service
+DFT.BA 
+DFT.BA (stands for &quot;Don&#039;t Forget to be Awesome) is a link (URL) shorten er. Links can also be customized with unique names.
+
+The DFT.BA API allows developers to access DFT.BA functionality and information. Some example API methods include shortening links, expanding links, and retrieving link statistics.
+deadpool internet url-shortener utility 
+Internet

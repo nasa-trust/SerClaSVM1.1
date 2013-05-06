@@ -1,0 +1,13 @@
+Gaming review service
+GamePro
+Gamepro offers a database of content for gamers and developers that includes: 
+
+    * 11,000 game titles on 20 different game platforms
+    * 18 types of meta data for most game titles such as video, screens, and ratings
+    * 250 news articles and game reviews being written each month
+
+The API lets you develop a custom feed of any element of GamePro&#039;s content database that you want. Available data includes Game Catalog Data, Ratings and Reviews, Industry News, Video and Screens, and Cheats.
+
+
+deadpool games recommendations 
+Games

@@ -1,0 +1,5 @@
+United States political data lookup
+FreedomSpeaks
+The FreedomSpeaks.com site is the first non-partisan online political social network, and you can now use the FreedomSpeaks API to tap into their database of over 10,000 public official profiles. Also use the API to view officials by address, view officials by ID, email officials, create a letter, forward a letter, or search officials. This site is different because you can actually compose letters or emails to your government officials, whether federal or state, and then have the site send it automatically for you for free. The letter goes via email or fax.
+government politics 
+Government

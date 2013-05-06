@@ -1,0 +1,5 @@
+IP address lookup service
+Mark Sutuer IP Utils
+IP Utils is a simple API that helps users with common IP functionalities. These include the ability to lookup and resolve an IP address. The free API uses HTTP calls and responses are formatted in JSON. Example code is provided for Java, Ruby, Python, PHP and Objective-C.
+internet IP 
+Internet

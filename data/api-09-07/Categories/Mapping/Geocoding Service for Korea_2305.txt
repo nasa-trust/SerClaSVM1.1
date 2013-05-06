@@ -1,0 +1,12 @@
+address 2
+find 2
+given 1
+korea 4
+korean 2
+latitude 2
+longitude 2
+mapping 2
+open 1
+pair 1
+reverse 2
+specific 1

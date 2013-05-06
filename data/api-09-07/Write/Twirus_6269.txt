@@ -1,0 +1,7 @@
+Regional Twitter trend statistics service
+Twirus
+Twirus offers an API for 3rd parties to find and use data about local and international trends on twitter. Currently popular and trending topics, tags, and posters on twitter can all be viewed. Data can be used on a freely available website with attribution. A license may be obtained for other purposes such as historical statistical analysis.
+
+
+international microblogging social trends Twitter 
+Social

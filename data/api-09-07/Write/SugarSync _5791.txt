@@ -1,0 +1,7 @@
+On demand computer backup and synchronization
+SugarSync 
+The SugarSync API lets developers integrate SugarSync with their desktop and Web apps, build apps to extend SugarSync functionality, or simply leverage the SugarSync cloud. SugarSync is an on-demand web service that securely backs up  computers online and synchronizes them automatically. It allows access to the latest version of user files from anywhere -- on the web, on different computers, even on mobile phones.
+
+The SugarSync Platform API is a RESTful web service that allows users to create applications that can create, read and modify files stored in thier SugarSync accounts. Using HTTP requests, an application can choose a file that has been synced up from a user???s PC, retrieve the file???s contents, make changes and store the results back into SugarSync. The modified file then automatically syncs back to each of the user???s systems. Responses are formatted in XML.
+backup cloud storage 
+Storage

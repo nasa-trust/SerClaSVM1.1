@@ -1,0 +1,7 @@
+Insane Clown Posse fans social network
+JuggaloBook
+JuggaloBook is a social network for fans of the hip-hop group, Insane Clown Posse. JuggaloBook has many features of other social networks, such as photo albums, status updates, and friend interaction.
+
+The JuggaloBook API allows developers to access and integrate the functionality of JuggaloBook with other applications and to create new applications. Some example API methods include retrieving friend lists, uploading photos, and managing account information.
+fan music social 
+Social

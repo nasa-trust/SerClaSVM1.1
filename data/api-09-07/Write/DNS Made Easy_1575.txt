@@ -1,0 +1,7 @@
+Internet domain hosting service
+DNS Made Easy
+DNS Made Easy currently offers DNS services to approximately 500,000 domains on the Internet. DNS Made Easy???s API is available to perform core functions of the DNS Made Easy web interface programmatically. DNS Made Easy???s API is an alternative to DNS management through the conventional web interface.
+
+This API allows clients to integrate their DNS Made Easy domain and record modifications as part of their normal hosting maintenance and server provisioning. Features like the Global Traffic Director, HTTP Redirection, and the Peregrine Instant DNS Update system are all available through this API. The API uses RESTful calls and responses are formatted in XML and JSON.
+DNS domain internet 
+Internet

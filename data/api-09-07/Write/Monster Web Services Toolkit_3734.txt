@@ -1,0 +1,5 @@
+Recruiting and job search tools
+Monster Web Services Toolkit
+This API allows users to publish job ads to the Monster.com job search and placement service. Users interact with BGW by sending SOAP messages over HTTPS.  Monster service includings job seeking, career management, recruitment and talent management products and services.
+jobs recruiting 
+Job Search

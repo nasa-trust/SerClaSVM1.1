@@ -1,0 +1,5 @@
+Taste discovery service
+TasteKid
+The TasteKid API allows developers to integrate recommendations into other products/applications. TasteKid is a discovery engine that provides on spot, relevant, music, movies, shows, books and authors recommendations, based on one&#039;s existing preferences. The purpose of these recommendations is discovery and taste exploration. The API uses RESTful protocol and responses are formatted in either XML, JSON or JSONP.
+books movies music recommendations 
+Recommendations

@@ -1,0 +1,5 @@
+Science blog article aggregator
+ScienceSeeker
+ScienceSeeker collects articles from science blogs around the world, allows users to find the latest science news and discussion on any topic. The database includes more than 1,000 blogs and 120,000 posts. The Search API lets users query the database using a number of sorting options such as title, summary, number of recommendations, or posts talking about a specific peer-reviewed article. Developers can integrate the functionality of the API with third party sites or applications. It uses HTTP calls and responses are formatted in XML.
+articles blogging science search 
+Blogging

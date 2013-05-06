@@ -1,0 +1,5 @@
+Web page and subpage language translation
+Microsoft Translator
+The Microsoft Translator AJAX API provides automated translation of web pages and portions of web pages into different languages.
+language Translation 
+Utility

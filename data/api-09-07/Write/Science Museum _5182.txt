@@ -1,0 +1,5 @@
+British Science Museum data and services
+Science Museum 
+Use the Science Museum APIs to access pledge information and a list of exhibitions and galleries, both current and historical. The Pledges API was developed for the Science Museum exhibition, Does flying cost the Earth? In the exhibition, visitors made pledges, and some also entered demographic data. Use the Pledges API to access this pledge data. The Countries API is used by the Pledges API for reference purposes. The Exhibitions API lists exhibitions and galleries at the Science Museum, both current and those from the past.
+museum reference science uk 
+Education

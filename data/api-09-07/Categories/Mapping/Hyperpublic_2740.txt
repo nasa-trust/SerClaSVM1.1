@@ -1,0 +1,15 @@
+collect 2
+collection 1
+coupon 1
+datum 3
+deal 1
+event 2
+integrate 1
+interest 1
+local 3
+location 2
+mapping 2
+open 1
+place 2
+platform 1
+point 1

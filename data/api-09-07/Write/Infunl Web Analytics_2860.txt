@@ -1,0 +1,5 @@
+Web analytics and tracking service
+Infunl Web Analytics
+Infunl is a web analytics service and tracking service that records events from the browser and represents them internally as a sequence for each unique visitor. Collected events are immediately available for analysis with our query language. The API allows for these queries to be executed programmatically. Queries can include metrics such as unique visitors, visit counts, page view counts, event data per visit and more. The API uses HTTP calls and responses can be formatted in XML, JSON, JSONP and CSV.
+analytics internet tracking visitor website 
+Internet

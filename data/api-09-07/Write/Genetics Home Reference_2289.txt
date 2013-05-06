@@ -1,0 +1,5 @@
+Genetics research site
+Genetics Home Reference
+Genetics Home Reference is the National Library of Medicine&#039;s web site for consumer information about genetic conditions and the genes or chromosomes related to those conditions. This API lets users link from their web site to Genetics Home Reference. Functionality includes formulating search requests, linking to specific condition, gene and chromosome pages. It uses RESTful calls and responses are formatted in XML.
+reference science 
+Reference

@@ -1,0 +1,8 @@
+Online code compiler and debugger
+Ideone
+The Ideone API allows users to run code in multiple languages online. Ideone is an online compiler and debugging tool which allows users to compile and run code online in more than 40 programming languages. Using the API, developers can create their own desktop applications, www pages, on blogs and mobile devices. It can be used for educational, personal and business purposes.
+
+The API allows users to upload source code and share it with everyone on the Internet, run the code (with input data) on server side in more than 40 programming languages, download results of the execution (output, standard error, compilation information, execution time, memory usage, etc.). It uses SOAP protocol and responses are formatted in XML.
+
+code compiler debugger tools 
+Tools

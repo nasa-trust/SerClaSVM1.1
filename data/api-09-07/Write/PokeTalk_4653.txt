@@ -1,0 +1,5 @@
+Web Telephony Service
+PokeTalk
+PokeTalk is a web service that provides low-cost international phone calls to customers. The PokeTalk API allows developers to use PokeTalk&#039;s tools in their own applications. Developers need an API Key and PokeTalk&#039;s poketalk.base.js file in their web directory to make applications.
+telephony Voice 
+Telephony

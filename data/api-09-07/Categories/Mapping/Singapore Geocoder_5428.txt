@@ -1,0 +1,9 @@
+address 1
+code 2
+convert 1
+lat 1
+long 1
+mapping 2
+mash 1
+resource 1
+singapore 4

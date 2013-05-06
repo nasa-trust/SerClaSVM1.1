@@ -1,0 +1,5 @@
+Image sharing service
+mlkshk
+MLKSHK is an image and video sharing site. It provides an API that lets users access the functionality of the site programatically. Functionality exposed includes the ability to get lists of friends, favorites and shakes, as well as upload images and get user info. The API uses RESTful calls and responses are formatted in JSON.
+photo social 
+Photos

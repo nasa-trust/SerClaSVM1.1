@@ -1,0 +1,7 @@
+Activity and goal tracking application
+Quantter
+Quantter is an application that allows users to track their goals and daily activities like reading, writing, or running while their friends cheer them on. Quantter requires a Twitter account for use and sign in.
+
+The Quantter API allows developers to access the data and functionality of Quantter. Some example API methods include creating &quot;efforts&quot; (activities and progress), getting user efforts, listing efforts, and accessing users via email, Facebook, Twitter, or user ID.
+deadpool goals social 
+Goal Setting

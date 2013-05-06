@@ -1,0 +1,15 @@
+call 2
+citation 3
+document 1
+extraction 2
+free 1
+function 1
+journal 1
+parse 4
+perform 1
+reference 1
+science 2
+soap 1
+string 1
+structure 2
+text 1

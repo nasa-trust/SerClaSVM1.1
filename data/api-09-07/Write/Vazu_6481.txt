@@ -1,0 +1,5 @@
+SMS messaging service
+Vazu
+Basic functionality (limited quantity, text messages, US only) is free but advanced usage is fee based. 
+deadpool messaging sms telephony 
+Messaging

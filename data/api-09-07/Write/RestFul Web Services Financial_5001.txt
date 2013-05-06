@@ -1,0 +1,7 @@
+Suite of financial services
+RestFul Web Services Financial
+RestFul Web Services provides a suite of financial APIs for performing a variety of tasks. This includes retrieving information on stock quotes, currency conversion rates, or the London Gold Fix (the price of gold on the London market). The FedACH Service provides financial institutions with batched payment services that enable an electronic exchange of debit and credit through the Automated Clearing House (ACH) network.
+
+These services are accessible using either SOAP or REST calls in XML format. All calls are directed toward WSDL endpoints, regardless of the protocol used.
+conversion finance payment stocks 
+Financial

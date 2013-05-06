@@ -1,0 +1,5 @@
+Life sciences search services
+NCBI Entrez
+The NCBI Entrez Utilities Web Service enables developers to access Entrez Utilities via the Simple Object Access Protocol (SOAP). The Entrez database contains bioinformatics data.
+science 
+Medical

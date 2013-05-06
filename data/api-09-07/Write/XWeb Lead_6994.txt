@@ -1,0 +1,5 @@
+Lead management services
+XWeb Lead
+XWebServices is an SOA Services firm focused primarily on financial services, health care and real estate. The Lead API provides lead management functionality when integrated with other applications. The API gives developers data storage and data access layer functionality for storing and retrieving leads. Functionality includes allowing applications to display a specific lead record, all lead records, leads entered within a specific date range, leads entered by a specific source, as well as perform data manipulation on individual lead records. The API uses SOAP protocol and responses are formatted in XML.
+enterprise leads marketing sales 
+Enterprise

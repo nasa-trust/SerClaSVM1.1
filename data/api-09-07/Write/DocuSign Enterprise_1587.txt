@@ -1,0 +1,9 @@
+Electronic signature contract execution services
+DocuSign Enterprise
+DocuSign is a Cloud based legally compliant eSignature service.  DocuSign service provides an intuitive web, mobile and an API interfaces.  DocuSign API allows an application to connect DocuSign service or embed parts of DocuSign user experience.  
+
+By connecting to DocuSign web services applications can create electronic signature transactions, retrieve electronically signed documents, get up to date status on outstanding envelopes and do other Create/Read/Update/Delete operations.
+
+By embedding DocuSign interface applications can provide single-sign-on capability and insert signing or sending user experience into their applications.
+contract enterprise esignature execution signature 
+Enterprise

@@ -1,0 +1,15 @@
+arrival 1
+bongo 3
+bus 1
+city 3
+datum 1
+estimate 1
+iowa 5
+location 1
+response 1
+return 1
+schedule 2
+times 1
+transit 3
+transportation 2
+university 1

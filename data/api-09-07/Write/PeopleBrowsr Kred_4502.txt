@@ -1,0 +1,5 @@
+Online influence measurement
+PeopleBrowsr Kred
+PeopleBrowsr is a social analytics service specializing in the measure of social influence. Kred, created by PeopleBrowsr, measures influence in online communities connected by interest. It measures a user???s relative ability to inspire action from others like retweeting, replies or new follows. The Kred API returns Kred scores for Twitter handles across multiple online communities. It uses RESTful calls and responses are formatted in JSON.
+influence social 
+Social

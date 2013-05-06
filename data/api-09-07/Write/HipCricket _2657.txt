@@ -1,0 +1,5 @@
+Mobile marketing and advertising services
+HipCricket 
+Hipcricket is a mobile marketing and advertising company. Hipcricket offers AD LIFE, a messaging platform that lets users create, manage and measure mobile marketing campaigns. The platform gives users the ability to send messages out via SMS or MMS. The Hipcricket API allows developers to integrate the platform&#039;s ability to send and receive mobile messages into their own existing systems. Documentation of the API is not publicly available.
+advertising marketing messaging mobile 
+Advertising

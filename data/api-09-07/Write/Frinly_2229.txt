@@ -1,0 +1,5 @@
+Photo sharing service
+Frinly
+The Frin.ly API allows users access to the site functionality. Frin.ly is a free photo sharing site that allows users to share their photos on Twitter. Users can post photos via Mobile Phone, Email, or through the Frin.ly site itself. The site offers a set of API&#039;s that will allow developers to quickly and easily integrate Frinly photos into their application. With it users can upload and post their photos to the site. The API uses RESTful calls and responses are formatted in XML.
+microblogging photo social Twitter 
+Photos

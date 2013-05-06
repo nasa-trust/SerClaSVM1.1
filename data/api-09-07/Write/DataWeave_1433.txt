@@ -1,0 +1,5 @@
+Aggregated public data
+DataWeave
+DataWeave provides actionable public data for applications and analytics by aggregating, parsing, organizing and visualizing millions of data points from the Web. This data is then offered to users in a uniform format via a set of data APIs. This set of APIs includes data on commodity prices, UN population statistics, eCommerce prices, earthquakes, India trade data, world weather and more. The APIs use RESTful calls with responses formatted in JSON.
+Data government public 
+Government

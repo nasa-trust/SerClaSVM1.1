@@ -1,0 +1,7 @@
+Local public directory
+CityGroups
+CityGroups is a searchable public directory that allows community organizers and residents to find community groups by location and topic. CityGroups helps connect and publicize these groups by working with local community groups, governments and local technologists to make an open platform for finding and recommending groups working to make cities better.
+
+The directory uses a simple data standard that allows humans and computers to import and export data from the system. Data can be imported using CSV and an API is available that allows for export using JSON. Developers can use this data to build new services on top of the group listings, such as a map, a text-message service, or group-to-group notification system.
+community directory local reference 
+Reference

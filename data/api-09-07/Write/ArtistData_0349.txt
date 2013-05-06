@@ -1,0 +1,7 @@
+Artist information retrieval service
+ArtistData
+ArtistData provides secure XML feeds to partners interested in getting information from the artists who use the ArtistData dashboard. The current information available through secure XML feeds is shows, news and blogs. 
+
+ArtistData is building solutions to automate the updating of artist websites, social network profiles, concert databases, Twitter, official news feeds, iCal, local press, fan newsletters, and even tour books. When an artist updates our site, we update all their sites.
+music 
+Music

@@ -1,0 +1,13 @@
+authentication 1
+authorization 1
+expose 1
+http 1
+location 3
+mobile 2
+operations 1
+privacy 1
+real 2
+request 1
+rest 1
+standard 2
+telephony 2

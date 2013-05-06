@@ -1,0 +1,5 @@
+Database search for related protein sequences
+EBI PSI-BLAST
+Position Specific Iterative BLAST (PSI-BLAST) constructs a position-specific scoring matrix (PSSM) profile for a protein sequence using a set of BLAST alignments. The PSSM is then used to search the database in subsequent iterations, allowing the detection of distant evolutionary relationships between protein sequences. The PSI-BLAST API is provided by the European Bioinformatics Institute via SOAP and REST protocols.
+bioinformatics science 
+Science

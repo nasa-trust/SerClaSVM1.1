@@ -1,0 +1,5 @@
+RSS feed management and filtering service
+Feedzz
+The Feedzz API lets you access semantic and feed data using several retrieval criteria. With Feedzz, you can discover news from blogs or web sites in subjects that interest you, set up alerts, manage your settings, and see what topics are currently hot.
+deadpool rss 
+Feeds

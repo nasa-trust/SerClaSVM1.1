@@ -1,0 +1,7 @@
+Online travel services
+Yahoo Travel
+From their site: Yahoo! Travel is also launching API access to trip planner data through a REST-like interface. With the Yahoo! Travel Trip Plan APIs you can search for trip plans by Yahoo! ID or by search query, or retrieve a specific trip plan by ID. 
+
+The Yahoo! Travel Trip Plan APIs have been designed to operate just like the Yahoo! Search APIs, so if you've already written code for Yahoo! Search you can start using Travel almost immediately with only minor modifications. And just like Yahoo! Search, the Yahoo! Travel APIs support both XML and JSON output. 
+search travel 
+Travel

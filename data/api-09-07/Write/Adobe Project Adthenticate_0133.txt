@@ -1,0 +1,7 @@
+Ad validation and optimization service
+Adobe Project Adthenticate
+Adobe Project Adthenticate is a hosted service for ad validation and optimization that enables publishers and agencies to test and certify ads against a repository of specifications. Adthenticate offers agencies features such as dynamic validation, standardized CPU usage measurement, detection of requests for tracking pixels, animation beyond specified durations and setting of rich media rules. 
+
+The API allows developers to integrate the service into publisher-side order entry and ad serving systems. The API is currently in public beta and interested developers should contact the Adthenticate team for more information.
+advertising Optimization validation 
+Advertising

@@ -1,0 +1,13 @@
+album 1
+blog 1
+distribution 2
+give 1
+host 3
+image 2
+ninja 2
+photo 3
+post 1
+power 1
+storage 1
+thumbnail 2
+twitter 1

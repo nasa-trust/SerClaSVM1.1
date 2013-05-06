@@ -1,0 +1,5 @@
+Personal finance management tool
+Lemon
+Lemon is a mobile app that organizes personal financial data. Users add all of their personal information by taking pictures of their receipts, credit cards, debit cards, and loyalty cards. Lemon will extract the relevant data. The app can perform analytical tasks to determine users??? spending patterns and more. Lemon provides a RESTful API to integrate the receipt scanning functionality. It returns JSON-formatted data. 
+finance mobile money 
+Financial

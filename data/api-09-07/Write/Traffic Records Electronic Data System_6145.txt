@@ -1,0 +1,7 @@
+Virginia traffic safety information service
+Traffic Records Electronic Data System
+The service (formally named Traffic Records Electronic Data System -- TREDS) provide reports on highway safety statistics for sharing and analysis. Part of Virginia???s program to reduce crashes and injuries, it is intended to present accurate, timely and detailed information on traffic safety, especially related to motorcycle operation in the state. 
+
+The API facilitates participation by records management systems, emergency service providers, and safety training providers in the TREDS program. Methods support submitting and retrieving crash and incident reports as well as reports on safety training. Motorcycle safety training vendors can supply instructor credentials, student characteristics, types of motorcycles involved, skills learned, grades and other outcomes achieved, and related functions.
+safety traffic transportation virginia 
+Transportation

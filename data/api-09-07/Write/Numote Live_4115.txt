@@ -1,0 +1,7 @@
+TV and video engagement platform service
+Numote Live
+Numote Live is a platform that allows users to watch TV shows and videos with interactive features. Companies can use the platform to build communities, reward viewers, manage content, and track usage and viewing analytics.
+
+The Numote API allows developers to access and integrate Numote&#039;s functionality and data. Public documentation is not available without signing up first. Interested developers or companies should contact support@numnote.com for more information.
+entertainment social television video 
+Entertainment

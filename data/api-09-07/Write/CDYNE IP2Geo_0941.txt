@@ -1,0 +1,9 @@
+Geolocate by IP address
+CDYNE IP2Geo
+Utilize this XML Web Service to resolve IP address to Network Owner Name, City, State/Province, and Country. In some locations, this service also returns Area Code and Latitude and Longitude.
+
+CDYNE IP2Geo is often used to locate customers who visit a business&#039; Web site and/or fill out an online form. This service allows for the integration of location & distance information and other geographic intelligence into your application databases, business processes and Web sites.
+
+IP2Geo can check the validity of clients based on IP address when compared with their carrier and address location. It also provides users with the means to create geographically customized Web site menus. The real-time information returned can be used to trigger special &quot;preferred location&quot; promotions.
+geolocation IP security 
+Tools

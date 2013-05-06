@@ -1,0 +1,5 @@
+Mobile backend platform
+Firebase
+Firebase is a real-time backend for web application development. Developers can use the service to build their apps without having to manage servers or write server-side code. The API allows users to access the functionality of Firebase programmatically. The API supports standard CRUD operations on the data within the databases as well as querying of the data. It uses RESTful calls and responses are formatted in JSON.
+backend mobile 
+Backend

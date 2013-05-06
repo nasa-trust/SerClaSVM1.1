@@ -1,0 +1,5 @@
+SMS Messaging Service
+MobileTrend
+The MobileTrend SMS API allows developers to send or receive SMS, create their own SMS Premium services, get return receipts, verify the validity of a micro-payment code and update their mobile web content. Developers can also receive payment every time their users send an SMS. The API uses HTTP calls and receives responses back in XML. 
+chat messaging sms spain uk usa 
+Messaging

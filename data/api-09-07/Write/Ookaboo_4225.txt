@@ -1,0 +1,5 @@
+Creative Commons photo search service
+Ookaboo
+The Ookaboo Semantic API is an search API for creative commons images that achieves unprecedented precision by using semantic web vocabularies to describe their content.
+photo search semantic 
+Photos

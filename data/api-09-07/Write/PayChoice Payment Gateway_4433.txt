@@ -1,0 +1,7 @@
+Australian payment service
+PayChoice Payment Gateway
+PayChoice is an Australian payment gateway service which allows merchants to process credit card and direct debit payments from their customers with or without a merchant bank account.
+
+The PayChoice Payment Gateway API allows developers to access and integrate the PayChoice functionality with other applications and websites. Some example API methods include testing credit cards, processing payments, and managing account information. 
+Australia creditcard directdebit gateway payment 
+Payment

@@ -1,0 +1,7 @@
+3D customizing and printing platform
+CloudFab
+CloudFab is a 3D printing platform that allows users to create, customize, and print 3D objects. Users can upload files, edit and customize, and print a 3D version.
+
+The CloudFab API allows developers to access and integrate the functionality of CloudFab with other applications. Example API methods include automating 3D printing and managing orders and account information. Public documentation is not available; interested developers should email info@cloudfab.com for more information.
+3d customization image printing 
+Other

@@ -1,0 +1,5 @@
+Mortgage loan application service
+XWeb Real Estate
+XWebServices is an SOA Services firm focused primarily on financial services, health care and real estate. The Real Estate API allows developers to integrate and manage the Uniform Residential Mortgage Loan Application (Form 1003) within their own applications. Via the API applications can display a Mortgage Loan Application, a &quot;queue&quot; or list of complete and incomplete Mortgage Loan Applications, a &quot;queue&quot; or list of Mortgage Loan Applications created within a specific date range, a &quot;queue&quot; or list of Mortgage Loan Applications by a specific representative, as well as perform data manipulation (add/update/delete) on individual Mortgage Loan Application records. The API uses SOAP protocol and responses are formatted in XML.
+mortgage realestate 
+Real Estate

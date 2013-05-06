@@ -1,0 +1,7 @@
+Invoice creation and management service
+Bilbus
+Bilbus is an e-invoicing/financing solution that allows users to monitor what their customers owe as well as set up loan services for managing unexpected monetary gaps. Users can arrange financial service connections from Bilbus matched commercial lenders in the Bilbus Working Capital Hub.
+
+The SOAP based API features returns in XML and allows third party applications access and the ability to manipulate invoice data stored within Bilbus as well as customer information. Calls include: Create/Update customer. Fetch customer (according to filter setting), Create/Update invoice. Fetch invoice (according to filter setting)
+billing ecommerce financial loans payment 
+Financial

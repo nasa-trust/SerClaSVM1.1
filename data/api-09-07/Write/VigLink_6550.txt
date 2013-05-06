@@ -1,0 +1,5 @@
+VigLink Affiliation Service
+VigLink
+VigLink is a service that embeds affiliate links where possible to make a publisher money from referrals and other purchases. The VigLink is available as JavaScript, with link updates performed automatically, or as a RESTful API using redirects.
+advertising affiliate 
+Advertising

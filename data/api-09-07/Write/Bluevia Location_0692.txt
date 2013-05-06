@@ -1,0 +1,5 @@
+Mobile geolocation service
+Bluevia Location
+BlueVia is a developer initiative from communications company Telef???nica. The Location API enables an application to get the user&#039;s handset location. The API uses RESTful calls and responses are formatted in XML and JSON.
+geolocation places telephony uk 
+Telephony

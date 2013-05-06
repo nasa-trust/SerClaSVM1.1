@@ -1,0 +1,5 @@
+CodeStock event information
+CodeStock 2011
+CodeStock was a two day event for technology and information exchange. Created by professionals for professionals, the event featured sessions for developers, IT professionals, and entrepreneurs as well as panel discussions and live podcasts. The CodeStock data API lets users access CodeStock information and integrate it into their website or application. The API uses RESTful calls and responses are formatted in XML and JSON.
+code deadpool programming 
+Other

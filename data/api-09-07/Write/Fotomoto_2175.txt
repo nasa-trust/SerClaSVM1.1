@@ -1,0 +1,7 @@
+Image marketplace service
+Fotomoto
+Fotomoto is a service that allows photographers, designers, organizations, and illustrators to offer printing services of images on their websites. Fotomoto offers a variety of products that customers can choose to print and buy, from canvas prints to calendars and greeting cards.
+
+Fotomoto offers two APIs, the public API and the affiliate API. The public API allows developers to integrate the &quot;buy&quot; buttons into their websites, while the affiliate API allows for more functionality, such as adding new users directly from the affiliate site without having to go to Fotomoto. Some other example API methods include retrieving images, buying and sharing images, and downloading images.
+affiliate photo printing shopping 
+Photos

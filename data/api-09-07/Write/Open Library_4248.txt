@@ -1,0 +1,7 @@
+Library data access
+Open Library
+Open Library is an open, editable library catalog, building towards a web page for every book ever published. To date, we have gathered about 30 million records (13.4 million are available through the site now), and more are on the way. A project of the Internet Archive. 
+
+Allows interaction with book records, cover images, subject listings, and more for Open Library, an open, editable library catalog, building towards a web page for every book ever published. Methods allow retrieval of book records, cover images, subject headings, and user lists as well as search-inside and even reading online.
+books reference search 
+Reference

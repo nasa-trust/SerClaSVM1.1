@@ -1,0 +1,5 @@
+Health insurance information lookup service
+Eligible Health Insurance
+The Eligible Health Insurance API is a service that lets users lookup information on over 700 insurance companies. Information available includes patients active versus inactive status, coinsurance, copayment, deductible, health spending balance and specialty specific information such as MRI and diagnostic labs. The API uses RESTful calls and responses are formatted in JSON.
+health Insurance lookup medical 
+Medical

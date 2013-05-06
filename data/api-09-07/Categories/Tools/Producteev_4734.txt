@@ -1,0 +1,16 @@
+calendar 1
+chat 1
+collaboration 2
+connect 1
+email 1
+google 1
+individual 1
+keep 1
+list 1
+management 1
+mobile 1
+synchronize 1
+task 3
+team 1
+tool 3
+twitter 1

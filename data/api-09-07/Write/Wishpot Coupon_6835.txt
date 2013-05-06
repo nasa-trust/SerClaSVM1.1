@@ -1,0 +1,7 @@
+Coupon aggregation service
+Wishpot Coupon
+Wishpot is a social shopping service that lets users save and share things they find in stores or online. The items are then organized using online lists or registries that can be shared with others.
+
+The Wishpot coupon service aggregates and normalizes a variety of coupons data sources. The Product Portals retrieve coupons from a single service. These coupons can also be queried via an API. The API uses RESTful calls and responses are formatted in XML.
+coupons ecommerce mobile monetization shopping 
+Shopping

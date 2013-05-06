@@ -1,0 +1,7 @@
+Microvolunteering platform
+Sparked
+Sparked is a microvolunteering platform that allows people to volunteer for small amounts of time or money online. Non-profits offer up &quot;challenges&quot; on Sparked that volunteers can sign up for and complete online. 
+
+The Sparked API allows developers to access the data from Sparked through an XML feed of open challenges. This data can be integrated into other applications and sites.
+charity nonprofit Volunteer 
+Other

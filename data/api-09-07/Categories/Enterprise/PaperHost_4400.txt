@@ -1,0 +1,15 @@
+accounting 1
+archive 1
+develop 1
+display 1
+document 2
+enterprise 2
+example 1
+image 1
+imaging 1
+integration 1
+invoice 1
+management 1
+office 1
+system 1
+transaction 1

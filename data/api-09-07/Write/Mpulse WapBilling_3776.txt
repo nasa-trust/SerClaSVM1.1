@@ -1,0 +1,7 @@
+French online payment service
+Mpulse WapBilling
+The Mpulse WapBilling API is used to carry out online transactions. These may be simple, one-time purchases  or recurring subscriptions. Additional functions allow users to check the statuses of transactions and to send confirmation messages to customers in English, French, or German.
+
+The Mpulse website is provided in both French and English.
+france payment 
+Payment

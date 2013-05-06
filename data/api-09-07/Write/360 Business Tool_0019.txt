@@ -1,0 +1,7 @@
+Business management service
+360 Business Tool
+360 Business Tool is a Danish system for businesses to manage a variety of operations. 360 Business Tool offers CRM functionality, budget information, time and invoicing functions, and employee management. 
+
+The 360 Business Tool API allows developers to access and integrate the functionality of 360 Business Tool with other applications. Some example API methods include managing customer information, retrieving statuses, and recording time. Public documentation is not available; API access comes with accounts. 
+business CRM enterprise invoicing management 
+Enterprise

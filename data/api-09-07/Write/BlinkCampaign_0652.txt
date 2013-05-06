@@ -1,0 +1,14 @@
+Social Media and Email Marketing platform
+BlinkCampaign
+BlinkCampaign is a social media marketing platform for web agencies and enterprises. The BlinkCampaign REST APIs are a set of resources that allow users to synchronize their BlinkCampaign account with their own software or application. The APIs calls are broken into the following categories
+
+ *Agency - allows users to manage account settings and clients.
+ *Clients - allows users to manage clients??? campaign.
+ *Campaigns - allows users to create new campaign and manage campaign delivery.
+ *Subscriber List - allows users to create subscriber lists and import subscribers to the list.
+ *Subscribers - allows users to manage subscribers.
+ *Report - allows users to retrieve and download campaign report details.
+
+The API uses RESTful calls and responses are formatted in XML and JSON.
+deadpool email marketing social 
+Email

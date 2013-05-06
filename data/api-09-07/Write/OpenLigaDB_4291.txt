@@ -1,0 +1,5 @@
+Community run sports database
+OpenLigaDB
+OpenLigaDB is an open community operated database for entering and retrieving sports information. This information, primarily centered on football results can be used in the creation and running of leagues. The API provides access to the data stored on the site. This data includes date and time of games, group information, name and URL of teams, game outcomes, latest updates to the game data and more. The API can also be used to manage leagues including adding and editing of teams and schedules and entering the game results. It uses SOAP protocol and responses are formatted in XML. The site and documentation are in German.
+database sports 
+Sports

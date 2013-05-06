@@ -1,0 +1,5 @@
+Transactional NoSQL database
+FoundationDB
+FoundationDB is a NoSQL database. It is uniquely scalable and provides multiple important and customizable features not common to NoSQL databases. It allows ACID transactions and has high fault tolerance due to its elasticity and spread over multiple servers and the cloud. The FoundationDB API exposes much of the functionality over the database. It is RESTful and return JSON-encoded data. 
+database tools transactions 
+Database

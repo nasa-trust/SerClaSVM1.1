@@ -1,0 +1,14 @@
+accord 1
+creation 1
+display 1
+generate 1
+get 1
+graphic 1
+image 4
+map 5
+mapping 2
+parameter 1
+point 1
+specify 1
+url 1
+yahoo 2

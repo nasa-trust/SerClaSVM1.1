@@ -1,0 +1,7 @@
+Mobile application backend service
+FeedHenry
+FeedHenry is a mobile application backend management platform. Users of FeedHenry can create, manage, host, and deploy mobile applications with FeedHenry solutions. FeedHenry is a cloud-hosted platform.
+
+The FeedHenry API allows developers to integrate the functionality and data of FeedHenry with other applications and to create new applications. FeedHenry offers both cloud and on-device APIs. Some example API methods include saving objects and cache, parsing strings into JavaScript objects, and reading RSS feeds from a link.
+application baas backend cloud mobile 
+Backend

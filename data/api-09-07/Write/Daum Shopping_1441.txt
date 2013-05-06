@@ -1,0 +1,9 @@
+Online shopping and product search service
+Daum Shopping
+Daum is a web portal in South Korea that offers many Internet services to web users, including a popular free web-based e-mail, messaging service, forums, shopping and news. 
+
+The Daum Shopping API provides search functionality and information on a variety of products. The results can be integrated into user web sites or applications.
+
+The API uses RESTful calls and responses are formatted in XML. The site and documentation are in Korean.
+search shopping southkorea 
+Shopping

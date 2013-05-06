@@ -1,0 +1,5 @@
+Travel web service
+ValueCommerce Travel
+ValueCommerce is a Japanese Affiliate Marketing and Search Marketing Agency Service. It offers the Travel API which allows users to aggregate airfare, hotel and tour data from top merchants in Japan. The API allows users the following functionality: do a quick Search by area and price of hotel accommodations, find more information on hotel accommodation and room types and more. The API uses RESTful protocol and responses can be formatted in XML and JSON.
+affiliate hotel japan travel 
+Travel

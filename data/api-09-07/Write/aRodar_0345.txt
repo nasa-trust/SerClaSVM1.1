@@ -1,0 +1,9 @@
+Used motorcycle listings
+aRodar
+aRodar is a web site where users can search for or post used motorcycles for sale. There is also a forum for members of the community to interact. The API allows users to publish their ads on the site, on their applications or via the affiliate network. With the API users can look up classified ads, vehicle information and ad status. The API uses SOAP calls with XML responses. The site and documentation are in Spanish.
+
+
+
+
+advertising motorcycles 
+Advertising

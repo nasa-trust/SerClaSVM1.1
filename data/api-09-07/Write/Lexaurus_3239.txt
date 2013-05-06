@@ -1,0 +1,5 @@
+Vocabulary management service
+Lexaurus
+REST API to manage and distribute controlled vocabularies, taxonomies, or data sets. Suite of products also includes a fully featured editor which can be used to create and edit vocabularies. This can be used as a stand alone tool or tightly integrated with Lexaurus Bank of existing controlled vocabularies for existing applications, encouraging consistency across related applications. 
+database semantic taxonomy 
+Database

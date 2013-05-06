@@ -1,0 +1,5 @@
+Online Chinese shopping platform
+Taobao Open Platform
+Taobao Open Platform Beta API exposes the basic business processes of Taobao Mall. The API includes a suite of services covering 15 categories. Actions included are retrieving category, product sku, shipping logistics, shop category and more. The API uses RESTful protocol and responses are formatted in either XML or JSON. The site and documentation are in Chinese.
+china deadpool shopping 
+Shopping

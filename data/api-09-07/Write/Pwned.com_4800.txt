@@ -1,0 +1,7 @@
+Online community for gamers
+Pwned.com
+Pwned is an online community for gamers built by gamers. Gamers can interact with each other, learn about new games, as well as established games. 
+
+The Pwned API allows developers to access Pwned information and functionality. Some example API methods include accessing the database of games, searching and retrieving member feeds, and generating layouts.  
+games social 
+Games

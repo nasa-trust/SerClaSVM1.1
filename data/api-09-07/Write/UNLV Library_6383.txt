@@ -1,0 +1,5 @@
+Library catalog
+UNLV Library
+The official library of University of Nevada Las Vegas has made its collections available for querying via API. The service includes free access to its collections of unique images, documents and more, which it refers to as objects. List collections, or the objects within a collection, as well as view information about a specific object. You can also access and add additional meta-data about an object. Retrieve and set ratings, comments and tags for objects. No API key is required and the API responds with XML or JSON.
+library reference 
+Reference

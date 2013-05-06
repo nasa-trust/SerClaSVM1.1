@@ -1,0 +1,20 @@
+Online retail store
+Zappos
+We&#039;re happy to announce that we&#039;ve launched our public API!  Find out full details at http://developer.zappos.com.
+
+A few of the things you can accomplish with our API:
+
+Search : Leverage Zappos robust product search functionality that includes sorting, filtering, and a deep level of categorization/facets
+
+Products : Pull relevant product details (description, default images, different styles, price)
+
+Images : The full set of images for products (different views, sizes, etc.)
+
+Statistics: Find out what is being bought right now!
+ 
+Brands: Did you know we carry almost 1000 brands? Get more details on specific brands with this API
+
+Reviews: Zappos has thousands of reviews from our amazing customers. Find out what our customer&#039;s are saying about our products
+The API will be a REST API.  In this initial release, it will only return JSON but upcoming releases will support XML.
+shopping 
+Shopping

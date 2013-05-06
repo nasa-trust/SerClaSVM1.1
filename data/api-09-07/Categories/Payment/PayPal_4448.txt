@@ -1,0 +1,17 @@
+account 1
+customer 1
+expose 1
+feature 1
+finance 1
+functionality 2
+invoice 3
+limited 1
+make 1
+management 2
+million 1
+payment 4
+platform 1
+processing 1
+shopping 1
+solution 1
+transaction 1

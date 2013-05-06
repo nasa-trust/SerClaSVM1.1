@@ -1,0 +1,5 @@
+App testing platform
+HockeyApp
+HockeyApp is an app testing service. It provides beta trial and analysis for developers perfecting their apps. Their products include customizable distribution systems, crash-reporting services, and usage analytics. These products are supported on multiple platforms, including iOS and Android. HockeyApp offers an API that exposes the distribution and crash-reporting functionality. It is a RESTful API that returns JSON-formatted data. 
+development mobile utility testing
+Utility

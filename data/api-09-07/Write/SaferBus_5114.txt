@@ -1,0 +1,5 @@
+Transportation Safety Information Service
+SaferBus
+The Federal Motor Carrier Safety Administration (FMCSA) makes the safety performance data of U.S. Department of Transportation registered bus companies available through the SaferBus API. This REST API returns in either JSON or XML, and was designed to allow developers to create applications that will make consumers more aware of the safety record of the bus companies with which they may choose to ride. The API requires an API Key and account to access. 
+bus government safety transit transportation 
+Transportation

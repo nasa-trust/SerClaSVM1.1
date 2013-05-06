@@ -1,0 +1,12 @@
+cloud 5
+deployment 1
+enter 1
+host 1
+label 1
+market 1
+partner 1
+platform 3
+provider 1
+software 1
+storage 7
+white 1

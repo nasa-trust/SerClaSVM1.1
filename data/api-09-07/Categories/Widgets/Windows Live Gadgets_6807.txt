@@ -1,0 +1,4 @@
+gadget 2
+live 1
+widget 2
+windows 1

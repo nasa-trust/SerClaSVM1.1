@@ -1,0 +1,5 @@
+Travel affiliate services
+Viator
+Viator sells tours and activities through their website, eight local-language sites serving European and Japanese markets, and more than 2,000 affiliated sites that include major hotel chains and airlines, online travel agencies, city-specific sites and more. Viator makes it's database of products available as XML. Developers can use the XML to display Viator products on their website as well as in confirmation emails for bookings conducted for other services. Full documentation is not available. 
+travel affiliate adventure
+Travel

@@ -1,0 +1,5 @@
+Financial market data services
+Interactive Data
+Interactive Data is a provider of financial market data, analytics and other solutions to financial institutions and individual investors. They supply real-time market data, time-sensitive pricing, evaluations and reference data. The API allows developers to access this data to create monitoring, analysis or trading applications. Full documentation is not publicly available.
+analytics financial realtime 
+Financial

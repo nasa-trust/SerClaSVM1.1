@@ -1,0 +1,5 @@
+Account management service
+Accthub
+Accthub is a service that acts as an account management system for app builders. It is used to store and mange user's account information, credentials, addresses and meta-data. Among the information it can store includes users email address, hashed password, full name, langage, timezone, gender, company, website URL. The API gives users access to the full functionality of the service. The API uses RESTful calls and responses are formatted in JSON. 
+account authentication backend management
+Backend

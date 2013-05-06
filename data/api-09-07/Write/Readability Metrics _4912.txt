@@ -1,0 +1,7 @@
+Reading level measure estimation service
+Readability Metrics 
+The service provides indicators of reading difficulty and level for a text passage submitted. Applications can upload a selection of text and receive in return a selection of measures: Automated Readability Index (ARI), Coleman-Liau Index, Flesch???Kincaid Grade Level, and others.
+
+API methods provide for submitting a text string representing the passage to be analyzed. The API then returns reading difficulty measure(s) specified in the request along with some descriptive indicators of the passage size and word composition.
+education reading text 
+Education

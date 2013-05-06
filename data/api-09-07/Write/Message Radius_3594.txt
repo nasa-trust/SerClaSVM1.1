@@ -1,0 +1,5 @@
+Wifi proximity-based actions delivery 
+Message Radius
+Message Radius is proximity-based actions service. It uses wifi signals to locate mobile devices, not geolocation. The wifi signals are used as triggers to set off actionable scripts, such as messaging and marketing. The Message Radius API exposes the service???s entire functionality. It is a RESTful API that returns JSON-formatted data. 
+mobile tools wifi 
+Tools

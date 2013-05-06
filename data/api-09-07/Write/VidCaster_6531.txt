@@ -1,0 +1,5 @@
+Video site creation platform
+VidCaster
+VidCaster provides a platform that lets users create a video site on their domain. VidCaster has an API that lets users integrate a number of site feeds including RSS, GeoRSS, MRSS, video and audio-only podcasts, and embeddable widgets into their applications. Some feeds are produced globally, for an entire site, and some feeds are produced for individual categories. 
+feeds video
+Video

@@ -1,0 +1,5 @@
+Digital mail service
+BlueMailCentral Postal
+BlueMailCentral is a service that sends user mail digitally to be printed and posted as near as possible to its destination. With the Postal API users can upload their, or their customers, documents directly to the server while maintaining the possibilities to track the documents using BlueMailCentral via the client software or the website. Letters can be printed and posted in 45 countries around the world. The API uses SOAP protocol and responses are formatted in XML.
+mail postal utility 
+Utility

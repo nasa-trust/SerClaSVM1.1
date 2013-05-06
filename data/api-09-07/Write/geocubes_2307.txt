@@ -1,0 +1,5 @@
+Mapping search service
+geocubes
+With geocubes, you can cluster your geo-points and get well-structured representation, add and remove geo-points in realtime to your map, fasten your map search, and reduce the load time of your maps. geocubes displays your data on the map either as one marker per data point or a graphic with a number representing the number of points in that square. 
+deadpool mapping search 
+Mapping

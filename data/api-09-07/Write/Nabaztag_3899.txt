@@ -1,0 +1,6 @@
+Robotic rabbit controller service
+Nabaztag
+Nabaztag is a Wi-Fi enabled ambient electronic device in the shape of a rabbit. The Nabaztag API allows you to activate, from a third-party application, an event on your Nabaztag.  For example: controlling the movement of the ears, commanding the LEDs, sending messages in TTS (text to speach) or with a Nabcast. With the Nabaztag API, users can send text messages to a rabbit, send choregraphies to a rabbit, send any nabcast to a rabbit, get the ear position of a rabbit, stream MP3 to your Nabaztag/tag (webradio, podcast or personal music), and retrieve information about the status of the rabbit and the account
+
+games robots 
+Games

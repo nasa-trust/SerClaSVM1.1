@@ -1,0 +1,7 @@
+Online meeting and webinar service
+Vyew
+Vyew is an online meeting, web conference, and webinar service. Some of the features Vyew offers include online meeting rooms, VOIP, and file sharing capabilities. 
+
+The Vyew API allows developers to access and integrate the functionality of Vyew with other applications. Some example API methods include creating new meeting rooms, managing account information, and importing documents.
+conference meeting online video 
+Video

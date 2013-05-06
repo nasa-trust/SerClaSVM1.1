@@ -1,0 +1,7 @@
+Website creation platform
+StageBloc
+StageBloc is a website creation platform. StageBloc provides a front-end framework for users to create their own website and integrate their social network accounts with the website. StageBloc also offers mobile applications.
+
+The StageBloc API allows developers to access and integrate the functionality of StageBloc with other applications and to create new applications. API access is currently only available to StageBloc customers and public documentation is not available. Interested developers should contact StageBloc at hi@stagebloc.com.
+content internet personal social tools website 
+Tools

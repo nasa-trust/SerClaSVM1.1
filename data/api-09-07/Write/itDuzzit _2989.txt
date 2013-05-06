@@ -1,0 +1,5 @@
+Cloud application integration service
+itDuzzit 
+itDuzzit is a cloud integration platform that exchanges data between cloud various applications. itDuzzit can connect applications with other applications to connect data from each so manual entry is not required. 
+utility cloud mashups sbweb
+Utility

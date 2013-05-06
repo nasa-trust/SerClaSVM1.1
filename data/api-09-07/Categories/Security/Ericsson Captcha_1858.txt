@@ -1,0 +1,16 @@
+ad 2
+advertise 1
+advertisement 1
+advertiser 1
+banner 1
+bot 1
+human 1
+image 2
+lab 1
+manner 1
+product 1
+publisher 1
+security 4
+tool 1
+verify 1
+words 2

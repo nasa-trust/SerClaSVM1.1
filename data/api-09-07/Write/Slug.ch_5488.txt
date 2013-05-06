@@ -1,0 +1,5 @@
+Swiss blog search engine
+Slug.ch
+Slug.ch is a search engine that allows users to search Swiss blogs and around the web. The API allows developers to access all popular programming to the entire database of slug.ch. It is a RESTful API with responses in XML and an API key is required. Documentation on the site in in German.
+blogging deadpool search switzerland 
+Search

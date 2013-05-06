@@ -1,0 +1,5 @@
+Twitter document sharing service
+TwitDoc
+TwitDoc lets users upload their documents to Scribd.com, create a short link to the document and send a tweet along with the link to Twitter. With the API, users can integrate this functionality into their web site or application. The API uses HTTP calls and responses are formatted in XML. Developers should contact the provider for an API key.
+documents sharing tools url-shortener 
+Tools

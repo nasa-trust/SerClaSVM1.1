@@ -1,0 +1,5 @@
+URL shortening service
+Metamark
+Metamark is a simple URL shortening service maintained by Perl developer Ask Bj???rn Hansen. Short URLs are returned using the xrl.us domain name. The REST API provides a very basic interface to creating short URLs programmatically. A Perl package is naturally provided.
+internet url-shortener utility 
+Utility

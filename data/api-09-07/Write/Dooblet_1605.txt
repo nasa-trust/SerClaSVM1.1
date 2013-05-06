@@ -1,0 +1,5 @@
+Alternatives discovery services
+Dooblet
+Use the Dooblet API to get two alternatives to anything that you submit. Dooblet&#039;s main site allows you to type in something and get an alternative for it. For example, type in car models, software application names, band names, prescription names, companies, and more. Using the API, you might submit iphone, and get back alternatives of blackberry and ipod touch.
+answers search 
+Search

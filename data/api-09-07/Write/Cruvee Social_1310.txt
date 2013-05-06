@@ -1,0 +1,5 @@
+Social media search for wine industry
+Cruvee Social
+The Cruvee Social API allows partners to tap into Cruvee&#039;s social media monitoring event stream and historical index for wine conversations. Cruvee provides business intelligence and performance management services for the wine industry. This is a premium  API and is fee based. The API uses RESTful protocol and responses are formatted in JSON. Currently the API is in beta form. 
+search social wine 
+Search

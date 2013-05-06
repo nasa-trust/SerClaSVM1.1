@@ -1,0 +1,5 @@
+Currency exchange rates service
+Open Source Exchange Rates 
+The Open Source Exchange Rates API gives developers a way to access the rates that power currency conversion services. The API provides up-to-date, flexible and portable currency conversion data that can be used in any application, framework or language. The API uses JavaScript and responses are formatted in JSON.
+currency exchange financial 
+Financial

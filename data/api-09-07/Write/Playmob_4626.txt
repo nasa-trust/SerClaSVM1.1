@@ -1,0 +1,5 @@
+Charity integration for apps
+Playmob
+Playmob is a charitable giving integration platform. It allows developers to create the means for players to give to charities through their apps. Playmob has a network of charities for developers to partner with and direct user traffic to. Developers can integrate payments for in-game objects with donations to charities so that portions of the items??? cost goes to a generous cause. The rest of the integration is completely invisible, being worked into the app???s UI, store setup, and player account management system. The Playmob API exposes the entire functionality of the app-to-charity functionality. It is a RESTful API that returns JSON-encoded results.
+charity financial games 
+Games

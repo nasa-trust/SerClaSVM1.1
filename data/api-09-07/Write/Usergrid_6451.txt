@@ -1,0 +1,5 @@
+Cloud based data platform
+Usergrid
+Usergrid is a cloud-based data platform for managing application objects and data for mobile and rich client applications. The Usergrid API gives users a core set of application objects that let them complete tasks such as managing users and powering interactions. A data storage system is provided for storing, searching and retrieving both content and object collections. The platform also gives users the ability to log data and track it in realtime to perform data analytics. The API uses RESTful calls and responses are formatted in JSON.
+backend cloud deadpool internet mobile 
+Backend

@@ -1,0 +1,5 @@
+Solutions to anagram problems
+Aonaware CountCheatService
+Aonaware CountCheatService allows users to find solutions to simple anagram problems, for example those posed by the UK Channel 4 game &#039;Countdown&#039;. It uses SOAP protocol and responses are formatted in XML.
+games language 
+Games

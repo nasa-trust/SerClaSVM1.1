@@ -1,0 +1,7 @@
+Mobile navigation service
+MapQuest Open Guidance
+The MapQuest Open Guidance API allows developers to create mobile navigation applications. Rather than simply providing the geometry of a route and narrative directions, the Guidance API shares the graph and nodes of the streets. Developers can use the service, along with the user&#039;s current location, to determine what street a user is passing and whether the user needs to turn.
+
+The MapQuest Open Guidance API is built on OpenStreetMap data. Like other open MapQuest services, this one is made available free of charge and without limits. The RESTful API returns either XML or JSON.
+gps location mapping mobile navigation openstreetmap 
+Mapping

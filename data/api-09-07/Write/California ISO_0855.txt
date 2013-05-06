@@ -1,0 +1,9 @@
+Utility regulatory information system
+California ISO
+The service gives access to operating data for California&#039;s electrical power grid. Available data include current experienced electrical demand, projected or forecast demand, available power generating capacity, and related operating parameters. Separate services provide data on power availability, reviewing outage reports, submission of outage reports, and scheduling of maintenance downtimes.
+
+API methods support retrieval of availability information for all generators affiliated with the California ISO grid and for individual generators. Methods also handle retrieval of any outage reports currently filed and submission of new outage reports. The API also handles requests for scheduled downtimes for planned maintenance.
+
+
+government power utilties 
+Government

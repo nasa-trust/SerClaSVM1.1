@@ -1,0 +1,5 @@
+Marijuana Dispensary Deals Service 
+WeedDeals
+WeedDeals provides daily deals for local marijuana dispensaries to users Facebook, email, or twitter feeds. The WeedDeals API allows users to search for deals by city, retrieve information about specific deals, and several other functions. The service uses REST calls and will return data in JSON or XML. Access is available with an API key. 
+advertising coupons deals drugs social 
+Advertising

@@ -1,0 +1,7 @@
+Neil deGrasse Tyson Quotes 
+Neil deGrasse Tyson Quotes 
+This site provides a simple API that gives users access to a library of Neil deGrasse Tyson quotes. The quotes can be accessed using RESTful calls and responses are formatted in JSON. Code is also provided for embedding the service onto a website.
+
+
+fun quotes reference science space 
+Reference

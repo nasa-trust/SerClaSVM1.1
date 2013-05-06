@@ -1,0 +1,5 @@
+Personalized internet startpage service
+Symbaloo
+Symbaloo is an online startpage that lets users organize and access favorite websites and web services on one page. The Symbaloo API enables users to connect their website with Symbaloo in order to make websites more personalized and social. The API provides methods that let users update other users, desktops and bookmarks. The API uses RESTful protocol and responses are formatted in either XML or JSON.
+bookmarks internet 
+Internet

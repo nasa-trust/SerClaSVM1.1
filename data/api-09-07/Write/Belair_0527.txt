@@ -1,0 +1,5 @@
+Flight booking service
+Belair
+Belair is an online travel portal that allows business partners to book and sell their own airline e-tickets on a self branded site. Partners can access all of Belair&#039;s travel products and offer all airfares and tariffs on all international, domestic and LCC airlines with or without discounts on flights. The API lets partners get real-time inventory and pricing from the airlines within a white label site. Full documentation is not publicly avaialble.
+booking flight travel 
+Travel

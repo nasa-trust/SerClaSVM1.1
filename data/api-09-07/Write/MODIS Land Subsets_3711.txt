@@ -1,0 +1,5 @@
+Earth surface satellite imagery retrieval service
+MODIS Land Subsets
+The MODIS Land Subsets API allows users to retrieve images taken of Earth by the Moderate Resolution Imaging Spectroradiometers (MODIS) aboard the Aqua and Terra satellites. Users can retrieve information about available imagery and then choose their desired image data products by wavelength, date, and latitude and longitude location recorded.
+mapping nasa science 
+Science

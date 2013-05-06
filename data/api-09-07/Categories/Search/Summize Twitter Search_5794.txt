@@ -1,0 +1,13 @@
+acquire 1
+engine 1
+find 1
+language 1
+note 1
+now 1
+official 1
+people 1
+restriction 1
+search 7
+trend 1
+tweet 2
+twitter 5

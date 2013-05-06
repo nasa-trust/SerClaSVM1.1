@@ -1,0 +1,15 @@
+account 1
+bible 4
+commentary 1
+compare 1
+full 1
+key 1
+link 1
+lookup 1
+passage 4
+pull 1
+reference 2
+religion 1
+require 1
+text 1
+version 1

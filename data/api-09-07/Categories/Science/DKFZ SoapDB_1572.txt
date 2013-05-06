@@ -1,0 +1,17 @@
+cancer 1
+center 1
+datum 1
+field 1
+filter 1
+format 1
+genetics 3
+german 1
+protein 2
+research 1
+result 1
+return 1
+science 2
+select 1
+sequence 2
+soap 1
+view 1

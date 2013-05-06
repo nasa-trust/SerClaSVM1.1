@@ -1,0 +1,7 @@
+Player Data and Statistics
+Battlefield Bad Company Stats
+Battlefield Bad Company is a video game for XBox 360 and PlayStation 3. Battlefield Bad Company Stats is a website to share player statistics and scores from within the game. The Battlefield Bad Company Stats API provides access to statistics and scores from within other applications. Retrieve data about teams, weapons, vehicles, gadgets, specializations, insiginias, pins and achievements. You can also retrieve a player&#039;s online status and progress for rank, kits and stars.
+
+The RESTful API provides responses in JSON and includes a crossdomain file.
+games statistics unofficial 
+Games

@@ -1,0 +1,7 @@
+Location-based mobile game
+WallaBee
+WallaBee is a location-based collectible game application for mobile phones. Users of WallaBee can collect items from locations to build collections, buy items from the WallaBee store to complete their collections, and play the game with friends.
+
+The WallaBee API allows developers to access and integrate the functionality of WallaBee with other applications and to create new applications. Some example API methods include searching and returning items and images, displaying activity feeds, and accessing store items. 
+games gps location mapping mobile social 
+Games

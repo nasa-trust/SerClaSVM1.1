@@ -1,0 +1,15 @@
+child 1
+company 1
+enterprise 1
+gi 1
+gps 1
+lb 2
+location 3
+map 4
+mapping 2
+mobile 1
+navigation 1
+produce 1
+sharing 1
+social 1
+tracking 1

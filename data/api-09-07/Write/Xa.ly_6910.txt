@@ -1,0 +1,5 @@
+URL shortener and monetizing service
+Xa.ly
+Xa.ly is a URL shortener that allows its users to earn money by sharing links as they normally would. Unlike other URL shorteners, when possible it displays a relevant advert for the content of the shortened URL before the original URL is shown. Xa.ly provides users with an API that allows them to create Xa.ly Urls. The API uses RESTful protocol.
+advertising deadpool internet url-shortener utility 
+Internet

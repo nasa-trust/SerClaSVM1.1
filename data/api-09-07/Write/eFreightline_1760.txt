@@ -1,0 +1,7 @@
+Truckload shipping rate quotation service
+eFreightline
+The service aggregates shipping rates and freight ratings along with available capacity from over 50 carriers serving both regional and national destinations. This single data source can deliver rate quotes for full-truckload or less-than-truckload (LTL) shipments, creating a central source where shippers can plan for transportation needs.
+
+API methods support submission of load size, items to be shipped, desired ship date, and points of pickup and destination, along with other specifications. The service returns rate quotes and current capacity for potential shippers. Methods also allow completion of the shipping transaction.
+ratings shipping transportation 
+Shipping

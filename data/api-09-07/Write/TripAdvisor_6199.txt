@@ -1,0 +1,7 @@
+Travel review and recommendation service
+TripAdvisor
+TripAdvisor is one of the world&#039;s largest travel sites featuring reviews and advice on hotels, resorts, flights, vacation rentals, vacation packages, travel guides, and more. The sites operate in 30 countries worldwide and TripAdvisor-branded sites have more than 50 million monthly visitors, and over 60 million reviews and opinions.
+
+TripAdvisor makes the following information available through its API: traveler photos, detailed reviews and rating data for accommodations, attractions, and restaurants and destination content. The TripAdvisor API content is not publicly available and is only for licensed partners. A partner key is required to access content from the API.
+recommendations reviews social travel vacation 
+Travel

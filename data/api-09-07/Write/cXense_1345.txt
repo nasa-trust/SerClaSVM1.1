@@ -1,0 +1,5 @@
+IT and web development solutions 
+cXense
+cXense is a context computing solutions provider. This means that offer tools for businesses to meet web service users at the level of their expectations and needs. The products include software for advertising, analytics, recommendation, and search solutions. Their product for enterprise search engines comes with an API. The search engine is cloud-hosted and can be integrated via the API. The API is REST-based and allows developers to create their own front-ends. 
+advertising internet search
+Internet

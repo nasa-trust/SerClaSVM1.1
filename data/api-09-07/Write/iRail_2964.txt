@@ -1,0 +1,5 @@
+Belgium train schedules
+iRail
+iRail is a website offering basic information about train schedules in Belgium. iRail provides arrival and departure times, station board schedules, and more. A RESTful API is available for iRail, returning responses in XML, JSON, and JSONP.
+belgium trains transit transportation 
+Transportation

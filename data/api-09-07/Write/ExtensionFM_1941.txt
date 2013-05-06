@@ -1,0 +1,5 @@
+Music discovery tool
+ExtensionFM
+Exfm is an extension for Chrome that lets users discover new music while browsing, organize that music into a library and share it with friends. The ExtensionFM API allows sites to add songs directly to a user&#039;s library as well as listen for and dispatch events to the extension. This API is useful for sites that would like to add music to a user&#039;s library but are not currently configured for automatic detection. The API uses JavaScript protocol and responses are formatted in JSON.
+deadpool music sxsw11 
+Music

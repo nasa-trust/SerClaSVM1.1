@@ -1,0 +1,17 @@
+bible 5
+church 3
+datum 1
+english 1
+format 1
+india 1
+indian 1
+malayalam 1
+operate 1
+over 1
+protocol 1
+reference 2
+religion 1
+retrieval 1
+retrieve 2
+soap 1
+verse 3

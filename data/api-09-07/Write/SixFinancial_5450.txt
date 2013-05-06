@@ -1,0 +1,5 @@
+Financial Information Service
+SixFinancial
+The SixFinancial API gives users access to the market data and pricing services offered by SixFinancial. API integration provides access to price quotes, reference data, corporate actions, sector codes, ratings, business news, and term sheets. The API is available in both XML and Java formats.
+analytics database financial realtime stocks 
+Financial

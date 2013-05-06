@@ -1,0 +1,7 @@
+Online content monetization service
+Affiliate Spice
+Affiliate Spice is a technology that helps affiliates monetize online content. The Affiliate Spice toolkit provides tools for creating content units across multiple affiliate networks and tools for automatically converting links into affiliate links. The technology is available as JavaScript widgets and as a RESTful API.
+
+The Affiliate Spice API allows developers to use the technology in their own applications such as in web apps, mobile apps, Android apps, iPhone apps and iPad apps. Affiliates can quickly build links inside their own application or website to thousands of advertisers and millions of products via the API. 
+advertising affiliate enterprise monetization shopping 
+Advertising

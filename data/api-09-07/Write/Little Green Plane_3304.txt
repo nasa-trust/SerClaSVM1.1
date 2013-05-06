@@ -1,0 +1,7 @@
+U.K. mail marketing campaign management service
+Little Green Plane
+The mix of services from a U.K. email marketing agency emphasize html message formatting, contact address and list management, flexible delivery options, and extensive reporting on success metrics. The isendhq API enables development of a customized interface for campaign management. 
+
+API methods support contact and list management, with unsubscribe and opt-out filtering. Control of message sending options includes messaging channel, content, display template, and scheduling. Reporting methods cover click counts, open counts, bounces, and related statistics.
+email marketing uk 
+Email

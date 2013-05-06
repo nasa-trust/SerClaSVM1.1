@@ -1,0 +1,5 @@
+Equities screening service
+XigniteScreener
+The Screener web service allows users to screen more than 10,000 U.S. and Canadian equities based on over 200 criteria as well as search on any combination of parameters. Users get access to pre-market and post-market data and behavior. They can also look up books of orders. The API uses REST and SOAP calls and responses are formatted in XML.
+financial stocks 
+Financial

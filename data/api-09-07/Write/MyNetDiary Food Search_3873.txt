@@ -1,0 +1,7 @@
+Food and nutrition information service
+MyNetDiary Food Search
+The service provides information about the nutritional content of more than 130,000 foods. Search and look-up functions are available on the site, by licensing the database, or via API. Applications supported include nutritionist sites, health-care providers, health clubs, and organizational wellness programs.
+
+API methods support search across the database for matches to a food name. Methods also support a food detail listing of complete nutritional content, including calories, fat percentage, carbohydrate grams, and other nutritional information.
+diet fitness food health medical 
+Medical

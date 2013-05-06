@@ -1,0 +1,7 @@
+Application backend service
+iKnode
+iKnode is a backend-as-a-service platform. iKnode allows users to create backend applications for either web or mobile.
+
+The iKnode API allows developers to access and integrate the functionality of iKnode with other applications and to create new applications. Some example API methods include managing account information, retrieving space information, and accessing user information. 
+application baas backend development hosting mobile 
+Backend

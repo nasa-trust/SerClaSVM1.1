@@ -1,0 +1,6 @@
+Events Listing and Ticketing Service
+Brown Paper Tickets
+Brown Paper Tickets is a fair-trade ticketing company, providing tickets for both large and small events. In addition to their website, Brown Paper Tickets provides a RESTful API for developers to use to integrate with and use data from Brown Paper Tickets. The API gives developers access to a full featured suite of event ticketing and management tools.  The Brown Paper Tickets API also works with affiliate program, allowing apps to generate revenue for the developer.
+
+events tickets 
+Events

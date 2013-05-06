@@ -1,0 +1,10 @@
+beta 1
+domain 5
+host 1
+international 1
+internet 3
+management 1
+names 1
+private 1
+registrar 1
+registration 1

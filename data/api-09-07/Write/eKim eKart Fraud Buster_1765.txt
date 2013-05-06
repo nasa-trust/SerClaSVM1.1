@@ -1,0 +1,7 @@
+Vietnamese payment and fraud detection service
+eKim eKart Fraud Buster
+The service, headquartered in Vietnam, provides a check for fraud in a pending e-commerce transaction and returns results including a recommendation to proceed with the transaction or close it out uncompleted. It analyzes information about the purchaser, including billing and shipping addresses, in comparison to IP address, bank identification number, and other variables. A component for IP-to-location helps to verify consistency of information provided by the purchaser.
+
+API methods support fraud analysis for a transaction based on submitted customer email, phone, and shipping and billing addresses, as well as IP address and bank identification number of the payment card. Methods can return results of the fraud check with a recommendation to complete or block the transaction. Options include verifying the phone number and bank identification number and matching IP address to the purchaser&#039;s location.
+crime ecommerce payment shopping 
+Payment

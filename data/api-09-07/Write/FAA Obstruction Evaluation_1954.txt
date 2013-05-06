@@ -1,0 +1,9 @@
+Aviation obstruction information service
+FAA Obstruction Evaluation
+The Obstruction Evaluation and Airport Airspace Analysis service from the U.S. Federal Aviation Administration describes and locates hazards to navigation around airports. Users can retrieve reports of structures that might obstruct aeronautic navigation and also submit reports of new construction adjacent to airport airspace. The service tracks both on-airport structures and off-airport construction with potential to impede air traffic.
+
+API methods give access to public information about cases for individual construction projects by type, date, region, and state. Information about &#039;circularized&#039; cases submitted for public comment is also freely available. Authentication is required for methods to retrieve &#039;boxed&#039; search results and NOTAMs (notices to airmen).
+
+
+airports government mapping transportation 
+Transportation

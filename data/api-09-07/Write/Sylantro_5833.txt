@@ -1,0 +1,5 @@
+Hosted VoIP services
+Sylantro
+NOTE: API details are available to partners only. From their site: The leading provider of software used by service providers to deliver hosted VoIP applications and services for business, consumer, and wireless customers. Synergy, Sylantro&#039;s carrier-grade software platform enables service providers to rapidly deliver differentiated, high value, high margin telephony services, ranging from IP Trunking to hosted PBX services and hosted consumer applications, without the cost and complexity of today&#039;s in-house PBX and key systems. 
+deadpool telephony VoIP 
+Telephony

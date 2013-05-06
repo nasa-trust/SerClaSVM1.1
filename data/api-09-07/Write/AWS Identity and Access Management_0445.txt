@@ -1,0 +1,7 @@
+User management service for AWS
+AWS Identity and Access Management
+AWS Identity and Access Management (IAM) is a web service that enables Amazon Web Services (AWS) customers to manage Users and User permissions under their AWS Account. With it users can access features such as listing all users, retrieving documents for specified users and creating access keys. 
+
+AWS Identity and Access Management (IAM) enables developers to create and manage Users under the umbrella of their AWS Account. IAM is used in conjunction with other AWS products to control access to the AWS resources within an AWS Account. It uses RESTful protocol and responses are formatted in XML.
+account cloud management 
+Other

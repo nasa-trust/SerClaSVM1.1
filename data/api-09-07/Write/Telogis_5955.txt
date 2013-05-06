@@ -1,0 +1,5 @@
+Dispatch Management Service
+Telogis
+Telogis provides a scalable fleet management system to help improve asset utilization, driver safety, and reduce labor and fuels costs. The Telogis API is available in JavaScript and several other formats including a ASP.NET and Silverlight package. A free trial SDK is available with registration to the developer zone.  
+fleet logistics mapping Optimization tracking transportation 
+Transportation

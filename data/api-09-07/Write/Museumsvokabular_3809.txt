@@ -1,0 +1,7 @@
+German museum vocabulary retrieval service
+Museumsvokabular
+Inventorying and cataloging the immense variety of objects found in museums requires extensive specialized vocabularies. However, information on these vocabularies is often widely dispersed. The museumsvokabular API allows users to retrieve vocabularies necessary for fundamental museum work.
+
+The website and documentation for the API are available in German. An English language option is available, but only applies to certain parts of the site and doesn&#039;t cover the documentation.
+education germany language museum 
+Education

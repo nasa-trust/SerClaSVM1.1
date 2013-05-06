@@ -1,0 +1,5 @@
+E-mail newsletter service
+Createsend
+Createsend is a service for creating and managing e-mail newsletter campaigns. It provides methods for managing subscribers as well as clients and client information. Statistical information on campaigns is recorded and readily accessible. Users may create and manage their own newsletter templates. All of these functions are accessible via SOAP calls.
+advertising campaigns email 
+Email

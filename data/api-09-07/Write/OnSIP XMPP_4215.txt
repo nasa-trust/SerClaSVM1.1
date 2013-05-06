@@ -1,0 +1,7 @@
+Real-time notification service
+OnSIP XMPP
+OnSIP is a hosted business VoIP service with free SIP hosting.  The OnSIP XMPP API is an XMPP/PubSub based API that allows developers to receive push notifications for various events inside the OnSIP system. Events include information regarding current call state and user agent state for SIP addresses inside of OnSIP. The other side of the API, the Ad-Hoc commands, allow for connected XMPP clients to perform realtime call control for active calls inside of OnSIP.
+
+
+realtime telephony VoIP 
+Telephony

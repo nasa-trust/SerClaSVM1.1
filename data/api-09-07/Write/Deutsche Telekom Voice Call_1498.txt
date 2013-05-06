@@ -1,0 +1,5 @@
+Telephone network connection service
+Deutsche Telekom Voice Call
+The Deutsche Telekom Voice Call API can be used to initiate voice calls between phones.
+call telephony Voice 
+Telephony

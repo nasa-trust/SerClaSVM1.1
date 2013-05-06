@@ -1,0 +1,7 @@
+PHP graph generator service
+PHPGraphlib Remote
+PHPGraphLib is a lightweight PHP-based graphing library that creates PHP graphs for incorporation into a website or application. The PHPGraphLib Remote API enables users to create PHPGraphLib graphs without ever having to download the PHPGraphLib library. 
+
+The API allows developers to format a request and send it to the API graph generator URI. The API graph generator then creates an image of the requested graph on the PHPGraphLib servers and returns the remote location of the created image. The PHPGraphlib Remote API is primarily intended to be implemented via PHP, but requests can be initiated with any other language that can open a remote URI.
+graphs php tools vizualization 
+Tools

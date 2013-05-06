@@ -1,0 +1,5 @@
+Catalog of downloadable software
+Softonic
+This service lets users embed Softonic content into their own website and applications. The Softonic API allows developers around the world to build applications and mashups based on Softonic&#039;s content.. Softonic is the leading website for software downloads in Europe and one of the leading sites in the world with a catalog of more than 100,000 categorized programs. With the API users can get information on software sections, programs and other users of Softonic. The API uses RESTful protocol and responses are formatted in XML, JSON or PHP.
+reference software 
+Reference

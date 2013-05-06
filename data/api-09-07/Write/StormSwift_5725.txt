@@ -1,0 +1,5 @@
+Mobile Video Distribution Service
+StormSwift
+StormSwiftMedia.com is a mobile video distribution platform that can be used to send consumers video messages to their mobile devices. The StormSwift API allows users to retrieve video information from StormSwiftmedia.com including the title, description, the publishing date, and other information.  The API returns JSON format and is accessible with API tokens. 
+advertising media mobile video 
+Video

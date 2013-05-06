@@ -1,0 +1,13 @@
+community 1
+datum 1
+engine 2
+format 1
+functionality 1
+hacker 3
+hn 1
+http 1
+news 5
+request 1
+response 1
+search 4
+simple 1

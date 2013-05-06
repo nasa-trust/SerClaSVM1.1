@@ -1,0 +1,7 @@
+Share Links Between Browsers
+SendTab
+Most of SendTab&#039;s functionality is within an extension for web browsers. The extension lets you share links instantly between computers. You are, in essence, sending tabs from one computer to another, where you can then open up the link to view. You can then return to previously sent tabs through a searchable history, so it&#039;s also a bookmarking service.
+
+The SendTab API is RESTful and allows developers incorporate SendTab data into their own applications.
+bookmarks internet social 
+Bookmarks

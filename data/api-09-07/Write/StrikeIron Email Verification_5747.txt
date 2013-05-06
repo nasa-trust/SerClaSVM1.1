@@ -1,0 +1,5 @@
+Email verification service
+StrikeIron Email Verification
+The StrikeIron Email Verification Web Service instantly determines the validity of an email address or domain. Simply provide an email address and this Web service will return a true or false by contacting the email owners SMTP servers to validate an address without sending an email. The Email Verification Web Service can be delivered live via an XML based Web service directly into any application, platform, product or Web site. This reduces spam by blocking email that is sent from invalid email addresses and ensures that email addresses are validated before they are entered into a database or before a mailing is sent.
+email verification 
+Email

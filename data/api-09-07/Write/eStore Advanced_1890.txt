@@ -1,0 +1,5 @@
+Online shopping cart software
+eStore Advanced
+eStore Advanced is an E-commerce Software that allows businesses to quickly set up their online storefronts. eStore gives users the ability to create an online shop with a secure shopping cart, website hosting, online marketing tools, free support and more. An API is avaialable that allows developers to accept payments on their merchant sites or on their NTPnow payment gateway. Documentation is not publicly available.
+ecommerce payment shopping store 
+Payment

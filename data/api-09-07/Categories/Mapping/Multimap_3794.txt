@@ -1,0 +1,13 @@
+ajax 2
+business 1
+consumer 1
+europe 1
+location 1
+mapping 5
+one 1
+place 1
+poi 1
+provider 1
+route 2
+search 1
+stop 1

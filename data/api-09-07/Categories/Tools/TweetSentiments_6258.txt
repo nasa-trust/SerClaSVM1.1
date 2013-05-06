@@ -1,0 +1,17 @@
+algorithm 1
+analysis 2
+datum 1
+demand 1
+determine 1
+machine 1
+negative 1
+neutral 1
+perform 1
+positive 1
+sentiment 2
+so 1
+support 1
+tool 2
+tweet 2
+twitter 2
+vector 1

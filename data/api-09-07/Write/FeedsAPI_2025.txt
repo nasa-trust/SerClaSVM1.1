@@ -1,0 +1,5 @@
+RSS feeds service
+FeedsAPI
+FeedsAPI is a service that allows developers to turn shortened RSS feeds into full text RSS feeds, turns XML feeds into JSON output and separates non-relevant information from relevant news content. It also provides the ability to turn a static page into an RSS feed.
+fulltext text 
+Feeds

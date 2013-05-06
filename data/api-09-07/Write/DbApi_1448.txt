@@ -1,0 +1,5 @@
+Database management service
+DbApi
+DbApi allows users to access their SQL databases via a web interface. With the API users can manage their DB queries and credentials and then execute them. Functionality includes storing query templates and DB access information; execute queries using variables; sharing queries with collaborators and more. The API uses HTTP calls and responses can be formatted in JSON and CSV. 
+database deadpool management query SQL 
+Database

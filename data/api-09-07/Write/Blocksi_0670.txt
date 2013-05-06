@@ -1,0 +1,18 @@
+URL filtering tool
+Blocksi
+The Blocksi API provides three main features:  web URL categorization web service, web filter configuration repositories and web analytic
+URL categorization web service supports 79 categories that are organized into the six main groups, like Controversial, Potentially Liable, Security Risk, Personal Interest, Bussiness Interest and Unrated.
+Some sub-categories exaples are  Adult Materials, Pornography, Child Abuse, Discrimination, Drug Abuse, Proxy Avoidance, Malicious Websites, Phishing, Spam URLs etc.
+Full list is available on http://block.si/ .
+
+The Configuration API provides support for central repositories for web filter configuration settings. Settings can be grouped per organization and for different users.
+
+The Analytic API provides daily, weekly and monthly reports for: 
+- Total request count
+- Top100 visitied URLs 
+- Top100 blocked URLs 
+- Most popular categories
+
+The API uses RESTful calls and responses are formatted in JSON. Public documentation is not available for the API. The provider should be contacted for more details.
+categorization Filter internet tools 
+Tools

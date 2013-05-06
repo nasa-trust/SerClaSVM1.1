@@ -1,0 +1,16 @@
+article 2
+get 1
+item 1
+links 1
+metadata 1
+minute 1
+news 2
+publish 2
+recent 1
+reference 1
+search 1
+stream 1
+summary 1
+times 5
+up 1
+york 2

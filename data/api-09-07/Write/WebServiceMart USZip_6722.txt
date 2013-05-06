@@ -1,0 +1,5 @@
+Zipcode validation service
+WebServiceMart USZip
+The WebServiceMart USZip API is a service for validating U.S. zipcodes. It also returns the United States Postal Service state abbreviation and the latitude and longitude (in decimal degrees) of a given zipcode. This API can be accessed via SOAP calls using the XML data format.
+location reference tools ZipCode 
+Reference

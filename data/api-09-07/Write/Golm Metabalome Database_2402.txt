@@ -1,0 +1,5 @@
+Metabolic molecule database
+Golm Metabalome Database
+The Golm Metabolome Database (GMD) offers a collection of APIs that provide programmatic access to the GMD&#039;s search functions. These APIs allow users to search for metabolites by inputting GC-MS spectral data consisting of a retention index and mass intensity ratios. Metabolites that don&#039;t yet have reference mass spectra included in the GMD can be characterized by the predicted presence or absence of functional groups. There is also a search API specific to the GoBioSpace database, which is part of the GMD. The GMD APIs operate over SOAP, GET, and POST protocols.
+bioinformatics database science 
+Science

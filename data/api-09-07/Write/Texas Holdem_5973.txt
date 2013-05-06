@@ -1,0 +1,5 @@
+Poker game creation service
+Texas Holdem
+With this API users can create a full Texas Holdem game, just create the graphic and associate it with the results. It has one method that allows users to get a ready-to-play full Texas Holdem match. Just choose how many players are going to play (2 to 22) and get all cards: 2 hidden cards for each player + 5 face up cards (flop, turn, river). The API uses an HTTP call and responses are formatted in JSON.
+cards games poker 
+Games

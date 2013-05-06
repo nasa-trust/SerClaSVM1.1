@@ -1,0 +1,5 @@
+SMS and voice messaging service
+Group2call 
+Group2call is a message broadcast service. It is an automated messaging service. You can record or type your message and the service will call, text or email all of your contacts or groups. Use the Group2call API to send voice, SMS or e-mail messages to single phone numbers or group of numbers and email addresses.
+deadpool northamerica sms telephony 
+Messaging

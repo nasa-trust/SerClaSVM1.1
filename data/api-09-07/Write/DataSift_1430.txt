@@ -1,0 +1,5 @@
+Real-Time Social Data Mining
+DataSift
+From website: DataSift provides very granular and modular &#039;sifting&#039; functions from across a wide range of social and web input feeds, augmenting them with sentiment analysis, storage and analytics to offer an unrivalled service platform, which leverages the cloud and scales infinitely. The DataSift API allows developers to consume filtered data from DataSift, and edit various resources hosted on the site. Some parts of the API do not require authorization, others recommend authorization, and the rest require authorization.
+realtime semantic social 
+Social

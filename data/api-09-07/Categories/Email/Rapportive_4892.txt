@@ -1,0 +1,13 @@
+account 1
+add 2
+contact 4
+datum 1
+display 1
+email 5
+embed 1
+location 1
+show 1
+sidebar 1
+social 1
+twitter 1
+workplace 1

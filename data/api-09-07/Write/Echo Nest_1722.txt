@@ -1,0 +1,5 @@
+Music services for professionals
+Echo Nest
+Use the Echo Nest APIs to perform actions related to music. Using the APIs, you can tap into the Echo Nest capabilities related to music search, music information, music recommendations, and remix tools. Also, use machine listening features including beat and pitch. Get feeds for any artist, analytics, or remix. Get song analytics that include fade in, fade out, beats, bars, duration, key, loudness, tatums, tempo, metadata, mode, and sections. Get artist news, profiles, videos, audio, URLs, and blogs. Get which artists or songs are at the top of the charts. Use the Echo Nest Remix API to alter music and video from the web.
+music 
+Music

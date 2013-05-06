@@ -1,0 +1,7 @@
+Biological protein sequencing service
+iHOP Genetics
+The service logs published papers on gene models and protein sequencing, then makes them available via hyperlinked graphics depicting the gene and protein links. Users can follow links from protein to protein and access relevant published reports. The service logs protein sequencing information across links spanning more than 2,700 species, 110,00 genes, and 28 million individual sequences. Users can also post paper references, linking them to proteins and genes discussed.
+
+API methods support interaction with the service for specific gene identifiers from a selection of databases, either across organisms or within a specific organism. This allows applications to incorporate information for specific genes in other web resources, either full abstract and iHOP functionality or just summaries for individual genes and proteins. 
+medical science 
+Science

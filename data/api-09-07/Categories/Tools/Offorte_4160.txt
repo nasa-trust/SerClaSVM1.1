@@ -1,0 +1,17 @@
+account 1
+create 1
+customer 1
+datum 1
+documentation 1
+extend 1
+medium 1
+notice 1
+photo 1
+proposal 4
+quotation 2
+quote 1
+social 1
+software 1
+statistics 1
+tool 2
+video 1

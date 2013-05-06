@@ -1,0 +1,5 @@
+User agent string analysis service
+user-agent-string
+The user-agent-string service was developed for analysis. Our analysis gives you information on client SW type (browser, webcrawler, anonymizer etc.), which OS is used by the client and moreover a detailed analysis of UA fragments together with the URL of client&#039;s SW producer and our commentary. The user-agent-string API is designed for access to the database with informations about a user agent. Using it is simple, send UA string to our server and get an automatic response by using method. 
+internet utility 
+Internet

@@ -1,0 +1,5 @@
+Movie review and recommendation service
+Filmaster
+Filmaster is a social network for movie fans, with personalized content and recomendations. Filmaster allows users to run their own film blog using a domain like you.filmaster.com, rate movies and talk about movies with others in the community. Personalized recommendations are a bonus. The API provides functionality such as retrieving reviews, blog posts and followers. The API uses RESTful protocol and responses are formatted in JSON.
+movies recomendations reviews 
+Recommendations

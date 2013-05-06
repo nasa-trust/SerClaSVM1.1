@@ -1,0 +1,17 @@
+add 1
+code 1
+custom 1
+detect 1
+detection 1
+don 1
+execute 1
+handset 2
+host 1
+line 1
+mobile 2
+one 1
+page 1
+redirect 2
+setting 1
+telephony 2
+want 1

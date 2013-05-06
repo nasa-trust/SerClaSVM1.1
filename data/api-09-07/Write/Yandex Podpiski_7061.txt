@@ -1,0 +1,7 @@
+RSS feed subscription service
+Yandex Podpiski
+Yandex is the largest search engine in Russia and develops a number of Internet-based services and products. Yandex offers owners of websites and blogs tools with which they can apply the functional services of Yandex in their projects. The site and documentation are in Russian. 
+
+API subscription service allows users to create applications to read and work with RSS-feeds. The API allows users to manage feed resources such as a list of stations, data on fasting, subscribe, stream, directory, etc. The API uses RESTful protocol and responses are formatted in XML.
+feeds rss russia 
+Feeds

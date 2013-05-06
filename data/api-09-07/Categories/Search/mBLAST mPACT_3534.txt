@@ -1,0 +1,12 @@
+article 2
+author 1
+blog 3
+content 3
+example 1
+functionality 1
+integrate 1
+medium 2
+method 1
+search 7
+social 2
+tweet 1

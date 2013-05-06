@@ -1,0 +1,5 @@
+SEO Rank checking service
+AuthorityLabs Partner
+AuthorityLabs provides SEO rank monitoring for use by consultants, agencies, bloggers, and internet marketing pros. The Partner API gives users access to search results only. Nothing done via the Partner API is reflected in any account. Pricing is based on specific endpoint usage, per thousand calls. RESTful calls are used and responses are formatted in JSON.
+internet SEO 
+Internet

@@ -1,0 +1,11 @@
+cafe 2
+customize 1
+make 1
+press 2
+product 2
+query 1
+retail 1
+run 1
+search 1
+shopping 2
+store 1

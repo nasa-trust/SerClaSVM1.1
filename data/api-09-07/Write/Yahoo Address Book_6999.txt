@@ -1,0 +1,5 @@
+Address book service for Yahoo accounts
+Yahoo Address Book
+The Address Book API is a Web Service API that allows developers to integrate their applications with the Yahoo! Address Book. Developers both on and off the network can add, edit and retrieve the addresses of Address Book contacts. Requests and Results are sent and returned, respectively, in either XML or JavaScript Object Notation (JSON).
+contacts deadpool 
+Other

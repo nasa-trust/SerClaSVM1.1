@@ -1,0 +1,5 @@
+Stockholm city data
+Open Stockholm
+Open Stockholm is an open government data portal for the city of Stockholm, Sweden. The website provides data mainly through APIs (a standard API for the site is in the works). Current data includes: city services; sport and leisure activities and locations; environmental data; geodata; traffic; and demographics. Most APIs are RESTful and return responses in XML and JSON. 
+deadpool government sweden 
+Government

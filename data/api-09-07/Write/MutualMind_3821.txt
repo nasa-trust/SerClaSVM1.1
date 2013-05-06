@@ -1,0 +1,5 @@
+Social media management service
+MutualMind
+MutualMind is an enterprise level social media management service. It is a web app that can monitor and promote brands across social networks. The API gives users access to the data behind the service including campaigns, content and statistics. An API key is required and it uses RESTful calls. Responses are formatted in XML and JSON.
+management social 
+Social

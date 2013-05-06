@@ -1,0 +1,7 @@
+Short-term travel rental service
+Roomorama
+Roomorama is a service for travellers to find short-term accommodations in locations around the world. Property owners can list their properties/rooms for short-term rental that travellers can search for and make reservations.
+
+The Roomarma API allows developers to access the data and functionality of Roomarama. Some example API methods include listing destinations, properties, retrieving, creating, and editing property information, and listing property availability and rates. 
+places travel 
+Travel

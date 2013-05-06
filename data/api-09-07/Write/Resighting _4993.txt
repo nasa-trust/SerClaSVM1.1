@@ -1,0 +1,7 @@
+Favorite places application
+Resighting 
+Resighting is an application for geo-tagging and saving favorite places. Resighting allows users to also see other Resighting places nearby and create collections of favorite places. 
+
+The Resighting API allows developers to access and integrate the functionality of Resighting with other applications and to create new applications. Some example API methods include listing places, listing sightings, resizing photos, and managing account information.
+location mapping photo realtime social 
+Mapping

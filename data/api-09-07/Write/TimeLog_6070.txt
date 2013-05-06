@@ -1,0 +1,8 @@
+Time tracking and project management service
+TimeLog
+TimeLog develops and sells web-based solutions within time tracking especially to project-oriented companies in Europe.
+
+The TimeLog API is based on standard web technologies, web services, and XML. Users can use the API to integrate data from TimeLog Project into intranet, extranet, applications, and more. Users can get data on numerous things, such as time registrations, tasks, projects, and customers.
+
+europe project-management time-tracking 
+Project Management

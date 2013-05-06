@@ -1,0 +1,15 @@
+character 1
+china 1
+chinese 2
+create 3
+finance 1
+friend 1
+message 3
+particular 1
+platform 1
+public 1
+see 1
+status 1
+timeline 2
+up 1
+view 1

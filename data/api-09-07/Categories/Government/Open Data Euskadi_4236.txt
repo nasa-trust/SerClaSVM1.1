@@ -1,0 +1,13 @@
+agency 1
+basque 2
+community 1
+country 1
+datum 5
+government 5
+open 3
+portal 1
+protocol 1
+response 1
+return 1
+spain 2
+variety 1

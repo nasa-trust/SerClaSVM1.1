@@ -1,0 +1,14 @@
+account 1
+create 1
+email 6
+example 1
+functionality 1
+host 1
+integrate 1
+manage 1
+mandrill 4
+message 1
+method 1
+retrieve 1
+sending 2
+template 4

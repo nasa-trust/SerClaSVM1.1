@@ -1,0 +1,8 @@
+South African bulk SMS/text message service
+SMSGuys
+The service provides SMS text messaging in South Africa, either for bulk delivery or by individual messages. Applications can trigger delivery immediately or schedule messages for future delivery. The system maintains an address book with delivery numbers for each user account.
+
+API methods support specification of message content and recipient, either an individual number or a list for bulk delivery. Messages can be routed for immediate delivery or scheduled for later delivery. Methods also support address book management, with contact list addition, updating, and delete. 
+
+africa messaging sms southafrica 
+Messaging

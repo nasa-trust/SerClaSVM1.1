@@ -1,0 +1,7 @@
+File type reference service
+LittleShoot Labs MIME
+The REST MIME API allows users to get the MIME type for a file name, returning responses as JSON or JSONP. It is a lightweight API with the specific use being when a user needs to dynamically determine a MIME type in JavaScript for any reason. The alternative would be to download an entire JavaScript file.
+
+LittleShoot is a standards-based peer-to-peer application that works directly from an internet browser to perform searching, publishing, and downloading of media files. 
+deadpool reference tools 
+Tools

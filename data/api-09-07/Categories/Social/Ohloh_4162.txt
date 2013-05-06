@@ -1,0 +1,16 @@
+community 1
+connect 1
+create 2
+datum 1
+directory 2
+free 1
+interface 1
+network 1
+open 3
+own 1
+people 1
+programming 1
+rest 1
+social 2
+software 2
+source 3

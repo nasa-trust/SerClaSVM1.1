@@ -1,0 +1,15 @@
+anagram 3
+anagrams 2
+document 1
+fun 1
+game 2
+letters 2
+original 1
+phrase 2
+play 1
+produce 1
+rearrange 1
+retrieval 1
+retrieve 1
+type 1
+word 3

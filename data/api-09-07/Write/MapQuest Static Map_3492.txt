@@ -1,0 +1,5 @@
+Simple online mapping service
+MapQuest Static Map
+The Static Map API allows you to customize and create your own map image through a simple HTTP request.  Maps can be centered by requesting a center point, a bounding box, or allowing the service to best-fit all the features shown on the map.  Custom icons are also accepted and can be decluttered for overlapping POIs.
+display mapping 
+Mapping

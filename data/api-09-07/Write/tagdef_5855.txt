@@ -1,0 +1,5 @@
+Twitter hashtag definitions
+tagdef
+Tagdef.com gives users an easy way to define and look up Twitter hashtags. Through its RESTful API, users can retrieve the definitions, returned in XML format, and integrate the data into their website or webapp.
+hashtags Twitter 
+Social

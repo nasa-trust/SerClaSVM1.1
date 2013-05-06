@@ -1,0 +1,5 @@
+Temperature conversion service
+Visual DataFlex Temperature Conversion
+The Visual DataFlex Temperature Conversion API converts temperature values from Celcius to Fahrenheit and vice versa. It can also determine windchill temperatures in either Celcius or Farenheit using the Steadman formula. This API can be accessed via SOAP calls using the XML data format.
+conversion tools 
+Tools

@@ -1,0 +1,5 @@
+Geographic boundary service
+Mapping L.A.
+Los Angeles Times API provides boundaries of cities within Los Angeles metropolitan area. The data is available in a number of formats. The boundaries can be displayed on a map or used to check for whether specific points are within the bounds.
+mapping news 
+Mapping

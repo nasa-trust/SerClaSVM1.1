@@ -1,0 +1,7 @@
+Video Clip Sharing Service
+AnyClip
+The AnyClip API enables the ability to build programs using video clips and metadata, whether they&#039;re on the web, the social network, the desktop or mobile devices.
+
+The AnyClip API provide a range of API methods to start building applications on top of the AnyClip platform.
+video 
+Video

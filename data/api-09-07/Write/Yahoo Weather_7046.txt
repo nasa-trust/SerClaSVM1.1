@@ -1,0 +1,5 @@
+Weather data service
+Yahoo Weather
+The Yahoo Weather RSS feed enables you to get up-to-date weather information for your location. This data can be used as an RSS feed in a feed reader or can be integrated into third party applications. The Weather RSS feed is a dynamically-generated feed based on zip code or Location ID. 
+weather 
+Weather

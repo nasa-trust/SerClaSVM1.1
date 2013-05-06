@@ -1,0 +1,5 @@
+Website visitor activity monitoring service
+FoxMetrics
+FoxMetrics is an advanced analytics platform that allows website owners to track their visitors&#039; activities in real time. It provides person-level tracking of actions taken on the website, but it is not designed to track overall analytics such as page views. The FoxMetrics APIs provide users with several ways in which they can record events.
+analytics internet monitoring tools 
+Internet

@@ -1,0 +1,7 @@
+Website scraping service
+Bobik
+Bobik is a web service for scraping websites in real-time. Bobik allows users to collect and retrieve information from websites automatically and in real-time.
+
+The Bobik API allows developers to access and integrate the functionality of Bobik with other applications and to create new applications. Some example API methods include creating and setting scraping jobs, managing account information, and retrieving scrapes. 
+Data internet realtime website 
+Internet

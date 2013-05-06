@@ -1,0 +1,16 @@
+album 2
+create 2
+document 2
+even 1
+example 1
+import 1
+management 1
+medium 2
+member 1
+music 1
+photo 2
+search 1
+see 1
+sharing 2
+tag 1
+video 1

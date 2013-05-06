@@ -1,0 +1,7 @@
+Music chart service
+Billboard
+Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital & mobile entertainment issues and trends.
+
+The Billboard API puts the entire history of our weekly charts at your fingertips.
+music reference 
+Music

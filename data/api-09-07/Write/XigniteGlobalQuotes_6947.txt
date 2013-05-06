@@ -1,0 +1,5 @@
+Global delayed stock quotes
+XigniteGlobalQuotes
+The Global Quotes web service provides global delayed stock quotes and for U.S. and international equities. XigniteGlobalQuotes provides global delayed stock quotes from over a dozen exchanges including the London Stock Exchange, the Deutsche Boerse and the Bombay Stock Exchange.
+enterprise finance 
+Financial

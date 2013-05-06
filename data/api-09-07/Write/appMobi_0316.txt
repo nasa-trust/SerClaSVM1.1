@@ -1,0 +1,7 @@
+Mobile HTML5 application platform service
+appMobi
+The service supports creation and delivery of mobile applications under the iOS and Android operating systems based on HTML5. Applications developed and hosted within the platform can take advantage of authentication services, in-app payments functions, rich-media messaging, and user analytics reports. 
+
+API methods support combining functional modules and implementing code to develop applications for delivery via the platform. Applications can upload code and imagery and implement messaging with rich-media elements, along with user authentication and payment processing.
+android hosting internet iPhone mobile 
+Internet

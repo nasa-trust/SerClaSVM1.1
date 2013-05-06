@@ -1,0 +1,7 @@
+get 1
+list 2
+management 1
+motivate 1
+organize 1
+stay 1
+task 1

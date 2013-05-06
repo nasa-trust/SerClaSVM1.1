@@ -1,0 +1,5 @@
+Web services tools
+MuseStorm
+From their site: MuseStorm provides Web developers with a service that retrieves data from multiple Web APIs and client-side components that manage the data and handle client-server interaction. The service frees developers from dealing with AJAX, learning APIs and having to write code to parse XML data and manage it.
+tools 
+Other

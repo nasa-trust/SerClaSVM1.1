@@ -1,0 +1,5 @@
+Vehicle information service
+IM Group
+Based in the UK, the I.M. Group imports and operates vehicle franchises throughout the UK and Europe. The API provides users with access to vehicle information as well as the latest news, events and special offers. Currently vehicle information is limited to Subaru but there are plans to add more information. The API uses RESTful calls and responses are formatted in XML.
+auto cars transportation uk 
+Transportation

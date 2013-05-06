@@ -1,0 +1,15 @@
+benefit 1
+datum 2
+download 1
+entire 1
+main 1
+mobile 6
+need 1
+partner 1
+phone 5
+process 1
+product 2
+publish 2
+require 1
+search 3
+shopping 2

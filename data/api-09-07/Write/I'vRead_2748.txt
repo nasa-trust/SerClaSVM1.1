@@ -1,0 +1,5 @@
+Social Reading Record
+I'vRead
+I'vRead is a record of what books a user has read. Users don't need to sign up for an I'vRead account, they only have to post a Tweet in the format 'book name @ivread comment' and it will update their I'vRead record. Other users can then see lists of what other users have read or lists of popular books. The I'vRead API is a way for developers to integrate I'vRead into their own applications/websites. The API can be used to get JSON or RSS data about Recent Reads or User Information. 
+Twitter social books
+Social

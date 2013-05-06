@@ -1,0 +1,5 @@
+Calculator for the Pearson Correlation Coefficient &#961;
+Pearson Correlation Coefficient
+A simple HTTP-based API that can be used to calculate the Pearson Correlation Coefficient between two variables, X and Y. The variables can be passed as either t, an interleaved list of strings (one value of the first column, one value of the second column etc.), or as t1 and t2, which contain the first and second variables respectively. 
+Math science tools 
+Tools

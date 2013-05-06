@@ -1,0 +1,5 @@
+Mobile app creation platform
+Kawet
+Kawet is a mobile app creation platform. Its main prodcut is Cashew, a CMS dedicated to the design and management of mobile apps. The platform is based on a CMS and aims to reduce the time and const to create, manage and devlier business apps across multiple devices. An API is available that exposes much of the functionality of the CMS allowing developer to create native apps. Documentation is not publicly available.
+application creation enterprise mobile 
+Enterprise

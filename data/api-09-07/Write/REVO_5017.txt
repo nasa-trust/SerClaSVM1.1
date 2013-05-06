@@ -1,0 +1,7 @@
+Real estate listing and promotion platform
+REVO
+REVO is a service for real estate agents to list their properties, send promotional emails, texts, and to social media sites, organize property information, and manage customer information. 
+
+The REVO API allows for integration into other applications and websites. Some example API methods include managing listing information, adding listings, and deleting listings. Public documentation is not available; API is included with account.
+Agent listings marketing realestate search 
+Real Estate

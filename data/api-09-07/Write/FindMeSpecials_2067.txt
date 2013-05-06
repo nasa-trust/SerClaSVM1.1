@@ -1,0 +1,5 @@
+Find local specials and events
+FindMeSpecials
+The FindMeSpecials APIs let users get verified specials and events by geolocation. It currently lists over 250,000 food, drink and leisure specials in the US. With the API users can retrieve a list of businesses for a particular location, search specials and events for a specific date and location and more. The API uses RESTful protocol and responses are formatted in XML.
+coupons shopping 
+Shopping

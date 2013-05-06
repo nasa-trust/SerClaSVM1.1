@@ -1,0 +1,11 @@
+closing 3
+day 1
+end 1
+finance 2
+index 2
+indic 3
+search 1
+stock 1
+stocks 1
+values 2
+world 2

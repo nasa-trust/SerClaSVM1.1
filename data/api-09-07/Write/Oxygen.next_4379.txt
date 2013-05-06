@@ -1,0 +1,5 @@
+Online digital signage service
+Oxygen.next
+Oxygen.next is a free web service that allows to build up digital signage networks of any size, e.g. for instore-TV. The Oxygen REST API methods allow developers to access core Oxygen features. This includes upload, edit and schedule content, categories, get statistics and other features.
+media television 
+Other

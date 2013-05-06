@@ -1,0 +1,7 @@
+Real estate listing service
+Dezrez
+Dezrez provides real estate software as a service to real estate agents. The software manages the sale or rental of a property, including marketing materials and agency analytics.
+
+The Dezrez API provides an XML-based integration with other websites. Search listings based on a number of factors and receive complete details on properties. The developer then has complete control of how to display property details or search results.
+realestate 
+Real Estate

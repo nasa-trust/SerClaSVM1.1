@@ -1,0 +1,16 @@
+charge 1
+cheat 2
+datum 2
+feature 1
+free 1
+full 1
+game 5
+guide 2
+list 1
+make 1
+news 1
+preview 1
+radar 1
+review 1
+set 1
+video 3

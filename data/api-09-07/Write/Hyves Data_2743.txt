@@ -1,0 +1,5 @@
+Dutch social networking site
+Hyves Data
+Hyves is a Dutch social networking site. With the Hyves API developers can build applications or sites using content from Hyves. The API lets developers show content from Hyves on their own site and send content such as photos, videos, status updates, blog and tips to Hyves. The Data-API offers a wide range of functionalities such as:
+social netherlands
+Social

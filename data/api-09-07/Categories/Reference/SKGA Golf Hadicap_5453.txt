@@ -1,0 +1,10 @@
+course 1
+format 1
+golf 4
+handicap 3
+list 1
+lookup 1
+mobile 1
+reference 2
+response 1
+slovakia 1

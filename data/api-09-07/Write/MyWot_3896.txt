@@ -1,0 +1,5 @@
+Website reputation service
+MyWot
+WOT, or Web of Trust, promotes a safe browsing tool with a traffic light-like method of sharing what it knows about a site. The trust rankings are determined by millions of users in the active WOT community. The MyWot API provides access to the reputation rankings in four categories: trustworthiness, vendor reliability, privacy and child safety. In addition to the 0-100 reputation, MyWot provides a confidence score for how reliable the system believes the score to be.
+reputation security 
+Security

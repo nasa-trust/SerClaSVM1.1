@@ -1,0 +1,7 @@
+Educational technology readiness assessment service
+SmarterMeasure
+The service helps educators to assess a learner&#039;s readiness to engage in an online learning program and overall prospects for success in an instructional environment heavy in technology. It provides assessment tools to evaluate student skills, knowledge, and attributes suited to technological instruction. 
+
+API methods support learner account creation and management, reporting of assessment results, and charting of results. Integration kits allow connection of the service with the Blackboard and Pearson Learning Studio environments.
+education learning technology 
+Education

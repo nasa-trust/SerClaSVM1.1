@@ -1,0 +1,7 @@
+Advertising campaign management service
+Sapo Advertising
+SAPO is a Portuguese Internet service provider whose main web site acts as a web portal featuring a directory of Portuguese sites. SAPO Services provides a large suite of web services and applications to developers worldwide.
+
+The Advertising API allows users to manage campaigns on Sapo Adverts without accessing the platform. The API provides methods for creating and managing campaigns as well as viewing reports. The API uses RESTful calls and responses are formatted in JSON.
+advertising campaign 
+Advertising

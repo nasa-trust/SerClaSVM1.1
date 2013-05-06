@@ -1,0 +1,5 @@
+Online hosting service
+Fasthosts Reseller Hosting
+Fasthosts is a UK based web host providing online services to the home, home office and SME markets. The Reseller Hosting API allows users to integrate the functionality of their Reseller hosting service into their own websites. The API is available in both REST and SOAP architectures and responses are formatted in XML. Test scripts are available in C# (ASP.NET) and PHP. Documentation is not publicly available on the web site. 
+hosting internet 
+Internet

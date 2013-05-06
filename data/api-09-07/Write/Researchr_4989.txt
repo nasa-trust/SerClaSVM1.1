@@ -1,0 +1,7 @@
+Scientific publication repository and research service
+Researchr
+The service provides a citation database with references to scientific papers and other publications. It serves the needs of researchers to find published sources on topics and by authors of interest to them. The site collects citations, shares them across scientific communities, and provides for reviews of findings by other researchers.
+
+API methods support search against the citation database for term or author name matches in references to papers from scientific journals and conference presentations. Methods also support generation of bibliography listings.
+research science search 
+Science

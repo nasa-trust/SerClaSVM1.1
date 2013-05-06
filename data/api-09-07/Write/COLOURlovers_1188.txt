@@ -1,0 +1,5 @@
+Named colors and color palette services
+COLOURlovers
+From their site: With the release of the COLOURlovers API, you can now access almost 1 million named colors and more than 325,000 color palettes for your creative projects and applications. Creating a theme editor and want to give your users some color theme options? Who knows what amazingly creative stuff people will come up with.
+color social tools visualization webdesign 
+Tools

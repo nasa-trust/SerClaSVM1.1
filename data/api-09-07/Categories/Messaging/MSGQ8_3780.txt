@@ -1,0 +1,15 @@
+arabic 1
+balance 1
+call 1
+check 1
+documentation 1
+format 1
+integrate 1
+kuwait 2
+limited 1
+message 1
+messaging 3
+response 1
+send 1
+sm 3
+soap 1

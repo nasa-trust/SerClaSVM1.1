@@ -1,0 +1,9 @@
+comparison 1
+create 1
+display 1
+functionality 1
+product 1
+review 1
+search 2
+shopping 5
+yahoo 1

@@ -1,0 +1,17 @@
+church 3
+criterion 1
+customer 1
+customize 1
+datum 2
+format 1
+get 1
+internet 2
+order 1
+parameter 1
+real 1
+retrieve 1
+segment 2
+traffic 3
+twitter 1
+variety 1
+ways 1

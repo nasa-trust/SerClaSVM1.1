@@ -1,0 +1,5 @@
+Crowd-sourced copy editing service
+Editz
+Formerly called gooseGrade, Editz is a crowd-sourced copy editing solution. When users join, their readers can find and send copy editing suggestions to them. Editz has been built to be a retroactive editing tool. It will work on any webpage with HTML text, The Editz API allows developers to use Editz&#039;s database of corrections to create innovative applications using Editz data. With the API users can read corrections, get grades, and change their corrections status. The API uses RESTful calls and responses are formatted in XML and JSON.
+crowdsourcing internet writing 
+Internet

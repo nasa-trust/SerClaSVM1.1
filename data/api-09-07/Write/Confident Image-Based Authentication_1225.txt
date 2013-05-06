@@ -1,0 +1,5 @@
+Image based authentication service
+Confident Image-Based Authentication
+Confident Technologies provides image based authentication solutions for mobile devices, applications and web sites. This API gives developers the means to create image-based authentication services. It generates a single use password by asking users to identify which pictures fit into their previously chosen, secret authentication categories. Developers can customize and integrate their approach using the API. Client libraries are available for Classic ASP, ASP.NET, PHP, Java and Python. The API uses RESTful calls and responses are formatted in XML and Text.
+authentication image password security 
+Security

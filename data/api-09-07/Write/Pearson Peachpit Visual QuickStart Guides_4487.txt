@@ -1,0 +1,5 @@
+Visual QuickStart Guide
+Pearson Peachpit Visual QuickStart Guides
+Visual QuickStart Guides have been a vital part of the computer book category for years and are a trusted resource for accessing information and guidance. Visual QuickStart Guides contain concise, step-by-step explanations of core tools and tasks, with helpful screen shots. The Pearson Peachpit Visual QuickStart Guides API allows users to access and view sections, articles and books from the Pearson database to find the correct guide. 
+reference books guide programming
+Reference

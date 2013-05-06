@@ -1,0 +1,5 @@
+Live Video Streaming and Monitoring Service
+Rambla
+Rambla is a live video streaming, media encoding, and traffic monitoring service. The Rambla API is a RESTful API consisting of four distinct parts: the Rambla Storage Service (RASS), Rambla Transcoding Service (RATS), Rambla Monitoring Service (RAMS), and the Rambla Stream Enabler (RASE). The API provides tools for accessing the videos and data stored on the Rambla Content Delivery Network.
+Encoding live video 
+Video

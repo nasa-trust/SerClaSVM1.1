@@ -1,0 +1,15 @@
+add 1
+booking 1
+datum 1
+destination 1
+feed 1
+get 2
+give 1
+insight 1
+near 1
+property 1
+specialize 1
+things 1
+travel 4
+traveler 1
+zealand 1

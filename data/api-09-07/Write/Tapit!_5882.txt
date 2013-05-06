@@ -1,0 +1,5 @@
+Mobile ad delivery platform
+Tapit!
+Tapit! is a mobile advertising platform. It offers solutions and features for advertisers as well as publisher-developers. For advertisers, Tapit! offers a suite of scalable strategic and delivery options. For publishers and developers, Tapit! provides a network of advertisers and a streamlined delivery ad delivery solution. The Tapit! API exposes the reporting functionality. It returns analytical information about advertiser and publisher statistics. It is a RESTful API that returns JSON-encoded data. 
+advertising mobile 
+Advertising

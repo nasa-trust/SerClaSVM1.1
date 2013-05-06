@@ -1,0 +1,14 @@
+daily 2
+day 1
+finance 4
+get 1
+market 2
+money 1
+month 1
+news 3
+range 1
+relate 1
+stocks 1
+summary 1
+update 1
+week 1

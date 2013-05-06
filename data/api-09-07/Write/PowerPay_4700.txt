@@ -1,0 +1,5 @@
+Payment processing service
+PowerPay
+PowerPay is a payment solutions provider for both eCommerce and point-of-sale scenarios. Solutions include credit card machines and terminals, merchant account credit card processing and more. The PowerPay API can be integrated with any existing software service, giving users the ability to accept all types of electronic transactions through a secure, web-based payment gateway. It provides functionality such as  providing real-time shipping quotes, storing customer and transaction profiles, processing recurring payments and email receipts. The API uses HTTP Post calls.
+ecommerce payment retail sbweb 
+Payment

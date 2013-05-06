@@ -1,0 +1,7 @@
+Community engagement and motivation service
+uBoost
+The service provides customized motivational information to promote engagement and sharing in education, healthcare, and online settings. It encourages members to login and interact online, improving engagement and attachment by providing incentives and rewards for member activities.
+
+API methods support user account management (creating, updating, and inactivating) and definition of user groups populated by individual accounts. Methods also support management of user award points and badges as part of the motivation function.
+community motivation social 
+Social

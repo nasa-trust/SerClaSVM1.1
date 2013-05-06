@@ -1,0 +1,5 @@
+Charity and fundraising platform 
+The Giving Lab
+The Giving Lab is a network where charity and tech projects intersect. Their goal is to help charitable enterprise develop their means and missions through tech. To that end, they provide tools for creating campaigns and groups. They also offer an API that exposes that campaign and group information management functionality. Developers can use it to create integrative plug-ins allowing their users to give to charities. The API is RESTful and returns JSON or JSONP-encoded data.
+charity collaboration tools 
+Tools

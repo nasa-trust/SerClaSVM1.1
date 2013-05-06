@@ -1,0 +1,7 @@
+Cross-channel marketing management service
+Responsys Interact
+The service provides cross-channel management tools for marketing campaigns across digital channels like email, mobile device/SMS, social media, and web display. Users create, update, and retire promotional messaging campaigns via the Interact software-as-a-service (SAAS) tools. Reporting functions allow monitoring and reporting on campaigns.
+
+API methods support management of ad media and other data, source content/documents, and their deployment in ad campaigns. The API allows specification of targeting lists, including email addresses, messaging frequency, opt-in/opt-out preferences, etc.
+enterprise marketing 
+Enterprise

@@ -1,0 +1,7 @@
+Irish address validation and geocoding service
+Autoaddress
+The service provides address capture and validation, with format clean-up and geocoding, for locations in Ireland. Autocomplete functions suggest valid choices during user data entry and apply address intelligence routines to capture and correct accurate, valid addresses. The system can be adapted to an application&#039;s address format preferences.
+
+API methods support validation and autocorrection when a user completes data entry, returning status messages, geocoding information, and related application data. Reformat methods modify submitted addresses to match specified configuration options.
+address campaign geocoding ireland mail shipping 
+Shipping

@@ -1,0 +1,5 @@
+Cloud computing and web hosting services
+GoGrid
+Use the GoGrid API to do everything programmatically that you can do with the UI. GoGrid is a grid hosting platform where you get multi-tier Internet infrastructure on demand using a web control panel. GoGrid users can set up and scale servers from any web browser. GoGrid provides computing power with the same root access and standard OS installs you would expect from a dedicated server. Even as your blog or Web app grows, GoGrid can provide you with services that grow with you.
+cloud hosting internet 
+Internet

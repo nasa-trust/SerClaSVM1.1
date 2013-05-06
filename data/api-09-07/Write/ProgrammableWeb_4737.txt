@@ -1,0 +1,7 @@
+API for APIs
+ProgrammableWeb
+An API for APIs. Use it to find web services and mashups. The ProgrammableWeb API gives you a simple way to access the powerful registry and repository capabilities of PW. Programmatically search and retrieve APIs, mashups, and other data from our catalog. 
+
+The PW API is based on open standards including XML, RSS, OpenSearch and the Atom Publishing Protocol. This lets you get up to speed quickly and we work well with the existing tools and technologies you already know. If you&#039;re familiar with Google&#039;s GData APIs you&#039;ve got an even better head start.
+Apis internet 
+Internet

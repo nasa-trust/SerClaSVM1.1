@@ -1,0 +1,7 @@
+Geospatial and mapping service
+GeoAdmin
+GeoAdmin by the Swiss Confederation is a geospatial and mapping tool. GeoAdmin allows access to geospatial data provided by the Swiss Confederation.
+
+The GeoAdmin API allows developers to access and integrate the functionality and data of GeoAdmin with other applications, websites, and to create new applications. Some example API methods include mapping, map rendering, creating layers, and managing and editing maps created.
+geo geography mapping 
+Mapping

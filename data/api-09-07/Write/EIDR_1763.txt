@@ -1,0 +1,5 @@
+Unique media identifier service
+EIDR
+EIDR (Entertainment IDentifier Registry) is a universal unique identifier system for movie and television assets. This sort of identifier helps improve internal asset tracking as well as decrease the risk of misidentifying media. The EIDR API allows users to retrieve information from or write information to the EIDR database.
+entertainment media media-management movies television 
+Media Management

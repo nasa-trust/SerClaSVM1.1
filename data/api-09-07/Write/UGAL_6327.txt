@@ -1,0 +1,5 @@
+Web based e-commerce content management system
+UGAL
+The UGAL API is an interface to some of the features provided by the UGAL web interface. UGAL is a web based e-commerce content management system allowing users to create web pages. With the API, users can access information about the product catalogs available on a website and retrieve and manipulate information on orders, items and published products. The API uses RESTful protocol and responses are formatted in XML or JSON.
+cms shopping 
+Shopping

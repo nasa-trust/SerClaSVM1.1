@@ -1,0 +1,5 @@
+Local events and community
+Boomloop
+Use the BoomLoop API to add events and coordinate social activities with your friends. You can use this API to create, manage and share calendar entries and events with other people. Boomloop is a German social site where users share cool events, cool venues in their cities, photos, videos, and links with each other.
+events local social 
+Events

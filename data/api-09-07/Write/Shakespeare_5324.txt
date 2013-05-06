@@ -1,0 +1,5 @@
+Shakespearian play quote origin identification service
+Shakespeare
+This SOAP-based API allows users to input a phrase from the plays of William Shakespeare and identifies the associated speech, speaker, and play. The Shakespearian texts used in this Web Service are the XML versions developed by Jon Bosak.
+entertainment reference 
+Reference

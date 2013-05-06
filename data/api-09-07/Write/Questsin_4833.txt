@@ -1,0 +1,5 @@
+Thesaurus and answers lookup services
+Questsin
+Use the Questsin API to get programmatic access to the same data available from the main Questsin site. On the main site, you enter two or more similar things, such as places, people, products, movies, games, and words (for example, Christmas vs. Hanukkah), and then information about that submission is provided. Multiple data formats are available, such as numbers, dates, and strings. Questsin is an ongoing hobby research project related to nontraditional approaches to Artificial Intelligence.
+answers deadpool Dictionary reference 
+Answers

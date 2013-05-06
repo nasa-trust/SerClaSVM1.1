@@ -1,0 +1,17 @@
+analyze 1
+consist 1
+console 1
+create 2
+datum 1
+distribute 2
+email 1
+interface 1
+question 1
+response 1
+result 1
+sending 1
+software 1
+survey 10
+tool 4
+viewing 1
+wizard 1

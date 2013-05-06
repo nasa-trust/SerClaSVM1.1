@@ -1,0 +1,5 @@
+Telephony customer data service
+Telephony Intelligence Data Services
+Telephony Intelligence Data Services (TIDS) operates as a data provider. TIDS maintains data services to both the consumer and business segments through two distinct online channels. On the consumer side, TIDS operates through consumer oriented websites which allow the end user to purchase reports based on a reverse phone number look up. On the business side, the service is rendered to organizations that frequently require access to data services for such practices as background screening,billing verification, fraud and crime investigation and debit collection. The API offers access to over 20 types of data including name, address, caller ID and more. The API uses RESTful calls and responses are formatted in CSV.
+deadpool phone reference telephony 
+Telephony

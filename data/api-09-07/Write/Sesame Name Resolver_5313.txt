@@ -1,0 +1,5 @@
+Astronomical object information service
+Sesame Name Resolver
+The Sesame Name Resolver allows users to query several databases simultaneously with the name of an astronomical object. It retrieves and displays information such as the type of object in question and its J2000 position. The databases queried are Simbad, NED, and VizieR. The Sesame Name Resolver API allows developers to access this function programmatically using SOAP calls.
+astronomy reference science 
+Science

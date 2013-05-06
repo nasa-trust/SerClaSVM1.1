@@ -1,0 +1,7 @@
+Bug tracking service
+Playnice.ly
+Playnice.ly is a bug tracking service that allows developers to track their coding projects, either independently or as part of a team. 
+
+The Playnice.ly API allows developers to access and integrate the data and functionality of Playnice.ly. Example API methods include searching and displaying projects, retrieving milestones, managing user information, and showing items for action. The API uses RESTful calls and responses are formatted in JSON.
+bug coding tools tracking 
+Tools

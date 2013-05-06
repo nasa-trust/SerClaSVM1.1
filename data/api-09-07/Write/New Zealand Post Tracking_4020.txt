@@ -1,0 +1,8 @@
+New Zealand parcel tracking service
+New Zealand Post Tracking
+The service from New Zealand Post tracks parcel delivery for most categories of packages carried by the postal network. It is intended for integration with e-commerce websites and other applications that need parcel tracking. Tracking notification and shipping/rate lookup APIs also are available.
+
+Tracking API methods support submission of a single tracking code or multiple codes in a single request. Methods are available to submit mock requests without valid tracking codes to verify service output and to simulate various error conditions to help program application responses.
+
+newzealand nzpost parcel postal tracking utility 
+Utility

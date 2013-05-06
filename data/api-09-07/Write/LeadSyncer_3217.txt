@@ -1,0 +1,5 @@
+Mobile lead collection and organization service
+LeadSyncer
+LeadSyncer allows users to collect and organize leads on a mobile device, using either a wireless or cellular network. This allows leads to be reliably saved while at exhibitions, going door-to-door, or in other situations where one might be gathering information outside the office. LeadSyncer allows users to design their own data forms and export collected leads to Excel. Automatic synchronization is available when connected to the internet, but LeadSyncer still functions when no internet is available.
+leads mobile project-management 
+Project Management

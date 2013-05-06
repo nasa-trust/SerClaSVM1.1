@@ -1,0 +1,5 @@
+Single Sign-In/Registration Service
+Gigya
+Gigya wraps all popular social networks into a single interface. Its API provides a way to register/login users through many other sites, retrieve profile data, access a user&#039;s &quot;friends graph&quot; and more. Gigya has a Client API (JavaScript or ActionScript3) for integration into website and Flash applications and a REST API for server side and smart client applications.
+authentication facebook OpenID social Twitter 
+Social

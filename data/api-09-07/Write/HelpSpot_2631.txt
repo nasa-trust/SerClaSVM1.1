@@ -1,0 +1,5 @@
+Web-based helpdesk service
+HelpSpot
+HelpSpot is a comprehensive Web-Based Help Desk Software. Email, web, phone???however customers reach you, HelpSpot can centralize and effectively manage your support. HelpSpot web services API provides access to nearly all data stored within the system, HTTP-based returning XML/JSON/PHP for easy access from nearly every programming language. This API can be used to programmatically create requests, view queues from other applications, access forums and knowledge book content, embed your help desk directly into your web site/software, or even create an entire new help desk interface. 
+customer-service enterprise helpdesk sbweb 
+Enterprise

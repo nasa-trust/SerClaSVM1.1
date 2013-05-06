@@ -1,0 +1,7 @@
+Postcard and photo printing application
+Sincerely
+Sincerely provides applications for users to send other people postcards, photos, and greeting cards in a physical product from their mobile phone.
+
+The Sincerely API allows developers to access and integrate the functionality behind Sincerely with other applications. With Sincerely integration, developers can add photo printing and postcard functionality to their applications. Public documentation is not available; interested developers should sign up here http://dev.sincerely.com/signup.
+iPhone mail mobile photo printing SDK 
+Photos

@@ -1,0 +1,5 @@
+Service for updating status messages
+HelloTxt 
+The HelloTxt API lets you simultaneously update your status and read your friends&#039; status across many services. Support services include Facebook, LinkedIn, Twitter and FriendFeed.
+deadpool microblogging social 
+Social

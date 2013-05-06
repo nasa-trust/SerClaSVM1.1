@@ -1,0 +1,16 @@
+company 1
+create 1
+datum 1
+deal 2
+discount 3
+display 2
+functionality 1
+integrate 1
+list 1
+location 2
+member 1
+membership 1
+organization 1
+retail 1
+reward 4
+shopping 2

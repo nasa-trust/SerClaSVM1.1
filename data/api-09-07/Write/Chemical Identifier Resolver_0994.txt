@@ -1,0 +1,7 @@
+Chemical compound nomenclature service
+Chemical Identifier Resolver
+The service helps with understanding and uses of identifiers for chemical structures. It takes in identifiers  for chemical compounds and resolves them against standard nomenclature. It also provides information about the molecular structure indicated by an identifier and/or converts to different identifier notations.
+
+API methods support submission of a chemical structure identifier in a range of formats, including SMILES and InChI. Methods return a standard chemical name and structure information, optionally including a gif or png image of the structure and an equivalent identifier in a different format.
+chemistry research science 
+Science

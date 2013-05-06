@@ -1,0 +1,5 @@
+Blogging Service
+Publr
+Publr is a free, simple micro-blogging service that lets users upload text, video, and audio posts, as well as several other media types. The Publr API allows developers to create their own applications that can interact with Publr data/posts, using either XML-RPC or simple HTTP requests.
+blogging social 
+Blogging

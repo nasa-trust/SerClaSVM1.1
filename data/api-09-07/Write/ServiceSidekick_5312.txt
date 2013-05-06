@@ -1,0 +1,5 @@
+Online CRM service
+ServiceSidekick
+ServiceSidekick is web-based software designed to help businesses through features such as scheduling, dispatching, calendaring, mobile access, QuickBooks integration, and advanced reporting. The ServiceSidekick API is implemented via XML over HTTP in a RESTful manner.
+accounting calendar CRM sbweb 
+Enterprise

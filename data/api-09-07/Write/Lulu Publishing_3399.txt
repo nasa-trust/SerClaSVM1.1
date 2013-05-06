@@ -1,0 +1,5 @@
+Programmatically publish and sell books
+Lulu Publishing
+The Lulu Publication API lets users create a new breed of Web application enabling on-demand publishing through Lulu, marketed under their own brand names. The Lulu Publication API is designed to allow individuals and publishers to use the Lulu backend to publish on-demand books programatically. It works via a REST+JSON interface and an example REST client library in Python is provided.
+printing publishing shopping 
+Other

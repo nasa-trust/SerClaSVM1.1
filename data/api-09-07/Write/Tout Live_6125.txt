@@ -1,0 +1,7 @@
+Real-time marketing service
+Tout Live
+Tout Live is a real-time marketing platform. Tout users can access Tout&#039;s Social Media Platform, which pulls from the social web (Facebook, Twitter, Google, etc.) real-time information. Users can use this information to discover and share content about their product or organization in real-time when people are discussing it.
+
+The Tout API allows users to edit the order that content or articles are displayed based upon trend information from the real-time web. Public documentation and API examples are limited.  
+deadpool marketing realtime social 
+Social

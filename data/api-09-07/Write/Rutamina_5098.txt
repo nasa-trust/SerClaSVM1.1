@@ -1,0 +1,5 @@
+Travel route planning and sharing
+Rutamina
+The Rutamina API provides data from a database of routes, so any application can get, search and display routes on maps. Rutamina is a community focused on walking routes, cycling, tourism and more. Rutamina has tools that enable users to share their favorite routes from all over the world. The API uses RESTful protocol and responses are formatted in XML.
+mapping social travel 
+Travel

@@ -1,0 +1,5 @@
+Social music service
+openDada
+Dada Entertainment is a mobile content provider with the largest paying customer base in the US. Dada offers MP3 music downloads with no DRM and Ringtones across all major US carriers. They also have a Music Social Network with over 10 million members. The openDada web service API lets you integrate the Dada.net content catalog, and earn compensation for your efforts. As an openDada affiliate, you are paid according to the amount of subscribers you refer.
+music social 
+Music

@@ -1,0 +1,7 @@
+Television viewing service 
+MyShows
+MyShows is a Russian site which allows users to view and rate television shows online. The MyShows API allows developers access to search for shows by name, id, genre and popularity. Developers can also authenticate MyShows users, providing them with the ability to browse and rate shows and individual episodes from within their applications.
+
+The API authenticates with basic auth and returns data as JSON. Documentation is in Russian.
+ratings russia television 
+Other

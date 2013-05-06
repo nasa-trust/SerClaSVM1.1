@@ -1,0 +1,9 @@
+Cloud based storage utility
+Storm On Demand
+Storm on Demand allows users the ability to store their information online in the company&#039;s solid state servers or to host their own cloud manageable server with an emphasis on scalability and speed.
+
+The API allows access to everything controllable within the cloud hosting interface. Creating, cloning, and resizing servers, modifying cloud attached firewall rules and options, restoring server backups as well as creating private networks and more.
+
+The API currently supports JSON, YAML and XML (experimentally) parameter encodings.
+business cloud storage utility 
+Storage

@@ -1,0 +1,5 @@
+Genomic information database
+The SEED
+The SEED is a database for annotated genomic information. It was started in 2003 by the Fellowship for Interpretation of Genomes. Other institutions, such as Argonne National Laboratory and the University of Chicago, have since joined the project. The cooperative effort focuses on the development of a comparative genomics environment and, more importantly, on the development of curated genomic data. The SEED API provides users with SOAP-based access to the contents of the SEED database.
+database genetics science 
+Science

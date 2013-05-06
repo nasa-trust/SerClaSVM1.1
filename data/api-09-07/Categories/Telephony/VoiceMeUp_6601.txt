@@ -1,0 +1,17 @@
+account 1
+call 3
+caller 1
+country 1
+example 1
+feature 1
+forwarding 1
+functionality 1
+id 1
+integrate 1
+manage 1
+method 1
+provider 2
+retrieve 1
+return 1
+telephony 2
+voicemail 1

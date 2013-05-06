@@ -1,0 +1,5 @@
+U.S. economic statistics service
+XigniteStatistics
+The XigniteStatistics API gives you access to 1,400+ economic statistics compiled on the U.S. economy by the Federal Reserve. You can search a list of categories and topics and more.
+financial money statistics 
+Financial

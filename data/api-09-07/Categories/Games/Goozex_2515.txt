@@ -1,0 +1,15 @@
+buying 1
+community 1
+datum 1
+earn 1
+game 6
+member 1
+point 2
+selling 1
+system 1
+top 1
+trade 1
+trading 1
+value 1
+video 2
+who 1

@@ -1,0 +1,5 @@
+Email marketing and delivery service
+Industry Mailout MyMailout
+Industry Mailout offers email delivery and marketing services. Industry Mailout&#039;s email delivery is available as a SOAP API allowing developers to integrate the email services into their web sites. With the API users can access their account programatically. Supported operations include logging in, mailing List management, subscriber management and mailout management.
+deadpool email marketing 
+Email

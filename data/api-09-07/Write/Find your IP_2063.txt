@@ -1,0 +1,5 @@
+Return IP address
+Find your IP
+Simply returns the IP of the requester. Good for applications / scripts needing their global IP. No documentation or homepage is available.
+internet IP 
+Internet

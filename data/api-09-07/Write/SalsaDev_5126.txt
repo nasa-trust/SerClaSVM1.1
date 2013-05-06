@@ -1,0 +1,7 @@
+Semantic search and text analytics service
+SalsaDev
+Salsadev is a software company offering enterprise level search solutions that make sense of unstructured content. The technology can read, process, analyze and understand unstructured text in any form and perform automated actions based on the results. Services offered by the Salsadev include intelligent search, auto-categorization and related-content retrieval.
+
+The salsaAPI uses semantic technology to index and analyze unstructured data and can be used for services such as search, categorization, and keyword extraction. Developers can use the API for various tasks such as indexing unstructured data, performing full-text, keyword, or constrained search, extracting keywords from content, and Categorizing content and documents. The API uses RESTful calls and responses are formatted in XML.
+enterrprise search semantic text 
+Search

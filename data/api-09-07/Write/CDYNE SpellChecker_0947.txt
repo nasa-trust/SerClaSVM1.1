@@ -1,0 +1,5 @@
+Spellcheck service
+CDYNE SpellChecker
+The CDYNE SpellChecker is an API that allows users to check a body of text for spelling errors. It can also suggest possible corrections for misspelled words. This API is accessible via SOAP calls using the XML data format.
+spelling tools 
+Tools

@@ -1,0 +1,8 @@
+cloud 3
+control 1
+feature 1
+full 1
+host 2
+search 7
+solution 1
+text 1

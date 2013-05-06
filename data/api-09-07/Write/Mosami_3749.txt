@@ -1,0 +1,5 @@
+Video processing for live applications
+Mosami
+Mosami is a cloud-based service for building real-time interactive video experiences and delivering them to the browser.  The API offers access to media processing algorithms - face tracking, background extraction, composition and mixing, and more - running on our servers.  Users can connect their webcams via simple widgets embedded within a site&#039;s HTML.
+conferencing media real-time video 
+Video

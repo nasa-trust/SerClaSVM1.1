@@ -1,0 +1,7 @@
+Semantic tagging and content annotation service
+Wikimeta
+The service adds functions for annotation and semantic tagging of online content. It enables a user to apply free-text tags or longer text descriptions to content, which then is available for access by text-mining and content analysis applications. The service supports both local access and external access by other systems, with annotations in English or French, including full compatibility with LinkedData Network applications.
+
+API methods support submission of annotations with documents, with language and annotation size specified. The system then supports automated access to accumulated content annotations via linked data technologies.
+reference semantic tagging 
+Reference

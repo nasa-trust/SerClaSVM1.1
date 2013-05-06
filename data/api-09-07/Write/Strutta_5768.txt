@@ -1,0 +1,5 @@
+Social promotion platform
+Strutta
+Strutta is a social promotion platform that lets marketers build, launch and manage social brand experiences. With the Strutta API, users can build custom contest and sweepstakes sites for incentivizing participation. Additionally, the API can be used to create applications for WordPress, Facebook or other third party systems. Functionality exposed by the API includes contest round configuration, media processing, vote tabulations, fraud detection and the ability to integrate with existing systems. Documentation is not publicly available.
+contest promotion social 
+Social

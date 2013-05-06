@@ -1,0 +1,5 @@
+Blog spam prevention service
+Akismet
+From their site: Akismet is basically a big machine that sucks up all the data it possibly can, looks for patterns, and learns from its mistakes. Thus far it has been highly effective at stopping spam and adapting to new techniques and attempts to evade it, and time will tell how it stands up. I\'ve tried to keep the API interaction as simple as possible. To interact fully with the Akismet API your program really should be putting data back into the system as well as just taking it out. If it is at all possible within the framework of your application you should have a way for your users to submit missed spam and false positives, otherwise Akismet will never learn from its mistakes.
+blog 
+Blogging

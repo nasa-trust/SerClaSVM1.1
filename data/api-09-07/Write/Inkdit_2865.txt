@@ -1,0 +1,5 @@
+Electronic signature service
+Inkdit
+Inkdit is a service that allows users to capture and track acceptance of contracts online. It allows businesses to sign contracts faster and track the contracts that have been signed by past and present employees. The Inkdit API allows for the capture and tracking of acceptance of contracts from within applications. Functionality includes viewing the collection of contracts, descriptions of each contract, defining the connection between contracts and individuals and more. The API uses RESTful calls and responses are formatted in JSON.
+enterprise esignature law 
+Enterprise

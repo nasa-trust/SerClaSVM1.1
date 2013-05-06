@@ -1,0 +1,5 @@
+Relational database of biology information
+CellBase
+CellBase is a relational database that contains the most relevant biological information about genomic features, genomic proteins, gene expression regulation, functional annotation, genomic variation, and systems biology information. This database integrates repositories including Ensembl, Uniprot, Omim, COSMIC, IntAct, HapMap, Reactome, and others. An extensive REST API provides programmatic access to the database via approximately 100 methods.
+bioinformatics database science 
+Science

@@ -1,0 +1,5 @@
+Russian Search Service
+2GIS
+2GIS is a Russian search engine for companies. Searches can be performed by geographic location, and then displayed on a map, along with detailed company information. The 2GIS API can be used to perform these searches programatically or to integrate 2GIS into developer applications/webpages.
+mapping places russia search 
+Search

@@ -1,0 +1,5 @@
+Annotated gene information service
+MyGene.Info
+MyGene.Info provides a simple REST-based API to retrieve gene annotation data. Such data is currently available for seven species: human, mouse, rat, fruitfly, nematode, zebrafish, thale-cress, and frog. MyGene.Info was designed to power web applications which need to query genes and obtain common gene annotations.
+bioinformatics genetics science 
+Science

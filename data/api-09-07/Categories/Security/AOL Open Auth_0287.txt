@@ -1,0 +1,14 @@
+aim 2
+authenticate 1
+authentication 3
+build 1
+empower 1
+identity 1
+log 1
+now 1
+open 2
+party 2
+register 1
+security 2
+third 2
+top 1

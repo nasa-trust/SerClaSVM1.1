@@ -1,0 +1,11 @@
+Local business directory search service
+CityGrid 
+The CityGrid network APIs give developers access to premium local content including user reviews, editorial content, merchant messages & more, across 75K neighborhoods nationwide. CityGrid Media is an online media company that connects web and mobile publishers with local advertising organizations by linking them through CityGrid, its local content and advertising network. Currently CityGrid offers the following APIs:
+
+Places API - Provides functionality for information on local businesses, including search, detail, user content submission, and predictive text. 
+
+Offers API - Provides coupons and special offers from businesses based on geographical location and category 
+
+Reviews API - Displays customer reviews based on listing IDs for certain geographic/category attributes All APIs have been instrumented with impression tracking feeding our new beta reporting dashboard.
+local places search shopping 
+Shopping

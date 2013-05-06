@@ -1,0 +1,5 @@
+Community Sales Service
+Lemonade Stand
+Lemonade Stand is a new way to buy and sell locally, a neighborly commerce platform that enables people to buy and sell goods within a community. Anyone can post a listing and other users can search locally available products. Lemonade Stand provides a simple HTTP GET/POST/PUT API, allowing developers to create their own applications that can interact with Lemonade Stand.
+deadpool local shopping social 
+Shopping

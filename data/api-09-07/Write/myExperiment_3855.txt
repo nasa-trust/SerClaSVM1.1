@@ -1,0 +1,5 @@
+Workflow sharing services
+myExperiment
+Use the myExperiment API to view workflows that others have published, so that you do not need to reinvent a process. The myExperiment site is where scientists safely publish their workflows, sharing or viewing them. Workflows or other digital objects (or Packs) can be swapped, sorted and searched like Web photos and videos. The myexperiment.org social site appeared in November 2007 with support for sharing Taverna workflows and has grown a lot. The users are typically in the life sciences, but chemists, social statisticians, and music professionals also use it.
+science social 
+Reference

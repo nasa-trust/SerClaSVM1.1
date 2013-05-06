@@ -1,0 +1,5 @@
+Web site monitoring service
+ServerMojo
+ServerMojo is a remote server monitoring service. The ServerMojo RESTful API allows users to build full monitoring applications or fully integrate ServerMojo monitoring within their site or systems. Users can create, edit and delete sub-accounts and monitors, get monitor stats and charts, set monitor status (enable/disable), and more. Responses are formatted in XML.
+internet monitoring 
+Internet

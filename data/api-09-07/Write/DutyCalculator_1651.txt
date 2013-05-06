@@ -1,0 +1,7 @@
+Customs duty and import tax calculation service
+DutyCalculator
+The service evaluates customs duties and other import taxes applicable to cross-border purchases, either as a standalone service or as a component of total price calculated in a checkout process. It is intended to help fully inform customers about the final cost of purchases to prevent surprises, maintain goodwill, and reduce return rates. It helps sellers to accurately classify products with correct HS codes and prevent penalties or problems from misclassification.
+
+API methods support retrieval of country lists imported from or exported to, along with supported currencies and product categories. The API then provides duty rates by country and product and calculates the duty on a specified transaction.
+ecommerce financial international 
+Financial

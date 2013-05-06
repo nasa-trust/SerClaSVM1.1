@@ -1,0 +1,11 @@
+Business listings, POI, reverse geocoder
+TownMe Geo
+The TownMe API, at GeoAPI.com, has now been fully incorporated into Twitter&#039;s services. Before the acquisition, it included both read and write geo-related services. The read side had a reverse geocoder which helped translate coordinates (AKA lat/longs) into human readable elements or associations. For instance, give the API &quot;37.78093,-122.409415&quot; and it returned information about the census tract, neighborhood, city, MSA, and state that contains these coordinates. 
+
+The POI Finder took a lat long and gave a set of points of interests including businesses close to that point. This meant anyone could build services that allowed users to broadcast location or otherwise interact with their &quot;real location&quot;.
+
+The write components of the API included:
+
+The ability to write data about locations. Each API key came with its own overlay of the world and the ability to write data to this overlay. So, if you were writing an augmented reality game and wanted to hide a ghost at a bar in San Francisco, you could write the ghost to the bar using the API and all your users would find it there. This information was be stored on TownMe servers, which means all these interactions could be written in JavaScript without requiring server code.
+deadpool geocoding 
+Mapping

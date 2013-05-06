@@ -1,0 +1,5 @@
+Database for tracking political and business relationships
+LittleSis
+LittleSis is a free database tracking the key relationships of politicians, business leaders, lobbyists, financiers, and their affiliated institutions. The LittleSis API exposes the raw data used on the LittleSis website. The data consists of basic information about people and organizations (&quot;entities&quot;), and the relationships between them. It uses a RESTful interface and responses are formatted in XML and JSON.
+government reference 
+Government

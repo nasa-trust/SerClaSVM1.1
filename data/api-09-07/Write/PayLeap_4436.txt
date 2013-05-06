@@ -1,0 +1,7 @@
+Electronic payment service
+PayLeap
+The PayLeap API lets merchants process electronic payments in real time. The PayLeap service allows companies to manage transactions made at a physical location, wirelessly in the field, and online through an ecommerce store. Streamlining your company&#039;s payment processes increases efficiency and lowers cost. 
+
+PayLeap is highly customizable with extensive customization options that allow developers build full solutions with gateway support and administrative control.
+payment shopping 
+Payment

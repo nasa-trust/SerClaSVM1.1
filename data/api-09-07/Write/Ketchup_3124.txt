@@ -1,0 +1,5 @@
+Meeting notes management service
+Ketchup
+Ketchup is a web application for scheduling, planning and taking notes at meetings. The Ketchup API allows users to integrate the service with their own applications. The API exposes functionality that lets users list, show, update and delete meetings, projects, agenda items and notes. It uses RESTful calls and responses are formatted in JSON.
+notes office 
+Office

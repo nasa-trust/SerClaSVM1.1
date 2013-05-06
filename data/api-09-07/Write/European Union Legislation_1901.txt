@@ -1,0 +1,5 @@
+European Union legislative data service
+European Union Legislation
+This API opens up core EU legislative data for further use. The API extracts, organize and connects data from various official sources. Developers can use the API to help conduct research, create data visualizations or build applications upon it. The API uses RESTful calls and responses are formatted in JSON.
+europe government law unofficial 
+Government

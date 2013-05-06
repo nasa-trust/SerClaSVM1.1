@@ -1,0 +1,7 @@
+Credit report and credit score service
+MeridianLink Credit
+CreditAPI is a service that allows approved companies and individuals to access credit reports from the three credit reporting bureaus. CredtAPI also offers credit analyzing tools.
+
+The Credit API allows developers to access and integrate the data and functionality of CreditAPI with other applications. Some example API methods include retrieving credit scores, retrieving credit reports, and accessing credit analysis. 
+analysis Credit financial 
+Financial

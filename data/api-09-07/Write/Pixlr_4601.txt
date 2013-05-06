@@ -1,0 +1,5 @@
+Photo editing service
+Pixlr
+Pixlr has a suite of online cloud-based image tools: Image Editor and Photo Express. Pixlr is built for non-professionals, users that have basic editing needs. Pixlr is ideal for editing web images to be posted on blogs, news sites, social networks, and image sites. The Pixlr API enables developers to integrate Pixlr services into their own web services or applications. In short it enables users of other sites to gain access to Pixlr&#039;s powerful image editors.
+editing photo 
+Photos

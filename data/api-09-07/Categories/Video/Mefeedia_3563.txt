@@ -1,0 +1,15 @@
+channels 1
+community 1
+create 2
+datum 1
+feed 2
+friend 1
+playlist 1
+share 1
+show 1
+social 1
+specific 1
+subscribe 1
+thumbnail 1
+video 6
+view 1

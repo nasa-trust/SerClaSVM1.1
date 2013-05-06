@@ -1,0 +1,5 @@
+Image recognition service
+FaceDetection
+Frontal face detection API, free to use. Designed to enable basic computer vision on devices that can connect to the Internet by scanning an image from an URL and offering the coordinates of faces in return.
+deadpool Detection face photo recognition 
+Photos

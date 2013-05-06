@@ -1,0 +1,5 @@
+Exchange rate information service
+Get Exchange Rates
+Get Exchange Rates provides free exchange rates for nearly every currency in the world. The API lets developers access exchange rate information, both current and historical and integrate it into their systems. Rates for all currencies are updated every two minutes. The simple API uses a RESTful call and responses are formatted in JSON.
+currency exchange financial 
+Financial

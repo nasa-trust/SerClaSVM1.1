@@ -1,0 +1,7 @@
+Public health terminology service
+PHIN VADS
+The service provides access to managed vocabulary resources of the Public Health Information Network (PHIN), which help to standardize terminology and information interactions among practitioners and promote interoperability of public health applications. The Vocabulary Access and Distribution Service (VADS) supports these interactions by defining web methods and other functional elements for transferring data between applications.
+
+API methods support search against the vocabulary assets and retrieval of term listings, either individually or in bulk. Methods also support direct object access and retrieval of related objects. The API also allows validation of an application&#039;s terminology against the PHIN vocabulary.
+health language medical metadata 
+Medical

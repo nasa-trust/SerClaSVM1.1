@@ -1,0 +1,5 @@
+Read-Only API for MyBikeLane and UncivilServants Database
+MyBikeLane
+MyBikeLane is a site that documents cars parking illegally in bike lanes. Its sister site, UncivilServants, tracks other types of illegally parked cars, including those by government workers. The MyBikeLane.com API is a read-only tool for accessing the data stored on the MyBikelane.com and UncivilServants.org database. Request supported cities, then retrieve posts, violations, permits and agencies. The API uses simple HTTP query strings to request data and the data is returned in either JSON (default) or XML format. 
+bike government travel 
+Government

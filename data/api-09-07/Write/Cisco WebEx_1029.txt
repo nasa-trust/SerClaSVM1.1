@@ -1,0 +1,11 @@
+Conferencing and collaboration services
+Cisco WebEx
+The WebEx Meeting Services API Platform lets users incorporate Cisco WebEx meetings into their own applications. The platform offers three APIs:
+
+URL API: The URL API is a convenient, lightweight, HTTP(S)-based mechanism that provides browser-based, external hooks into WebEx meeting services. The URL API is typically used in enterprise portal integrations to support basic interactions such as Single Sign-On (SSO), scheduling meetings, starting and joining simple meetings, and inviting attendees and presenters.
+
+XML API: The XML API is a comprehensive set of services that supports most aspects of WebEx meeting services, including detailed user management, comprehensive scheduling features, attendee management and reporting, and more. The WebEx XML API employs a services oriented architecture (SOA) to provide comprehensive services to external applications wishing to interact with one or more WebEx services.
+
+Teleconference Service Provider (TSP) API: The TSP API provides full-featured XML-based integration with audio conferencing networks. The integration architecture supports redundancy, fail-over, and load balancing, and provides robust features that tightly integrate audio conferencing capabilities with telephony management and provisioning in the WebEx environment.
+enterprise office 
+Enterprise

@@ -1,0 +1,5 @@
+Bulk SMS messaging service
+Geosion mobile SMS
+Geosion mobile SMS API allows users to integrate their applications and web-services to the Geosion network and manage their campaigns. Geosion offers their customers access to HTTP, SMPP & SMTP API?s. Geosion has a high performance network SMS messaging in Spain, and provides to businesses, enterprises and content providers with access to our network using SMS applications. Public documentation of the API is not available.
+Global messaging sms spain telephony 
+Messaging

@@ -1,0 +1,7 @@
+Online payment service
+Stripe
+Stripe is a service that allows users to accept payments online, specifically developers. With the Stripe application, users can keep track of payments, search past payments, create recurring charges, and keep track of customers.
+
+The Stripe API allows developers to access the functionality of Stripe. Some example API methods include sending invoices, accepting payments, managing subscription billing, and editing and managing account information.
+billing finance invoicing payment webhooks 
+Payment

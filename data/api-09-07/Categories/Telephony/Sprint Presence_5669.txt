@@ -1,0 +1,17 @@
+determine 1
+device 3
+directory 1
+framework 1
+knowledge 1
+large 1
+mobile 3
+network 2
+number 1
+owner 1
+part 1
+permission 1
+presence 2
+present 1
+require 1
+sprint 4
+telephony 2

@@ -1,0 +1,5 @@
+File distribution service
+TinyLoad
+The Tinyload API allows developers to utilize our file distribution platform. Developers can queue concurrent uploads to sites like MegaUpload, MediaFire, DivShare, RapidShare, and Amazon S3 Service to implement in remote applications. 
+storage 
+Storage

@@ -1,0 +1,17 @@
+addition 1
+call 1
+category 1
+city 1
+datum 1
+documentation 1
+format 1
+functionality 1
+integrate 1
+job 7
+own 1
+pull 1
+response 1
+romania 3
+romanian 2
+search 4
+section 1

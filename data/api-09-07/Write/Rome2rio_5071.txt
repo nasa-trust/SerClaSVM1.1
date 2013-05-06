@@ -1,0 +1,5 @@
+Travel itinerary search service
+Rome2rio
+Rome2rio is an API to discover travel itineraries from all around the world. Users can search various travel modes including plane, train, bus, car and ferries. The API provides access to over 700 airlines & 2 million surface routes in the database. This includes rail coverage in Europe, India, Egypt, Morocco and China; and intercity bus and rail coverage in North America (USA and Canada). The API uses HTTP calls and responses are in JSON.
+search travel 
+Travel

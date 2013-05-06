@@ -1,0 +1,5 @@
+Chemistry Patent Data
+SureChemDirect
+The SureChemDirect API is designed to allow occasional developer access to the complete collection of SureChem chemistry, patent full text and related metadata. By using the API developers can perform searches, set up alerts and enhance their personal databases with relevant chemistry patents.  The aim of the API is to allow developers access to the SureChem data with less limitations on how they access and use the data. 
+database reference science search 
+Database

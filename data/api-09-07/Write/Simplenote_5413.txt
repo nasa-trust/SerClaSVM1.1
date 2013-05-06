@@ -1,0 +1,5 @@
+Personal information management service
+Simplenote
+Simplenote stores notes, lists, ideas and many other items. The Simplenote mobile app makes it easy to access and augment that personal data anywhere. The Simplenote API provides a way to build the functionality into additional applications.
+pim utility 
+Utility

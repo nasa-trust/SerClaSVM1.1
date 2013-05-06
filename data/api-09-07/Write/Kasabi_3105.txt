@@ -1,0 +1,5 @@
+Data marketplace
+Kasabi
+Kasabi is a data marketplace that enables developers to get ready access to both free and commercial data sources. Kasabi provides data hosting, standard APIs for accessing all datasets, as well as the ability for the community to create new APIs over data in the marketplace. The APIs use RESTful calls and response formats include XML and JSON. Kasabi is currently in private beta.
+deadpool reference 
+Reference

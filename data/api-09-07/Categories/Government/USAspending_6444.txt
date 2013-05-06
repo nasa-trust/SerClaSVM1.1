@@ -1,0 +1,15 @@
+assistance 1
+chart 1
+contract 1
+datum 2
+end 1
+except 1
+federal 2
+government 3
+launch 1
+pie 1
+present 1
+re 1
+search 1
+spending 1
+total 1

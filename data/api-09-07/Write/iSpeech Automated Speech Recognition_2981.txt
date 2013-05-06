@@ -1,0 +1,5 @@
+Speech Recognition Service
+iSpeech Automated Speech Recognition
+iSpeech is a company that provides high-quality text-to-speech and voice recognition software (SDKs and APIs). The iSpeech Automated Speech Recognition API allows developers to create 'hands-free' and voice-activated applications. The API allows developers to specify simple word list based grammars or freeform dictation. 
+TTS speech Voice tools recognition
+Tools

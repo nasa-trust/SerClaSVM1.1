@@ -1,0 +1,7 @@
+Sales tax data service
+Avalara 
+The service provides sales tax calculations as part of the process of completing orders and collecting payment. It is intended to automate compliance with tax-collection requirements and reduce risk of penalties for non-payment. The service validates customer address and verifies taxing jurisdiction, then calculates applicable tax rates with consideration of product type and taxability, rate tiers, tax holidays and exemptions, etc.
+
+API methods support submission of an order for automated tax calculation, with item code and tax code, customer address, and other relevant details. Methods verify the submitted address and determine the local tax authority, then apply decision rules for that jurisdiction to provide an accurate amount due as sales tax for the order.
+finance reference tax 
+Financial

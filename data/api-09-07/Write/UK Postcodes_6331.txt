@@ -1,0 +1,5 @@
+UK postcode lookup service
+UK Postcodes
+The UK Postcodes API allows users to access the site database. UK Postcodes provides postcode lookup services. Using the RESTful API, users can return data for a given postcode. Responses can be formatted in XML, JSON, CSV or RDF.
+address location lookup mapping postal uk 
+Reference

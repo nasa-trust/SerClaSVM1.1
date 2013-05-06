@@ -1,0 +1,7 @@
+Mobile device status detection service
+Verizon Terminal Status
+The Verizon Terminal Status API allows developers to access Verizon&#039;s service for determining if a mobile device is online or offline. The Terminal Status API allows your application can then intelligently direct traffic (e.g., messages), make requests (e.g., location) or otherwise interact with that mobile device by leveraging the Verizon network to detect the presence of active devices.
+
+This API uses both REST and SOAP protocols.
+mobile telephony 
+Telephony

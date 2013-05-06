@@ -1,0 +1,5 @@
+Media interfacing service
+Joomeo
+Joomeo is a personal media sharing application which allows you to upload content, organize it, and share it at your discretion. The Joomeo API uses XML-RPC to allows uses to create their own applications around the content on Joomeo as well as access the pictures and albums they have uploaded. 
+media-management photo storage video 
+Media Management

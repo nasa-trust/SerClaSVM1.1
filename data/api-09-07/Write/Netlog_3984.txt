@@ -1,0 +1,5 @@
+Social network platform
+Netlog
+Netlog is a youth community where users can keep in touch with and extend their social network. The site lets users create their own profiles with a guestbook, blog, friends, pictures and videos. The Netlog API is an OpenSocial-based system for developers to add their own applications within the Netlog website.
+opensocial social 
+Social

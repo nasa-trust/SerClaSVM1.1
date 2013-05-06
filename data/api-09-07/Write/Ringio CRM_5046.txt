@@ -1,0 +1,7 @@
+Phone call routing service
+Ringio CRM
+Ringio is a SaaS-based rich calling service that routes calls to any phone along with background information about the caller ??? informing every conversation with relevant information in real-time, to improve interaction with customers.
+
+The Ringio CRM API is a RESTful API that allows users to read and write Ringio data, such as contacts, notes, phone calls and users. Using that data, developers can connect a CRM system to the Ringio phone solution. With the API users can develop integrations with CRM systems, such that when Ringio users get phone calls, the callers can be identified from information stored in a CRM system. Developers can also enrich the CRM with data captured by Ringio, such as logging phone calls as interaction records in the CRM. The API responses are formatted in JSON.
+CRM customer-service sbweb telephony 
+Telephony

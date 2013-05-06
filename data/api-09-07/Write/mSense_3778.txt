@@ -1,0 +1,5 @@
+Metadata generating service
+mSense
+The mSense API provides tools that let you analyze each content item in a site, produce well-tuned metadata, and then annotate content as it flows through the system. Content can be viewed by category, topic, or named entity.
+internet metadata search 
+Internet

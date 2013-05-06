@@ -1,0 +1,7 @@
+District of Columbia GIS/mapping service
+DC Master Address Registry
+The service provides a master address registry as well as mapping and geographic information service (GIS) data for the city of Washington, D.C. The registry supports finding or verifying an address throughout the city. Mapping functions locate features based on the Maryland State Plane Coordinate System.
+
+API methods support submission of a location as either intersection, block, property lot, or place name. The API returns address and map information to map the location.
+gis mapping washingtondc 
+Mapping

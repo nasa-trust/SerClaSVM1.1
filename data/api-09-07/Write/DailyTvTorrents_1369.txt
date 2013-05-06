@@ -1,0 +1,5 @@
+Television show torrent listings
+DailyTvTorrents
+DailyTvTorrents indexes TV show torrents from the top sites on the web. With the DailyTvTorrents API users can integrate site information into their search engine, site, blog or app. The API also has commands for command-line users to use with curl. Functionality includes getting info about a show, getting episodes of a show including the latest episode, getting info about a torrent and more. It uses RESTful calls and responses are formatted in JSON.
+television torrent 
+Entertainment

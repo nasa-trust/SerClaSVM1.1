@@ -1,0 +1,5 @@
+Online Payment Service
+PingPing
+PingPing is a mobile payment system that allows users to purchase products and services with their mobile phones. The PingPing API allows users to add a PingPing payment button to merchant websites. The API enables 1 click shopping verified through text messages to the user.  Technical documentation is available upon request. Documentation is available upon request.
+belgium ecommerce merchant payment sms 
+Payment

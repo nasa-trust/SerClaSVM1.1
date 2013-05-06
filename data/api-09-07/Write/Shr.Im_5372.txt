@@ -1,0 +1,5 @@
+URL Shortening Service
+Shr.Im
+Shr.Im is a website that lets users sign in with their Twitter accounts to create short URLs and share them with other users. The Shr.Im API allows developers to embed the Shr.Im tools into their own applications. 
+internet url-shortener utility 
+Internet

@@ -1,0 +1,18 @@
+Russian gambling site
+Rubets
+RuBets allows users to trade not only via the web site but also via Bet API - a set of functions to work with events and to place bets. RuBets is a Russian-speaking market providing a forum  to make bets on rare sports, politics and other events. Using Bet API lets users handle line changes in real time, and place/cancel multiple bets efficiently. The API uses RESTful protocol and responses are formatted in JSON. The following methods are available
+
+
+* login - used to start betApi session by providing login/pwd; result contains wallet information for user; other function calls allowed after login
+* eventList - events available on RuBets in nearest hours; you can limit events by market kind (e.g. soccer);
+* arenaList - arenas of event
+* arena - detailed information about arena; result contains outcomes, current bets (coefficients-prices and amount for BACK and LAY);
+* placeBet - to place bet on outcome of specified arena; coefficient, amount, currency and back/lay kind should be specified;
+* placeMultipleBets - to place multiple bets at once;
+* cancelBet - cancels previously placed but not matched bet;
+* myBets - request for bets placed in specified event.
+
+
+Full documentation and access to the API is available by contacting the Support Services team. The site is in Russian.
+deadpool gambling games russia 
+Games

@@ -1,0 +1,5 @@
+Social media marketing platform
+Involver Engagement Optimization
+Involver is a social media marketing platform used on Facebook pages and other social media platforms. The Engagement Optimization API allows marketers to optimize their ad campaigns by passing optimization data to the ad platform of their choice. With it social advertising platforms can pull page engagement data from the platform to optimize ad spend. Marketers can also optimize ad spend by integrating page management with their ad platforms using real-time response from their audiences. Public documentation is not available, developers should contact the provider for more information.
+advertising marketing social 
+Social

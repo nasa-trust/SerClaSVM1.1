@@ -1,0 +1,5 @@
+Website visitor activity tracking service
+ClickTale
+ClickTale is a JavaScript-based service that allows users to monitor the behavior of visitors on their websites in minute detail. Heatmaps are provided to depict mouse movements, clicks, and attention paid by visitors overall. The activities of individuals can be recorded in full so that the site owner can see every mouse movement, hover, click, and scroll. This allows them to observe firsthand where visitors experienced errors, abandoned the shopping cart, or could not find what they were looking for. With this information, site owners can optimize page layout and improve visitor experiences. 
+analytics internet tools
+Internet

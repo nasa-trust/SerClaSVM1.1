@@ -1,0 +1,8 @@
+DVD collection management service
+DVDXML
+The subscription service provides management tools for a DVD collection. It logs user submissions of new items and allows lookup access to the subscriber&#039;s own DVD records as well as those of other users. Records are managed as dvdid.xml files that trigger retrieval of descriptive information about a DVD in CRC64 format.
+
+API methods accept requests for records about particular DVDs by title. Records with partial title matches are returned. Only subscribers to the service can access the API.
+
+entertainment media-management movies television 
+Media Management

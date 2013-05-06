@@ -1,0 +1,5 @@
+Local user reviews and search service
+Praized
+The goal of the Praized API is to make it easier for developers to build services using data about merchants and places. Use the Praized API to build local search into your app quickly. Praized is set up to allow users to have an easy way to recommend local places to each other. It is a local search platform built especially for blogs, social networks, and other places where a vibrant community exists.
+local recommendations search 
+Recommendations

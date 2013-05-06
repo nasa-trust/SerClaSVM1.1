@@ -1,0 +1,13 @@
+client 1
+format 1
+internet 1
+language 2
+operations 1
+perform 1
+protocol 1
+response 1
+rest 1
+soap 1
+tool 3
+translation 3
+translator 2

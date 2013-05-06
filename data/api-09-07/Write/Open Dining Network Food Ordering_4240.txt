@@ -1,0 +1,5 @@
+Online restaurant menus and ordering service
+Open Dining Network Food Ordering
+The API provides functionality for consumers and restaurants to access the Open Dining Network for viewing menus and placing or taking meal orders. The Open Dining Network lists menus for restaurants for customers to search and order from via web and mobile devices. The REST API allows for common consumer tasks such as searching for nearby restaurants or menu items, viewing a restaurant or menu item&#039;s details and building an order. For restaurants, the API allows for common administrative tasks such as adding a new menu item, updating existing menu offerings and changing business hours.
+food menus restaurants 
+Food

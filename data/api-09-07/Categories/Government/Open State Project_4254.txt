@@ -1,0 +1,17 @@
+community 1
+dedicate 1
+designer 1
+format 1
+foundation 1
+government 3
+lab 2
+legislative 2
+make 1
+open 4
+opening 1
+part 2
+project 3
+source 1
+state 5
+sunlight 3
+up 1

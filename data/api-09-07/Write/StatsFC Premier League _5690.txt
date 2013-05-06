@@ -1,0 +1,7 @@
+English Premier League statistics service
+StatsFC Premier League 
+StatsFC Premier League is a service that provides English Premier League statistics for soccer/football. Statistic features include tables, fixtures, results, forms, and top scorers.
+
+The StatsFC Premier League API allows developers to access and integrate the functionality and data of the StatsFC service with other applications and to create new applications. Some example API methods include retrieving the League table, retrieving top scorers, and retrieving results. 
+england soccer sports statistics 
+Sports

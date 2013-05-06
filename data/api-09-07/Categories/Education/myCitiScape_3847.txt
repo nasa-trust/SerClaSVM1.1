@@ -1,0 +1,14 @@
+android 1
+campus 4
+college 3
+datum 1
+education 1
+example 1
+local 1
+method 1
+mobile 1
+restaurant 1
+return 1
+specific 1
+student 1
+university 1

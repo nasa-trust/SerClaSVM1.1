@@ -1,0 +1,7 @@
+Real-time information and data platform
+Flow
+Flow offers real-time information solutions, such as the Flow cloud-based platform as a service. Flow allows users to retrieve and curate the real-time information and data needed for a variety of applications and services.
+
+The Flow API allows developers to access and integrate the functionality and data of Flow with other applications and to create new applications. Public documentation is not available; interested developers should contact feedback@flow.net for more information and API access.
+Data paas realtime tools 
+Tools

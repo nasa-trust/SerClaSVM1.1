@@ -1,0 +1,5 @@
+URL shortening tool
+to.ly
+URL shortening service to.ly will convert long or awkward website address and create a redirect from a short to.ly address. It offers a RESTful API with responses formatted in JSON and HTML. PHP and Python examples are provided.
+internet url-shortener utility 
+Utility

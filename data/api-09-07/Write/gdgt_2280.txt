@@ -1,0 +1,5 @@
+Consumer electronics review site
+gdgt
+gdgt is a consumer electronics review site. They provide consumers information on gadgets and apps culled from numerous other sources on the web. The reviews, from reputable sites such as CNET and TechRadar, are aggregated and their scores averaged to provide balanced score. Users can browse by type of gadget and popularity or search by keyword. Their API exposes their data to developers by requrest for partnership.
+electronics recommendations reviews shopping 
+Recommendations

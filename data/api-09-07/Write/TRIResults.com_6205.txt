@@ -1,0 +1,7 @@
+Historical triathlon results
+TRIResults.com
+The TRIResults.com API allows access to the database backing TRIResults.com. TRIResults.com is a site that indexes historical Ironman triathlon results and Ironman qualifying times online. TRIRresults.com has collected a comprehensive database of well-organized  historical Ironman results and qualifying times. The results for each athlete are cross-referenced with all events, so that when users click on an athlete&#039;s name they can see all his or her results on one page. 
+
+The RESTful TRIResults API is implemented as XML over HTTP. It gives users access to information such as race years, events and results.
+deadpool sports triathlon 
+Sports

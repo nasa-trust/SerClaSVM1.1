@@ -1,0 +1,5 @@
+Notification functionality for Yahoo accounts
+Yahoo Notifications
+Notifications are messages sent to users that can consist of the following: invites, comments on their updates, gifts, or requested actions from online games. The Notifications API can bu used to get a list of a user&#039;s notifications or send the user a notification. Notifications have daily limits and can be blocked by the receiver. The API uses RESTful calls and responses are formatted in XML and JSON.
+messaging notifications 
+Messaging

@@ -1,0 +1,5 @@
+Trail mapping service
+My Trails
+My Trails offers users four API choices. The Location Based Search API returns information on shared trails and markers for latitude/longitude inputs from the My Trails database. The Client Upload API allows users to post new trails and markers to the database. The Client Register API allows new users to register and the Client Registration Check API checks the validity of usernames and password. All are performed using HTTP GET or POST requests. 
+mapping recreation travel 
+Mapping

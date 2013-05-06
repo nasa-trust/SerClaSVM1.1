@@ -1,0 +1,15 @@
+cloud 1
+create 1
+document 7
+engine 2
+example 1
+functionality 1
+index 2
+indexing 1
+integrate 1
+manage 1
+management 1
+method 1
+real 1
+scoring 1
+search 6

@@ -1,0 +1,5 @@
+Research feedback platform
+SurveyAnalytics
+Survey Analytics offers an enterprise grade research platform for collecting feedback to enable businesses, governments and consumers to participate and learn from each other. The API lets users build customized, integrated, company-specific data-collection systems. Users can integrate their existing ERP systems with SurveyAnalytics. The API can be used to get the survey URL for an individual email address which can then be used to track who has/has not responded to the survey. Users can also send reminders. Developers can use SOAP and XML-RPC calls and responses are formatted in XML. Full documentation is not publicly available.
+enterprise surveys 
+Enterprise

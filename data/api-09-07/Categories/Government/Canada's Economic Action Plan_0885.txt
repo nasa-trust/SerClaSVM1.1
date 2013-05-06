@@ -1,0 +1,12 @@
+action 2
+canada 2
+canadian 2
+effort 1
+google 1
+government 4
+individual 1
+latest 2
+map 1
+plan 2
+project 1
+share 1

@@ -1,0 +1,7 @@
+U.S. SSN validation service
+Quentin Sager SSN Validation
+The United States Social Security Number Validation API determines whether a U.S. Social Security Number (SSN) could be valid. It uses current Social Security Administration area and high group assignments to verify the area and group portion of a given SSN, providing reasonable assurance that it could be valid.
+
+Only the Social Security Administration can verify whether a particular number has actually been assigned, but this API can identify numbers that are clearly invalid.
+security SSN 
+Security

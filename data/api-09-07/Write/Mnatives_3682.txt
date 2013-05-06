@@ -1,0 +1,5 @@
+Bulk SMS messaging service
+Mnatives
+MNatives is India???s leading bulk sms service. It&#039;s SMS Gateway service allows users to send and receive text messages from a PC. The mNatives SMS API allows developers to integrate short messaging services into their system and communicate with the mNatives SMS Gateway. Developers can use the RESTful SMS Messaging Web Service HTTP API to send one, or hundreds, of text messages in seconds.
+india messaging sms 
+Messaging

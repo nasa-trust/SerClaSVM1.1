@@ -1,0 +1,5 @@
+SMS marketing service
+Text Marketer SMS Gateway
+Text Marketer is a UK SMS marketing firm. They provide outgoing and incoming SMS marketing services. Their outgoing services allow users to send SMS in bulk to their audience. The incoming services allow companies to receive SMS from their customers or inquirers. Their API is RESTful and provides responses in XML. It exposes access to their SMS gateway service for outgoing and incoming operations. 
+marketing messaging sms uk 
+Messaging

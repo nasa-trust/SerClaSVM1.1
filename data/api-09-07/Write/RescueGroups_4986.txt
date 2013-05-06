@@ -1,0 +1,5 @@
+Provides access to adoptable pet information from thousands of rescues and shelters in the US and Canada.
+RescueGroups
+RescueGroups provides free and low-cost website and data management services for animal rescues and shelters. The RescueGroups API provides developers access to the company&#039;s database of adoptable pets. Search by organization and location. Retrieve detailed information about animals, including photos.
+adopt adoptable adoption animals pets search 
+Search

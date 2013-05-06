@@ -1,0 +1,7 @@
+In-application feedback service
+Apptentive
+Apptentive is a service that allows users to integrate a feedback application within their mobile or web application. Customers and users of the applications can provide feedback to the creator/developer within the application itself.
+
+The Apptentive API allows developers to access and integrate the functionality of Apptentive with other applications. Some example API methods include retrieving feedback, managing users, and accessing account information.
+customer feedback tools 
+Tools

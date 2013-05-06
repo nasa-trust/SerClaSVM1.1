@@ -1,0 +1,5 @@
+Cloud based ITIL Service Management
+LiveTime
+LiveTime?s Web Services Interface enables third party applications to interact directly with the LiveTime application in a secure and controlled fashion. LiveTime Software is a vendor of Cloud based ITIL Service Management and Help Desk software. The API allows developers to authenticate users, retrieve user, item and organiztion info and more. It uses SOAP protocol and responses are formatted in XML.
+cloud helpdesk internet 
+Internet

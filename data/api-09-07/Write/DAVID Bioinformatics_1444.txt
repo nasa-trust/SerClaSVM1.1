@@ -1,0 +1,7 @@
+Bioinformatics and genetics database
+DAVID Bioinformatics
+The service provides tools for functional annotation to discover the implications for biological research of specific genes and genetic markers tracked by its database. Formally named Database for Annotation, Visualization and Integrated Discovery (DAVID), it logs descriptions of genetic combinations found by researchers to enhance understanding of likely biological effects and target research.
+
+API methods support retrieval of annotations listing biological functions for specified individual genes and gene clusters in both tabular and chart form. Methods also support review of full gene reports for wider-scale informatics applications.
+biology medical research science 
+Science

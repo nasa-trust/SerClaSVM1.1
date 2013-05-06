@@ -1,0 +1,5 @@
+Webpage Sharing Service
+BO.LT
+Bo.lt is a web service that let&#039;s users copy, edit and share web pages and be able to add avatars and comments to the pages they do share. The Bo.lt API is a RESTful API that is available for developers to integrate into their own applications. The API features all of the core functionality of Bo.lt itself, such as sharing and editing webpages. The Bo.lt API uses OAuth for authentication, but if no user is logged in/authenticated, a default Guest User account can be used.
+bookmarks social 
+Bookmarks

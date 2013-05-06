@@ -1,0 +1,5 @@
+Lottery number selection service
+OneWinner.Me
+OneWinner.Me is a service that lets users check the earning expectation of their lottery numbers and register their combination to prevent other players from choosing similar ones. The API lets developers integrate their applications so that they can check and register combinations into the service. Currently only the Euro Millions lottery is available, but more are coming soon. The API uses HTTP calls and responses are formatted in JSON.
+games lottery 
+Games

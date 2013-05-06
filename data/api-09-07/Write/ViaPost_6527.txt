@@ -1,0 +1,5 @@
+Send physical mail from the Internet
+ViaPost
+The ViaPost service allows you to send physical post direct from your computer to any address in the UK. The API lets you send mail, upload mailing lists, check account balances, and more. The API is intended for large batches (1,000 or more letters). For smaller batches, the Windows driver is probably more appropriate. 
+marketing enterprise office email utility deadpool
+Office

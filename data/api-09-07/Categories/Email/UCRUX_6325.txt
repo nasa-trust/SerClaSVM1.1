@@ -1,0 +1,12 @@
+datum 1
+email 5
+example 1
+feature 1
+format 1
+marketing 4
+net 1
+protocol 1
+return 1
+software 1
+synchronize 1
+system 1

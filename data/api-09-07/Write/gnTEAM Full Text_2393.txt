@@ -1,0 +1,5 @@
+Text editing and bioinformatics data retrieval services
+gnTEAM Full Text
+The Full Text Web Services are a collection of text editing and bioinformatics data retrieval APIs provided by gnTEAM at the University of Manchester. Text editing functions include text cleaning, PDF-to-text conversion, sentence splitting, article section splitting, and article section classification. Bioinformatics-related functions include finding relationships between proteins and metabolites mentioned in a text, finding cell- and tissue-types in a text, and retrieving data and documents from PubMed.
+bioinformatics semantic tools 
+Tools

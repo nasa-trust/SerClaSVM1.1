@@ -1,0 +1,7 @@
+Website performance and optimization service
+Yottaa User
+Yottaa is a service for website owners to improve website performance and speed. Yottaa also offers tools for website owners to monitor their website performance and speed. Yottaa&#039;s services work on various facets of websites, including data, code, and image optimization, security optimization, and visibility.
+
+The Yottaa User API allows developers to access and integrate the information and settings of user accounts from Yottaa with other applications. Some example API methods include accessing user set benchmarks, managing user set benchmarks, adding sites to user accounts, and accessing all sites of a user.
+internet monitoring Optimization performance speed 
+Internet

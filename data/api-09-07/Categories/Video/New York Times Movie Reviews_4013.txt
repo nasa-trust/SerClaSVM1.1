@@ -1,0 +1,16 @@
+archives 1
+back 1
+critic 2
+give 2
+movie 7
+news 1
+newspaper 1
+ny 1
+over 1
+pick 1
+review 9
+search 1
+times 5
+today 1
+video 2
+york 4

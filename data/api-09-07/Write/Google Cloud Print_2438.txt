@@ -1,0 +1,5 @@
+Cloud printing service
+Google Cloud Print
+Google Cloud Print is a service that enables any app (web, desktop, or mobile) on any device to print to any printer anywhere in the world. The APIs allow the apps to collect the necessary data to show their own user interface for custom print options or use the common print dialog that Google Cloud Print provides. There are also APIs for querying print job status. The API uses XMPP protocol and responses are formatted in XML, JSON and TXT. Google Cloud Print is not currently available.
+cloud office printing 
+Office

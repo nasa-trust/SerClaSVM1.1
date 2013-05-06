@@ -1,0 +1,7 @@
+Telephony service
+Twilio
+Twilio provides a simple hosted API and markup language for businesses to quickly build scalable, reliable and advanced voice and SMS communications applications. Twilio provides a telephony infrastructure web service &quot;in the cloud&quot;, enabling web programmers to integrate real-time phone calls into their applications. Twilio&#039;s simple Pay-As-You-Go pricing model means customers pay for capacity only when they need it, not before. Voice applications written on Twilio&#039;s cloud solution scale transparently, eliminating programming, operational and contractual headaches frequently associated with rapid growth or traffic spikes. 
+
+Twilio provides a cloud API for voice and SMS communications that leverages existing web development skills, resources and infrastructure. It minimizes the learning curve required to build advanced, reliable voice communications applications that solve critical business needs. The syntax and programming model are focused on making application development as close to the request/response model of web application development as possible. The API uses a RESTful interface and responses are formatted in XML or CSV. 
+cloud speech telephony TTS Voice webhooks 
+Telephony

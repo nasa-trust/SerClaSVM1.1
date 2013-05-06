@@ -1,0 +1,5 @@
+Microblogging service
+Watwet
+The Watwet micro-blogging service includes an API that gives RESTful access to the Watwet database and activity streams for users, timelines, friends, followers, favorites and others, using XML and JSON formats.
+deadpool microblogging social 
+Social

@@ -1,0 +1,5 @@
+Atomic timekeeping service
+Abundant AtomicClock
+The AtomicClock API returns the current time in Universal Time (UT), sometimes referred to as Greenwich Mean Time (GMT). Presumably, the timepiece that the API references is an atomic clock, but insufficient documentation is given to be certain. 
+time tools deadpool
+Tools

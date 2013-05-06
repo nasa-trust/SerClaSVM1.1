@@ -1,0 +1,5 @@
+Cloud-based file storage and sharing service
+MediaFire
+MediaFire is a cloud-based service for storing and sharing files. Users can host and share any file type including documents, presentations, videos, and images. All accounts can upload and share an unlimited number of files, with the maximum file size being 200MB for free accounts. Users can access and manage their MediaFire cloud using a RESTful API.
+cloud filesharing storage 
+File Sharing

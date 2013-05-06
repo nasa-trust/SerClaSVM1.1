@@ -1,0 +1,7 @@
+Genealogy and family tree service
+GenealogyCloud OneGreatFamily
+GenealogyCloud by OneGreatFamily is a web-based genealogy family tree service. Users can build their family trees and add family members to the trees with this service.
+
+The GenealogyCloud API allows developers to access and integrate the data and functionality of GenealogyCloud and OneGreatFamily with other applications. Some example API methods include searching for individuals, creating and editing profile information, creating and updating families, and uploading files.
+family genealogy 
+Other

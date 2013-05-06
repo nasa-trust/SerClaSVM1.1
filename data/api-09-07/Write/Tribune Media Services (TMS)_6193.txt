@@ -1,0 +1,7 @@
+TV and Movie information service
+Tribune Media Services (TMS)
+The service provides a range of entertainment information, mainly for television and movies. TV information includes program listings, ratings, reviews and descriptions, news, and related content. Movie information covers currently running shows and ticketing for U.S. and Canadian movie theaters with supporting content like trailers, descriptions, reviews, and actor bios. 
+
+TV programming API methods retrieve television listings and program data. Movie API methods retrieve theater locations, current shows, and show times, as well as summaries and future releases.
+entertainment movies television tickets 
+Entertainment

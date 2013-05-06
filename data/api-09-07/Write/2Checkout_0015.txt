@@ -1,0 +1,5 @@
+Ecommerce services
+2Checkout
+2Checkout.com provides turnkey e-commerce solutions to thousands of business customers around the world. 2CO supports back-office functions including financial reporting, tracking, fraud prevention, affiliate tracking, customer service and sales tracking. The API provides a way to automate both account and order management processes. It uses a RESTful interface and responses can be in XML, JSON or HTML XOXO microformat.
+ecommerce shopping 
+Shopping

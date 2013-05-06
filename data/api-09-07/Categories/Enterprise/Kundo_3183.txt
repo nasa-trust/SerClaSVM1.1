@@ -1,0 +1,11 @@
+company 1
+customer 5
+enterprise 2
+feedback 2
+handle 1
+interact 1
+issue 1
+management 1
+platform 1
+project 1
+sweden 1

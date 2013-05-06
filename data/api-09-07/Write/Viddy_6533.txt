@@ -1,0 +1,5 @@
+Social video sharing service
+Viddy
+Viddy is a social video sharing service. Its iPhone application lets users shoot 15-second video clips and push them to social networking sites. The clips can be enhanced with filters and other production packages including music, tags, titles, and local information.
+video social sharing editing
+Video

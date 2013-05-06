@@ -1,0 +1,7 @@
+business 1
+choice 1
+editing 1
+editor 1
+photo 6
+printing 1
+sharing 1

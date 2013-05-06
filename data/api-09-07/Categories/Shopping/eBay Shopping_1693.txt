@@ -1,0 +1,15 @@
+create 1
+datum 1
+eve 1
+format 1
+going 1
+integration 1
+interact 1
+interface 1
+query 1
+re 1
+receive 1
+search 1
+selling 1
+shopping 6
+value 1

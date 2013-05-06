@@ -1,0 +1,16 @@
+create 1
+datum 2
+display 1
+embed 1
+feature 2
+format 1
+grab 1
+integrate 1
+map 2
+mapper 3
+mapping 4
+metadata 1
+million 1
+mobile 1
+point 1
+standard 1

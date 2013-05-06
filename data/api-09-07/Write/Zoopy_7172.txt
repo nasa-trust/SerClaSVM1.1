@@ -1,0 +1,7 @@
+Online and mobile social media community
+Zoopy
+The Zoopy API allows read/write access to the Zoopy video, photo and audio sharing platform to any registered users of the service. Zoopy is an online and mobile social media community. Users visit Zoopy to upload, share and discover videos, photos and audio. The goal is to enable sharing with family and friends from one Zoopy profile, at one URL, by bringing all three media types into one location.
+
+The Zoopy API is a comprehensive, semi-RESTful API. Requests are made using regular GET or POST HTTP requests. Output from the API can be requested in either XML or JSON.
+mobile social 
+Social

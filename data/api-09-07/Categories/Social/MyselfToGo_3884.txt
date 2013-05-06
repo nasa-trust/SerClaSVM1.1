@@ -1,0 +1,14 @@
+browsing 1
+content 1
+event 1
+exchange 1
+feed 1
+location 1
+means 1
+personal 1
+picture 1
+product 1
+share 2
+social 3
+surfer 2
+video 1

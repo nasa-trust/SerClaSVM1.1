@@ -1,0 +1,16 @@
+add 1
+address 1
+combine 1
+datum 1
+gps 1
+grab 1
+location 1
+mean 1
+method 1
+mobile 1
+open 3
+point 2
+sniff 1
+want 1
+way 1
+wifi 4

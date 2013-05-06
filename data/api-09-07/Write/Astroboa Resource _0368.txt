@@ -1,0 +1,5 @@
+Information Management Service
+Astroboa Resource 
+Astroboa is an information management service that provides a data services platform. Astroboa aims to cover the complete lifecycle of information management, from dynamic modeling to automated exposure of information as web resources. Astroboa makes its services available through JAVA, REST, and SOAP protocols. The API currently uses HTTP Basic Authentication but future releases will also consider OAuth. 
+Data management organization enterprise
+Enterprise

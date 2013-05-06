@@ -1,0 +1,5 @@
+Html to plain text conversion tool
+Marky Markdownifier
+Markdown is a plain text formatting syntax. A Markdownifier is a tool that converts html to Markdown, using an algorithm to determine what part of the page is of interest, resulting in a plain text representation of a page. Marky is a Markdownifier created by designer and writer Brett Terpstra. The Marky API provides developer access to the Markdownifier.
+html internet tools 
+Tools

@@ -1,0 +1,7 @@
+Diesel fuel price information service
+SoftModal Diesel 
+The service republishes reports from the U.S. Department of Energy documenting retail prices for diesel fuel in a machine-readable format. DOE makes its weekly survey results for on-highway fuel prices available for bulk download but does not expose the data for application access. This service fills that gap to support planning for transportation fleet operations.
+
+API methods support requests by date (defaulting to the current date) and region. It returns DOE&#039;s reported average price for survey results matching the request parameters. 
+fuel transportation 
+Transportation

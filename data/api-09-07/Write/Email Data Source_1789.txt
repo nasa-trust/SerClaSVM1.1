@@ -1,0 +1,5 @@
+Email marketing campaign management
+Email Data Source
+Email Data Source enables successful email marketing campaigns by providing market intelligence from a resource of 16,000,000 top marketing emails. Email Data Source provides four services: alerts, market insight, search, and comparison. The Email Data Source API supports the search service, allowing users to search emails, markets, and get access to the corresponding emails.
+email marketing 
+Email

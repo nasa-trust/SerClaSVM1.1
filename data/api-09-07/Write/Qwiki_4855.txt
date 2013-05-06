@@ -1,0 +1,7 @@
+Interactive wiki with media
+Qwiki
+Qwiki is an interactive wiki about a variety of topics. Qwiki returns text, audio, visual, and video media about the topic users search on. 
+
+The Qwiki API allows developers to integrate Qwiki&#039;s functionality into other applications. Current API methods are searching for and listing results on topics. The API uses RESTful calls and responses are formatted in JSON and JSONP.
+audio media photo search video wiki 
+Search

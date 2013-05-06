@@ -1,0 +1,16 @@
+analysis 1
+analyze 1
+cluster 1
+compare 1
+discover 1
+document 1
+engine 2
+format 1
+full 1
+integrate 1
+match 1
+meaning 1
+relevance 2
+response 1
+text 1
+tool 1

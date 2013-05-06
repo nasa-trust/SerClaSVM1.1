@@ -1,0 +1,5 @@
+Online shopping service
+ValueCommerce Product
+ValueCommerce is a Japanese Affiliate Marketing and Search Marketing Agency Service. It offers the Product API which allows users to aggregate product data from hundreds of top merchants in Japan. The API uses Restful protocol and responses can be formatted in XML, JSON and JSONP.
+affiliate japan shopping 
+Shopping

@@ -1,0 +1,5 @@
+School test scores and other data
+Education.com
+Education.com&#039;s SchoolFinder API gives you FREE school data on more than 130,000 public and private K-12 schools across the U.S. states. Use this API to get comprehensive information about a school&#039;s academic performance, test scores, student demographics, teacher statistics, and reviews from parents. 
+education reference school 
+Education

@@ -1,0 +1,15 @@
+coupon 1
+datum 1
+deal 7
+email 1
+food 1
+functionality 1
+integrate 1
+method 1
+philippines 3
+product 2
+receive 1
+return 1
+search 1
+shopping 2
+travel 3

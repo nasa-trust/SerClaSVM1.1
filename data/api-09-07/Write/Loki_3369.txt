@@ -1,0 +1,7 @@
+Website location service
+Loki
+Loki is a service that adds locations to websites. When a website visitor visits a site with Loki, the visitor&#039;s exact location can be identified, enabling location-based advertisements, local businesses, and local social media. 
+
+The Loki API allows developers to integrate Loki&#039;s functionality into websites. The API calls for locations of visitors and IP addresses to accurately access Loki&#039;s location functions.
+advertising IP location usa 
+Tools

@@ -1,0 +1,5 @@
+Sentiment analysis for Twitter service
+TweetSentiments
+TweetSentiments performs semantic analysis of tweets using a Support Vector Machines algorithm. Doing so, it is able to determine whether tweets are positive, negative or neutral in sentiment. This data is provided on-demand by the TweetSentiments API.
+semantic tools Twitter 
+Tools

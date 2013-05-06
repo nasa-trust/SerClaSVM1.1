@@ -1,0 +1,5 @@
+Semantic advertising service
+Peer39
+Peer39 helps partners improve the relevance of their online display advertising by providing data based on the content and structure of web pages. Peer39 analyzes pages across three channels: Quality, Safety and Category, enabling buyers to use this data to make decisions that align the page environment with the brand definied by advertisers. Peer39 offers a SOAP based API that lets developers integrate the service into their own applications. Public documentation is not available. 
+advertising semantic
+Advertising

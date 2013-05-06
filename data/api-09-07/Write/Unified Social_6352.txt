@@ -1,0 +1,7 @@
+Social media marketing platform
+Unified Social
+Unified Social is a platform for social media marketing. The platform allows marketers to engage social media audiences across multiple social media applications, such as Twitter, Facebook, and LinkedIN. 
+
+The Unified Social API allows developers to access and integrate the functionality of Unified Social with other applications. Some example API methods include retrieving audience profile information, generating reports, and managing account information. Public documentation is not available; API access comes with accounts. 
+advertising marketing media social 
+Advertising

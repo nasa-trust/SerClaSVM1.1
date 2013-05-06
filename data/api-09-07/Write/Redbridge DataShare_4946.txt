@@ -1,0 +1,5 @@
+UK government data
+Redbridge DataShare
+The London Borough of Redbridge, in following the UK Government&#039;s programme to expose more government data, has created DataShare. DataShare makes datasets in the following categories available: finance, environment, democracy, education, council information, property, and housing. A RESTful API exposes this data to developers in XML and JSON formats. 
+Data datasets government uk 
+Government

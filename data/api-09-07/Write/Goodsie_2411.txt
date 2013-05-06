@@ -1,0 +1,5 @@
+Goodsie Online Store Service
+Goodsie
+Goodsie provides an API to allow store owners (or 3rd parties on their behalf) to access store information in a programatic manner. This is implemented via a simple REST-like interface. The API is very simple at the moment, and additional features will be added in the future as required by store owners. 
+deadpool shopping 
+Shopping

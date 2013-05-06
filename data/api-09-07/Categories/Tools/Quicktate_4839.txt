@@ -1,0 +1,16 @@
+audio 5
+charge 1
+convert 1
+file 1
+general 1
+ie 1
+integrate 1
+medical 1
+protocol 1
+send 1
+speech 1
+text 1
+tool 2
+transcription 3
+type 1
+vary 1

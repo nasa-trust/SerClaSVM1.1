@@ -1,0 +1,5 @@
+Editable interactive maps
+Wikimapia
+WikiMapia is an editable interactive map with the stated goal of creating and maintaining a free, complete, multilingual, up-to-date map of the whole world.  The Wikimapia Api is a system that allows users to receive data from the maps. Users can integrate Wikimapia Geo Data into their external application or web site. The API uses RESTful calls and responses are formatted in JSON. The API is still in beta, more features will be added soon such as roads, graphic tiles use, then adding information from mobile devices to Wikimapia DB.
+display mapping viewer wiki 
+Mapping

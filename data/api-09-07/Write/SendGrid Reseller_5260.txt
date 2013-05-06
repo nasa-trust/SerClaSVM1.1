@@ -1,0 +1,7 @@
+Customer management service
+SendGrid Reseller
+SendGrid&#039;s cloud-based email helps keep emails out of spam folders, provides a cloud service that scales with email demands, and provides email analytics to track opens and clicks.
+
+The Reseller API allows users with SendGrid reseller accounts to manage customers and emails. Functionality includes monitoring of records, managing whitelabel settings, reviewing accounts and more. The API uses RESTful calls and responses are formatted in XML and JSON.
+customer email management 
+Email

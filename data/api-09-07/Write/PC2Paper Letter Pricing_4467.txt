@@ -1,0 +1,5 @@
+Digital mail service
+PC2Paper Letter Pricing
+PC2Paper is a website that enables users to send actual letters and cards from the Internet. PC2Paper also provides users with a real letterbox, mail that arrives at this letterbox is scanned and made available for users to read online. The Letter Pricing API enables users to calculate the price of their letter before sending it. It uses RESTful calls and responses are formatted in XML.
+postal printing realworld 
+Other

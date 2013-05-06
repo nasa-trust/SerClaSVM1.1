@@ -1,0 +1,5 @@
+Email marketing service 
+18amail
+An API to remotely connect to the 18amail.co.uk email marketing service. Quick and simple to hook up to an existing membership based website and populate your 18amail mailing lists. Then send out and track email newsletters.
+email marketing saas 
+Email

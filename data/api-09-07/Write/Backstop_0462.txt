@@ -1,0 +1,9 @@
+Alternative asset management software
+Backstop
+Backstop Solutions Group is a software company delivering a suite of tools for the alternative asset management industry. The Backstop SOAP API provides an interface to key objects in Backstop, including contacts, notes/docs/meetings, funds/products, hedge funds/private equity funds, benchmarks, and peer groups.
+
+The SOAP API allows one application to request the services of another. It goes beyond simply asking for a piece of data stored in a database; a program with a SOAP API can be asked to execute complex functions (e.g. searching for information, calculating numbers, etc.), the results of which will be returned to the requesting application.
+
+A software application that integrates with Backstop via the SOAP API can request a range of information about these objects, including return series, balances, qualitative information and more. The most common use of the Backstop SOAP API is to integrate Backstop with proprietary or custom external applications such as analysis and reporting tools. Full documentation for the API is available upon request.
+business deadpool finance stocks 
+Other

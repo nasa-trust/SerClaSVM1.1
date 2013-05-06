@@ -1,0 +1,5 @@
+Real time automobile data
+OpenCarData
+OpenCarData collects, stores and disseminates real world OBD (On Board Diagnostics) auto data. This data provides the real time status of an individual car or group of cars. The API consists of methods to store, retrieve and interpret car related data. Data includes trip information, listings of cars, fueling data and more. The API uses RESTful calls and responses are formatted in XML.
+auto cars realtime transportation 
+Transportation

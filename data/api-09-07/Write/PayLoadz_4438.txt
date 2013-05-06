@@ -1,0 +1,5 @@
+File storage and seller download services
+PayLoadz
+From their site: The API allows developers to create a downloadable good, upload a file into our system, create a download transaction, and present an end user with a download link. The API also provides supporting calls for functions like transaction status and product purchase button HTML generation. PayLoadz offers a secure Digital Goods eCommerce service for anyone to sell downloadable goods online. We provide a service to sell downloadable items such as: software, eBooks, music, movies, digital art, manuals, articles, certificates, forms, files, and anything else that can be downloaded. Our automated service delivers your products to your customers instantly after payment. Our system operates using PayPal&#039;s online payment system and Google Checkout.
+payment shopping storage 
+Storage

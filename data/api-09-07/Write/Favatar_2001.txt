@@ -1,0 +1,5 @@
+Favicon retrieval service
+Favatar
+Favatar is a favicon hosting service. Favicons graphically represent a webpage???s hyperlink to users. With Favatar, web developers can retrieve permanent URLs for the favicons associate with their sites. The entire service is an API. Developers register for an API key and send requests including the URL of the website whose favicons they want accessed. Favatar will return an ordered list of all the icons it can find at the specified address. The Favatar API is REST-based and returns JSON and JSONP formatted data. 
+icon image search 
+Media Search

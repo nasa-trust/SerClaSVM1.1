@@ -1,0 +1,15 @@
+boston 4
+citizen 3
+city 3
+communicate 1
+connect 3
+contact 1
+documentation 1
+give 1
+government 2
+graffito 1
+issue 1
+neighborhood 1
+pothole 1
+reporting 2
+resident 2

@@ -1,0 +1,15 @@
+call 1
+days 1
+five 1
+forecast 3
+forecasting 1
+format 1
+george 1
+get 1
+given 1
+http 1
+location 1
+method 1
+one 1
+response 1
+weather 4

@@ -1,0 +1,7 @@
+CO2/greenhouse gas estimation service
+CO2 Benchmark
+The service provides estimates of average production of CO2 greenhouse gases as an indicator of typical carbon footprints for various activities. It is intended to be used for comparison with local carbon estimates to indicate whether activities are above or below the norm. Data may also help to adjust calculation algorithms.
+
+API methods support retrieval of the list of industries and countries covered by the carbon footprint database. Applications can then retrieve data arrays for the companies within those categories that serve as benchmarks.
+carbon environment green science 
+Science

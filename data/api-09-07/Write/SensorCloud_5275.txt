@@ -1,0 +1,7 @@
+Data storage, management, and visualization platform
+SensorCloud
+SensorCloud is a data storage, management, and visualization platform. SensorCloud offers data storage and management solutions, as well as data visualization tools.
+
+The SensorCloud API allows developers to access and integrate the functionality of SensorCloud with other applications. Some example API methods include downloading datasets, managing data attributes, and adding data and datasets.
+Data management storage tools visualization 
+Tools

@@ -1,0 +1,7 @@
+City-focused photo map service
+NearMap
+NearMap is a media company that creates high quality PhotoMaps of cities that are kept current via monthly updates. Changes over time can be observed using the TimeView function. Locations can be viewed from the side when the viewer is zoomed in to building-level detail.
+
+The NearMap JavaScript API provides a way for web developers to embed NearMap in any web page, as well as customize the embedded map and create mash-ups. The NearMap JavaScript API is modeled on the Google Maps API and implements, with certain modifications, a subset of its features.
+mapping 
+Mapping

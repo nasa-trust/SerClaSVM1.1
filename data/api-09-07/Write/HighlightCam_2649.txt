@@ -1,0 +1,5 @@
+Video summarization service
+HighlightCam
+HighlightCam is a video service that lets developers submit their own videos to be summarized, quickly and automatically, shortening them to any desired fraction of the original video. The HighlightCam API lets users submit their own videos for summarization, shortening them to any desired fraction of the original video. The HighlightCam algorithm looks for features like motion, voices and faces to select the parts that are likely to be most interesting.
+video 
+Video

@@ -1,0 +1,11 @@
+billing 3
+business 1
+format 1
+integrate 1
+payment 2
+process 1
+recur 1
+response 1
+so 1
+subscription 3
+system 1

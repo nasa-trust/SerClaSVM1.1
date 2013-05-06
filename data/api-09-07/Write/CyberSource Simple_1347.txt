@@ -1,0 +1,5 @@
+Online payment service
+CyberSource Simple
+CyberSource helps you accept payments on your website. The service supports payments by credit card, electronic check and PayPal. There are several methods that can be used and developer kits in a number of languages. 
+payment
+Payment

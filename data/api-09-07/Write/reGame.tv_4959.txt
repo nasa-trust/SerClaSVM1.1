@@ -1,0 +1,5 @@
+Gaming video streaming service
+reGame.tv
+The regame.tv service offers users a platform to deliver livestreams focused on gaming. On the site, users can upload gaming related videos without size or length limits and they can create livestream channels to broadcast their games and tournaments. The API lets developers query information from the regame.tv database. This data includes user and collection lists, stream status, mobile files and more. It uses RESTful calls and responses are in XML and JSON.
+deadpool games streaming video 
+Video

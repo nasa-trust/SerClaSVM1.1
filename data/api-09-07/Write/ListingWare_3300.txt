@@ -1,0 +1,5 @@
+Listings Search Service
+ListingWare
+ListingWare is a real estate listing website. The ListingWare API offers tools for developers to integrate ListingWare real estate listings into their own websites. You can use the service&#039;s IDX search feature to provide current listings or allow users to search public listings data.
+realestate search 
+Real Estate

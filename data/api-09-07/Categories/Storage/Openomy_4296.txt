@@ -1,0 +1,10 @@
+create 1
+datum 1
+file 1
+interest 1
+outside 1
+retrieve 1
+server 1
+storage 2
+store 1
+system 1

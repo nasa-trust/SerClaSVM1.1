@@ -1,0 +1,7 @@
+language development service
+LingQ
+LingQ provides language learners with a portal to access various forms of content and assistance. The offerings include: personal tutors, live conversations, making friends in the community, learning new vocabulary, having your writing corrected and the ability to download lesson content for off-site usage.
+
+The API utilizes a language and platform neutral RESTful protocol. It allows simple programmatic access through HTTP to access specific features of LingQ. All methods return JSON results by default but other output formats are available.
+education language reference social 
+Education

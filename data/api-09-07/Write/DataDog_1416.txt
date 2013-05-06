@@ -1,0 +1,5 @@
+IT data management
+DataDog
+DataDog is a multifunctional data management tool. It can be used for data visualization, contextualization, and other analytics. These functions are embedded into a collaborative work stream or dashboard to share data insights with colleagues. DataDog???s programmatic RESTful API runs on a low-level HTTP interface and responds with JSON. It can be used for access to events and metrics, or for integration with other tools. 
+Data project-management tools 
+Tools

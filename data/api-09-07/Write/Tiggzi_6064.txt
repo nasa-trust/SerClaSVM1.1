@@ -1,0 +1,7 @@
+Mobile application building and backend service
+Tiggzi
+Tiggzi is a cloud-based mobile application building service. Tiggzi provides backend-as-a-service for mobile applications. Users can build mobile applications using HTML5, jQuery, and PhoneGap.
+
+The Tiggzi API allows developers to access and integrate the functionality of Tiggzi with other applications and to create new applications. Some example API methods include managing events, managing accounts, and creating events.
+backend cloud mobile 
+Backend

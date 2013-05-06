@@ -1,0 +1,5 @@
+File storage service
+Hive
+The service provides distributed file storage using HTTP requests to upload and download files stored in its network. Applications can store and retrieve files, or delete previously stored ones. The online storage service can function as an external backup, or as a file-sharing platform for exchanges between different systems.
+storage backup filesharing
+Storage

@@ -1,0 +1,15 @@
+cable 1
+call 1
+card 1
+content 2
+device 1
+download 3
+first 1
+may 1
+memory 1
+method 1
+mobile 3
+pc 1
+select 1
+transfer 1
+try 1

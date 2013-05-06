@@ -1,0 +1,7 @@
+Twitter search and engagement service
+ITweetLive
+ITweetLive is a platform to search Twitter and maximize Twitter engagement. Users of ITweetLive can set up Twitter searches by keywords, group Twitter users for accurate engagement, and access Twitter analytics.
+
+The ITweetLive API allows developers to access and integrate the functionality of ITweetLive with other applications. Some example API methods include setting up keyword searches for Twitter and managing account information.
+blog search social Twitter 
+Social

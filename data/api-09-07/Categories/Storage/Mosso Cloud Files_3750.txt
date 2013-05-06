@@ -1,0 +1,12 @@
+add 1
+cloud 4
+delete 1
+file 6
+give 1
+internet 1
+link 1
+read 1
+server 1
+storage 3
+store 1
+write 1

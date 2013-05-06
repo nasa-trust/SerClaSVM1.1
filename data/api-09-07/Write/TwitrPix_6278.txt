@@ -1,0 +1,5 @@
+Photo sharing service for Twitter
+TwitrPix
+TwitrPix gives users the ability to share photos on Twitter by mobile phone, email and the web. TwitrPix employs the use of Twitter credentials for authentication. TwitrPix provides a set of API tools to allow developers to integrate TwitrPix into their applications.
+photo social Twitter 
+Photos

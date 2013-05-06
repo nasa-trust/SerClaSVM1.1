@@ -1,0 +1,5 @@
+Music and sound search service
+Freesound
+With the Freesound API you can browse, search, and retrieve information about Freesound users, packs, and the sounds themselves of course. Currently, the API is read only. Features for uploading sounds may be added in the future. Freesound is a collaborative database of creative-commons licensed sound for musicians and sound lovers. The API uses RESTful protocol and resposnes can be formatted in XML, JSON or YAML.
+music search 
+Music

@@ -1,0 +1,5 @@
+Philly Property Owner Search Service
+Philly Address Live
+The Philly Address Live API allows users to search by address and view the owner information, tax balances, and other public information from the opa.phila.gov website as well as from the Department of Revenue website. The API uses the REST protocol and, while defaulting returns in JSON, it will also return xml,php, and txt. 
+philadelphia property realestate 
+Real Estate

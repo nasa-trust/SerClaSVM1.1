@@ -1,0 +1,9 @@
+Postal address verification service
+CDYNE Postal Address Verification
+Utilize this XML Web Service to return a certified deliverable address. CDYNE Postal Address Verification helps prevent spelling and formatting errors by enforcing address standardization during entry. The service returns Latitude/Longitude, ZIP+4, Bar Code information, District Type, Time Zone, Census Block and more.
+
+The service can be programmed to clean customer lists by scheduling periodic scrubbing or maintaining integrity at point of entry, providing unparalleled accuracy in gathering and maintaining address data. Efficiency of route sales and delivery planners can be increased by correctly identifying map coordinates (using latitude and longitude data) that can be fed into driverse GPS Navigation Systems.
+
+CheckAddress, CheckAddressW2lines and AdvancedCheckAddress are the most commonly used functions. International address verification is also available. This API uses SOAP protocol and responses are formatted in XML.
+postal security 
+Security

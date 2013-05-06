@@ -1,0 +1,5 @@
+Neighborhood lifestyle data service
+PicketReport Lifestyle
+PicketReport.com provides detailed information about lifestyle, schools, neighborhood, crime and safety for people who are moving and looking to choose the best neighborhoods to live in. Over 100 million pieces of data are aggregated to gives users complete lifestyle based information. Developers can integrate the Lifestyle API into their applications. Contact the provider for more information and documentation on the API.
+Data demographics lifestyle neighborhood reference 
+Reference

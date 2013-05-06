@@ -1,0 +1,5 @@
+Twitter service extensions
+Social Whale
+Social whale aims to extend twitter???s microblogging platform to include additional features like groups, tagged favorites and more. They have an API in private alpha that acts as an extension of Twitter. The API is a clone of twitter???s API but extended so that if has more features. Developers can update their applications to work with the extended API using the same requests in the Social Whale domain (instead of twitter???s) and get the same data, but with the extra information that is provided. 
+social Twitter 
+Social

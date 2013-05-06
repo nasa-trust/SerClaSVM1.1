@@ -1,0 +1,7 @@
+Business deal listing service
+BusinessRadar
+BusinessRadar is an Italian company that provides an international, online portal for discovering and facilitating business deals. Users interested in buying or selling can leverage this free site to post leads for business and trade partnerships.
+
+The BusinessRadar API allows developers to search, retrieve, and post business leads programmatically. Queries can search and retrieve data by keyword, nation, date, number of leads, or business category. This SOAP-based API requires a BusinessRadar account for access, but is otherwise free to use.
+business marketplace trade 
+Other

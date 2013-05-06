@@ -1,0 +1,7 @@
+Virtual learning management system
+BrainHoney
+Agilix BrainHoney is a state-of-the-art learning management system to help educational institutions improve students&#039; learning experience. It is designed with course authoring, learning objective management, gradebook management, and student tools to make virtual learning easier.
+
+BrainHoney supports the Distributed Learning Application Protocol (DLAP) for system integration. BrainHoney ToGo Player, BrainHoney Web Server, and BrainHoney Reporting Server interact with the BrainHoney Servers using the DLAP API. This same API can be used to integrate third party applications with BrainHoney. The API uses RESTful calls and responses are formatted in XML.
+education learning 
+Education

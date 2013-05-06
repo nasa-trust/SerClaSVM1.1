@@ -1,0 +1,5 @@
+Environmentalists online community
+WiserEarth
+WiserEarth is a free online community space connecting people working toward a just and sustainable world. WiserEarth includes the largest international directory of NGOs (110,000 records). Organizations and communities worldwide are using WiserEarth groups to coordinate their efforts. The API offers access to organizations (except email addresses), solutions, groups (only the About Page metadata), resources, jobs, and events. Currently only Read access is available. Inquire about Write access.
+environment nonprofit social 
+Other

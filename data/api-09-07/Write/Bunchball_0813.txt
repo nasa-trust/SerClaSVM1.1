@@ -1,0 +1,5 @@
+Multiplayer game platform
+Bunchball
+From their site: Have a web page somewhere? Take any of our games and put the game directly into your page. Sometimes it&#039;s fun to play by yourself. Usually it&#039;s more fun to play with other people, even if you&#039;re just competing for the best score. That&#039;s why we also provide the back-end infrastructure that makes it easy to create Macromedia Flash-based multi-player, networked games. You don&#039;t need to worry about managing users, games, databases, servers, data storage and routing, presence, chat, or any of that other stuff. Write to our ActionScript API or use one of our frameworks, and we handle it all for you, for free. Leaving you to concentrate on creating a great game. 
+flash games opensocial 
+Games

@@ -1,0 +1,7 @@
+Electronica music streaming service
+Console.fm
+Console.fm is a music streaming service that streams various genres of electronica music. Console.fm is organized by genre channels that users can select from. Console.fm also offers an iPhone application.
+
+The Console.fm API allows developers to access the data and functionality of Console.fm for integration with other applications. Some example API methods include searching and retrieving genre lists, retrieving artist information, and accessing track information.
+music Player 
+Music

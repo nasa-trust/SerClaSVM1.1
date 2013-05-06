@@ -1,0 +1,7 @@
+Street address validation service
+AddressDoctor
+The service verifies street and delivery addresses as submitted and corrects them to standard format used by shipping services. Addresses as entered are compared against updated reference data to confirm that the delivery location actually exists, and format correction helps to expedite shipments by maintaining compliance with package handling systems. Available supplemental content includes geodata or demographic information for the specified location. 
+
+API methods support interactive verification of a delivery address specified in the request and return confirmation that it exists and its correct format, including basic geocoding information. Batch verification methods provide the same functions, plus checks against records of deceased persons and change-of-address filings along with consumer classification information.
+address mail shipping validation 
+Shipping

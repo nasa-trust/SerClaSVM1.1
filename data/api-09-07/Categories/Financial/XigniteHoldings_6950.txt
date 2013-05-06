@@ -1,0 +1,12 @@
+complete 1
+date 1
+finance 2
+give 1
+holder 2
+holding 1
+list 1
+manager 1
+market 1
+search 1
+security 2
+specific 1

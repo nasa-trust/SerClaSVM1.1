@@ -1,0 +1,5 @@
+Online restaurant reservation service
+MICROS myreservation
+MICROS offers a cloud-based reservation system that enables customers to look up and book reservations at a restaurant&#039;s website in real time. When customers book their reservations and receive e-mail confirmation, the bookings are posted to and maintained within the MICROS Point-of-Sale system. Developers may define the number of reservations to offer in each time slot and configure this availability directly. These functions can be accessed programmatically using the SOAP-based MICROS myreservation API.
+food reservations restaurant 
+Food

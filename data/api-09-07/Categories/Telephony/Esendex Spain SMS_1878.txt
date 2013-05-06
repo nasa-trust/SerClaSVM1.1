@@ -1,0 +1,15 @@
+bulk 1
+form 1
+message 2
+messaging 2
+post 1
+receive 1
+rest 1
+send 1
+sm 4
+soap 1
+spain 4
+spanish 1
+suite 1
+telephony 2
+text 2

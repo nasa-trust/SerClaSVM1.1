@@ -1,0 +1,5 @@
+Wireless sensor network testbed
+WISEBED
+WISEBED provides a multi-level infrastructure of interconnected testbeds for large-scale wireless sensor networks. It was designed to enable research on a larger scale and of higher quality than would be possible using the testbeds individually. WISEBED&#039;s functions are accessible via SOAP-based APIs using the XML data format.
+science sensors 
+Science

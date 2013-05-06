@@ -1,0 +1,16 @@
+alternative 1
+architecture 1
+business 1
+central 2
+collaboration 3
+community 1
+company 1
+custom 1
+desktop 2
+enterprise 3
+format 1
+plan 1
+response 1
+soap 1
+software 2
+subscriber 1

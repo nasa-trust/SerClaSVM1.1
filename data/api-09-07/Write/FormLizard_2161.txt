@@ -1,0 +1,5 @@
+Form completion service
+FormLizard
+FormLizard uses an online interview format to fill out forms. With their API, users can integrate the form completing and document authoring capability of FormLizard into their own applications. This API is a REST API that allows access to the interviews and interview sessions in a FormLizard account without separately logging into FormLizard every time. Responses are in XML or JSON. The API is currently in public beta.
+internet sbweb tools 
+Tools

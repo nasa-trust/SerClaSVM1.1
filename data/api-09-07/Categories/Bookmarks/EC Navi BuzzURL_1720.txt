@@ -1,0 +1,15 @@
+add 1
+bookmark 6
+company 1
+datum 1
+delicious 1
+ec 4
+format 1
+group 1
+japan 1
+lab 1
+like 1
+means 1
+query 1
+return 1
+shopping 1

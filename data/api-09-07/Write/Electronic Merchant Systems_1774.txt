@@ -1,0 +1,7 @@
+eCommerce Services
+Electronic Merchant Systems
+EMS (Electronic Merchant Systems) is an eCommerce payment gateway.  It allows merchants to handle transactions online in realtime or individually through a merchant-operated virtual point of sale terminal (VPOS).
+
+EMS offers 2 APIs that connect users to EMS Merchant Services to streamline transaction processes such as payment, authorizations, settlements, transaction status requests and more.  The APIs use the RESTful protocol.
+payment shopping 
+Payment

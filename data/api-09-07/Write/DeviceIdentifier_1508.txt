@@ -1,0 +1,7 @@
+Mobile device detection service
+DeviceIdentifier
+The service polls a mobile device and provides information about its capabilities and desktop configuration. It detects a range of over 500 capabilities including operating system, Javascript support, supported image sizes, table support, and others.
+
+API methods support submission of a request specifying the mobile browser user-agent and the desired format for returned data. The API responds with detailed specifications for the system submitting the request for use in configuring display options to maximize device-specific compatibility.
+device mobile telephony 
+Telephony

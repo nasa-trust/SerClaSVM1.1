@@ -1,0 +1,5 @@
+Travel booking and management service
+Rezopia
+Rezopia is a cloud based system for travel providers that allows for end-to-end management of travel reservations, contracts, operations and distribution. The software contains tools for travel reservations, managing in-house content and supplier-negotiated contracts, and offers the ability to interface with third party systems for real time inventory and pricing. The XML API enables third parties to sell products and packages to larger affiliates through their own websites. Full documentation is not available.
+booking travel vacation 
+Travel

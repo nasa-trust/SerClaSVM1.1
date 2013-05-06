@@ -1,0 +1,7 @@
+Email sending and receiving service
+Critsend
+The service provides email messaging and management, including sending messages to defined recipient lists, receiving messages, and reporting on inbound and outbound traffic. A tagging function allows categorization of messages to select them for special management. Customizable reports allow monitoring of sent messages, bounced messages, response rates, click rates, and other recipient responses.
+
+API methods support defining and sending outbound mail, including recipient lists, message body, file attachments, etc. Methods also handle inbound mail with selective automated replies and redirects for human response. Reporting methods provide traffic summaries, statistics on recipient responses, and alerts of system events.
+email 
+Email

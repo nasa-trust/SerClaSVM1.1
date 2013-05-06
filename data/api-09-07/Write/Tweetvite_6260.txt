@@ -1,0 +1,7 @@
+Tweetup and event creation service
+Tweetvite
+Tweetvite allows users to create and find tweetups in the user&#039;s area. Tweetvite&#039;s features include customizable invites, tracking tweets and retweets about the tweetup, and listing of events for others to find.
+
+The Tweetvite API is currently read-only. The API allows users to search and retrieve event information (guestlists, comments) and user profiles. Tweetvite plans to launch an API that users can write in the future. 
+events social Twitter 
+Events

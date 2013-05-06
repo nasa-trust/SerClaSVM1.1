@@ -1,0 +1,5 @@
+Cloud-based hotel management platform
+Clerk
+Clerk is a cloud-based hotel management system. It offers a variety of plans to meet different-sized hotels??? needs. Clerk???s plans include several tools for room and reservation management.  These tools are exposed on a dashboard for hoteliers to store customer accounts, keep track of billing, and more. Their API can integrate with other desktop of web based business software. It exposes search functions for room and other basic information about a hotel. It is a RESTful API that returns JSON and XML-formatted data. 
+hotel management tools travel 
+Travel

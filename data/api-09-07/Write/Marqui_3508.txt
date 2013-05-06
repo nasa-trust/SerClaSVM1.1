@@ -1,0 +1,5 @@
+Content management and marketing platform
+Marqui
+Marqui provides on demand marketing software focused on web content management and email marketing. The software gives users a content management system, a blogging platform, a form builder, subscriber management, email marketing platform and more. The Marqui API lets developers integrate their web sites and applications with the platform. API documentation is not publicly available.
+cms enterprise marketing media-management 
+Enterprise

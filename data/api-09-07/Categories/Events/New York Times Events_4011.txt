@@ -1,0 +1,15 @@
+characteristic 1
+culture 1
+event 9
+example 1
+full 1
+integrate 1
+listing 2
+location 1
+method 1
+news 1
+search 5
+text 1
+times 4
+variety 1
+york 4

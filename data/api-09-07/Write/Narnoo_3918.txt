@@ -1,0 +1,5 @@
+Tourism and hospitality web markting platform 
+Narnoo
+Narnoo is a digital media platform for tourism and hospitality-based industries. It allows distributors and operators to upload media onto a centralized platform and distribute it from there. This allows users to conveniently manage their online content and distribute it to their audience as needed. They provide a REST-based API that exposes the platform???s media storage functionality. Developers can request images, movies, their metadata and more. The API returns JSON and XML-formatted data. 
+marketing social Tourism travel 
+Media Management

@@ -1,0 +1,7 @@
+Christian social networking service
+ChristianChirp
+Christianchirp is a Christian social networking service. They describe themselves as &quot;the Christian Alternative to Twitter.&quot;
+
+The Christianchirp API allows users to retrieve messages (both public and direct), send messages, add friends, and edit or delete messages, profiles, and friends within the Christianchirp network. 
+religion social 
+Social

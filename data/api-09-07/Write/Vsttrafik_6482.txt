@@ -1,0 +1,5 @@
+Swedish public transport information service
+V?sttrafik
+V?sttrafik is a public transport company in West Sweden that is responsible for public transport services including buses, trams, ferries and trains in the County of V?stra G??taland. The site provides maps, planning services, timetables and more. V?sttrafik offers journey planner and departure board APIs for public transport in West Sweden. The journey planner API exposes services including locations, trip, departure board, journey detail and geometry. It uses RESTful calls and  responses are formatted in XML and JSON. The site and documentation are in Swedish.
+sweden transit transportation 
+Transportation

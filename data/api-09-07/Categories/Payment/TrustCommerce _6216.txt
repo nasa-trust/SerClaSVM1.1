@@ -1,0 +1,12 @@
+control 1
+fraud 1
+payment 5
+platform 1
+processing 2
+shopping 1
+simple 1
+subscription 1
+support 1
+terminal 1
+tough 1
+variety 1

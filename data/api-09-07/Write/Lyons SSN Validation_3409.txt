@@ -1,0 +1,5 @@
+Online social security number validation
+Lyons SSN Validation
+This Social Security Number validation web service identifies any irregularities that may exist in association with the SSN provided and returns results that allow users to take appropriate action as part of an application process. Lyons Commercial Data is a provider of U.S. financial institution data including bank routing numbers and other information critical to transaction processing. The API uses SOAP protocol and responses are formatted in XML. Validate SSN accepts a nine digit social security number and returns the following: Valid or Invalid; Issued or Not Issued; If issued, the Year Range of Issuance; Probable Age Range and Region or State where issued. 
+Fraud security validation 
+Security

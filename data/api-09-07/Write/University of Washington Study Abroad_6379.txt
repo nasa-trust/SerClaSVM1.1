@@ -1,0 +1,5 @@
+Study abroad information service
+University of Washington Study Abroad
+The University of Washington&#039;s Study Abroad program offers hundreds of opportunities around the globe for UW credit throughout the year. The Study Abroad API provides a public interface to program information that can be used to display the most current offerings for a particular region, country, city, or term on the user&#039;s web site.
+education travel university 
+Travel

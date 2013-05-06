@@ -1,0 +1,12 @@
+accept 1
+airline 1
+country 1
+coverage 1
+documentation 1
+flight 2
+fly 1
+full 1
+hundred 1
+partner 1
+search 3
+travel 3

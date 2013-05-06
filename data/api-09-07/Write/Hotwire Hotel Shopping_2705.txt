@@ -1,0 +1,5 @@
+Hotel shopping service
+Hotwire Hotel Shopping
+The Hotel Shopping API delivers data describing hotel shopping results similar to those that can be obtained when shopping for hotel rates on  Hotwire.com. Each result returned includes a URL that can be used to view additional details and complete a purchase on Hotwire.com. Hotwire&#039;s affiliate program offers the opportunity to earn commissions for referral traffic that results in transactions on Hotwire.com
+hotel travel 
+Travel

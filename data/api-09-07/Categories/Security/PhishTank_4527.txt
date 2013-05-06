@@ -1,0 +1,10 @@
+community 2
+datum 1
+free 1
+security 2
+share 1
+spam 1
+submit 1
+track 1
+tracking 1
+verify 1

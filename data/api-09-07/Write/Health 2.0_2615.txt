@@ -1,0 +1,7 @@
+Directory of health-related APIs
+Health 2.0
+The service provides a directory of APIs for health-related services. Listings document available data and application functionality for topics like medical practice and health care, biological research, and healthy lifestyle practices, along with general-purpose APIs from providers in these sectors. The directory aggregates API listings from a number of online sources to narrow the selection of health-related services.
+
+API methods support retrieval of directory listings by type, protocol, feature sets, or tags and keywords applied. 
+api directory health medical 
+Medical

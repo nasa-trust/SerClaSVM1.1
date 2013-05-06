@@ -1,0 +1,5 @@
+Portal gadgets
+Google Homepage
+From their site: The Google Gadgets API provides a way to put third-party content onto the Google homepage. The main use of the Google Gadgets API is to create gadgets (mini-applications) that users can add to their Google personalized homepages and other Google properties. For example, you could create a photo album gadget, or a gadget that displays an interactive game. The API is designed to be simple enough so that anyone can turn his or her web page or application into a gadget. 
+widgets 
+Widgets

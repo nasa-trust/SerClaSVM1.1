@@ -1,0 +1,7 @@
+Personalized movie recommendations service
+GuruCue
+GuruCue is a service that helps users choose what to watch by giving them a visual cue when choosing a movie or video according to their taste. The service is intended for any provider of movie or video content looking to improve the personalization of their services for their end users. Users rate movies they have watched and the more movies they have rated the better the recommendations that are given.
+
+The API is currently in beta. Interested developers should contact the provider at: http://www.gurucue.com/feedback.php to request permission to test the API.
+movies recommendations 
+Recommendations

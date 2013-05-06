@@ -1,0 +1,14 @@
+comparison 1
+currency 2
+datum 1
+euro 2
+exchange 5
+executing 1
+finance 2
+format 1
+host 1
+platform 3
+rate 1
+retrieve 1
+return 1
+transactions 1

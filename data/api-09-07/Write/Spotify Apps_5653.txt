@@ -1,0 +1,5 @@
+Music search and streaming service
+Spotify Apps
+Spotify allows users to share songs and playlists with friends, and work together on collaborative playlists. The Spotify Apps API allows partners and developers to integrate their apps into the desktop client. The API uses several protocols including JavaScript.
+music search streaming 
+Music

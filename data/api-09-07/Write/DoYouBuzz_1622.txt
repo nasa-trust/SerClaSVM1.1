@@ -1,0 +1,5 @@
+Resume management platform
+DoYouBuzz
+DoYouBuzz is a resume management platform. It has many features for designing and sharing users??? resumes. Users begin by creating resumes out of template formats. The resume then becomes its own customizable website with integrated analytical and sharing features. DoYouBuzz will also allow users to publish resumes in multiple languages, import data from LinkedIn, and will make recommendations. DoYouBuzz offers APIs for partners and for the usage of their application. Both expose essential functionalities to access and update user information. It is a RESTful API that returns JSON and XML data. 
+jobs resume 
+Job Search

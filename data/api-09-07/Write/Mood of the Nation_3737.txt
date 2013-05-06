@@ -1,0 +1,5 @@
+Social networking service
+Mood of the Nation
+Mood the Nation API allows clients to retrieve the raw trending data associated with the free Mood of the Nation iPhone application. The application collects mood information (physical, mental, emotional) from users and trends over day, week, month.
+iPhone social trends 
+Social

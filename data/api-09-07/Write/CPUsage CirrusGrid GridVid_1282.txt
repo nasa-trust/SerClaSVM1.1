@@ -1,0 +1,5 @@
+Cloud based parallel video encoding service
+CPUsage CirrusGrid GridVid
+Gridvid is an FFmpeg based distributed video transcoder which allows transmission and processing in the cloud via REST API&#039;s. Gridvid was created by CPUsage, a cloud computing service that offers access to idle computers for faster computing needs. These needs cater to motion graphics, life sciences, and finance industries to name a few.
+cloud encode ffmpeg transcode video 
+Video

@@ -1,0 +1,5 @@
+Photo and blog hosting services
+Yahoo Wretch
+Wretch is a Taiwanese social site that provides users with free album and blog hosting services. The Wretch API allows users to access the functionality and data from the Wretch site including uploading photos and video, writing posts and accessing user data such as friend lists. The API uses RESTful calls and responses are formatted in XML and JSON.
+blogging photo social video 
+Social

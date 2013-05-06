@@ -1,0 +1,5 @@
+Contact list management
+Google Contacts
+From their site: The Google Contacts Data API allows client applications to view and update Contacts content in the form of Google Data API feeds. Your client application can request a list of a user&#039;s contacts, edit or delete content in an existing contact, and query the content in an existing contact.
+contacts 
+Other

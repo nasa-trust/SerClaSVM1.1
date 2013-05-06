@@ -1,0 +1,5 @@
+Protein signature recognition service
+EBI InterProScan
+The EBI InterProScan API is a tool for protein signature recognition. A protein signature is a set of identifying characteristics shared by proteins in the same family. Membership in a certain protein family can indicate the possible presence of important sequences or domains. This API, usable via SOAP or REST protocols, combines different methods for protein signature recognition into one resource.
+biostatistics science 
+Science

@@ -1,0 +1,7 @@
+Election information service
+Voting Information Project
+The Voting Information Project (VIP) offers technology tools to provide voters with access to customized election information to help them navigate the voting process and cast an informed vote. VIP works with election officials across the nation to ensure this information is official and reliable.
+
+VIP uses an open format with which state election divisions can publish their voting information and make it accessible. The API provides information on polling places, candidates, deadlines, rules and regulations and more. it uses RESTful calls and responses are formatted in XML and JSON.
+election government location politics voting 
+Government

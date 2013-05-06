@@ -1,0 +1,5 @@
+Mobile printing app
+Breezy
+Breezy is a mobile printing app that allows multiple devices in a mobile workforce to print from designated machines. It allows users to print widely through a network of printing partners. It works on API with a simple SDK that allows for easy integration with new devices. The API operates on SSL and uses oAuth2 for securing integration. 
+cloud mobile printing tools 
+Tools

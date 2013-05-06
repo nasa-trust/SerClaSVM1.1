@@ -1,0 +1,5 @@
+URL shortening service
+b2go 
+b2go is a lightweight URL shortener API. It doesn&#039;t require sign up account or API key. You just need to send a long url and get a short one back. Sample code for C#/ASP.NET and PHP available.
+deadpool internet url-shortening 
+Internet

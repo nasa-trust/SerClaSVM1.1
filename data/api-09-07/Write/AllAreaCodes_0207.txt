@@ -1,0 +1,9 @@
+Area code lookup service
+AllAreaCodes
+The API provides output in either JSON or XML format. An API key is not required, but users are required to provide certain parameters that will allow for tracking of API usage. API rate limits are currently unpublished. The following data is provided by the API.
+
+Area code timezone
+Current time in the timezone
+Area code state
+phone reference timezone 
+Reference

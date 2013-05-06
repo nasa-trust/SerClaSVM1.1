@@ -1,0 +1,5 @@
+Automobile motion monitoring service
+HiGrids INforAMA
+INforAMA is the Information Engine for Advanced Mobility Applications. It can be integrated with an in-car device to keep track of the car???s position, speed, route, and other information. INforAMA is provided by the HiGrids Foundation which is in the business of developing and implementing projects in the field of intelligent transport systems.
+cars monitoring transportation 
+Transportation

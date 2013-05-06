@@ -1,0 +1,5 @@
+Water quality data service
+USGS National Water Information System
+The USGS National Water Information System (NWIS) provides a suite of APIs to facilitate the automated sharing of water monitoring data. The USGS NWIS APIs provide information on all monitoring locations within a given geographic area and can also retrieve water-quality measurements by site. All data is provided by the NWISWeb database.
+environment government science water 
+Science

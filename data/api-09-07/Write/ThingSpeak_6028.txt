@@ -1,0 +1,5 @@
+Networked device information platform
+ThingSpeak
+The ThingSpeak API allows you to build &quot;Internet of Things&quot; applications. Use the API to create cloud applications that interact with sensors and controls from anything that supports the HTTP protocol. The ThingSpeak API is able to interface with devices from Arduino and ioBridge, iPhone and Android mobile devices, home automation systems, robots, thermostats, industrial controls, etc. ThingSpeak also supports integration with external web services such as Twitter, Prowl, Twilio, and  WeatherBug, and Foursquare, by using the ThingHTTP app. In addition to the free hosted API, the ThingSpeak API is open source and available on GitHub for download on private servers.
+device OpenSource realtime sensors things 
+Other

@@ -1,0 +1,10 @@
+content 1
+details 2
+email 1
+give 1
+note 1
+platform 1
+sharing 1
+social 2
+super 1
+wall 1

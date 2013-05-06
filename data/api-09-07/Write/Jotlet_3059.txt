@@ -1,0 +1,5 @@
+Online calendar service
+Jotlet
+The Jotlet JavaScript API can be used to build rich calendar functionality directly into a webpage. Users have the option of sharing some or all of their calendars with friends, family, and co-workers. A color-coding feature is provided to help organize and filter events. If desired, calendars can be synced to Microsoft Outlook.
+calendar widgets 
+Calendar

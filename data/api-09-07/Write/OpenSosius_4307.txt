@@ -1,0 +1,5 @@
+Social networking services
+OpenSosius
+From their site: Sosius is a flexible and extendable online collaboration, office and networking tool. Use the API to access both the social data that links people, networks and groups, and the data stored by users within their workspaces. The API uses OAuth authentication. Build online and desktop applications such as a Google map mash-up of your networks, make desktop widgets, or provide powerful syncing tools with full permissions and version controls. Sosius has support for the XHTML Friends Network (XFN) standard and for the Friend of a Friend (FOAF) standard.
+social 
+Social

@@ -1,0 +1,12 @@
+adhere 1
+chat 3
+client 1
+connect 2
+google 2
+http 2
+learn 1
+long 1
+pro 1
+requirement 1
+specs 1
+talk 2

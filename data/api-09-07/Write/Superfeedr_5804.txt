@@ -1,0 +1,5 @@
+Realtime feed parsing service
+Superfeedr
+The PubSubHubbub API will allow users to receive notifications from SuperFeeder when new entries in feeds to which they subscribed are identified. Superfeedr allows users to parse feeds and receive feed updates in their systems in real-time. The API uses RESTful protocol and responses are formatted in XML, JSON or ATOM.
+feeds internet realtime rss 
+Feeds

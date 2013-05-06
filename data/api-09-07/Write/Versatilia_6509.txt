@@ -1,0 +1,5 @@
+E-commerce platform
+Versatilia
+Versatilia provides the datasite ebusiness platform that enables the creation of B2B marketing websites, B2B eCommerce and B2B eBusiness Systems. All Datasite products include a web services API that enables a user website to talk to other websites or business systems via SOAP protocol. The API can be used for processes such as the 2 way transfer & synchronisation of orders, customers, eqnuries and products between different business systems. Full documentation is not publicly available.
+shopping 
+Shopping

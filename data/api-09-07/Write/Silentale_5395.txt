@@ -1,0 +1,5 @@
+Consolidate contacts and messages in a personal archive
+Silentale
+The Silentale API allows secured access to Silentale aggregated address book, contact details and message history from emails, twitter and facebook, plus Silentale search results, to enrich user applications. Silentale automatically consolidates contacts and messages in a personal, searchable archive, accessible on the web, on mobile, email clients or directly on social media sites. To gain access to the technical documentation, users need to create a Silentale account and register their application in the Developer Section. 
+chat deadpool email tools Twitter 
+Tools

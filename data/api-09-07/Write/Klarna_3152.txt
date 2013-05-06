@@ -1,0 +1,7 @@
+eCommerce service
+Klarna
+Klarna is a online payment service that allows businesses to accept online payments without their customers having to use a credit card. Klarna can also be used by individuals to pay for goods online without using a credit card.
+
+The Klarna API allows developers to integrate Klarna&#039;s functionality with other applications. Some example API methods include emailing invoices, crediting invoices, calculating costs, and managing inventories.
+finance invoicing payment 
+Payment

@@ -1,0 +1,7 @@
+embed 1
+feel 1
+full 1
+functionality 1
+look 1
+player 4
+video 5

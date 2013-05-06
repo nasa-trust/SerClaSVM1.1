@@ -1,0 +1,7 @@
+Chemical patent search engine
+SureChem
+SureChem is a chemical patent search engine. SureChem has information on chemical patents that users can search and access through their database. 
+
+The SureChem API allows developers to access and integrate the functionality and data of SureChem with other applications. Public documentation is not available; API access comes with account service. Email support@surechem.com for more information. 
+chemistry database patents science search 
+Science

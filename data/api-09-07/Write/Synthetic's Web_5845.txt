@@ -1,0 +1,5 @@
+Website parsing service
+Synthetic's Web
+Synthetic&#039;s Web allows developers to parse website and feed data into their applications. The technology is based on Web Parse Template, which allows developers to flexibly parse and create data at their will. The API exposes the functionality of the service including the ability to return a parsed website in a chosen format. It uses RESTful calls and responses are formatted in XML or JSON. 
+backend internet parse 
+Backend

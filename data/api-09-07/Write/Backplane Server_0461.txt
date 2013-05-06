@@ -1,0 +1,5 @@
+Authenticates Calls to Server
+Backplane Server
+The Backplane Server is an independent orchestrator of the message interchange between Backplane Clients and may serve multiple independent buses. Once the Backplane client has been recognized as authenticated and the buses specified then the server will continue through the authorization grant. The API uses OAuth2 and HTTP basic authentication and returns messages in JSON format.
+file-sharing social widgets 
+Security

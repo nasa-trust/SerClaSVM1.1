@@ -1,0 +1,7 @@
+European email delivery tracking service
+DeliveryWatch
+The service monitors European email traffic and providers to report statistics for delivery rates, uptime, spam filtering in place, and related measures. It can provide notice of email delivery via a large selection of internet service providers and blacklist monitoring, with updates when a sender is tagged as a sender of spam.
+		
+API methods support retrieval of email delivery performance for ISPs worldwide along with updated reports on spam filtering configurations and blocked sender lists. Methods allow targeting of reports for specific recipient domains and filtering by leading spam monitors.
+email tracking 
+Email

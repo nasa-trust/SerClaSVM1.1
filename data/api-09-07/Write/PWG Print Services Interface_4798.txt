@@ -1,0 +1,5 @@
+Print services interface for assorted devices
+PWG Print Services Interface
+The Printer Working Group (PWG) Print Services Interface provides a set of methods that enable a client device to interact with a print service. Client devices may include printers, mobile devices, web portals, or web services. The Print Services Interface allows the client device to initiate a job, add documents to that job, specify attributes about how the job is to be processed, and control and get status updates about the job.
+office printing 
+Office

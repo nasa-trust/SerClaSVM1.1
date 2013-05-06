@@ -1,0 +1,5 @@
+Semantic Relevance Engine
+Roistr
+Roistr is a semantic relevance engine that can analyze information within a text and help users discover the meaning. The service can cluster or match similar documents and compare them against each other. The Roistr API lets developers integrate the full service with their web site or applications. Responses are formatted in JSON.
+analysis semantic 
+Tools

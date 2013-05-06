@@ -1,0 +1,5 @@
+Twitter long post service
+Babbl.me
+Babbl.me is a Twitter extender that gives developers the ability to add &quot;long tweet&quot; services in their own Twitter client applications. The Babbl API can be used by Twitter clients to upload a long post to Babbl, and receive a tweet-sized message with a link to the complete post.  In addition, the response includes data points such as the date created, and the Twitter user ID and screen name for confirmation. The API uses RESTful calls and responses are formatted in XML or JSON.
+social Twitter 
+Social

@@ -1,0 +1,8 @@
+Mobile Phone Positioning Service
+Telenor Location
+The SOAP-based Telenor Location API is part of the Telenor Positioning Access System. The Location API allows the client to locate any mobile phone in Telenor&#039;s network if the mobile phone is switched on and has coverage (except for foreign mobile phones). 
+
+The accuracy of GSM/3G positioning varies in different areas depending among other things on the distance between antennas. A general assumption is that 90% of the mobile phones can be located within 500 meters inside of a city and that 90% of the mobile phones can be located within 10 km in rural areas. 
+
+geolocation telephony 
+Telephony

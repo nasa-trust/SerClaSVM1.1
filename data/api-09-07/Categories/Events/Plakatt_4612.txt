@@ -1,0 +1,13 @@
+add 1
+browse 1
+build 1
+city 1
+comment 1
+create 1
+event 8
+integrate 1
+own 1
+picture 1
+tag 2
+video 1
+view 1

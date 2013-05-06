@@ -1,0 +1,5 @@
+Travel industry transaction processing service
+Dolphin Dynamics
+Dolphin Dynamics offers an integrated travel selling and management platform used by 12,000 travel professionals in 25 countries worldwide. Developers can integrate their systems with Dolphin&#039;s platform using their set of web services. Dolphin&#039;s web services are made available via an XML API that supports search, cost and booking services via the Dolphin travel booking engine. Documentation is not publicly available.
+booking search travel 
+Travel

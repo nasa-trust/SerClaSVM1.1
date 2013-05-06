@@ -1,0 +1,15 @@
+authentication 1
+checklist 1
+create 1
+datum 1
+edit 1
+format 1
+list 2
+management 1
+open 2
+outline 1
+public 1
+require 1
+return 1
+task 4
+view 1

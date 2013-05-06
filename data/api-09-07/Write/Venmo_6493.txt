@@ -1,0 +1,5 @@
+Social Payments tools
+Venmo
+The Venmo API is made up of two different public APIs. &quot;The Payment Links API provides a simple method for sending invoices or suggested payments via any medium (Email, SMS, Facebook, Twitter). Payment links have 3 optional parameters and are constructed by adding these parameters to the base URL.  The Receipts API allows every Venmo user to send receipt data for payments they receive to a third party webservice. By default, users get receipts via Email and SMS, but the Receipts API provides a simple method for automating followup actions to payments (like collecting a postal address for fulfillment or automating digital fulfillment via email).&quot;
+payment social 
+Payment

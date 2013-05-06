@@ -1,0 +1,7 @@
+3D Avatar Creation Service
+Digimi Gizmo
+Digimi provides 3d avatar creation tools, for gaming or personal use. Users can also create animated clips with these avatars.
+
+The Digimi Gizmo API allows developers to use the Digimi/Gizmo functionality in their own applications.  The API can be used as a Server-to-Server application, an Application-to-Server application, or a Browser-to-Server application. 
+3d Avatar games 
+Games

@@ -1,0 +1,5 @@
+Web Connection for UPnP/DLNA Devices
+Ericsson Web Device Connectivity
+Ericsson Labs provides a JavaScript library that enables developers to build websites that can interact with UPnP/DLNA standard devices (TVs, Blueray players, etc). One example application developed on the API allows a user to browse Youtube from his/her PC and play a video on a UPnP/DLNA TV. Users of the web application need to install and run Ericsson Labs? gateway software in their home network.
+internet tools 
+Tools

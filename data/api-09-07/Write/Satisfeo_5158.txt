@@ -1,0 +1,7 @@
+Customer satisfaction survey service
+Satisfeo
+The service provides for online customer satisfaction surveys to collect responses from an application&#039;s users soon after they interact with its functions. It communicates with recent customers by SMS text message, email, or voice calls, then stores and tabulates responses. Survey owners can access results via aggregated reports or by immediate reporting, allowing swift intervention to correct problems and improve customer service.
+
+API methods support creating a customer satisfaction survey to be distributed by SMS text message, email, voice phone call, or combinations of these channels. Methods allow specification of options for reporting of responses and contact information to receive the reports.
+answers questions survey 
+Answers

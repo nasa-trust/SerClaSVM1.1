@@ -1,0 +1,7 @@
+Data managment service
+Socialtext
+Socialtext provides enterprise social software to businesses with the goal of improving knowledge management and sharing. The Socialtext REST API includes a set of functionality allowing programmers to create, read, update, and delete much of the data in the Socialtext systems. This includes tags, pages, attachments, workspaces, users, Signals, and search results. There is also a SOAP interface to content hosted in Socialtext workspace. 
+
+
+internet wiki 
+Internet

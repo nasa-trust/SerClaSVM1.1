@@ -1,0 +1,5 @@
+Microsoft services connection platform
+LiveConnect
+LiveConnect lets developers build apps and web sites that can connect with Hotmail, SkyDrive and Windows Live Messenger. The API can work with Hotmail to allow users to access, create and update contacts and calendars. Users can access and work with any media stored in SkyDrive and they can connect with Messenger to enable real-time chat. The API uses RESTful calls and responses are formatted in JSON.
+calendar cloud email internet 
+Internet

@@ -1,0 +1,5 @@
+UK grocery chain
+Tesco
+The Tesco API gives you access to the vast grocery catalog of the third largest retailer in the world. Tesco&#039;s Grocery API has the ability to allow you to search for products using text or barcode, by dept/aisle/shelf categories, all special offers, and even previously bought &#039;favourites&#039;. You can add/amend/delete items in the basket.
+deadpool food Grocery shopping 
+Shopping

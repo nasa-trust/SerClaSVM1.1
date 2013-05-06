@@ -1,0 +1,5 @@
+Embedding service for computer terminal recordings
+Codestre.am Embed
+Codestre.am allows people to stream or record actions taken on their terminals. This allows them to create and share tutorials, collaborate on coding, or show errors that they&#039;re running into. Such recordings are also known as &quot;codestreams&quot;. The Codestre.am Embed JavaScript API allows users to embed codestreams on their webpage or blog.
+code internet programming 
+Internet

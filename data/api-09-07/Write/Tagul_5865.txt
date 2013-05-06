@@ -1,0 +1,5 @@
+Tag Cloud Creation Service
+Tagul
+Tagul is a service that can take an XML description of a tag cloud and turn it into an interactive tag cloud image. The Tagul API is an XML-RPC API for developers to use to generate tag clouds through their own interface, instead of using Tagul&#039;s web interface. The API is not free; it is available for a monthly fee. 
+tagging tools 
+Tagging

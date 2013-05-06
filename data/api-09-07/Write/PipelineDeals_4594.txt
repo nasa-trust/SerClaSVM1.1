@@ -1,0 +1,5 @@
+Online CRM service
+PipelineDeals
+PipelineDeals is an online CRM that also tracks sales and leads. The API was designed to cover all basic aspects of PipelineDeals objects, and allows users to write custom apps. It uses REST protocol and all responses are formatted as XML.
+CRM enterprise sbweb 
+Enterprise

@@ -1,0 +1,16 @@
+availability 1
+blacklist 1
+call 1
+check 2
+details 4
+domain 6
+format 1
+internet 2
+listing 1
+lookup 2
+mass 1
+owner 1
+response 1
+server 1
+status 1
+uptime 1

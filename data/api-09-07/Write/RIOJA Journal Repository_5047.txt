@@ -1,0 +1,5 @@
+Scholarly article data retrieval service
+RIOJA Journal Repository
+The RIOJA (Repository Interface for Overlaid Journal Archives) Journal Repository API acts as an interface between digital repositories of articles and overlay journals. Overlay journals are journals that draw on one or more archives or repositories for their articles. This API provides XML-based methods of retrieving information from journals and repositories that facilitate the creation and maintenance of overlay journals.
+education journal Math science 
+Science

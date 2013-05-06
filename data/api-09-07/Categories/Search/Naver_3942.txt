@@ -1,0 +1,12 @@
+academic 1
+child 1
+engine 1
+korea 1
+korean 1
+mail 1
+nave 2
+news 1
+portal 2
+search 5
+south 1
+thesis 1

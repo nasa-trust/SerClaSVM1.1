@@ -1,0 +1,5 @@
+Mobile payments service
+BOKU
+BOKU is an online payments service that lets consumers pay for virtual and digital goods with their mobile phones. The API allows developers to integrate the BOKU service into their own web sites. Users can use the API for currency translation in 50 countries as well as displaying the language in the visitor&#039;s language. Documentation is available upon registration.
+deadpool mobile payment telephony 
+Payment

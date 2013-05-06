@@ -1,0 +1,5 @@
+Cloud email delivery service
+Elastic Email
+Elastic Email provides direct email sending through a REST API. Elastic Email is a simple email delivery service for cloud applications. The API allows users to send an email to a single recipient or group of recipients, get the status of a single send transaction including delivery statistics for recipients and determine how much credit you have left in your Elastic Email account. Responses are formatted in XML. Code samples are provided for PHP, C# and Java.
+cloud email 
+Email

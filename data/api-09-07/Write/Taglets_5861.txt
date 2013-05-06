@@ -1,0 +1,5 @@
+Tagging service
+Taglets
+An open platform for creating and commenting on taggable items. The taglets.org service allows users and developers to create what we call tags, and to follow comments made on those tags as you or other users post such comments.  By following a tag, you put yourself in the stream of information flowing from it.
+social tagging 
+Tagging

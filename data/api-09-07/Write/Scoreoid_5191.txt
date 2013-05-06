@@ -1,0 +1,5 @@
+Game development platform
+Scoreoid
+Scoreoid is a server platform for game development. It is intended for developers to host their games??? content provides additional features for game management. Among these features are leaderboards, analytics, and an in-game notification system. Scoreoid also allows for cross platform development and content awareness. Their RESTful exposes data retrieval functionality for three domains: Player, Game, and Score. It can provide XML or JSON responses. 
+games social 
+Games

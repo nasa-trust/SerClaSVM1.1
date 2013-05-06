@@ -1,0 +1,7 @@
+Online purchase delivery service
+Shutl
+The UK service aggregates offerings from courier services and other shipping carriers to provide quotes for shipping and arrange delivery via the selected provider. It enables expedited delivery or scheduling of delivery within a 1-hour time window. A GPS-enabled tracking service maps shipment progress toward the destination.
+
+API methods support retrieval of quotes from shipping carriers based on specified origin and destination points, carrier delivery terms, and related parameters. Methods also support contracting with the carrier to deliver the shipment. The API also allows access to specific delivery vehicle information.
+e-commerce shipping shopping uk 
+Shipping

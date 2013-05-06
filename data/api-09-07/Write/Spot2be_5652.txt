@@ -1,0 +1,5 @@
+Online and mobile location sharing
+Spot2be
+The Spot2.be API and service tries to solve the location, addresses, maps and directions hassle by combining all important data it all in one simple tiny link. A spot is a mapped location accessed by a simple URL. Spots can be sent and opened via internet or mobile technology.
+mapping mobile places social 
+Social

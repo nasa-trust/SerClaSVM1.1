@@ -1,0 +1,7 @@
+Semantic tagging interpretation service
+Sem4Tags
+The service provides indications of intended meanings of words applied as subject tags across languages and with specific consideration of contexts for interpreting the terms. User-applied tags develop into &#039;folksonomy&#039; describing the subject of the tagged resource, but differences in language and expected uses between users can complicate interpretation. The service attempts to resolve ambiguities in meaning and place tags in context of topically related resources.
+
+API methods support disambiguation of a submitted term&#039;s meaning by linking it to a specific Wikipedia article based on additional terms added to the request to indicate context. Methods also support directly populating the repository of disambiguated terms rather than interpreting context.
+reference semantic tagging 
+Reference

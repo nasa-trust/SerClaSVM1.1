@@ -1,0 +1,7 @@
+American Numismatic Society search service
+Numismatic Search
+Numishare, providers of the Numismatic Search API, is an open source project that evolved from the University of Virginia Art Museum Numismatic Collection. With this API, users can interact programmatically with the American Numismatic Society&#039;s MANTIS interface to search, sort, and browse data in the collection.
+
+The API is based on queries to the ANS&#039;s Solr search index, and can be modified based on user needs. A wide range of search operators and parameters are available to enable highly customized queries. This API operates over HTTP, and uses KML and Atom response formats.
+science search 
+Science

@@ -1,0 +1,7 @@
+Automobile information
+Edmunds.com Vehicle
+Edmunds has been a publisher of new and used automotive pricing guides to assist automobile buyers since 1966. In addition to pricing information, Edmunds.com includes car reviews; vehicle maintenance guidance and resources; tips and advice on buying/selling vehicles, insurance, fuel economy, and more; and user forums. 
+
+The Edmunds.com Vehicle API allows developers access to year/make/model information, as well as style, True Market Value, and Vehicle Incentives offered by auto manufacturers. The API is RESTful and returns responses in JSON/JSONP.
+auto consumer database vehicle 
+Reference

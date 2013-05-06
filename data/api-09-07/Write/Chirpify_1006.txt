@@ -1,0 +1,7 @@
+eCommerce via Twitter service
+Chirpify
+Chirpify is a service that allows users to turn Tweets into transactions. Chirpify offers functionality for Tweets to become payments, sales transactions, donations, and other eCommerce transactions.
+
+The Chirpify API allows developers to access and integrate the functionality of Chirpify with other applications and to create new applications. Some example API methods include integrated eCommerce functionality into applications, receiving real-time payments over Twitter, and scheduling automatic Tweets. Public documentation is not available; interested developers should sign up here http://chirpify.com/twitter_commerce/contact.
+ecommerce mcommerce payment Twitter 
+Payment

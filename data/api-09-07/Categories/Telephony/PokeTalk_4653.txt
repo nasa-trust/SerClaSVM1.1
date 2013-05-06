@@ -1,0 +1,15 @@
+call 1
+cost 1
+customer 1
+directory 1
+file 1
+international 1
+key 1
+low 1
+make 1
+need 1
+own 1
+phone 1
+telephony 3
+tool 1
+voice 1

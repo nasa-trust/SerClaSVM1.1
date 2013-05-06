@@ -1,0 +1,5 @@
+Mobile location based services
+Location Genome
+The Location Genome Platform is a uniform solution combing Content, Context and Collaboration on top of locations. It offers a set of APIs to access rich content, deep understanding and real time collaborative information sharing about locations. It allows mobile web developers to build a context aware, content rich and personally relevant experience in their location based mobile applications. The APIs are currently in private Beta. Potential users should contact the developer to get more information and get access to the APIs.
+mapping mobile places 
+Tools

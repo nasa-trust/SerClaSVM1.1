@@ -1,0 +1,5 @@
+Product review service
+The Chicken
+The Chicken is a website where users can write about their experiences with different products. The API provided by The Chicken allows developers to access The Chicken data through their own applications.
+deadpool reviews shopping 
+Shopping

@@ -1,0 +1,7 @@
+Acronym look-up and text mining service
+Acromine
+The service provides access to a dictionary of abbreviations and matching long-form terms created by automatic text mining of the whole MEDLINE abstract collection as of August 2009. The text mining completed automated analysis of natural language documents to detect and document relationships or patterns that would be difficult or impossible for human readers to detect. The API allows look-up against a compilation of over 68,000 acronyms and 450,000 full terms.
+
+API methods support submission of either abbreviations or full terms to the Acromine dictionary, which returns matches including the standard form of the term, frequency of occurrence in the texts mined, and the year of first occurrence. Returned data also provides variants or similar terms found, with their frequency and first occurrence.
+Dictionary reference words 
+Dictionary

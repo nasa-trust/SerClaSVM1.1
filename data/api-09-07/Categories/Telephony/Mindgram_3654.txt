@@ -1,0 +1,11 @@
+canadian 1
+message 1
+messaging 1
+now 1
+send 1
+speech 1
+telegram 2
+telephone 1
+telephony 2
+text 1
+voice 3

@@ -1,0 +1,7 @@
+Local coupon service
+Adility
+Adility is an online platform for local deals, such as coupons. Adility works with companies and merchants to connect them with publishers and developers for integration into other applications to reach customers with deals. 
+
+The Adility OffersDB API allows developers to access and integrate submission and distribution of offers, coupons, deals, and the like from the Adility platform. The two main API methods are submitting deals and offers for distribution through the Adility platform, and distributing deals after receiving them from the Adility platform.
+business local shopping 
+Shopping

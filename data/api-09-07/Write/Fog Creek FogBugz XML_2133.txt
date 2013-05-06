@@ -1,0 +1,5 @@
+Bug tracking software
+Fog Creek FogBugz XML
+FogBugz is bug tracking software used in software project management. The FogBugz XML API allows any web-enabled application to communicate with a FogBugz site. Using the API, developers can programatically access nearly all features of the FogBugz web interface. They can perform case operations (open, edit, assign, resolve, etc.), retrieve filtered case lists, get user timesheet data, and more. The API uses RESTful calls and returns XML.
+programming tools 
+Tools

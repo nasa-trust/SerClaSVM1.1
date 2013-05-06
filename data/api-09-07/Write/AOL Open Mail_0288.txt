@@ -1,0 +1,5 @@
+Email services
+AOL Open Mail
+From their site: The AOL OpenMail API allows developers to create AOL Mail services on third party websites. Developers can use the OpenMail to access mail count and mail details. AOL, AIM and personal domain accounts are supported by the OpenMail API.
+email 
+Email

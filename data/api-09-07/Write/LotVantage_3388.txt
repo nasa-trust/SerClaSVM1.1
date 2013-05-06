@@ -1,0 +1,7 @@
+Auto listing service
+LotVantage
+LotVantage provides web solutions for auto dealers to expand and enhance their listings on a variety of online platforms such as eBay, craigslist, Backpage, and others. LotVantage specializes in helping dealers through the entire process of managing automotive sales on the web, from online inventory management to customer interactions.
+
+The LotVantage API provides programmatic access to many of the features of their online portal, including user and dealership management. This is a RESTful API that returns data in XML format, and requires an API Key for access.
+advertising auto classifieds 
+Advertising

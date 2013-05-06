@@ -1,0 +1,5 @@
+Radio station search, now-playing, logs and charts
+Yes Broadcast DB
+YES.com has a real-time database of most US Radio station now-playing music information, including logs, charts, artist, song, and genre information.  This simple API opens up direct access to the data for anyone.
+music radio reference 
+Music

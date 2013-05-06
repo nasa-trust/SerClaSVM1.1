@@ -1,0 +1,6 @@
+Semantic text and data dection and extraction
+Alchemy
+The Alchemy API offers a wide-variety of API services. These include Entity Extraction, Text Categorization, Language Detection, Keyword Extraction, Text Extraction, Content Scraping, and more.
+
+extraction semantic text tools utility 
+Tools

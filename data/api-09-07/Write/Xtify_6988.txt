@@ -1,0 +1,5 @@
+Android push notification service
+Xtify
+Xtify has developed a unique push notifications platform, allowing developers to deliver push and location-triggered messages directly to their users??? devices using our SDK and messaging engine ??? even when the application is closed.
+android geolocation notifications push telephony 
+Telephony

@@ -1,0 +1,7 @@
+Database of co-located and duplicated genes
+Duplicated Genes Database
+The Duplicated Genes Database (DGD) provides a list of co-located and duplicated genes. These genes may be either tandem repeats or members of the same multigene family. Lists of duplicated genes can be used to analyze the expression of genes from microarray profiling experiments, to characterize the genomic content of a specific chromosomal region, or to study the duplication status of a specific gene or group of genes.
+
+The SOAP-based DGD API can only use Ensembl gene IDs as input data and does not allow the retrieval of cross-references in the output file.
+database genetics science 
+Science

@@ -1,0 +1,5 @@
+Social media productivity enhancement services
+SocialOomph
+The SocialOomph API allows developers to integrate features of SocialOomph with their applications. SocialOomph.com is a service that provides free and paid productivity enhancement services for social media users. With the API, users can retrieve information such as user data, authentication credentials, user accounts, account types, user tweets and more. The API uses RESTful protocol and responses can be formatted in XML or JSON.
+deadpool productivity social 
+Social

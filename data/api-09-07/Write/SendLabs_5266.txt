@@ -1,0 +1,5 @@
+Email marketing service
+SendLabs
+A SOAP-based Email Marketing API from SendLabs. The API allows developers to create their own applications around the tools provided by SendLabs.
+email marketing 
+Email

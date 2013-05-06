@@ -1,0 +1,15 @@
+address 1
+boundary 4
+carrier 1
+code 1
+datum 2
+gi 2
+grade 1
+mapping 3
+neighborhood 2
+offering 1
+postcode 1
+professional 1
+provider 1
+route 1
+zip 1

@@ -1,0 +1,13 @@
+broadcasting 1
+corporation 1
+datum 1
+english 1
+forecast 1
+institute 1
+joint 1
+million 1
+norway 3
+norwegian 2
+one 1
+place 2
+weather 6

@@ -1,0 +1,7 @@
+Crimespotting data for San Francisco California
+San Francisco Crimespotting
+The service operates independently of the city of San Francisco, Calif., and San Francisco Police Department, but it repackages data from the city&#039;s own crime-mapping program, CrimeWatch. It emphasizes location-aware mapping of crime reports by date, type of offense, police precinct, and related details. Its goal is to aid in discovery of crime activity within the areas of specific homes, schools, and workplaces.
+
+API methods allow retrieval of crime reports for specified crime types, police beats, and date ranges. Methods return reports with location information -- street address as well as latitude and longitude -- to aid in mapping.
+crime Data feeds government sfbay 
+Government

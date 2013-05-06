@@ -1,0 +1,5 @@
+Video game search service
+XML ME Video Games Finder
+The XML ME Video Games Finder API allows users to search for video games programmatically. The API accepts a search string and then returns a URL pointing to the video games search results. This API operates via SOAP calls using the XML data format.
+entertainment games search 
+Search

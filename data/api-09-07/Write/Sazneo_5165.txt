@@ -1,0 +1,5 @@
+Group communication platform
+Sazneo
+Sazneo is an online and mobile platform for real-time group communication. Sazneo also integrates with SharePoint and other applications. Users can manage projects and topics and have group discussions about projects and issues.
+Groups tools communication discussion projectmanagementt
+Tools

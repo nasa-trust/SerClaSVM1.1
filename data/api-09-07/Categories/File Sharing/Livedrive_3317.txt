@@ -1,0 +1,14 @@
+account 1
+backup 6
+cloud 4
+create 1
+example 1
+file 3
+functionality 1
+integrate 1
+manage 3
+method 1
+sharing 3
+storage 4
+sync 1
+upload 1

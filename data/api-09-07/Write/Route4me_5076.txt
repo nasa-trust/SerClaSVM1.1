@@ -1,0 +1,5 @@
+Route Planning Service
+Route4me
+Route4me  was designed to help business and individuals plan trips more efficiently. The service is designed to reduce travel time, save on vehicle expense. The Route4me API allows users to plan a route, view routes, check the distance between points, and use a single address geocoder as well as a batch geocoder. The Service uses REST calls and returns XML. Access requires an API key. 
+logistics planning route transportation 
+Transportation

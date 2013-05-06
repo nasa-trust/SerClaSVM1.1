@@ -1,0 +1,6 @@
+Photo print sharing service
+Picplum
+Picplum is a company that specializes in sending high quality photo prints to specified recipients. After creating an account, users can order high quality prints and Picplum will take care of payment, printing and shipping to the designated recipient. The Picplum API allows developers to integrate printing and gifting into their apps and services. Users have access to resources such as user, photos, batches and recipients.
+
+gifts photo printing sharing 
+Photos

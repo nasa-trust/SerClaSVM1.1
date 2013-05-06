@@ -1,0 +1,5 @@
+User Information and Privacy
+Human Information Project Data
+Human Information Project (HIP) provides a secure way for users to keep their online information. Websites and ads that interact with HIP add data to a user's online profile stored on HIP's system and only accessible by that website while the user is at that website. Users can view the information added to their profiles, and can moderate how websites and ads interact with it.
+privacy security identity deadpool
+Security

@@ -1,0 +1,16 @@
+balance 1
+cash 1
+company 1
+enterprise 1
+file 1
+finance 5
+flow 1
+income 1
+industry 1
+money 1
+obtain 2
+ratio 1
+sec 1
+sector 1
+sheet 1
+statement 4

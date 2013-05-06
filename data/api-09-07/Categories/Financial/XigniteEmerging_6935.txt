@@ -1,0 +1,15 @@
+bond 4
+curve 1
+emerge 2
+enterprise 1
+finance 2
+get 1
+give 1
+given 1
+government 2
+list 1
+market 2
+much 1
+price 3
+track 1
+yield 3

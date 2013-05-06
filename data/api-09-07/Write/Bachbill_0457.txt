@@ -1,0 +1,7 @@
+Cloud-based SaaS delivery service
+Bachbill
+The service provides a SaaS platform for application support, with bundles and subscriptions combining services for charging and provisioning applications according to specific needs. Applications can assemble packages of billing, payment, and delivery services to implement system capabilities and designs without unnecessary custom development.
+
+API methods support definitions of events and actions for interacting with service resources. Methods also support management of account functions to integrate administrative actions of the service with an application&#039;s own functions.
+billing cloud deadpool ecommerce saas tools 
+Tools

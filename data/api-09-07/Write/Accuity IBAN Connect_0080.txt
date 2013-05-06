@@ -1,0 +1,5 @@
+IBAN conversion, validation, and routing service
+Accuity IBAN Connect
+IBAN Complete offers a single solution for IBAN (International Bank Account Number) conversion, validation, and routing BIC (Bank Identifier Code) identification. The IBAN is an international standard for identifying bank accounts across national borders with minimal risk of propagating transcription errors. The latest version of IBAN Complete is designed to enable banks and corporations to comply with European mandates. The IBAN Connect API provides programmatic access to the functions of IBAN Complete via SOAP calls. 
+tools financial conversion validation banking
+Financial

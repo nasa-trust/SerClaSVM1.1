@@ -1,0 +1,7 @@
+Group messaging service
+GroupFlier
+GroupFlier is platform to set up group communications. Users can set up groups to share text messages, voicemails, and conference calls. 
+
+The GroupFlier API allows developers to integrate the functionality of GroupFlier into other applications. Some example API methods include creating and managing groups, finding and managing group members, managing and creating messages, and accessing account information.
+group messaging social telephony text 
+Telephony

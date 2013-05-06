@@ -1,0 +1,14 @@
+android 3
+create 1
+functionality 1
+integrate 1
+message 1
+messaging 2
+method 1
+phone 2
+receive 2
+sending 2
+sm 2
+telephony 2
+text 4
+viewing 1

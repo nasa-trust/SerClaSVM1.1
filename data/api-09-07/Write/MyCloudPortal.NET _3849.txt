@@ -1,0 +1,7 @@
+Remote application service
+MyCloudPortal.NET 
+MyCloudPortal.NET lets anyone create a web page portal. MyCloudPortal.NET API allows remote applications to connect and interact with a portal. The API connects with the following: web portal, webpage, blog, newsletter, social, email, and SMS. 
+
+The API utilizes REST protocol. 
+hosting internet 
+Internet

@@ -1,0 +1,5 @@
+Server hosting and monitoring service
+Server Density Monitoring API
+Server Density is a server monitoring and hosting service. The Server Density API allows users access to all the monitoring data stored by the service. It includes functions to manipulate the service such as by pausing/resuming alerts. The API is provided over standard HTTP (or HTTPS) and returns JSON.
+internet monitoring 
+Internet

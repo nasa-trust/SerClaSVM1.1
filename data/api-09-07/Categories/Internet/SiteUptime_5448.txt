@@ -1,0 +1,12 @@
+administer 1
+annual 1
+create 1
+daily 1
+functionality 1
+internet 2
+monitor 1
+monitoring 3
+monthly 1
+own 1
+statistics 1
+view 1

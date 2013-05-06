@@ -1,0 +1,5 @@
+Online commerce marketing platform
+ShopIgniter
+ShopIgniter is social ecommerce package. Their products include ecommerce storefronts and promotions, a scalable commerce platform that integrates with social media, and analytical tools for ROI optimization. Their API is RESTful and returns JSON and XML formats. It gives developers and users access to the functionality of the systems major commercial resources, such as, product, shopping carts, brands, and more. 
+ecommerce shopping social 
+Enterprise

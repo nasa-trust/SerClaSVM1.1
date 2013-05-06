@@ -1,0 +1,7 @@
+Advertising management platform
+Trafficspaces
+Trafficspaces is an advertising platform for publishers to sell advertising space and manage their advertising content. The platform allows advertisers to create their own ads within the Trafficspaces platform.
+
+The Trafficspaces API allows developers to access and integrate the functionality of Trafficspaces with other applications. Some example API methods include managing users, accessing account information, and managing ad content and placements. 
+advertising marketing platform publishers 
+Advertising

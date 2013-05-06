@@ -1,0 +1,5 @@
+Online quotation and proposal service
+Offorte
+Offorte is online quotation software that lets users create online proposals and quotes. Users can extend their proposals using social media, video, photos, notices and statistics. Offorte offers an API that allows customers to access their account data. Documentation is not publicly available.
+proposals tools 
+Tools

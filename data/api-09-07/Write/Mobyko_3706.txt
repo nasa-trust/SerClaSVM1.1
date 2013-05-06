@@ -1,0 +1,7 @@
+Mobile phone syncing service
+Mobyko
+Mobyko is a service that allows users to access their mobile phone information online. Features include backing up information, organizing mobile information, accessing address books and calendars, and sharing information. Users can also send texts from their computer. 
+
+Mobyko offers a few APIs that allow developer access to the address book and text messaging features of Mobyko. A calendar API is coming soon. Public documentation is limited, but developers are encouraged to get in touch with Mobyko to access the APIs.
+calendar contacts mobile sms telephony uk 
+Telephony

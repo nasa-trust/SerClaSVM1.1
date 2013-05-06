@@ -1,0 +1,5 @@
+ Question and answer search engine
+SnappyFingers
+SnappyFingers lets you use its Question and Answer based search Engine through this API. The underlying service searches through FAQ files across the Internet.
+answers search 
+Search

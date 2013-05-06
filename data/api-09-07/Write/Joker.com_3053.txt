@@ -1,0 +1,5 @@
+Internet domain registration service
+Joker.com
+This API gives users access to the Reseller control panel; a lightweight Web-based solution designed to fit the needs of resellers having more than a few domains. Joker.com is a domain name registration service. The API is a Joker.com domain registration system offered as Web service. It uses RESTful protocol and responses are formatted in XML.
+domain internet 
+Internet

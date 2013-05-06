@@ -1,0 +1,5 @@
+App monetization platform with parental engagement 
+Media Chaperone 
+Media Chaperone provides parental engagement services for digital content developers. Brands can integrate the Media Chaperone platform with their digital content that allows parents to know what their children are doing with their apps and when. This includes reporting and analysis of use, notifications of children???s activity, ecommerce spending allowance, and more. These elements can be custom-integrated between the brand???s digital content and a mobile or social media platform. The Media Chaperone API exposes the integration functionality. To access the API developers must register with Media Chaperone.
+games monetization social 
+Social

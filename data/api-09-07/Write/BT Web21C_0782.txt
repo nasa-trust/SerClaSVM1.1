@@ -1,0 +1,5 @@
+Communications services APIs
+BT Web21C
+From their site: BT is undergoing a complete transformation. At the heart of this transformation is our ???10 billion 21st century network (21CN) initiative. An IP-based, multi-service network, 21CN is the driver for a radical change. As part of this change, we are kicking off a ground-breaking project, code-named Web21C. The Web21C SDK includes APIs for SMS, Voice Call, Conference Call, Presence, and Location.
+deadpool messaging sms telephony unknown 
+Telephony

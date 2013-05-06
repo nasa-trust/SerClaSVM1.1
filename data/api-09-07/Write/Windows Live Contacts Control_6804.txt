@@ -1,0 +1,5 @@
+Contacts control
+Windows Live Contacts Control
+From their site: The Windows Live Contacts control is a client-side browser JavaScript object that enables visitors to use their Windows Live Contacts with your Web site.  Instead of typing a shipping address into a shopping cart form, for example, the user could simply select one of their Windows Live Contacts from the Contact control.  The user saves time and effort in completing the order, and you gain the benefits of an address book for your Web site without having to implement, maintain, and provision data storage and management UI on your servers.  The user maintains control of their personal contact data, while you focus on providing services with data the user gives you. 
+contacts 
+PIM

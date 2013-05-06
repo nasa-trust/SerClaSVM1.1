@@ -1,0 +1,5 @@
+Messaging Service
+messagingPeople
+MessagingPeople is a software tool that makes it easy to send SMS, WAP, MMS, Voice, and Fax messages from a single program. MessagingPeople also provides developer APIs for creating applications using the messagingPeople services, or for creating extensions to the messagingPeople service. This is the profile for the HTTP and SOAP APIs (messagingPeople also provides a COM and SMTP API).
+fax messaging MMS sms telephony Voice 
+Messaging

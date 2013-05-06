@@ -1,0 +1,5 @@
+Sales and demand forecasting (time series)
+Lokad
+Send us data, we send back the forecasts. Best suited for sales forecasts (inventory optimization) and call volume forecasts (staffing optimization). Lokad is based in Paris, France. Our philosophy is to deliver a state-of-the-art forecasting technology at a price one order of magnitude lower than that offered by traditional vendors.
+enterprise forecasting Optimization supplychain 
+Enterprise

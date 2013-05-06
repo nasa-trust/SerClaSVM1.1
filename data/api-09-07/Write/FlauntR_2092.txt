@@ -1,0 +1,7 @@
+Photo editing service
+FlauntR
+FlauntR by FotoDesk is an online application for image and photo editing, storage, sharing, and printing. Users can upload their images and photos, apply effects and other editing techniques, and create images for social networks.
+
+The FlauntR API allows developers to access and integrate the content and functionality of FlauntR with other applications and to create new applications. Some example API methods include managing account information, accessing photo asset information, and uploading photos and images.
+deadpool editing image photos social storage 
+Photos

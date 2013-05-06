@@ -1,0 +1,7 @@
+Geocoding services
+Tiny GeoCoder
+Use the Tiny GeoCoder API to turn a location, such as &quot;San Francisco, CA,&quot; into a latitude and longitude pair, such as 37.775196,-122.419204. This is useful in mapping applications. The API can also handle reverse geocoding in cases where you know the lat/long but not the location name.
+
+The public service has been discontinued, but the geocoder is now available as open source.
+deadpool geocoding location mapping 
+Mapping

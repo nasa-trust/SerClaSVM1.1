@@ -1,0 +1,9 @@
+Anime collection reference service
+MyAnimeList Unofficial
+MyAnimeList.net is an anime and manga community that introduces you to people, anime, manga, and helps you organize your collections.
+
+The MyAnimeList Unofficial API follows REST principles and allows developers to interact with the MyAnimeList site programmatically via HTTP requests.
+
+Unofficial in nature, this API is a supplement to the official API that&#039;s currently being developed. 
+anime other unofficial 
+Other

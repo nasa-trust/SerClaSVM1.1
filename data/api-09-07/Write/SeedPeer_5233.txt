@@ -1,0 +1,5 @@
+File sharing via BitTorrent
+SeedPeer
+Use the Seedpeer API to integrate Seedpeer search results into your search engine, site, blog, or app. You can search torrents, get today&#039;s torrents, get torrents by member, get torrents by category, and get torrents by subcategory. Even though Seedpeer&#039;s main site is related to filesharing with torrents, you cannot use this API to offer direct downloads without Seedpeer&#039;s written consent. 
+bittorrent filesharing p2p search 
+File Sharing

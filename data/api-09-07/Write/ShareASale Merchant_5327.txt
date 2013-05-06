@@ -1,0 +1,11 @@
+Affiliate marketing
+ShareASale Merchant
+ShareASale is an affiliate network providing pay-per-sale, pay-per-lead, and pay-per-click programs for webmasters. ShareASale services two customer sets in affiliate marketing: the affiliate, and the merchant. The Merchant API allows Merchants a more advanced method of interacting with real-time transactions as well as reports. Using the API the following can be done:
+
+    * Real-time voiding or editing of a transaction as it happens on the site.
+    * Recurring commissions such as subscriptions, etc?
+    * Downloading certain reports on a schedule to the servers
+
+Full documentation is not publicly available.
+affiliate shopping 
+Shopping

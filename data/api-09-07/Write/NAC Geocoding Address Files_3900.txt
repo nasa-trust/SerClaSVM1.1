@@ -1,0 +1,7 @@
+Geocoding and address matching
+NAC Geocoding Address Files
+The Natural Area Coding System is a geodetic system that has generated code called Natural Area Code (NAC) to unify the representations of geographic coordinates, area codes, street addresses, postal codes, map grids and property identifiers of every location or area in the world, and make the information from all maps, GPS receivers and location based services and products connected, efficient and universal. 
+
+The NAC Geocoding API provides real-time geocoding and reverse geocoding of addresses from 26 countries and areas. The geocoding service can geocode formatted street addresses, street intersections, points of interests, places, cities, state/provinces, ZIP/postal codes or countries from all these countries and areas. The geocoding service is provided as both SOAP web service and REST web service (RESTful responses are formatted in either XML or JSON format). 
+address geocoding gps 
+Tools

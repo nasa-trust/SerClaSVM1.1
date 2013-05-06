@@ -1,0 +1,7 @@
+Real estate multiple listing service
+Real Estate Cloud MLS
+Real Estate Cloud provides various services for real estate listings and Customer Relationship Management (CRM). Their API currently provides services for searching and retrieving real estate data.
+
+This is a REST-based API that returns data in JSON, and requires an API key for access.
+CRM MLS realestate 
+Real Estate

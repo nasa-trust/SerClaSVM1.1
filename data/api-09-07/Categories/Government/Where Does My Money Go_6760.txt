@@ -1,0 +1,17 @@
+aim 1
+doe 3
+explore 1
+finances 1
+foundation 1
+go 3
+government 5
+knowledge 1
+make 1
+money 3
+much 1
+open 2
+rest 1
+spending 1
+tax 1
+uk 2
+understand 1

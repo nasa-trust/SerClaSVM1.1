@@ -1,0 +1,17 @@
+cloud 1
+designate 1
+devices 2
+integration 2
+machine 1
+mobile 4
+multiple 1
+network 1
+operate 1
+partner 1
+print 2
+printing 4
+secure 1
+simple 1
+tool 2
+workforce 1
+works 1

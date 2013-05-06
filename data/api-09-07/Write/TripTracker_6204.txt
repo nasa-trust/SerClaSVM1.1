@@ -1,0 +1,5 @@
+Trip Tracking Service
+TripTracker
+TripTracker is a social travel mapping service that users can use to store data about their trips; photos, journals, GPS coordinates, travel location, etc. Users can then share this data with friends and family, or make it public for the world to see. The TripTracker API is a RESTful API available for non-commercial use by developers who want to create their own applications using TripTracker services.
+gps location mapping tools track travel 
+Travel

@@ -1,0 +1,5 @@
+Biocomplexity Thesaurus search service
+CSA/NBII Biocomplexity Thesaurus
+The CSA/NBII Biocomplexity Thesaurus Web Service allows users to query the Thesaurus for matching and relating terms using a variety of search operators. The Biocomplexity Thesaurus is a merger of the CERES/NBII Thesaurus and the CSA Aquatic Sciences and Fisheries, Life Sciences, Pollution, Sociological, and Ecotourism thesauri.
+reference science search tools 
+Science

@@ -1,0 +1,5 @@
+Music video web site
+Muzu.tv Data
+Muzu is a free music video site where users can watch, create and share their music video playlists. Users can also create their own free personalized music tv channel built upon multiple video playlists. The data API exposes the site data in order for developers to integrate with their own sites and applications. API users can search the database, return artist details, channel details, video details, images and create vanity names for artists. The API uses RESTful calls and responses are formatted in XML and RSS.
+internet music video 
+Video

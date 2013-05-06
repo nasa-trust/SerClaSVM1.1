@@ -1,0 +1,7 @@
+Wholesale SMS API
+Nexmo Wholesale SMS
+Nexmo API eliminates the need to connect to carriers or complex third party protocols through our simple yet powerful RESTful and SMPP APIs. With a scalable infrastructure, we let you send and receive SMS in high volumes to over 5 billion users. To increase deliverability and reduce latency, Nexmo uses a direct-to-carrier model eliminating hops in the chain.
+
+That translates into wholesale pricing and reactive customer support. With Nexmo, there is no long-term commitment, minimum spent or negotiation required - just plain and simple pay-as-you-go!
+bulk Global messaging SMPP sms telephony 
+Messaging

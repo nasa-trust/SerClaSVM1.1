@@ -1,0 +1,11 @@
+Easily connect to Intuit Payment Services and QuickBooks Merchant Services (QBMS)
+Intuit Payments Connect
+Access transaction services, value-added services and data services to form rich payment service bundles and workflows.
+
+Intuit Payments Connect provides business and technical resources to help software companies streamline integration projects, satisfy compliance requirements, define channel partnerships, and deploy applications to market. This unique mix of market-facing resources allows software companies to quickly and cost-effectively deliver innovative, just-in-time payment solutions to customers.
+
+With a full suite of developer-centric resources including free software development toolkits, developer sandbox, and on-demand support, Intuit Payments Connect is the definitive source for payment application developers.
+
+
+ecommerce intuit payment pos quickbooks 
+Payment

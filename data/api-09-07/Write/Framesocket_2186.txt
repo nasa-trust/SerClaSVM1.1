@@ -1,0 +1,7 @@
+Video management and publishing platform 
+Framesocket
+Framesocket is a video hosting and publishing platform. Framesocket works with websites, tablets, and mobiles. Framesocket also offers analytics about video consumption and visitors.
+
+The Framesocket API allows developers to access and integrate Framesocket&#039;s functionality into other applications and services. Some example API methods include integrating videos into web, phone, and tablet applications, playing videos, measuring analytics and traffic, and managing accounts.
+analytics hosting video 
+Video

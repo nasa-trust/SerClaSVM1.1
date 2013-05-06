@@ -1,0 +1,5 @@
+Shipping rate information service
+eCoComa Shipping
+The eCoComa Shipping API allows users to retrieve real-time shipping rates from major carriers. Supported shipping carriers include FedEx, UPS, United States Postal Service (USPS), and DHL/AirBorne Express (DHL). This API operates via SOAP using the XML data format.
+shipping 
+Shipping

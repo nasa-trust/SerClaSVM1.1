@@ -1,0 +1,5 @@
+US address verification service
+DuoShare Address Verification
+Use the DuoShare Address Quality Integrator (DAQI) API to allow your application to standardize, correct, validate (to the delivery point), and enhance U.S. addresses using a number of USPS? certified processes. This is a straightforward address quality and mail prep service that can help you take advantage of discount rates. You have access to small batch validation to keep incoming addresses correct and large batch submission capabilities for large batches. Use features for Address Changes, Merge/Purge, Sequencing, Presorting, and Barcoding.
+enterprise reference 
+Reference

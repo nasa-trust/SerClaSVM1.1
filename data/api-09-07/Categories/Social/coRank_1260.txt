@@ -1,0 +1,13 @@
+bookmark 1
+co 1
+create 1
+distribute 1
+first 1
+minutes 1
+net 1
+network 1
+news 1
+own 1
+ranking 1
+review 2
+social 4

@@ -1,0 +1,9 @@
+Tickets search service
+SeatGeek
+SeatGeek is a ticket search site that aggregates sports, concert, and theater ticket listings from Stubhub, ebay, TicketsNow, and many more. The site displays this information in addition to interactive seating charts to allow for easy assessment of ticket quality. The company???s Deal Score technology is used to identify which tickets for an event are the best bargains. It uses proprietary algorithms to forecast how ticket prices will move over time, enabling users to buy when prices are lowest. 
+
+The SeatGeek API provides developers with access to the company???s dataset of live events. The RESTful API returns requests in JSON, JSONP, and XML and can provide detailed information on venue lat/lon, average ticket price, seating location, and more. SeatGeek has a community portal that keeps a record of all support conversations and is a useful tool when looking to get questions answered. 
+
+With the addition of the SeatGeek Partner Program a site can earn money every time a user from that site buys tickets. Each time a partner sends a referral to SeatGeek and they purchase a ticket, SeatGeek will pay their partner 50% of the revenue earned on that transaction. Currently users are averaging $11 per sale generated. 
+events search sports tickets 
+Events

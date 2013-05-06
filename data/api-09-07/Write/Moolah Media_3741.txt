@@ -1,0 +1,7 @@
+Application advertising service
+Moolah Media
+Moolah Media provides developers with tools for integrating mobile advertising with their mobile websites and applications. Moolah&#039;s advertisements track user interaction by gathering data about their interactions with advertisements, inbound calls, form submits, or interactive SMS messages.
+
+Moolah&#039;s advertising platform also provides services for analytics, intelligent ad serving, and lead generation, in addition to a SMS version of their mobile web advertising services. Full documentation is not publicly available.
+advertising application mobile 
+Advertising

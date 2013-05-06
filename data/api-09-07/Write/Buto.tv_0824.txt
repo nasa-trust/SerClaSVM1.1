@@ -1,0 +1,5 @@
+Video hosting service
+Buto.tv
+Buto.tv is a service for uploading, managing and measuring online video. The service is directed at content creators and video sharing sites. The Buto.tv API provides a RESTful interface to your video collections, playlists, meta-data and user accounts.
+uk video 
+Video

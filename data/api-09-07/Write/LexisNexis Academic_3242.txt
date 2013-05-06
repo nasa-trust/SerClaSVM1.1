@@ -1,0 +1,5 @@
+Academic research repository
+LexisNexis Academic
+Use the LexisNexis Academic API to access the LexisNexis Academic repository programmatically. Use the API to retrieve a specific document, open a Power Search form and populate the source selection options for searching specific sources, or open any search form in LexisNexis Academic. You might use the API to provide article linking and federated search to your academic library users. 
+reference education deadpool
+Reference

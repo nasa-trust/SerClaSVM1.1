@@ -1,0 +1,7 @@
+Windows Phone 7 notification service
+PushBug
+The service allows applications to deliver notifications, called  Tile and Toast messages, to mobile devices running the Windows Phone 7 operating system. It centralizes and simplifies error and problem reporting by alerting registered devices when error conditions are triggered, while at the same time notifying Microsoft of bugs or problems uncovered in the operating system.
+
+API methods support sending of either tile or toast notifications, either immediately to a single device or via queued delivery to multiple devices. Queued delivery allows for multiple retries where devices are not available to receive messages. Methods also allow retrieval of a list of devices associated with an account.
+device mobile notifications telephony 
+Telephony

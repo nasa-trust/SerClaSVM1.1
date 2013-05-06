@@ -1,0 +1,5 @@
+DNS update service
+DynDNS
+DynDNS.com is an all-in-one managed DNS hosting solution for top level domains (ie. www.yourwebsite.com). Their DNS Update API is also known as the Members NIC Update API and is used to update the IP addresses of dynamic DNS hostnames. DynDNS designed and created the specification prior to 2001 which has become the standard update mechanism for other DNS providers. The API works over HTTPS and HTTP. 
+DNS internet sbweb 
+Internet

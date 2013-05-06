@@ -1,0 +1,5 @@
+Internet communication
+Skype
+The Skype API provides a mechanism for 3rd party scripts and applications to control Skype UI functions and implement additional or improved features to complement the Skype. Skype is the world&#039;s fastest-growing Internet communication offering, allowing unlimited free voice, video and instant messaging communication between users of Skype Software. The API has two layers: The Communication Layer is a set of methods for external application to establish connection to Skype client and communicate with it, The Command Protocol Layer is a text-based &quot;language&quot; that external applications can use to speak to the Skype client, once communication channel is established by Communication Layer. 
+chat communication messaging telephony video Voice 
+Telephony

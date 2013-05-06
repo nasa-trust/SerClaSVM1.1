@@ -1,0 +1,5 @@
+NY Times newspaper movie review archives
+New York Times Movie Reviews
+The New York Times Movie Review API gives you access to movie reviews by the New York Times critics. The API gives access to over 22,000 New York Times movie reviews from today back to 1924. Using the Movie Reviews API you can reviews, NYT Critics&#039; Picks and you can search movie reviews by keyword.
+news reviews video 
+Video

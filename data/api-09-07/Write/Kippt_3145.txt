@@ -1,0 +1,7 @@
+Bookmarking application
+Kippt
+Kippt is a bookmarking application that users can use to save web files. Users can organize their bookmarks, search them, and share them with other people. 
+
+The Kippt API allows developers to access and integrate the functionality of Kippt with other applications and to create new applications. Some example API methods include managing account information, retrieving lists of bookmarks, and searching lists and bookmarks.
+bookmarks search sharing social 
+Bookmarks

@@ -1,0 +1,17 @@
+ad 1
+advertiser 1
+advertising 5
+fetch 1
+format 1
+http 1
+image 1
+leading 1
+like 1
+mobile 7
+network 2
+page 1
+property 1
+publisher 1
+render 1
+response 1
+text 1

@@ -1,0 +1,5 @@
+Data and marketing services
+Infogroup Infoconnect
+Infogroup is a data and marketing services company that provides multi-channel digital and offline marketing solutions. Infoconnect is a support center and developer resource for the Infogroup API platform. The Infoconnect API exposes data on companies and people and also allows users to match records stored in the database. The API uses RESTful calls and responses are formatted in XML and JSON. 
+analytics Data enterprise marketing 
+Enterprise

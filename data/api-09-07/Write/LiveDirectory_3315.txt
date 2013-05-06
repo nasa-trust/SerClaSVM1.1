@@ -1,0 +1,13 @@
+Automated internet services
+LiveDirectory
+LiveDirectory is an organization with the stated goal to make the Internet more interactive, more automated and more useful for everyone. This is done by helping content publishers inform clients and customers about new and updated content and helping application developers build real-time, event-driven Internet applications/services based on real-world content. LiveDirectory offers a suite of APIs that perform the following:
+
+* The Profile Data API allows a 3rd party application to perform basic operations on profile data. It would typically be used to update all or part of a profile with new data.
+
+* The Subscription API allows a 3rd party application to perform basic operations on Subscriptions
+
+* The Notification API specifies the types of messages and the message contents of the HTTP Notification callbacks.
+
+The API uses RESTful calls and responses are formatted in JSON.
+internet 
+Internet

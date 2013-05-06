@@ -1,0 +1,15 @@
+applicant 2
+company 1
+create 1
+enterprise 1
+hr 1
+integrate 1
+job 2
+might 1
+one 1
+opening 1
+product 1
+recruit 3
+system 3
+track 1
+tracking 2

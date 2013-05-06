@@ -1,0 +1,5 @@
+Cannabis strain information service
+SeedFinder
+SeedFinder provides a standardized online collection of information on cannabis varieties. They provide grow advice, strain reviews, and connect growers and enthusiasts with with each other and information in a searchable way. The SeedFinder API allows access to the data through HTTP Get and POST requests as well as a client development of the content and infrastructure within SeedFinder to create applications.
+drugs marijuana reference 
+Reference

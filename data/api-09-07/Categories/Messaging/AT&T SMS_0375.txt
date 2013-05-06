@@ -1,0 +1,13 @@
+delivery 1
+devices 1
+get 1
+message 1
+messaging 2
+mobile 3
+one 1
+receive 1
+send 1
+sent 1
+sm 4
+status 1
+telephony 1

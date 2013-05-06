@@ -1,0 +1,5 @@
+Video hosting/sharing service for schools
+SchoolTube
+Educational video hosting/serving with a SOAP API that supports functions such as interfacing with the video search engine and getting information about a user. Intended as safe environment for school-related video storage and exchange. API calls must specify the version, e.g. for version 0.1.2 the URL would be http://api.schooltube.com/0.1.2/wsdl
+education hosting search video 
+Education

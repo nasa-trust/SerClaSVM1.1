@@ -1,0 +1,7 @@
+Web traffic analytics service
+Church Analytics
+Church Analytics is a real-time web traffic analytics service. Customers can also customize their analytics for certain segments or other criteria. They also provide Twitter analytics. 
+
+The Church Analytics API allows developers to get traffic analytics data in a variety of formats. The data can be retrieved numerous ways, such as by segments, by time parameters, and in chronological order.
+analytics internet 
+Internet

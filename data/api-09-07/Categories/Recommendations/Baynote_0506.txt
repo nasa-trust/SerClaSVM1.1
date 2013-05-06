@@ -1,0 +1,7 @@
+deliver 1
+demand 1
+documentation 1
+note 1
+recommendation 4
+shopping 1
+technology 1

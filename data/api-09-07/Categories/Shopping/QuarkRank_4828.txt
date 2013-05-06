@@ -1,0 +1,15 @@
+capability 1
+community 1
+consumer 2
+decision 1
+internet 2
+making 1
+million 1
+opinion 2
+point 1
+purchase 1
+recommendation 1
+review 2
+shopping 2
+summarize 2
+widget 1

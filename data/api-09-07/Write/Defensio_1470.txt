@@ -1,0 +1,5 @@
+Blog and social site spam prevention services
+Defensio
+Use the Defensio API to help manage spam on social web apps, such as blogs. Use a variety of functions, which return structured responses. This service is meant to ease the burden of spam across any type of social web app. The primary function you will use shows whether Defensio thinks a comment is spam or not, and also shows its spaminess level, which is how likely it is of being spam. Also, use the API to announce the existence of new articles to Defensio, report false positives, report false negatives, and get statistics. Defensio has OpenID functionality.
+blog internet security social 
+Security

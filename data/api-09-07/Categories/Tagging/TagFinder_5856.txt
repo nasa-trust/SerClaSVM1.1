@@ -1,0 +1,9 @@
+analysis 2
+chosen 1
+extract 1
+extraction 2
+original 1
+piece 1
+tag 5
+term 1
+text 3

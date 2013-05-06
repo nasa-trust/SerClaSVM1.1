@@ -1,0 +1,5 @@
+Media showcase widget
+Cooliris
+The Cooliris API allows users to embed the Cooliris Wall on their website using JavaScript. The Cooliris Wall is a tool for showcasing a large amount of media content at once in a visually pleasing way. The Wall is highly customizable and requires no additional plugins to use or to view.
+flash widges 
+Widgets

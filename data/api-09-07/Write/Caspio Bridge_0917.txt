@@ -1,0 +1,5 @@
+cloud computing integration service
+Caspio Bridge
+Caspio Bridge is a cloud database platform used to build interactive web applications through point-and-click wizards. Users can build web forms, databases, and other enterprise management applications without the need for programming skills. The Caspio Bridge API allows third-party integration with existing Caspio applications and other cloud services. 
+cloud database enterprise 
+Database

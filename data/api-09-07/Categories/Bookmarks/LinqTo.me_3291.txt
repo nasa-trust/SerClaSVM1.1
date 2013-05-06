@@ -1,0 +1,17 @@
+automate 1
+bookmark 4
+call 1
+create 1
+edit 1
+favorite 1
+followers 1
+friend 1
+insert 1
+link 1
+links 4
+list 1
+network 1
+query 2
+share 1
+social 2
+tag 1

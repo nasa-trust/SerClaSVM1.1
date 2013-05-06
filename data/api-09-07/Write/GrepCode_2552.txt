@@ -1,0 +1,5 @@
+Java code search service
+GrepCode
+GrepCode is a Java code search service that looks for code stored in Maven and OSGI repositories. The GrepCode REST API provides methods to retrieve Java code source files by class name, by path, or by either of those factors plus the MD5 signature of the project&#039;s jar file. The API may also retrieve a jar file by its project identifier or by the MD5 signature of any other jar file in the project.
+programming search 
+Search

@@ -1,0 +1,5 @@
+Multi channel payment platform
+Moneydirect
+Moneydirect, an Amadeus and Sabre joint venture, provides a multi-channel payment processing solution for the global travel and tourism industry. It is used by over 3000 agents and 1700 suppliers in Australia and New Zealand. The Moneydirect API provides programmatic access to the functionality of platform. The API uses SOAP protocol and responses are formatted in XML. Full documentation is available with registration.
+payment travel 
+Travel

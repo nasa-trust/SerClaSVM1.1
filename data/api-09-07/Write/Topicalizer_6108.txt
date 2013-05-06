@@ -1,0 +1,5 @@
+Document analysis service
+Topicalizer
+Topicalizer is a text analysis and topic extraction tool. Based on methods of computational linguistics it provides various analyses for a given URL or plain text. These comprise, amongst others, language recognition, lexical density, keywords, collocations, word and phrase frequencies, readability and a short abstract. Topicalizer can, for instance, be used for automatically tagging a website or blog entry with semantic information or for retrieving summaries for web pages.
+deadpool tagging 
+Other

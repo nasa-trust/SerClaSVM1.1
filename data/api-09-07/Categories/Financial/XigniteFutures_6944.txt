@@ -1,0 +1,16 @@
+energy 1
+enterprise 1
+exchange 1
+finance 2
+future 7
+give 1
+index 1
+interest 1
+major 1
+market 1
+metal 1
+money 1
+oil 1
+price 1
+quote 3
+rates 1

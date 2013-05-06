@@ -1,0 +1,5 @@
+Feed and story retrieval and analysis
+PostRank Data Mining
+PostRank uses audience interaction with content to filter and deliver relevant news and information to users. The Data Mining API allows users to to access information by topic, time period, keyword, and engagement. It uses a RESTful interface and responses are returned in either JSON, XML or RSS.
+analytics deadpool tools 
+Internet

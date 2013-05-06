@@ -1,0 +1,5 @@
+Business card generator services
+aql vCard
+From their site: Generates and sends virtual business cards from an HTTP request. Specify your vCard information and send it using HTTP POST or GET. Our system will create the vCard and transmit it to its destination.
+enterprise 
+Enterprise

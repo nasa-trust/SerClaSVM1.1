@@ -1,0 +1,14 @@
+approve 1
+commercial 2
+event 4
+fast 1
+growing 1
+independent 1
+marketing 2
+music 2
+platform 1
+promoter 1
+social 2
+ticket 3
+tool 1
+venue 1

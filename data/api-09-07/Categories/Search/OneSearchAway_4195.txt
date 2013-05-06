@@ -1,0 +1,12 @@
+connect 2
+contact 1
+free 1
+interest 1
+local 2
+query 1
+same 2
+search 5
+social 2
+terms 1
+thing 1
+tie 1

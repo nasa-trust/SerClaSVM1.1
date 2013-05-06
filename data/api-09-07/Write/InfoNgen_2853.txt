@@ -1,0 +1,7 @@
+Content discovery and analysis service
+InfoNgen
+InfoNgen is a content discovery engine and service for industry professionals. InfoNgen offers customers cloud-based services for content discovery, analysis, and reporting in fields such as corporate, financial, and legal.
+
+The InfoNgen web services API allows developers to access and integrate the functionality and data of InfoNgen with other applications. The API allows for searching and retrieving results. Public documentation is not available; API access is available through accounts.
+analysis content discovery search 
+Search

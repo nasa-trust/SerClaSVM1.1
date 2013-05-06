@@ -1,0 +1,5 @@
+E-mail security product information service
+TekGuard Product Info
+TekGuard Online Guardian is the website for Vinfo&#039;s security products. Vinfo (Vector Information Systems Inc.) is a boutique technology consulting firm and specialty software provider. Its security products are designed to eliminate spam and filter traffic on e-mail servers. The TekGuard Product Info API is used by the TekGuard website to retrieve information on Vinfo&#039;s security products via SOAP calls.
+email security 
+Security

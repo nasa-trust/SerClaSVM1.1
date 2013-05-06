@@ -1,0 +1,7 @@
+Medical billing and office management service
+Kareo Medical Office
+The service provides a platform for office management and billing functions for physician and medical offices and facilities. With special-purpose functions specific to doctors&#039; needs, it supports management of patient appointments and billing, including interactions with health insurance companies.
+
+API methods support managing patient accounts, managing lists of service providers associated with the office, and setting and retrieving lists of appointments. Methods also support handling procedure codes for services provided, listing patient charges, and submitting billing reports. 
+billing medical office 
+Medical

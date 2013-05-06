@@ -1,0 +1,5 @@
+Manages invoices and payments
+HostBill
+HostBill is a payment and invoice management service. Their services include automated billing, payment management, and client data tracking. The API provides registered users with access to their client, invoice, and services data in real-time through an HTML protocol. They also provide a free PHP HB wrapper that simplifies calls and stores users??? API authentication details. The API is only available to users with installed HostBill accounts. 
+billing financial payment 
+Payment

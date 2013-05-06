@@ -1,0 +1,5 @@
+Original works copyright service
+Myows
+Myows is a web site that allows freelancers and other creatives to manage their copyright and protect their original work from illegal copying. The site lets users create proof of authorship as well as provide various means of deterrence against theft. With the API users can list original works flitered by given parameters, return info on orginal works, download original works and more. The API uses RESTful calls and responses are formatted in XML and JSON.
+copyright media security 
+Security

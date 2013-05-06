@@ -1,0 +1,7 @@
+Multilingual dictionary definition service
+WordReference
+The service provides word lookup access and provides the English-language definition. It also provides word pairs to match equivalents in English, Spanish, French, Italian, German, and a number of other European languages. Some Asian languages also are supported. A thesaurus function is also available to match submitted terms with synonyms.
+
+API methods support submission of the term to look up and the two-letter code for the national language dictionary to consult. The API returns an English language definition, or an equivalent word in the non-English language specified by the request. For some terms, it will provide alternative translations in addition to the primary translation.
+Dictionary reference words 
+Dictionary

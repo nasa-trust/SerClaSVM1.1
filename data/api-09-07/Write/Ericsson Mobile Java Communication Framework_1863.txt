@@ -1,0 +1,7 @@
+Mobile communication service
+Ericsson Mobile Java Communication Framework
+The Mobile Java Communication Framework allows developers to build communication services. The framework inludes messaging and presence. Client frameworks for JavaME, Android, server framework for JEE. By a set of RESTful APIs it is also possible to build browser based clients.
+
+Ericsson Labs is a concept for open innovation. The site holds APIs, resources, offerings, and various expert commentaries, produced by Ericsson. This assortment provides technologies and communities for developers and makes it easy to get in touch with a variety of experts from different fields. 
+deadpool java messaging mobile 
+Messaging

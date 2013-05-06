@@ -1,0 +1,5 @@
+Microblogging service for finance traders
+Quoqu
+Quoqu is a microblogging service for traders to share ideas, charts, and information. Quoqu provides market analysis information from user contributions. Quoqu users share information by answering the question &quot;What are you trading?&quot;. Users can further interact via Quoqu forums and chat features.
+deadpool finance money 
+Financial

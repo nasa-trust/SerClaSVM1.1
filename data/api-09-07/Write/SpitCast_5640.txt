@@ -1,0 +1,5 @@
+Surf Prediction Service
+SpitCast
+The SpitCast API allows users to access SpitCasts surf prediction algorithm.  The API uses the REST protocol and returns JSON surf predictions. The service provides surf data for regions along the California coast. To see example uses visit the SpitCast API home page. 
+feeds forecast sports 
+Sports

@@ -1,0 +1,5 @@
+Information interpretation and analysis service
+Coginov 
+The Coginov API takes information streams and applies sorting algorithms to extract the meaning and intent of the data. Used to simplify large volumes of data into understandable summaries. Use requires the purchase of a block or monthly package based on the size of your business. A free trial is offered allowing 1,000 requests. 
+semantic sentiment text tools 
+Tools

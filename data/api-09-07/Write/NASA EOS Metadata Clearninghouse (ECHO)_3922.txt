@@ -1,0 +1,7 @@
+Earth-observing satellite data service
+NASA EOS Metadata Clearninghouse (ECHO)
+The service provides data collected by the Earth Observing Satellite Data and Information System (OESDIS) of the U.S. National Aeronautics and Space Administration (NASA). The program collects and provides information of interest to researchers in Earth science and related disciplines. ECHO performs as middleware, allowing information provider communities to publish their data, while information consumers can discover and access the resource collection.
+
+API methods support management of user roles and group membership for appropriate access. Information resources include a catalog of repository datasets, content taxonomy, event listings, and related functions.
+astronomy research science 
+Science

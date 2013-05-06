@@ -1,0 +1,7 @@
+SMS messaging service
+Nibbme 
+Nibbme provides an API for developers who would like to implement bulk SMS features into their own projects. Nibbme is an SMS messaging service that allows for sending mass messages to international users. Send bulk messages to unlimited number of cell phones whith one click.
+
+Nibbme is a RESTful web service and can be integrated into any existing web site or desktop application. A proxy library is provided for Ruby development. Responses are formatted in XML or JSON.
+deadpool Global messaging sms telephony 
+Messaging

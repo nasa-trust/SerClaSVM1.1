@@ -1,0 +1,7 @@
+Server and website monitoring service
+Sentinel Monitoring
+Sentinel Monitoring is an online server and website monitoring service. Customers can receive weekly reports of any problems, as well as get real-time text, email, or Twitter alerts when problems are detected.
+
+The Sentinel Monitoring API allows developers to access and integrate Sentinel Monitoring data and functionality. Example API methods include accessing account and client information, viewing history, managing contacts, and managing monitoring checks. The API uses RESTful calls and responses are formatted in XML, JSON and serialized PHP.
+deadpool monitoring 
+Tools

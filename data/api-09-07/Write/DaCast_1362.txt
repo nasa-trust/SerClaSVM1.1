@@ -1,0 +1,5 @@
+On demand video streaming service
+DaCast
+DaCast offers a fully integrated platform for live and on demand video streaming. Broadcasters can stream their video and monetize their content via video ads, pay-per-view and/or subscriptions. Currently DaCast offers streaming to more than 3,000 broadcasters. DaCast offers an API that lets streaming providers offer DaCast technology to their own clients through a white label interface. API documentation is not publicly available.
+internet streaming video 
+Video

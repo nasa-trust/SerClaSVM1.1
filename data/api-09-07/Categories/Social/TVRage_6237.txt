@@ -1,0 +1,12 @@
+classic 1
+contain 2
+datum 1
+detail 2
+entertainment 1
+episode 1
+guide 1
+incorporate 1
+list 1
+show 2
+social 2
+television 3

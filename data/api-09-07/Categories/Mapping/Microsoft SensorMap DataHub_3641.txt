@@ -1,0 +1,17 @@
+create 1
+datum 5
+format 1
+location 1
+make 1
+mapping 2
+publish 1
+query 1
+retrieve 1
+savvy 1
+science 1
+sharing 1
+simple 1
+specific 1
+tech 1
+tool 1
+type 1

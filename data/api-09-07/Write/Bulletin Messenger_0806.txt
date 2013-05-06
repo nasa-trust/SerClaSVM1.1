@@ -1,0 +1,5 @@
+SMS Service Provider
+Bulletin Messenger
+Bulletin.net is a developer and supplier of product and service for messaging (SMS Text, IM, MMS and email) between mobile devices and web applications. The Bulletin Messenger API is a simple RESTful SMS API allowing developers to send SMS messages to their application users. The API functionality includes Microsoft Outlook integration, support for global shortcoding and multiple user admin tools for companies. It also envelops worldwide coverage and pricing rates that depend upon international location.
+europe messaging sms telephony uk usa 
+Messaging

@@ -1,0 +1,5 @@
+Online authentication for Indian citizens
+Aadhaar UIDAI Authentication
+The UIDAI's mandate is to issue every resident a unique identification number linked to the resident's demographic and biometric information, which they can use to identify themselves anywhere in India, and to access a host of benefits and service. The UIDAI proposes to provide online authentication using demographic and biometric data. The API provides authentication services to residents making requests for government agency  services. It uses RESTful calls and responses are formatted in XML. 
+authentication government india security
+Government

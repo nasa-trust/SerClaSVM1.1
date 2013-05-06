@@ -1,0 +1,7 @@
+Mobile location services
+GSMA OneAPI Location
+The GSMA is an association of mobile operators worldwide. Representing more than 800 mobile operators in more than 220 countries, the GSMA supports the standardizing, deployment and promotion of the GSM mobile telephone system. The GSMA also produces industry-leading events such as the  Mobile World Congress and Mobile Asia Expo.
+
+The GSMA OneAPI is a set of APIs that expose network capabilities over HTTP. The OneAPI location interface allows a Web application to query the location of one or more mobile devices that are connected to a mobile operator network. It uses both REST and SOAP protocola with responses in XML and JSON.
+location mobile telephony 
+Telephony

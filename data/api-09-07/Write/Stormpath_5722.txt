@@ -1,0 +1,5 @@
+Cloud identity service
+Stormpath
+Stormpath is a cloud based service that is used to manage users and ease authentication and access control within applications. The API provides programmatic access to the functionality of the service. This includes basic CRUD operations on accounts, applications, directories, groups and tenants. It uses RESTful calls and responses are formatted in JSON. Full documentation is not publicly available.
+cloud identity security 
+Security

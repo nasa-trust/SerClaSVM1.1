@@ -1,0 +1,5 @@
+Affiliate marketing ad platform
+Prosperent
+Prosperent provides a platform for affiliate marketers to place dynamic, targeted ads on their websites. The API provides access to the functionality of the platform. Developers can build apps with the API and earn commission on every sale driven through the system, or simply use the API to augment their web site to help monetize their traffic. The documentation includes complete details about all parameters that should be set and describes in detail the extended query syntax and extra functionality of the search endpoint. Documentation is available upon registration.
+advertising affiliate 
+Advertising

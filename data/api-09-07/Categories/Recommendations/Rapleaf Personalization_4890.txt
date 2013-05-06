@@ -1,0 +1,15 @@
+address 2
+content 1
+email 4
+hash 1
+identify 1
+interface 1
+learn 1
+make 1
+person 1
+personal 1
+query 1
+recommend 1
+recommendation 2
+retrieve 1
+simple 1

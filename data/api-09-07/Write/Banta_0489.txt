@@ -1,0 +1,5 @@
+Socialised Media Platform Service
+Banta
+Bant??? is a social online video platform. The service includes functionality to &quot;augment, extend and positively increase a user&#039;s experience&quot; with applications on social networks. Developers can use the Bant??? API and service framework to allow users to socialize and engage with the media.
+deadpool social video 
+Social

@@ -1,0 +1,6 @@
+Swedish Telemarketer/Unknown Caller Phone Number Database
+Missatsamtal.se
+Missatsamtal.se is a community-driven database of callers in Sweden. Users post phone numbers of telemarketers and companies or unknown phone numbers. Other users can use this data to find out who unknown numbers are. The Missatsamtal.se API is a RESTful API that has two parts; a Search part and a Post part. The Search part is useful for looking up numbers and returning data in an XML or JSON format. The Post part can be used for posting numbers to the database, or commenting on existing numbers. (API Key required for posting data through the API only; can use the search feature of the API without a Key) 
+
+database phone sweden 
+Database

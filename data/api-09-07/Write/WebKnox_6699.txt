@@ -1,0 +1,5 @@
+Entity and fact extraction tool
+WebKnox
+WebKnox is a research project from the Royal Melbourne Institute of Technology and the University of Technology Dresden. WebKnox aims for automatic, ontology-driven entity and fact extraction from the World Wide Web. The WebKnox API is currently in a beta status. The API provides multiple functionalities including detection of up to 22 languages in a given text, extracting the main content of a web page, detecting and extracting facts on web pages given a URL, detecting question and answers on many FAQ pages and more. A web frontend for the API is provided for testing purposes at http://webknox.com/wi. The API uses RESTful calls and responses are formatted in JSON.
+extraction semantic text tools utility 
+Tools

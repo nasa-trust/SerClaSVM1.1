@@ -1,0 +1,7 @@
+U.K. classified ad service
+Friday-Ad
+The service posts classified ads for private sales of a wide range of items and services and across a long list of locations within the U.K. It provides an interactive form for specifying product categories, locations, display formats, and other variables, then generates iframe code to be inserted on another website. SOAP APIs also provide integration possibilities.
+
+API methods support retrieval of information about products advertised, sellers placing ads, and locations served. Methods also return categories within the service that provide the best match for a free-text keyword submitted with the request. 
+advertising classifieds uk 
+Advertising

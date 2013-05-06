@@ -1,0 +1,5 @@
+Photo sharing service
+MashFree
+Mashfree is a social media sharing service. It allows anyone to use deep linking to isolate an image, and share and comment it with others. Users can specify the media URL and options via mashfree.com URL parameters, and share the link with others. The API uses RESTful calls and returns the specified image file
+photo sharing 
+Photos

@@ -1,0 +1,5 @@
+URL Shortening Service
+L9
+L9 is a URL shortening service. Users can use it to shorten long URLs to a more manageable format. Developers can gain access to the L9 API for programmatic access to L9's tools. There are two APIs, a JSON API and a REST API; both are used to shorten URLs, but they return different types of data. The JSON API returns an array with many different values including error messages while the REST API only returns the URL or an error. 
+url-shortener internet utility
+Internet

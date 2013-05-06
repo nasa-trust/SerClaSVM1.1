@@ -1,0 +1,7 @@
+Chemical entity search service
+ChEBI
+The service from the European Bioinformatics Institute (EBI) provides programmatic access to a database of Chemical Entities of Biological Interest. This search service provides chemistry data tailored to the needs of researchers in biology. Specifically, the database functions as a listing of &quot;small&quot; chemical compounds and component molecular entities (distinct molecules, atoms, ions, etc.) produced in nature or synthesized for processes affecting living organisms.
+
+API methods support submission of a query term, potentially including wildcard characters, for retrieval of either compact or complete database contents for entities that match the query. Methods also support searching by molecular structure as well as retrieval of ontologies defining parent-child relationships among molecular entities.
+biology chemistry medical research science search 
+Science

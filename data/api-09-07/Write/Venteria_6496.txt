@@ -1,0 +1,5 @@
+Social event calendar
+Venteria
+The Venteria service allows you to create, schedule, monitor and indicate attendance to local social events. The API gives you access to find events based on location, date, time and more.
+calendar social 
+Events

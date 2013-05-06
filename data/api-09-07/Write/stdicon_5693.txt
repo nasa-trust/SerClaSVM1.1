@@ -1,0 +1,5 @@
+Icons for standard site or file types
+stdicon
+The stdicon service hosts icons for lots of filetypes that you can use and link to. It lets developers use a file extention like /html, a filename like /movie.avi, or a mimetype like application/pdf or choose from a specific set like /neu/html or combine them like /neu/image/png. You can also use the ?size=16 to get a consistent size of icons, and the  ?default=http%3a%2f%2fmetaward.com%2ffavicon.ico to force a default instead of an HTTP 404. 
+internet 
+Internet

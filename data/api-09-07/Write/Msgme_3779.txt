@@ -1,0 +1,5 @@
+Messaging and mobile marketing platform
+Msgme
+Msgme is a digital messaging and mobile marketing CRM platform. It allows businesses to create interactive dialogues with their customers through the use of SMS, MMS, QR Codes, voice and social channels. The API is a suite of services that give developers access to the full functionality of the platform. Developers can manipulate data across subscription lists, create or delete campaigns, manage subscribers, pull content from feeds, look up account keywords, retrieve voicemails and interact with the messaging system. The API uses HTTP calls and responses are formatted in XML.
+Global marketing messaging mobile sms telephony 
+Messaging

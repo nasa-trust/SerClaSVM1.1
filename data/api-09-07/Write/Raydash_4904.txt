@@ -1,0 +1,5 @@
+Video chat service
+Raydash
+Raydash provides a web-service API that allows businesses to build scalable video chat apps and integrate them into their web applications. Live video chat or video streams can be hosted on Raydash, and accessed via the API. Full documentation is not publicly available. Raydash tightly integrates with Ruby on Rails.
+chat social video 
+Chat

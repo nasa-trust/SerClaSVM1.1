@@ -1,0 +1,8 @@
+bookmark 1
+cloud 2
+feed 1
+like 1
+matter 1
+minutes 1
+put 1
+tag 2

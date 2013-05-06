@@ -1,0 +1,7 @@
+Ship location and maritime traffic information service
+FleetMon
+The service provides worldwide position, tracking, and traffic information for maritime vessels. It locates ocean-going ships, with indications of last port visited and destination port, times of arrival and departure, and related information. Applications can search by vessel identifier or registered name. Port-by-port summaries also are available. Information can be consumed as a live data feed in raw NMEA AIS format.
+
+API methods support submission of vessel-specific queries by identifier (IMO, MMSI) or name or port-specific queries. Returned data include vessel registration information, photo, current location by latitude/longitude and port, last destination with arrival and departure times, ultimate destination, current speed, and other details.
+navigation shipping traffic transportation 
+Shipping

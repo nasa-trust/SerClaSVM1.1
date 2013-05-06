@@ -1,0 +1,9 @@
+Free Online Accounting Service
+Wave Accounting
+Wave Accounting is a free online accounting service. With Wave Accounting, users can automatically import their bank and credit card statements into the platform, review purchases and types of purchases, run reports on expenses and finances, and have their expenses categorized automatically.
+
+The API allows third parties to access users&#039; accounting entries and to push entries into the ledger that will be auto categorized later.
+
+Wave Accounting is currently building their API and is looking for developers to help and be beta testers. For more information, email info@waveaccounting.com.
+accounting deadpool finance 
+Financial

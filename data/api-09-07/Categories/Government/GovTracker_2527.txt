@@ -1,0 +1,8 @@
+datum 1
+division 1
+government 2
+island 1
+office 1
+politics 1
+secretary 1
+state 2

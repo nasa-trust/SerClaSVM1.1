@@ -1,0 +1,17 @@
+code 1
+community 2
+coupon 4
+datum 1
+discount 2
+format 2
+idea 2
+links 1
+me 1
+method 1
+obtain 1
+protocol 1
+response 1
+retail 2
+retailer 1
+shopping 2
+variety 1

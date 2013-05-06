@@ -1,0 +1,15 @@
+area 1
+datum 1
+estate 1
+high 1
+integrate 1
+low 1
+market 1
+median 1
+pricing 1
+property 1
+rates 1
+real 1
+rental 1
+request 1
+specific 1

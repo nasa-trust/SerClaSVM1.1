@@ -1,0 +1,8 @@
+backup 1
+choose 1
+file 3
+share 3
+sharing 1
+social 1
+storage 2
+store 2

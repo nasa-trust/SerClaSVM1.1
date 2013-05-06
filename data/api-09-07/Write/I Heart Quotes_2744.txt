@@ -1,0 +1,5 @@
+Quotes and fortunes generator
+I Heart Quotes
+Use the I Heart Quotes API to get a quote of the day to put on your site. You can get geek quotes from sources such as Joel on Software, Paul Graham, Humorix, and more. In addition to geek quotes, you can get one-liner jokes, riddles, sci-fi quotes, religious quotes, literature quotes, popular culture quotes, and more. 
+fun quotations reference Random
+Reference

@@ -1,0 +1,15 @@
+commerce 5
+create 1
+customer 1
+example 1
+functionality 2
+integrate 1
+manage 3
+method 1
+mobile 4
+order 1
+product 1
+retail 1
+shopping 3
+solution 1
+store 1

@@ -1,0 +1,13 @@
+chat 6
+client 1
+connect 1
+desktop 1
+format 1
+instant 2
+integrate 2
+jabber 1
+messaging 2
+mobile 1
+product 1
+response 1
+social 1

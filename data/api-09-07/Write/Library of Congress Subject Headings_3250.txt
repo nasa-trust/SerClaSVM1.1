@@ -1,0 +1,5 @@
+Access to the Library of Congress Subject Headings
+Library of Congress Subject Headings
+This is an experimental service that makes the Library of Congress Subject Headings available as  linked-data using the SKOS vocabulary. The goal of lcsh.info is to encourage experimentation and use of LCSH on the web with the hopes of informing a similar effort at the Library of Congress to make a continually updated version available.  
+books reference government rdf library deadpool
+Reference

@@ -1,0 +1,7 @@
+IP address geolocating service
+geoPlugin
+The service detects a web visitor&#039;s IP address and provides the user&#039;s global location, with varying accuracy depending on the country of origin. A companion service uses geocoding to return information about services and places near the detected user location.
+
+API methods support submission of a detected IP address and return a range of geolocation information, including country, region, city, latitude and longitude, currency code and symbol, and current exchange rate. The geocoding API provides specifications for business and places nearby a submitted latitude and longitude. 
+geocoding geolocation internet IP 
+Internet

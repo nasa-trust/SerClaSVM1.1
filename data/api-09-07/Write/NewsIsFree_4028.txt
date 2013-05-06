@@ -1,0 +1,5 @@
+Online news aggregation
+NewsIsFree
+News search and sources with mapping support. The normal site uses RSS for news feeds.
+news search 
+News

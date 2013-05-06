@@ -1,0 +1,11 @@
+customer 1
+datum 2
+device 1
+france 1
+get 1
+location 6
+mobile 3
+orange 4
+share 1
+telephony 2
+tracking 1

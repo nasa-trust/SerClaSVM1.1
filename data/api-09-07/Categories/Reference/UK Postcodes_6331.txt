@@ -1,0 +1,12 @@
+address 1
+datum 1
+format 1
+given 1
+location 1
+lookup 3
+mapping 1
+postcode 6
+reference 1
+response 1
+return 1
+uk 5

@@ -1,0 +1,5 @@
+Miscellaneous bioinformatics services
+Arne Elofsson's EMBRACE
+Arne Elofsson offers a collection of SOAP APIs based on EMBRACE bioinformatics software. Usable functions include biological sequence alignment, homology modelling, Hidden Markov Model based homology scoring, searching among the proteins of the OPM database, and membrane protein Z-coordinate prediction. Additional EMBRACE-based APIs are under development.
+bioinformatics science 
+Science

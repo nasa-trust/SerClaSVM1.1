@@ -1,0 +1,7 @@
+Enterprise ERM and CRM service
+SalesBoom
+The service provides a platform for enterprise resource planning (ERP) and customer relationship management (CRM). Functionality includes customer account creation and updating, contact tracking, customer service, and related activities. Sales support functions include lead tracking, quote management, sales forecasting, and other sales force automation functions.
+
+API methods support creation and updating of customer accounts, retrieval of customer transaction and contact history, and case/incident management. Methods also support creation and modification of sales lead information, review of quotations provided, generation of sales forecasts, and other sales support functionality
+CRM customer-service enterprise sales 
+Enterprise

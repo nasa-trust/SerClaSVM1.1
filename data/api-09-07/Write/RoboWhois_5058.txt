@@ -1,0 +1,5 @@
+WHOIS record lookup service
+RoboWhois
+RoboWhois is a cloud-based service that provides a RESTful API to access WHOIS records and domain related information with a unified, consistent interface. Developers can use the API to lookup WHOIS information for a domain and retrieve the WHOIS record; access WHOIS data using a consistent, well-structured, HTTP-based interface; retrieve WHOIS details parsed as convenient JSON structure. The API uses HTTP calls and responses are formatted in JSON.
+domains internet whois 
+Internet

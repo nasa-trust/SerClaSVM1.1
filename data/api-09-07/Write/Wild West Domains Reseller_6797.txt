@@ -1,0 +1,7 @@
+Domain reseller service
+Wild West Domains Reseller
+Wild West Domains (WWD) is Godaddy&#039;s reseller company. They do not sell domain names directly but instead enables domain resellers to sell rebranded Godaddy services. These services including Godaddy tech support can be offered at lower prices than if purchased directly through Godaddy.
+
+The API gives resellers a way to integrate WWD services into their Web site or applications and allowing them to use their own style and branding. Services offered through the API include domain name registration, domain name transfers, web based email, for sale parked pages and more. The API uses SOAP calls and responses are in XML.
+domains hosting internet retail 
+Internet

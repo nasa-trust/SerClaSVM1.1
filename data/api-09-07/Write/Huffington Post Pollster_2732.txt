@@ -1,0 +1,5 @@
+Political opinion poll results
+Huffington Post Pollster
+The Huffington Post is a news website and blog featuring content covering many areas including politics. The Pollster API from the Huffington Post gives users access to resutls from opinion polls going back to 2004 as well as current opinion on a range of tops and candidates. Data that can be accessed by users is categorized into charts, single chart and polls. The API uses RESTful calls and responses are formatted in XML and JSON. 
+news politics polls
+News

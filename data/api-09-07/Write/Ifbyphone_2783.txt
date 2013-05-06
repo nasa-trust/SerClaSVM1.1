@@ -1,0 +1,5 @@
+Cloud based telephony service for IVR and dialer apps
+Ifbyphone
+Ifbyphone enables you to develop a forms-based web application to create a sophisticated IVR system. For example, create a simple application to trigger outbound calls or build a more complex voice application that chains together a series of SurVo voice forms. Use our API to build a custom Click-to-Call, reminder call or wake-up call, as well as order-status, event-notification, anonymous-calling, automated dialers, and customer service applications. The Ifbyphone API, in conjunction with SurVo voice forms, provides full access to automated speech recognition, text???to-speech with multiple voices, DTMF processing, audio recording and audio playback.
+enterprise sbweb telephony 
+Telephony

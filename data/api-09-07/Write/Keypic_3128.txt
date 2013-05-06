@@ -1,0 +1,7 @@
+Image-based spam prevention service
+Keypic
+The protects against spam and other fraudulent and unwanted use of an application&#039;s interactive features, such as submitted comments, without forcing users to solve CAPTCHA puzzles. Rather than confronting users with a test to prove they&#039;re human, the service aims to make that determination by evaluating their activity on the protected site. It is implemented as a plug-in for WordPress and other platforms and via API.
+
+API methods support interaction with the web service to report spam and verify the form submitting requests. Methods also support requesting code to detect spammer behavior as an iframe or embedded image.
+captcha Comments internet security social spam 
+Security

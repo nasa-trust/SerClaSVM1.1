@@ -1,0 +1,5 @@
+Online job search service
+Raveal
+Raveal is a network of professionals and companies with a visual search engine to unite them. Users can post their profile, resume and portfolio on the site and companies can use the search engine to find the best candidates. The API exposes some of the functionality of the service to developers. Users can return summary info about an authenticated user&#039;s profile, return the number of visits to the profile of the authenticated user and return a detailed list of visits to the profile of the authenticated user for a specified date range. The API uses RESTful calls and responses are formatted in XML and JSON. 
+jobs 
+Job Search

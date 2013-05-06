@@ -1,0 +1,7 @@
+Issue and candidate support information service
+Voter Guide Toolkit
+The service helps candidates and issue campaigns to develop online voter guides, with read-only access to the content via the API. Once developed, the guide information can be integrated with other applications, such as an HTML widget to display a candidate profile separately from the voter guide.
+
+Methods return return basic descriptive information about the voter guide itself, such as its name and candidates or issues profiled, or about a specific race or referendum. Search methods return matches within the voter guide for a specific query.
+government news politics 
+Government

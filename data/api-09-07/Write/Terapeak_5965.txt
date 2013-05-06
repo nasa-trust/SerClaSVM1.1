@@ -1,0 +1,7 @@
+eBay and eCommerce data service
+Terapeak
+Terapeak is an eCommerce service that provides data and insights on eBay pricing and sales. With Terapeak&#039;s data, users can price their items based on sales and data in an effort to maximize eBay and eCommerce sales.
+
+The Terapeak API allows developers to access and integrate the functionality and data of Terapeak with other applications and to create new applications. Some example API methods include retrieving seller information, retrieving price information, and retrieving sales data. 
+analysis Data eBay ecommerce enterprise 
+Enterprise

@@ -1,0 +1,9 @@
+Online Contact Retrieval Service
+Cambridge Lookup/Ibis Web Service
+A RESTful read/write web based API for gathering and manipulating data in the Cambridge University Data Network (CUDN).
+
+The Web service API is only available for use within CUDN.
+
+Allows for the fetching of people, groups and institutions and pertinent contact information for sources located within the database.
+contacts email reference uk university utility 
+Reference

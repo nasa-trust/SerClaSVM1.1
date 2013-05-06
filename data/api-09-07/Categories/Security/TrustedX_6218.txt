@@ -1,0 +1,14 @@
+authenticity 1
+business 3
+encryption 1
+endow 1
+ensure 1
+handling 1
+intend 1
+make 1
+manage 1
+mechanism 2
+reliability 1
+security 5
+signature 1
+transactions 1

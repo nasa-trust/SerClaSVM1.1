@@ -1,0 +1,7 @@
+Online scheduling service
+MakePlans
+MakePlans is an online scheduling and appointment setting service. MakePlans can be integrated into websites so people can make appointments online through the website and receive email confirmations. 
+
+The MakePlans API allows developers to access and integrate the functionality of MakePlans into other sites and applications. Some example API methods include retrieving lists of appointments, setting appointments, and accessing account information. 
+calendar scheduling 
+Calendar

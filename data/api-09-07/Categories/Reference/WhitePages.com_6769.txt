@@ -1,0 +1,17 @@
+address 1
+build 1
+free 1
+give 1
+lookup 2
+million 1
+offering 1
+people 3
+phone 1
+record 1
+reference 2
+rest 1
+reverse 2
+search 2
+social 1
+support 1
+telephony 1

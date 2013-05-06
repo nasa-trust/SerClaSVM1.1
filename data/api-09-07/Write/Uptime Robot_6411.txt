@@ -1,0 +1,7 @@
+Website monitoring service
+Uptime Robot
+Uptime Robot allows you to monitor the statuses of up to 50 websites with alerts available by SMS, Twitter, RSS and push notifications (mobile). With an AJAX interface and user friendly and intuitive operations, Uptime Robot allows you to easily monitor a variety of online functions: HTTP(s), keywords, ping and port monitoring and more. Uptime Robot is currently free.
+
+The Uptime Robot API has a relatively simple set of tools and primarily allows you to create, delete, retrieve and edit monitoring logs. It utilizes a REST construction and supports XML and JSON/JSON-P responses.
+email monitoring tools utility 
+Tools

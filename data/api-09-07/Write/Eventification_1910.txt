@@ -1,0 +1,5 @@
+Social Event Site
+Eventification
+Eventification is a website where users can submit, browse, and subscribe/RSVP to events published by other users. The Eventification API is still in production, but devvelopers can still use the only currently available method for searching event published to Eventification and receiving the results in JSON, XML, RSS, or iCal formats. 
+events social 
+Events

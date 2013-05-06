@@ -1,0 +1,7 @@
+Cloud-based secure faxing service
+Sfax
+Sfax (Secure Fax) is a secure, cloud-based faxing service, particularly for healthcare providers and hospitals, as well as other industries that require secure faxing. Sfax is HIPAA compliant. 
+
+The Sfax API allows developers to integrate Sfax functionality into other applications. Some example API methods include sending faxes, managing contacts, managing sales information, and billing information. Public documentation is not available; interested developers should inquire here: https://www.sfaxme.com/by-product/sfax-api/integration-inquiry/.
+cloud fax internet security 
+Fax

@@ -1,0 +1,7 @@
+SMS messaging service
+Betwext Broadcast
+Betwext is a SMS messaging company that provides users with a variety of SMS related features and services. Their primary business comes from Betwext Broacast, which provides services for managing and executing SMS campaigns. Broadcast allows users to manage subscribers, execute A/B testing through SMS, create keyword responses, and segment and target campaigns. 
+
+The Betwext Broadcast API allows programmatic access to many features of their Broadcast service, including managing subscribers, lists, keywords, and campaigns. This is RESTful API that returns data in XML or JSON, and requires an API Key for access.
+Global messaging mobile sms 
+Messaging

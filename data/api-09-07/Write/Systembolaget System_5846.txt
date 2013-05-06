@@ -1,0 +1,5 @@
+Systembolaget Alcohol Database Access
+Systembolaget System
+Systembolaget, the Swedish alcohol monopoly mandated by the Swedish state to help control the medical and social harm caused by alcohol, has released a simple API to retrieve product information. The idea of the API is to fill the void that the monopoly creates as they only provide big XML / XLS files that users have to download and then entertain themselves. This API provides a quick and easy retrieval of Systembolaget&#039;s current sales records.
+alcohol database government search shopping 
+Database

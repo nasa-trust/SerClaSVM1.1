@@ -1,0 +1,6 @@
+Music metadata management
+Tunelog
+From their site: What is tunelog?
+Think of tunelog as your music data repository. Not storage for your music itself, but for all the data about your music. What you own, what you play, how you rate everything, how you tag everything...your reviews, your watch lists, your stats, your data. What your friends are playing. What your friends are saying about their music. Use tunelog to consolidate your music data as you play from home, play from work, play on the go. People are writing tools to automatically pump all your stats into tunelog so you can do cool things with it. 
+music 
+Music

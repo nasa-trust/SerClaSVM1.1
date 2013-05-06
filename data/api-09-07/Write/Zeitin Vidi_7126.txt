@@ -1,0 +1,5 @@
+Streaming video service
+Zeitin Vidi
+Vidi is a service that lets developers add live streaming video to their web sites and applications. The video capability can be used for video conferencing, video messaging, video chat, live broadcasts, security cameras and more. The API lets developers control aspects of the video feed such as the room, client, player and more. The API uses REST, SOAP and JavaScript protocols and responses are formatted in XML and JSON.
+streaming video 
+Video

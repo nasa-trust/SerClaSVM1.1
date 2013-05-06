@@ -1,0 +1,12 @@
+bar 2
+food 2
+get 2
+leave 1
+own 1
+pub 1
+recommendation 1
+review 5
+travel 1
+two 1
+visitor 1
+way 1

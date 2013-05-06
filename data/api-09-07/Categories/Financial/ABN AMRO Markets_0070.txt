@@ -1,0 +1,17 @@
+asset 1
+bank 2
+class 1
+currency 1
+dutch 3
+finance 2
+market 5
+netherlands 1
+nv 1
+own 1
+product 1
+quote 1
+reference 1
+state 1
+stock 4
+stocks 1
+type 1

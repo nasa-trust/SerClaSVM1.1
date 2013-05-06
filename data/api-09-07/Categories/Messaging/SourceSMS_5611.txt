@@ -1,0 +1,12 @@
+bulk 3
+connect 1
+functionality 2
+integrate 1
+main 1
+message 2
+messaging 4
+method 1
+receive 2
+sending 2
+sm 4
+text 5

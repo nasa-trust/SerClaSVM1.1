@@ -1,0 +1,5 @@
+Customer relationship management service
+Really Simple Systems CRM
+Really Simple Systems CRM keeps all your customers and prospects in a simple two-tier data structure: Accounts (companies and organizations) and Contacts (people who work there). The Really Simple Systems CRM API allows you to integrate your in-house applications to your CRM system using industry standard API calls. The SOAP API provides access to read, write and create functions, so you can perform all CRM tasks through your own interface. 
+CRM enterprise deadpool
+Enterprise

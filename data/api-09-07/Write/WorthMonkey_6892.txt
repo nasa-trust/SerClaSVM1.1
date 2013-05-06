@@ -1,0 +1,5 @@
+Used Electronics Valuation Service
+WorthMonkey
+WorthMonkey is a used electronics valuation service that searches internet vendors for price data and provides purchase options as well as a pricing threshold. The API allows users to query WorthMonkey for the value single items or a list of items. An account with WorthMonkey is required to get an API key and access the API. 
+electronics price sales shopping 
+Shopping

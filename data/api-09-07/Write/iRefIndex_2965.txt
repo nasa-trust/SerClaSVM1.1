@@ -1,0 +1,5 @@
+Protein interaction databases
+iRefIndex
+The iRefIndex APIs - PSICQUIC and PSISCORE - provide programmatic access to iRefIndex data on protein interactions as well as many other interaction databases. These APIs allow users to query one database website and then have that query replicated at all other databases that have implemented the APIs. The user then receives a compiled list of results matching their query regardless of the database that contains the information. The iRefIndex APIs are available via SOAP or REST protocols.
+bioinformatics database science 
+Science

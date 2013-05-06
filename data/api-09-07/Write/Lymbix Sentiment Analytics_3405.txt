@@ -1,0 +1,5 @@
+Sentiment Analysis Service
+Lymbix Sentiment Analytics
+Lymbix brings sentiment analysis to developers via its Lymbix Sentiment Analytics API. At a basic level, you can determine the positive, negative and neutral status of text. Its system also goes beyond that to include specific emotions, such as anger, sadness, humiliation, fear, enjoyment, affection, friendliness and amusement. The API also returns a confidence and accuracy rating.
+sentiment tools 
+Tools

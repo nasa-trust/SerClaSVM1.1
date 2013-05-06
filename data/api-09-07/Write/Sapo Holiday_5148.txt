@@ -1,0 +1,7 @@
+Portuguese holiday reference service
+Sapo Holiday
+SAPO is a Portuguese Internet service provider whose main web site acts as a web portal featuring a directory of Portuguese sites. SAPO Services provides a large suite of web services and applications to developers worldwide.
+
+The Holiday API returns a list of Portuguese national, regional and municipal holidays for a specified year. Users can search for specific hoidays including Easter, Carnival and Good Friday. Holidays can be returned for all years between 1582 and 2299. The API uses SOAP protocol and responses are formatted in XML.
+calendar reference 
+Calendar

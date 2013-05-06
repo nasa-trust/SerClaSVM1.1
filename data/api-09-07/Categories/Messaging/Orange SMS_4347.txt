@@ -1,0 +1,17 @@
+advertising 1
+communicate 1
+create 1
+end 1
+france 1
+instant 2
+message 1
+messaging 3
+need 1
+orange 4
+own 1
+receive 1
+scenario 1
+send 1
+sm 7
+telephony 1
+text 2

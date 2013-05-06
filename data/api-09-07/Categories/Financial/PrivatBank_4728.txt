@@ -1,0 +1,16 @@
+bank 1
+banking 2
+commercial 1
+connect 1
+documentation 1
+finance 2
+format 1
+internet 1
+kiosk 1
+large 1
+payment 3
+response 1
+russian 1
+software 1
+support 1
+ukraine 3

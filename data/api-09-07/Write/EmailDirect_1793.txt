@@ -1,0 +1,7 @@
+Email marketing campaign management service
+EmailDirect
+The service provides tools for managing email marketing campaigns, with bulk messaging and list management and control of feedback loops such as unsubscribe request and complaint processing. It facilitates white-listing management and handling of bounce and bad-address functions. Analytical tools include message tracking and delivery statistics.
+
+API methods support list and subscriber management (add/edit/delete), campaign configuration and message delivery, and bounced message management. Methods also support tracking by data source, subscriber history, and domain.
+campaign email marketing messaging 
+Email

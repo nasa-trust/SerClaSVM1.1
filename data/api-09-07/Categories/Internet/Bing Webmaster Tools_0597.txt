@@ -1,0 +1,13 @@
+analysis 1
+capture 1
+datum 5
+fashion 1
+gather 2
+give 1
+internet 2
+leverage 1
+program 1
+structure 1
+tool 4
+variety 1
+webmaster 5

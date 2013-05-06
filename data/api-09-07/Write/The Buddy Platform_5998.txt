@@ -1,0 +1,7 @@
+Cloud-based hosting solutions for application developers
+The Buddy Platform
+The Buddy Platform is a service that provides developers with cloud-based solutions for their applications. The Buddy Platform offers hosted features for applications, such as user accounts, messaging, photo albums, and geolocation services.
+
+The Buddy Platform API allows developers to access various functionalities of Buddy Platform. Some example API methods include adding and editing user accounts, adding friend lists, accessing photo albums, and implementing push notifications for their applications.
+cloud hosting internet 
+Internet

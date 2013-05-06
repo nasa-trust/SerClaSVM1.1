@@ -1,0 +1,5 @@
+3D model sharing platform
+Bimshare Upload
+Bimshare is a sharing platform for engineering and architectural models. Users can upload 3D models of their designs and view them from an angle. Bimshare is designed to work in many browsers for professionals, students, and governments. Their API exposes the functionality for generating URLs with models can be hosted. It is a RESTful API and responds in JSON. 
+file-sharing model tools 
+File Sharing

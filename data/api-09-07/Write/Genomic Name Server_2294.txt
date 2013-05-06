@@ -1,0 +1,5 @@
+Bioinformatics database
+Genomic Name Server
+Genomic Name Server (GeNS) provides unified access to data residing at different sources, under different schemas, and in different formats. Currently, GeNS is importing data from four major databases: UniProt (SwissProt and TrEMBL), KEGG, EMBL???EBI, and Entrez. Since these databases already incorporate data from third-party resources, GeNS can offer over 460,000 unique genes, more than 100,000 biological relations, and 140 distinct data types.
+genetics reference science 
+Science

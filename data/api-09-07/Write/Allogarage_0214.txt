@@ -1,0 +1,5 @@
+French car dealership reviews and recommendations
+Allogarage
+Allogarage is a site that gathers user reviews of car dealerships and mechanics to help users make informed decisions when repairing their cars. The API provides users access to the garages database Allogarage. Find a dealer by zip code, city or GPS coordinates via the XML-RPC API provided. The site and documentation is in French.
+cars france reviews shopping 
+Shopping

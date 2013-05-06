@@ -1,0 +1,5 @@
+Diabetes management service
+SweetSpot
+SweetSpot is an online daibetes management program. SweetSpot allows users to upload blood sugar readings from their meter, email, or a cell phone. Once blood sugars are uploaded, the information is accessible over the internet. The RESTful API allows users to pull information from SweetSpot directly into an excel spreadsheet, or view recent blood suger highs and lows with a news reader. Default response formats are XML, JSON, RSS and Atom.
+health 
+Other

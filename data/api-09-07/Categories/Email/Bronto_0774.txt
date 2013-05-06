@@ -1,0 +1,9 @@
+campaign 1
+customer 1
+email 4
+integrate 1
+know 1
+main 1
+marketing 3
+reliability 1
+support 1

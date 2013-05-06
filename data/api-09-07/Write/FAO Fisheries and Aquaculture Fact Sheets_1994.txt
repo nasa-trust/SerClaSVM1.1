@@ -1,0 +1,6 @@
+Fisheries and aquaculture data service
+FAO Fisheries and Aquaculture Fact Sheets
+Part of an effort by the UN&#039;s Fisheries and Aquaculture Organization to modernize, improve, and streamline the global flow of information about fishery statistics, fishery resources, and stock status and trends. Web services are part of establishing an open and interoperable platform based on XML, HTTP and REST to make available selected information from the organization&#039;s Fisheries and Aquaculture Fact Sheets. The API gives access to lists of fact sheets by domain and international language, fish stocks by species and geographic area, etc.
+
+fishing international reference 
+Reference

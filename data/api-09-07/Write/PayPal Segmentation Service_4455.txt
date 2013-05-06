@@ -1,0 +1,7 @@
+User data and analytics service
+PayPal Segmentation Service
+X.Commerce, eBay&#039;s conglomeration of e-commerce platforms and services, has created the Segmentation Service to empower website and application owners with data about the buying and usage habits of different segments of their user population. When webmasters have the email address of visitors with PayPal accounts, they can employ the Segmentation Service to gain insights to user purchasing habits.
+
+The Segmentation Service lets webmasters obtain information such as the average buying frequency of a customer, their average spending value, or how recently they used PayPal to complete a transaction. This API uses OAuth, and can return data as either XML or JSON.
+analytics merchant tools 
+Tools

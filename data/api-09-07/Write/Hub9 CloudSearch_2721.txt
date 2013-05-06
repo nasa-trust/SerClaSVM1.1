@@ -1,0 +1,5 @@
+Cloud hosted search service
+Hub9 CloudSearch
+Hub9 CloudSearch is a service that offers cloud hosted search solutions for websites. Search features include full text searching and searching control.
+cloud search
+Search

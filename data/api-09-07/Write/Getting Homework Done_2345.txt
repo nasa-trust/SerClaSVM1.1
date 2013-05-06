@@ -1,0 +1,5 @@
+Homework submission service
+Getting Homework Done
+Submit a homework job (high school level or less) with the submitHomework method. The job will be done by one of our team of college graduate students. Check the status of your job with the status method and fetch the solution when it is done with the solution method. Code available on github. The API uses HTTP calls and responses are formatted in JSON.
+education homework 
+Education

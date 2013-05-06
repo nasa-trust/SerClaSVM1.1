@@ -1,0 +1,5 @@
+Elastic computing platform
+Enomalism
+From their site: An open source, web-based virtual infrastructure platform designed to answer the complexity of managing globally dispersed virtual server environments. Helps to automate the transition to a cloud computing environment.
+internet 
+Internet

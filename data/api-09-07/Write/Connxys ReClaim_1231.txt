@@ -1,0 +1,7 @@
+Electronic luggage tagging service
+Connxys ReClaim
+The ReClaim service offered by Connxys provides customers with an electronic tag to add to their luggage to prevent mishandling. The tag is highly durable and enables airline workers to quickly confirm a bag&#039;s ownership and itinerary, even if the original airline tag is missing or unreadable.
+
+ReClaim customers may update their travel information by e-mailing the service or by logging into their profile and updating the information themselves. The ReClaim API provides another option, allowing users to add, update, or retrieve itinerary and flight information programmatically.
+luggage tools tracking travel 
+Travel

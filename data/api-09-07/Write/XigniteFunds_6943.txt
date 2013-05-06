@@ -1,0 +1,5 @@
+U.S. mutual fund daily NAVs
+XigniteFunds
+From their site: This web service provides daily NAVs for U.S. mutual funds. Historical mutual fund prices are available since 1/1/1994. You can use XigniteFunds to accurately price mutual fund holdings in your investment portfolios or analyze mutual fund performances.
+finance money 
+Financial

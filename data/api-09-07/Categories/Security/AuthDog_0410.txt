@@ -1,0 +1,17 @@
+authentication 3
+build 2
+consume 1
+create 1
+creation 1
+email 2
+forget 1
+format 1
+functionality 1
+implement 1
+internet 1
+password 1
+recovery 1
+request 1
+response 1
+security 2
+validation 1

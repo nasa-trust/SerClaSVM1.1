@@ -1,0 +1,12 @@
+bible 3
+book 1
+domain 1
+living 2
+lookup 2
+passage 1
+public 1
+religion 1
+search 1
+stone 2
+three 1
+translation 2

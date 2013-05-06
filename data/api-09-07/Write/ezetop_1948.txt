@@ -1,0 +1,5 @@
+Mobile phone top up service
+ezetop
+The Ezetop platform enables real time sale of mobile phone top up to mobile operators around the world. Ezetop lets people living or working abroad to instantly top-up their mobile phones minutes of friends and family back home. Ezetop provides an API which distributors can integrate into their exisiting systems, terminals etc. It uses either REST or SOAP protocol and responses are formatted in XML.
+telephony 
+Telephony

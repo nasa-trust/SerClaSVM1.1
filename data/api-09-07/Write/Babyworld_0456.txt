@@ -1,0 +1,5 @@
+Social sharing site for families
+Babyworld
+Babyworld.net is a site where parents can share pictures and stories about their children with family and friends around the world. The site also supports a community of parents for sharing of advice, experiences and more. The API provides admin functionality for users wishing to integrate the site with their own application. Functionality includes data storage, available domain lookup, messaging, notification and more. The API in available in REST, SOAP and JavaScript forms and returns are formatted in XML and JSON.
+family sharing social 
+Social

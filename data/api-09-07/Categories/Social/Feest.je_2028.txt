@@ -1,0 +1,17 @@
+beta 1
+documentation 1
+dutch 1
+fee 2
+foursquare 1
+gps 1
+incorporate 1
+like 1
+location 4
+mapping 1
+mobile 1
+netherlands 3
+place 1
+private 1
+public 1
+sharing 3
+social 1

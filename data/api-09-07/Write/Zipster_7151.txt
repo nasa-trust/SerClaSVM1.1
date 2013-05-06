@@ -1,0 +1,5 @@
+Australian job search site
+Zipster
+The Zipster API allows anyone interact programmatically with Zipster by providing a range of API methods and data, which can be easily integrated into an application or a website. Zipster is a career website for technology professionals, and the organisations that seek to employ them, in Australia. Zipster is designed for the specific needs of technology professionals, enabling them to perform highly targeted job searches based on specific criteria, including location, type of employment and keyword. The API uses RESTful protocol and responses are formatted in XML. Authorization is provided through OAuth and the use of an API Key.
+Australia jobs search 
+Job Search

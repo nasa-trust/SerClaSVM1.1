@@ -1,0 +1,5 @@
+Project management service
+flow.io
+The flow.io service provides &quot;lean project management&quot; in a software as a service format. The flow.io API provides a similarly lean true REST API for creating, editing and deleting members, projects and tasks.
+project-management 
+Project Management

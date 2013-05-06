@@ -1,0 +1,5 @@
+Music storage, streaming, and sharing
+tunesBag
+Use the tunesBag API to manipulate your tunesBag account, such as add items to a playlist, create a playlist, create a recommendation, get artist information, send an invitation, and more. The tunesBag site is a service where you can upload your music collection and stream your own tracks, or stream the tracks of your friends. Use the main site to create playlists, or integrate your Facebook, last.fm or Twitter accounts and listen to your music anywhere and anytime. Join the Google group to view docs.
+music social storage 
+Music

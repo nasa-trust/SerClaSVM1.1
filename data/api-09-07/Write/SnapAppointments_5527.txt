@@ -1,0 +1,5 @@
+Appointment schedule management 
+SnapAppointments
+SnapAppointments is booking service for appointment-based businesses. Small and complex businesses can use it to share their calendar availability with potential clients who can book appointments over the Internet. SnapAppointment automates schedules for employees and can send reminders to clients via text, email, or phone. Their RESTful API provides access to both client-side booking-query functionality as well as business-side appointment management. 
+calendar social 
+Calendar

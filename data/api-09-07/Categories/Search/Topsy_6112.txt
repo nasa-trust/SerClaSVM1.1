@@ -1,0 +1,15 @@
+author 1
+datum 1
+engine 1
+influence 1
+links 1
+number 1
+photo 2
+quality 1
+ranking 1
+receive 1
+result 1
+search 5
+social 1
+tweet 1
+twitter 3

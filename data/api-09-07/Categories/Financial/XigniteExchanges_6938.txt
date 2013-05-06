@@ -1,0 +1,14 @@
+business 1
+days 1
+exchange 2
+finance 2
+find 1
+holiday 1
+hours 3
+money 1
+operate 2
+search 1
+security 2
+stocks 1
+trading 2
+world 2

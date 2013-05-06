@@ -1,0 +1,7 @@
+Open source water and environment data platform
+WEHUB
+The Water and Environmental Hub (WEHUB) is an open-source, open-data project that collects, aggregates, and connects data from various sources on water and environment. Features include a spatial map, database, and tools for data visualization.
+
+The WEHUB API allows developers to access and integrate the functionality and data of WEHUB with other applications and to create new applications. Documentation is available with free account registration and login.
+Data environment science visualization water 
+Science

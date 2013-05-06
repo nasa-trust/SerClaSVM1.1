@@ -1,0 +1,7 @@
+Gas purchase points redemption service
+Sapo Galp Fast
+SAPO is a Portuguese Internet service provider whose main web site acts as a web portal featuring a directory of Portuguese sites. SAPO Services provides a large suite of web services and applications to developers worldwide.
+
+The Sapo Galp Fast system allows users to accumulate point when they purchase gas at Galp stations. The points, accumlated via the Fast card, can be redeemed for services or products offered at partcipating service stations. The API lets users see what catalog items they are eligible to acquire, return customer data and return current points accumulated on a card. The API uses REST and SOAP calls and resposes are formatted in XML.
+fuel rewards shopping 
+Shopping

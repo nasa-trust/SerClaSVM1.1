@@ -1,0 +1,7 @@
+Online marketing service for local businesses
+MerchantCircle.com
+MerchantCircle is an online network of local business owners, combining social networking features with customizable web listings that allow local merchants to attract new customers.
+
+The MerchantCircle API allows developers to access business names, locations, coupons, deals, and more information within MerchantCircle.
+advertising coupons local shopping 
+Shopping

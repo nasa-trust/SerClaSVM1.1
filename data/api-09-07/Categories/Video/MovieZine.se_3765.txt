@@ -1,0 +1,6 @@
+movie 4
+query 2
+reference 1
+review 2
+swedish 1
+video 2

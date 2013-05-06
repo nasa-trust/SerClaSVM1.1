@@ -1,0 +1,5 @@
+Scuba dive tracking services
+Dilogs
+Use the Dilogs API to get your dives, post your dives, get events, get user profiles, and generally do things programmatically that you can do on the main site. Some methods do not require authentication, such as getSitesNear. Dilogs is for keeping track of all your dives easily, as well as for socializing with others who enjoy the water. You can access your profile from anywhere using a PC or mobile device with an Internet connection. In addition to the API, a KML option is also available to access users&#039; public information and dive sites. Also, this file can be visualized with Google Earth.
+scuba sports 
+Sports

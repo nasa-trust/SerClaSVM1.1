@@ -1,0 +1,12 @@
+audio 1
+document 1
+engine 2
+file 5
+find 2
+medium 1
+result 1
+return 1
+search 5
+type 3
+video 1
+want 1

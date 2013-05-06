@@ -1,0 +1,7 @@
+Neighborhood and local news service
+OpenBlock
+The service provides a platform for neighborhood-specific, &quot;hyper-local&quot; news and information reporting. Designed to support websites for updates about community activities, it can also power widgets and feeds to integrate news into existing sites. Capabilities include mapping event reports and data summaries, such as local utility maintenance reports, crime statistics, and the like.
+
+API methods support creating and retrieving news items, with location information tying them to a particular place. Methods also support listing places and locations, with search boundaries set by either a predetermined area or a random centerpoint and bounding circle of specified distance.
+local mapping neighborhood news 
+News

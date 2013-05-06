@@ -1,0 +1,8 @@
+Attach digital content to barcodes
+Stickybits
+The Stickybits API enables developers to write and read bits to any code (barcode, QR code, etc). Stickybits is a platform that enables anybody to build applications that connect the digital and physical worlds. Stickybits.com allows people to attach digital content to barcodes. When those barcodes are scanned (via our iPhone or Android apps), you?ll see all the content that has been attached. Users can also be notified when a barcode is scanned, has new attachments or even changes location.
+
+Using the API, developers can upload digital content (&quot;bits&quot;) to any barcode (or any sequence of characters), view all bits attached to any barcode (or any sequence of characters), generate unique barcodes to be used with our system, call almost the entire API, enabling them to interact with the stickybits system (viewing users, friending, scanning, etc...). The API uses RESTful architecture.
+
+barcode mobile utility 
+Other

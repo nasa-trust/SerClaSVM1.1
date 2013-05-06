@@ -1,0 +1,7 @@
+SMS text messaging service
+eWebvision Youranium
+The service provides a gateway that connects enterprise applications to Short Message Service Center (SMSC) to generate SMS text messages from web and backoffice services. Actions in other systems can trigger SMS messaging to any mobile number (GSM or CDMA device). Options include customized sender name and scheduled messaging. 
+
+API methods support management of contact lists and address book, with individual or bulk messaging. Methods allow integration to trigger messaging based on events in line-of-business applications. Methods also support long-format SMS and Flash messaging.
+india marketing messaging sms uk 
+Messaging

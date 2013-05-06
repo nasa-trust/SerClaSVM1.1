@@ -1,0 +1,15 @@
+Online gaming portal
+Spil Games
+Spil Games is a games publisher and online global gaming portal. Spil Games focuses on reaching local audiences with localized content and encouraging gamer loyalty through social gaming as strategies to differentiate and tailor our gaming content to our players??? needs.
+
+The API lets developers implement these strategies into their games using three main functions. 
+
+1) It enables games to seamlessly integrate into the Spil portfolio of websites. 
+
+2) It handles the implementation of localization and branding for the various Spil Games websites, so that the branding and language displayed to the end user are correct if a game is listed on multiple websites.
+
+3) It enables games to interact with the social features of the Spil Games sites including handling the submission of the awards, high scores, and other social features. 
+
+Full public documentation is not available but developers can contact licensing@spilgames.com for more information.
+games localization social 
+Games

@@ -1,0 +1,5 @@
+Photo management and sharing service
+Google Picasa
+From their site: The Picasa Web Albums data API allows client applications to view and update Picasa Web Albums content in the form of Google data API GData feeds. Your client application can request a list of user albums, photos, comments, or tags, edit or delete content in an existing entry, and query the content in an existing entry.
+photo 
+Photos

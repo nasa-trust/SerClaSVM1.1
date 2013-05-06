@@ -1,0 +1,5 @@
+Location sharing service
+waldstat
+Waldstat allows you to keep track of where you are and where you have been. It also allows you to let your social graph know of what you are up to and where you will be. You can explore new locations initialize new events and announce your attendance to them.
+location mapping mobile places search social 
+Social

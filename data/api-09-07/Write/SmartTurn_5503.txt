@@ -1,0 +1,5 @@
+Inventory management software
+SmartTurn
+SmartTurn is an inventory management software system that increases visibility and control of all inventory management processes. SmartTurn web services provide a way to automatically share data between SmartTurn and third party applications - such as accounting packages, web storefronts, and legacy systems - without having to go through the SmartTurn user interface and manually create orders or export reports. Using SmartTurn web services allows users to automatically enter, update, or cancel purchase orders and sales orders in SmartTurn, automatically enter and update item masters in SmartTurn, automatically enter and update business affiliates in SmartTurn and more. SmartTurn implements web services using SOAP and WSDL.
+enterprise Inventory 
+Enterprise

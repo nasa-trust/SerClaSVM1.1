@@ -1,0 +1,5 @@
+Local reviews service
+Qype
+The Qype API gives you access to their database of over 0.5M reviews and ratings of pubs, bars, restaurants and other local businesses across the world. You can search by name, longitude and latitude, and user, and the database of geo-coded place reviews and ratings is multi-lingual.
+local mapping places reviews travel uk 
+Recommendations

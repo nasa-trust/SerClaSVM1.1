@@ -1,0 +1,5 @@
+Travel search and booking service
+Pocket Village
+Pocketvillage offers a platform for users to search and compare travel experiences, activities and tours. The API can be used to help companies and publishers increase their cross-sells, earn additional revenues and excite their customers. It allows users to reference 40,000 products from 8,000 destinations in 120 countries. Documentation is not publicly available but developers can contact the provider at florian@pocketvillage.com to learn more and to receive a presentation of the API solution and an API documentation.
+booking search travel 
+Travel

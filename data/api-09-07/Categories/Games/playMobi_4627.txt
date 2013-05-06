@@ -1,0 +1,15 @@
+authentication 1
+badge 2
+cloud 1
+datum 1
+example 1
+functionality 1
+game 6
+integrate 1
+integrating 1
+method 1
+mobile 2
+monetization 3
+posting 1
+social 2
+socialization 1

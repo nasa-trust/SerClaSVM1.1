@@ -1,0 +1,7 @@
+Mobile voice CRM service
+Cogent Mobile
+Cogent Mobile is a voice CRM application that allows users to manage their CRM with voice commands, as well as using their CRM on mobile devices.
+
+The Cogent Mobile API allows developers to access and integrate Cogent Mobile functionality into other services and applications. Public documentation is not available; interested developers should contact info@cogentmobile.com for more information and API access.
+CRM mobile office Voice 
+Office

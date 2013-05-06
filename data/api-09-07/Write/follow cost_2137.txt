@@ -1,0 +1,5 @@
+Find the follow cost of a Twitter account
+follow cost
+The follow cost API allows users to find the &quot;cost&quot; of following a twitter user. The service measures how much people tweet using an absolute scale: which is the average number of tweets per day and also measured in milliscobles, or 1/1000th of Robert Scoble&#039;s Twitter output. More about milliscobles. The API uses a GET request and returns data via the JSON format. 
+deadpool fun social Twitter 
+Social

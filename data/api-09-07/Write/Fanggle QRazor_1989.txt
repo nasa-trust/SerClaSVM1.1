@@ -1,0 +1,5 @@
+Marketing and Advertising Service
+Fanggle QRazor
+Fanggle provides cloud applications across various industries including retail and CPG, Non Profits, Automotive, Libraries, Media and Publishing, and more. The QRazor API, provided by Fanggle, is an advertising and marketing service designed to cover all web delivery venues. The service will generate QR codes, UPC, EAN 13, Code 38 and more. It has a built in Redirector and URL shortener, analytics to evaluate success, and enables users to brand and customize QR codes. Access to the API is available after joining the Licensing and Partnership program.
+advertising marketing qr search url-shortener 
+Advertising

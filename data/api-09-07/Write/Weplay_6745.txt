@@ -1,0 +1,5 @@
+Social Youth Sports Community
+Weplay
+Weplay is a youth sports community that connects youth athletes, parents, and coaches. Weplay offers an API that lets developers create applications that can access Weplay (update/retrieve/delete data) through HTTP calls to the API endpoint. Data is returned in an XML or JSON format.
+games social sports 
+Sports

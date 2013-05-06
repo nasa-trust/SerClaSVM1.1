@@ -1,0 +1,5 @@
+Stock market data service
+Stock Market Data
+Stock Market Data offers an API that lets users view a snapshot of the latest stock market data in various Web 2.0 formats such as JSON, RSS, ATOM, MDDL (Market Data Definition Language - XML for Market Data) and CSV. Currently SMDAPI supports NASDAQ Stock Exchange, New York Stock Exchange (NYSE), Bombay Stock Exchange (BSE) and National Stock Exchange, India (NSE). The API uses RESTful calls.
+finance stocks 
+Financial

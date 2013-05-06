@@ -1,0 +1,13 @@
+Business conversion tools platform
+Agendize Platform
+Agendize provides conversion tools that help businesses convert web visitors into leads and clients, and track everything along the way. These tools include Click-to-Call, Send to Phone (by SMS), Live Chat, Online Scheduling and more. The Agendize APIs allow customization of these tools and retrieval of all reporting data. 
+
+The Platform API lets users create and manage Agendize accounts, buttons and campaigns from within their own application. With the Agendize Platform API, users can manage several aspects of their Agendize account:
+
+    Create/modify buttons
+    Create/modify campaigns
+    Create/modify user accounts
+
+It uses RESTful calls and responses are formatted in XML.
+chat enterprise messaging sms telephony tools 
+Enterprise

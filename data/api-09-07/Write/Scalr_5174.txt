@@ -1,0 +1,5 @@
+Cloud hosting platform
+Scalr
+Scalr is a cloud hosting system that allows developers to scale their applications quickly in times of traffic surges. The Scalr API provides access to much of the functionality in the Scalr platform. Use the API to programmatically update DNS zone files, create Apache virtual hosts, provide details about server farms and launch/terminate farms.
+internet hosting cloud webhooks
+Internet

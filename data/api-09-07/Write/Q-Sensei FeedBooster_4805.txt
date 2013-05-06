@@ -1,0 +1,7 @@
+Webfeed search service
+Q-Sensei FeedBooster
+Q-Sensei&#039;s offers a multi-dimensional searching and indexing technology to help businesses find and discover new ways to leverage the increasing volumes of structured and unstructured data stored within. Q-Sensei&#039;s solution provides faceted federated search, which presents results in a dynamic and organized index sorted along multiple &#039;dimensions&#039; (date, tag, source, author, language or other attributes).
+
+The Q-Sensei FeedBooster API lets users embed the service in any web site or application, and to provide users with a more organized search experience for webfeeds and RSS data. The API uses RESTful calls and responses are formatted in JSON.
+feeds search 
+Feeds

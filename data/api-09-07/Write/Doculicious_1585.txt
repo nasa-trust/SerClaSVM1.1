@@ -1,0 +1,5 @@
+Service for web forms with PDF output
+Doculicious
+Doculicious.com is a web service for creating online web forms that output PDF files. The Doculicious API provides users with the tools to query entries saved to their forms, and also submit entries from their programs or web forms. Using the API, users can easily fill in PDF files from their own web forms. The API features interaction with Templates and Data from any programming language and application that can access the internet, including PHP, C#, and Ruby.
+internet pdf utility 
+Utility

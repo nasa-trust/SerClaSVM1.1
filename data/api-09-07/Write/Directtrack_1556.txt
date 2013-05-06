@@ -1,0 +1,5 @@
+Affiliate marketing software platform
+Directtrack
+DirectTrack is an affiliate marketing and affiliate software tracking platform - powering the largest and most reputable affiliate networks and in-house affiliate programs. The API gives developers an interface to the platform. Functionality includes lookup and retrieval of creative types, campaign info, leads, statistics and more. The API uses SOAP protocol and responses are formatted in XML.
+affiliate marketing 
+Advertising

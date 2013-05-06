@@ -1,0 +1,5 @@
+Social sharing service
+Google Buzz
+Google Buzz is a new way to share updates, photos, videos and more, and start conversations about the things you find interesting. The core platform extends from Google Gmail. The Buzz API provides a wide variety of open standards for developers including: Atom, AtomPub, Activity Streams, PubSubHubbub, OAuth, MediaRSS, Salmon, the Social Graph API, PortableContacts, and WebFinger.
+deadpool microblogging social webhooks 
+Social

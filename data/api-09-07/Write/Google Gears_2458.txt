@@ -1,0 +1,5 @@
+Tools for offline browser extensions
+Google Gears
+From their site: Google Gears is an open source browser extension that lets developers create web applications that can run offline. Three modules include Local Server Cache and serve application resources (HTML, JavaScript, images, etc.) locally; Database: Store data locally in a fully-searchable relational database; WorkerPool: Make your web applications more responsive by performing resource-intensive operations asynchronously.
+deadpool desktop 
+Other

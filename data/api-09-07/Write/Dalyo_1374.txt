@@ -1,0 +1,5 @@
+Mobile application production platform
+Dalyo
+Dalyo is a web platform for mobile application production. It provides a comprehensive toolbox that makes it easy to design, deploy, synchronize, and manage mobile applications that run on smartphones, PDAs, and web browsers. The Dalyo API allows users to edit data stored in Dalyo programmatically using SOAP calls.
+internet mobile 
+Internet

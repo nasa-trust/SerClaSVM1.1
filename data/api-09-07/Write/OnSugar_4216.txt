@@ -1,0 +1,5 @@
+Blogging service
+OnSugar
+OnSugar is a free hosted blogging service. You can write posts, share media, create galleries and integrate third party ads into your site. The OnSugar API provides read/write access to posts in six types (text, picture, chat, link, quote and video), as well as read access to users and friend connections. Interestingly, since blog posts are public, all read methods are also public, not requiring authentication.
+blogging 
+Blogging

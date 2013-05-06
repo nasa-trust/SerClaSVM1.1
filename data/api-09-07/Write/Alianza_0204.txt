@@ -1,0 +1,7 @@
+Cloud-based voice communication service
+Alianza
+The service provides a hosted broadband platform for voice communication, especially voice-over-IP (VoIP). Cloud-based services are delivered via shared network infrastructure to distribute capital costs for hardware and network resources among users which reduces risk of VoIP implementation. 
+
+API methods support creation, updating, and deletion of user accounts to control access to the platform. Methods also handle calls placed by users, phone numbers used including extensions, and devices involved. The API allows for control by geographic area and policy, such as user account permissions and 911 access.
+cloud telephony VoIP 
+Telephony

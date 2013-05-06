@@ -1,0 +1,7 @@
+Cloud storage and application platform
+CubeDrive
+The service provides online applications for standard office productivity functions such as word processing, spreadsheets, presentations, and project management. Users interact with the online service to create, modify, and manage their documents, which remain securely stored in the remote system. The API allows applications to integrate these functions, which can be implemented either via the web service or through an installed instance.
+
+API methods support create, retrieve, update, and delete (CRUD) functions for a range of office document and application types. Methods also manage synchronization of separate sets of changes to support collaboration among users in preparing documents, with notifications of changes. Mobile access is available for spreadsheet content.
+documents enterprise office spreadsheet 
+Enterprise

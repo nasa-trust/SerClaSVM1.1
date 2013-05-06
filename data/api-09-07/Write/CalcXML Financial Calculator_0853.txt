@@ -1,0 +1,7 @@
+Financial data calculation service
+CalcXML Financial Calculator
+The service accepts input data for standard financial calculations and provides results in XML format. Calculation services focus on investment decisions and questions posed to investment advisors, but they address many types of transactions, including loan and mortgage payments, home and auto purchases, retirement income, college costs and savings, and others.
+
+API methods provide results of standard calculations for business cash flow, investment returns, savings rates and retirement income, credit decisions, college and education costs, and more.
+calculator finance financial 
+Financial

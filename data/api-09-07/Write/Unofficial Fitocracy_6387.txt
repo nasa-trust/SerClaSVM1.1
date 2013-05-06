@@ -1,0 +1,5 @@
+Social fitness platform
+Unofficial Fitocracy
+Fitocracy is a site that uses gamification elements and a social network to encourage users to engage with a fitness plan and track their progress. This unofficial API was developed to be used as a basic read-only API for profile data. Data provided includes variables such as user progress, groups, profile imagery, follow counts and more. The API uses RESTful calls and responses are formatted in JSON and JSONP.
+exercise fitness games gamification social unofficial 
+Games

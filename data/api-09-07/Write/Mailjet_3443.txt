@@ -1,0 +1,7 @@
+Cloud hosted email platform
+Mailjet
+Mailjet is a cloud hosted email platform. Users can create and send email newsletters and other HTML emails, as well as track transactional emails and email analytics. 
+
+The Mailjet API allows developers to access and integrate the functionality and data of Mailjet with other applications. Some example API methods include adding and managing contacts, creating email campaigns, and retrieving email and campaign statistics.
+advertising campaign cloud email marketing metrics 
+Email

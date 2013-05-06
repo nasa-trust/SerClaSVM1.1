@@ -1,0 +1,7 @@
+Video and audio file transcription service
+Koemei
+Koemei provides video and audio asset transcription services. Koemei transcribes video and audio files, indexes the transcripts, making the video and audio files searchable on the web.
+
+The Koemei API allows developers to access and integrate the functionality of Koemei with other applications. Some example API methods include retrieving media files, retrieving transcript files, and uploading media.
+audio media search Transcription video 
+Media Search

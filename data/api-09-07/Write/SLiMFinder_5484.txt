@@ -1,0 +1,5 @@
+Shared protein motif discovery service
+SLiMFinder
+SLiMFinder is a tool for finding shared motifs in proteins with common attributes such as sub-cellular location or interaction partner. A motif is a pattern found in biological sequences that is believed to have special significance. Thus, SLiMFinder may be used to help identify the amino acid patterns responsible for certain protein behaviors or interactions. The SLiMFinder API provides access to this function via SOAP protocols.
+bioinformatics deadpool science 
+Science

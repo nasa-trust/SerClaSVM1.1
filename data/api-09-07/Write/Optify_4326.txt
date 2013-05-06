@@ -1,0 +1,5 @@
+Inbound B2B marketing service
+Optify
+Optify is a B2B marketing platform. It helps generate leads and track marketing programs around the web. They do this by offering CMS plug-ins, SEO and search marketing software, social media campaign software, and more. Using these functions in an integrated suite, Optify yields insightful sales data. The Optify API exposes marketing and integration functionalities. Developers can use to create custom reporting dashboards, better-informed CRM, and more. 
+advertising b2b marketing tools 
+Advertising

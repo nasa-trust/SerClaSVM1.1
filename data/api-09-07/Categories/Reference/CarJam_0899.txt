@@ -1,0 +1,17 @@
+auto 1
+buying 1
+car 2
+check 1
+datum 1
+fact 3
+get 2
+history 2
+license 1
+market 1
+motorist 1
+plate 1
+reference 2
+selling 1
+submit 1
+vehicle 2
+zealand 3

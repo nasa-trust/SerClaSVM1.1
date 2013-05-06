@@ -1,0 +1,5 @@
+Internet domain name registrar and hosting service
+iWantMyName Domain and DNS
+iWantMyName is a domain registration and management service for international domain names. Their API is currently in private beta.
+DNS domain internet 
+Internet

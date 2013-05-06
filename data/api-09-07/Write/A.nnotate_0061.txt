@@ -1,0 +1,5 @@
+PDF, Word, or Web annotation service
+A.nnotate
+Use the A.nnotate Integration API to allow your users to create private or shared notes on your web pages. You create an iFrame to display a PDF or Word document, and then users can make annotations within that iFrame. You can display your own branding with it, too. Let your users create their own notes, tags, and discussions in a PDF viewer window after you implement this annotation service. 
+internet office
+Office

@@ -1,0 +1,5 @@
+Music graphics service
+AllCDCovers
+Find cover art for CDs, DVDs and video games. Search by keyword and category. Provides URLs to thumbnail and larger versions of every cover, along with meta-data about the artist, as well as the images.
+music 
+Music

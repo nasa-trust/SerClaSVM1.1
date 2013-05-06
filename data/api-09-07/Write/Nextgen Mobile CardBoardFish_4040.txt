@@ -1,0 +1,7 @@
+SMS text messaging service
+Nextgen Mobile CardBoardFish
+The service provides a computer application interface for sending SMS text messages. It allows both individual messages and bulk messaging to specified lists of recipient numbers. Tools available include message definition, contact list management, campaign management, and administrative functions like billing and service reporting.
+
+API methods support submission of a message with sender, recipient, message text, along with optional parameters like data encoding scheme and delivery receipt request. Methods also support retrieval of incoming messages, scheduling of messages, and service billing functions.
+Global messaging sms uk 
+Messaging

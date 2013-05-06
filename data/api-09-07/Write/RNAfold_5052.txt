@@ -1,0 +1,5 @@
+RNA secondary structure prediction service
+RNAfold
+RNAfold is an interface for RNA folding and sequence design. It can be used to calculate secondary structures of RNA sequences. RNAfold is available as a web console or as a SOAP API.
+biology genetics science 
+Science

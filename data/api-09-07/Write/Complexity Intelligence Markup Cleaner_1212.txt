@@ -1,0 +1,5 @@
+HTML markup cleaning service
+Complexity Intelligence Markup Cleaner
+Complexity Intelligence Markup Cleaner API looks for HTML errors on a web page and returns the cleaned text as a whole. Complexity Intelligence is a start-up that focuses on Artificial Intelligence research. Complexity Intelligence is developing a range of natural language processing services accessible through web-services. Both free and paid subscriptions are available. Support is provided for both Java and PHP. The API uses RESTful protocol and responses are formatted in XML.
+html tools 
+Tools

@@ -1,0 +1,16 @@
+call 1
+count 1
+date 1
+datum 3
+earthquake 5
+form 1
+format 1
+human 1
+interest 1
+magnitude 1
+mapping 2
+project 1
+recent 1
+response 1
+transform 1
+visualization 3

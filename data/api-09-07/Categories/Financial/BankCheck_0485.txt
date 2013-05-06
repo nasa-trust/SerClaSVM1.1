@@ -1,0 +1,16 @@
+account 2
+bank 2
+code 1
+commercial 1
+demand 1
+enterprise 2
+finance 2
+interface 2
+mosaic 1
+programming 1
+soap 1
+software 1
+sort 1
+system 1
+uk 1
+validation 1

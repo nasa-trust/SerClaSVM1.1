@@ -1,0 +1,5 @@
+Databases for significant sites in biological sequences
+Norwegian Bioinformatics Platform
+The Norwegian Bioinformatics Platform hosts a collection of APIs for accessing the Eukaryotic Linear Motif (ELM) database and the Jaspar database. The ELM database contains descriptions, representation, and known instances of functional sites in proteins. The Jaspar database contains profiles of transcription factor binding sites in DNA. Data can be retrieved from these databases via SOAP calls.
+bioinformatics database science 
+Science

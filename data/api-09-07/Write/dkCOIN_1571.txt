@@ -1,0 +1,5 @@
+Biomedical resource database
+dkCOIN
+dkCOIN (NIDDK Consortium Interconnectivity Network) provides seamless public access to large pools of data relevant to the mission of NIDDK (National Institute of Diabetes and Digestive and Kidney Diseases). Available resources includes everything from raw genetic information to scholarly articles. The dkCOIN API allows users to search and access its collections and resources. With an account, users can upload and edit their own resources for public use.
+medical science 
+Medical

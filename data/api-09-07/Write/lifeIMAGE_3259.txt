@@ -1,0 +1,5 @@
+Diagnostic imaging records sharing service
+lifeIMAGE
+lifeIMAGE is a service for healthcare providers, doctors, patients, and hospitals to manage share diagnostic imaging records with each other. 
+medical health
+Medical

@@ -1,0 +1,7 @@
+State and local government data
+OpenGovernment
+OpenGovernment is a non-partisan project of the Participatory Politics Foundation and the Sunlight Foundation. OpenGovernment is modeled after OpenCongress (another project of this team) but brings government transparency down to state and local levels. The aim of OpenGovernment is to make this government data and information more easily accessible and usable.
+
+OpenGovernment provides a RESTful API which returns responses in JSON and JSONP. Data is available for: basics of legislature and sessions; people; committees and committee memberships; bills; votes; and more. 
+government local state 
+Government

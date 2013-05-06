@@ -1,0 +1,7 @@
+Online mapping service
+Yandex Maps
+Yandex is the largest search engine in Russia and develops a number of Internet-based services and products. Yandex offers owners of websites and blogs tools with which they can apply the functional services of Yandex in their projects. The site and documentation are in Russian. 
+
+The Yandex Maps API is a free tool that allows developers to embed maps on their website. Using the API users can manage cards and their contents, as well as create a variety of applications - from simple interactive directions to the office to advanced GIS services. The API uses both REST and JavaScript protocol and returns a map image based on specified parameters.
+display mapping russia viewer 
+Mapping

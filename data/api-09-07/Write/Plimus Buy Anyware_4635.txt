@@ -1,0 +1,5 @@
+Software registration service
+Plimus Buy Anyware
+Plimus is a software registration service offering payment processing, subscription services, code, copy and fraud protection. Plimus Buy Anyware API offers a REST-based interface between the customer and Plimus e-Business platform. With Buy Anyware, users can deliver customized checkout processes, single-click purchase processes, secure login to the Plimus shopper control panel, seller-hosted customer account management controls and innovative subscription terms and programs. Full documentation is available by contacting the provider. 
+payment 
+Payment

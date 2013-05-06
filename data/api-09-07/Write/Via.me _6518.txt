@@ -1,0 +1,5 @@
+Social media sharing platform
+Via.me 
+Via.me is a hosting platform for content for social media sites. Users can upload pictures, videos, and audio to Via.me and share that content across their social networks. A dashboard on the homepage also updates with new posts from users. The API exposes the sites social media data gathering functionality. Developer can retrieve information about users??? relationships, posts, likes, and more. The API is still in beta and developers must register their app to gain access to it.
+hosting media sharing social 
+Social

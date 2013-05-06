@@ -1,0 +1,5 @@
+Mobile network service
+Sprint Presence
+As part of the larger Sprint Services Framework, the Sprint Presence API is used to determine if a device is present on the Sprint CDMA network. Requires knowledge of the device&#039;s mobile directory number (MDN) and permission from the device owner.
+mobile telephony 
+Telephony

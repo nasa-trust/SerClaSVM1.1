@@ -1,0 +1,7 @@
+Custom online music radio
+Unofficial Pandora
+Pandora is an online music player that uses information gathered by the Music Genome Project to find songs or artists with similarities to those that the user likes. It then plays them back on streaming online stations.
+
+The API methods exposed by Wikia users provide programming language-independent access to Pandora???s proprietary APIs. All listed API calls have been reverse-engineered by Wikia users and have not been made available by Pandora. These calls provide access to all aspects of Pandora&#039;s functioning including the creation and editing of stations, retrieval of song information, creation of user accounts, logging on or off, and more.
+music unofficial 
+Music

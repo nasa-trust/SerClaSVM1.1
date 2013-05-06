@@ -1,0 +1,5 @@
+Website content matching tool
+TrustYou Matching
+TrustYou provides several tools for performing semantic analysis of data, such as reviews of hotels and restaurants, and integrating them into an app or website. The Matching API figures out which entities on thousands of different websites belong together. It can also be used to do clustering of user entities (e.g. restaurants, hotels, doctors, spas, home services, etc.), providing names and location data, and indicating with a probability level which of them belong together. 
+matching semantic tools 
+Tools

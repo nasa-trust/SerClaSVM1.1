@@ -1,0 +1,5 @@
+Real-Time Stock Quotes for U.S. Stocks
+Xignite Realtime
+From their site: This web service provides real-time stock quotes information for U.S. equities. Using this stock quote web service, you can get real-time last sale, bid/ask and trading volumes information on companies listed on U.S. stock exchanges, including NYSE, NASDAQ, AMEX, and over-the-counter exchanges.
+finance money 
+Financial

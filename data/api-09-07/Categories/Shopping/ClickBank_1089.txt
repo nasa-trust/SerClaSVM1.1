@@ -1,0 +1,13 @@
+ability 1
+account 2
+active 1
+affiliate 2
+behalf 1
+function 1
+marketer 1
+outlet 2
+owner 1
+product 1
+retail 2
+secure 1
+shopping 2

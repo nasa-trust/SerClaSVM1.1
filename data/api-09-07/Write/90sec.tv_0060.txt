@@ -1,0 +1,5 @@
+Embed videos on web sites
+90sec.tv
+Using the 90sec.tv API users can easily embed videos on their web pages. With the 90sec.tv API users have full access to 6000  high quality movie and game trailers. The trailers are updated everyday and updates can bevautomatically received via this API. With version 1, users can download the video list and video detail, access the video games list and cinema channel, and adjust the color of the videoplayer. The API uses RESTful calls and all data is returned as XML. Site and documentation are in German.
+games movies trailer video 
+Video

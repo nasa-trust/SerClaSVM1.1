@@ -1,0 +1,5 @@
+Shopping cart services
+Google Checkout
+From their site: Google Checkout is a checkout process that you integrate with your website, enabling your customers to buy from you quickly and securely, using a single username and password. Once they do, you can use Google Checkout to charge their credit cards, process their orders, and receive payment in your bank account. 
+shopping 
+Shopping

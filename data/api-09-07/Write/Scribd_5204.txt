@@ -1,0 +1,5 @@
+Document viewer and handling service
+Scribd
+From their site: A REST-based API with methods for uploading, converting, editing, deleting, and searching documents. Using the API, you can use Scribd as a back-end for an application that needs to process documents, without needing to write a document processing system yourself. Use the Scribd API to harness the full power of Scribd&#039;s scalable conversion system, storage system, ad network, search engine, and iPaper viewer on your website. The Scribd API is the most powerful and customizable way to upload documents to Scribd, convert documents to iPaper, manage existing documents on your website, and find the content you need.
+enterprise office 
+Office

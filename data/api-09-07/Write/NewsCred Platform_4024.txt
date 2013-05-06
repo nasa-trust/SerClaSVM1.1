@@ -1,0 +1,5 @@
+News syndication service
+NewsCred Platform
+NewsCred is a global content distribution platform that helps content producers generate new outlets of revenue by allowing them to syndicate content via an API. The API gives users programmatic access to millions of news articles, images and videos from 5000+ news sources, ready to be integrated on any device. The NewsCred Platform API exposes identifiers for topics, articles, sources and other uniquely identifiable objects. The API uses RESTful calls and responses are formatted in XML, JSON or RSS.
+news syndication 
+News

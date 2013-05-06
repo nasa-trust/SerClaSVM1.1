@@ -1,0 +1,7 @@
+Philippines deal service
+Paynoy
+Paynoy is a travel, services, and products deal website for the Philippines. Paynoy users can search for deals on travel, products, and services and receive deal information via email.
+
+The Paynoy API allows developers to access and integrate the deal data and functionality from Paynoy with other applications. The API method allows for returning deal information. 
+coupons deals food philippines shopping travel 
+Shopping

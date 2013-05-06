@@ -1,0 +1,6 @@
+SMS and Voicemail Management Service
+Ribbit Messages
+Ribbit is a phone company dedicated to a new way of approaching telephony; an open platform for voice innovation and an entire &quot;developer success ecosystem&quot; to support the developers.
+Using Ribbit&#039;s Messages RESTful API, users can retrieve their messages (voicemail or SMS) from their mailbox using GET requests or create new messages using POST.
+deadpool telephony Voice 
+Telephony

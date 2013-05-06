@@ -1,0 +1,5 @@
+Blog ping service
+BlogPingr
+BlogPingR is a blog pinging web service that lets users set up their blogs to notify a server when the content has been updated. The API allows users to set up their blog pings with or without an RSS feed. The API uses XML-RPC protocol with responses formatted in XML. The site and documentation are in German.
+blogging germany ping 
+Blogging

@@ -1,0 +1,5 @@
+Real time web site visitor data
+whos.amung.us
+whos.amung.us provides widgets that let web site owners know how many visitors on on their site in real time as well as what pages they are on, how many of them there have been in the past, and where they come from. The widgets can be used on a web site, blog or a social network. The API allows users to embed the functionality into their application be it on the desktop, web site, Facebook or elsewhere. Additionally the API can be used to create live updating widgets, no visible widgets at all, and offer much higher user tracking resolution. Full documentation is not publicly available but developers can contact the provider for more information.
+analytics internet tracking visitor website 
+Internet

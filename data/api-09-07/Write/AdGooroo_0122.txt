@@ -1,0 +1,7 @@
+Keyword search marketing platform
+AdGooroo
+The AdGooroo API lets developers access competitive intelligence data to build virtually any application that meets their needs. The API is based on the popular REST architecture and supports data transfer formats such as JSON, XML, and CSV. You are free to develop in the language of your choice, including .NET, Perl, PHP, or virtually any other common language.
+
+AdGooroo is a provider of advertising intelligence to search engine marketers. Its proprietary technology tracks all search advertising activity in any given industry, empowering sophisticated agencies and advertisers with competitors&#039; keywords, ad copy, campaign statistics, daily alerts, and other information needed to generate the highest possible return on advertising investment.
+marketing search SEO 
+Advertising

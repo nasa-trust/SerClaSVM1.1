@@ -1,0 +1,15 @@
+control 1
+edit 1
+editing 2
+experience 1
+exporting 1
+give 1
+image 1
+importing 1
+interface 2
+load 1
+photo 3
+portion 1
+save 1
+specific 1
+superior 1

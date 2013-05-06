@@ -1,0 +1,7 @@
+Q&A social network
+Formspring
+Formspring is a social network for asking and answering questions. Registration is free and is required to participate.
+
+The Formspring API allows users and developers to interact with Formspring data and functionality, and to pull content into other clients and services, or integrate social Q&A with external websites. Formspring uses a REST-like API that returns responses in XML or JSON formats.
+answers social 
+Answers

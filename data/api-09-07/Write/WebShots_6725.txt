@@ -1,0 +1,5 @@
+Photo sharing service
+WebShots
+Note: API is available by request only. From their site: Email us today to get started! Please include your contact information and an explanation of the application you hope to develop and so we can understand how you plan to use the API, and share this with our community once it is built. We&#039;ll respond with the API calls, a partner key and password and our terms & conditions of use.
+photo 
+Photos

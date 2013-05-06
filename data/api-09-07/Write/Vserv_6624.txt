@@ -1,0 +1,5 @@
+Mobile advertising network
+Vserv
+Vserv.mobi is a leading mobile advertising network that offers Mobile App and Mobile Web advertising for mobile developers, publishers and advertisers. Vserv provides an HTTP based API to application developers to fetch ads to be rendered within mobile applications or on properties like wap pages. Response formats are either an image or text.
+advertising mobile 
+Advertising

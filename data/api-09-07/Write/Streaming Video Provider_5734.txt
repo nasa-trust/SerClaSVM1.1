@@ -1,0 +1,7 @@
+Hosted media storage and streaming service
+Streaming Video Provider
+The service hosts media resources, video and audio, for access via online streaming. Applications can interact with the service to upload video for their account and manage hosted videos, including filtered listings of streaming resources, updating, and deletion. Controls for currently streaming resources also are available such as play and pause. 
+
+API methods support server communications and duplicate functions available from the service control panel. Example functions are upload, list, and delete videos for a service account. Methods also list available web player templates and online TV channels.
+audio media streaming video 
+Media Management

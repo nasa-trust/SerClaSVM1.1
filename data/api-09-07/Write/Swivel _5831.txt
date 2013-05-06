@@ -1,0 +1,7 @@
+Business data visualization and analysis
+Swivel 
+The Swivel API web service provides full create, read, write and delete access to charts in Swivel Business.
+
+Upload and update the charts. Create data visualizations of information your enterprise team members want.  Embed those visualizations in your Web site or blog.
+charts enterprise visualization 
+Financial

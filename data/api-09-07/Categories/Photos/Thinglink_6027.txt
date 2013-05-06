@@ -1,0 +1,14 @@
+attribute 1
+embed 2
+functionality 2
+image 5
+interaction 2
+lead 1
+links 3
+mass 1
+photo 3
+share 1
+social 1
+specify 1
+things 1
+transform 1

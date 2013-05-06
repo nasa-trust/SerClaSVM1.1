@@ -1,0 +1,5 @@
+Location-based networking service
+Mates
+The Mates API was created to introduce and connect individuals based on the intersection of physical location and other properties they might have in common. Physical location is determined by either user input or statistical analysis. The current version of the Mates API is geared towards academic settings and works to connect people based on course registration and academic interests. However, the publicly available source code means that Mates could easily be tweaked to fit other situations.
+local location networking relationship 
+Social

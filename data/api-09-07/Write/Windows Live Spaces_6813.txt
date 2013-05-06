@@ -1,0 +1,5 @@
+Blog services
+Windows Live Spaces
+MSN Spaces supports the MetaWeblog API programming interface which enables external programs to get and set the text and attributes of Weblog posts. The API uses the XML-RPC protocol for communication between client applications and the Weblog server.
+blog deadpool 
+Blogging

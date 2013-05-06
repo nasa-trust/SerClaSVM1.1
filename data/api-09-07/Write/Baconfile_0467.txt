@@ -1,0 +1,5 @@
+Web based file storage interface for Amazon s3
+Baconfile
+Baconfile is a simple web interface for the Amazon S3 service. With Baconfile, users can upload their files, organize into folders, add a description, share the link, and add comments.
+S3 torage 
+Storage

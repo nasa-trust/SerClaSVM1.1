@@ -1,0 +1,6 @@
+Financial and time tracking service
+Cashboard
+Cashboard is a software program that helps you manage time and finances for your business. Key features include time tracking, expenses, invoicing, estimates, and online payments. The Cashboard API allows programmers to integrate Cashboard with other applications and data. 
+The API is currently in BETA. Documentation is subject to change without notice. During the BETA period, you can only obtain an API Key by contacting support or creating an account via the API. 
+billing enterprise finance invoicing sbweb time-tracking 
+Enterprise

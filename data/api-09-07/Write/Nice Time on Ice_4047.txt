@@ -1,0 +1,5 @@
+National Hockey League information
+Nice Time on Ice
+Nice Time on Ice is a National Hockey League information hub. The site organizes links to the NHL???s official statistics and other hockey sites to provide a comprehensive and scaled perspective on teams??? performance. This includes information scores, player reports, time on ice, and more. Their API provides developers access to all of these resources. It runs on a REST protocol and responds with JSON data. 
+games hockey sports 
+Sports

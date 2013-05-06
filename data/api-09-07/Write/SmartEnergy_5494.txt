@@ -1,0 +1,7 @@
+Energy management and conservation service
+SmartEnergy
+The service works with a SEGmeter sensor connected to an electrical panel to detect the energy flow. It then compiles readings into summarized information, supported by graphical visualizations. The information inputs enable control of utility use and cost, potentially lowering electrical bills and encouraging conservation.
+
+API methods support collecting and managing streams of energy flow data by source of demand between start and end dates. Methods deliver cost and carbon footprint by day and at a point in time.
+energy financial green 
+Financial

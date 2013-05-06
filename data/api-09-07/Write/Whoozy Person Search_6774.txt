@@ -1,0 +1,5 @@
+Name search service
+Whoozy Person Search
+This API is part of the people search engine http://whoozy.com. This API uses a RESTful interface to allow an application to search for a name in social networks, search engines, blogs, news, pictures, phone numbers, email addresses and more. Responses are formatted in either XML or JSON.
+search social 
+Search

@@ -1,0 +1,5 @@
+Consumer reviews service
+QuarkRank
+From their site: QuarkRank provides the information for making decisions at the point of purchase. QuarkRank has the capability to automatically summarize the opinions of millions of consumer reviews on the internet. It provides summarized opinions via API and Widget.
+community internet recommendations shopping 
+Shopping

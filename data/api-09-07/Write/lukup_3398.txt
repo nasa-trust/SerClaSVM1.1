@@ -1,0 +1,5 @@
+Location based search and messaging service
+lukup
+Users can enhance their apps using lukup APIs for cross platform messaging, search, news feeds, contacts, location, etc. lukout is a location based search and messaging widget for mobile phones. lukup provides APIs to enable applications &#039;written once, to run on multiple consumer devices (mobile phones, desktops, etc)&#039; and enable them to connect to multiple social networks (facebook, twitter, google, yahoo). Documentation is provided for a RESTful API with responses in JSON. A JavaScript API is also available.
+location mobile social 
+Social

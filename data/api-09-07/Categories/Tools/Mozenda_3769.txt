@@ -1,0 +1,17 @@
+account 1
+acquire 1
+concept 1
+connect 1
+customer 1
+datum 3
+describe 1
+extraction 1
+internet 1
+people 1
+rest 1
+share 1
+system 1
+tool 2
+type 1
+utilize 1
+way 1

@@ -1,0 +1,13 @@
+add 2
+amazon 2
+comment 1
+description 1
+file 2
+folder 1
+interface 2
+link 1
+organize 1
+share 1
+simple 1
+storage 2
+upload 1

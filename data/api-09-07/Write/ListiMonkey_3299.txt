@@ -1,0 +1,7 @@
+Twitter list email delivery application
+ListiMonkey
+ListiMonkey is a service that allows users to get Twitter lists and searchers emailed to their inbox. Users enter the lists they want emails about, filter by keywords if they choose, and enter the email address they want the Twitter lists sent to.
+
+The ListiMonkey API allows developers to access and integrate the functionality and data of ListiMonkey with other applications. Some example API methods include creating new alerts, accessing lists for specific users, and managing email alerts.
+email lists social 
+Email

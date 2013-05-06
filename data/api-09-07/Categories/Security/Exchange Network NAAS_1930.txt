@@ -1,0 +1,17 @@
+agency 1
+authentication 2
+call 1
+datum 1
+exchange 7
+format 1
+government 1
+method 1
+network 6
+partnership 1
+protection 1
+science 1
+security 3
+soap 1
+state 1
+territory 1
+tribe 1

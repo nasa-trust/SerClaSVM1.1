@@ -1,0 +1,17 @@
+awareness 1
+call 1
+exist 1
+format 1
+game 4
+gaming 3
+gps 1
+integrate 1
+interact 1
+location 4
+mix 1
+mobile 2
+phone 1
+platform 3
+reality 1
+response 1
+social 1

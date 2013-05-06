@@ -1,0 +1,11 @@
+customer 3
+datum 1
+desk 3
+enterprise 2
+entire 1
+issue 1
+manage 1
+platform 1
+support 1
+team 1
+work 1

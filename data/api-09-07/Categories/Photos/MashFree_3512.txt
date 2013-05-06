@@ -1,0 +1,17 @@
+call 1
+comment 1
+deep 1
+file 1
+image 2
+isolate 1
+link 2
+medium 2
+option 1
+parameter 1
+photo 3
+return 1
+share 2
+sharing 3
+social 1
+specify 2
+url 2

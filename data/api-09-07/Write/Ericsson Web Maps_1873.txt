@@ -1,0 +1,5 @@
+Online mapping service
+Ericsson Web Maps
+The Ericsson Web Maps API provides an interactive mapping platform for integrating dynamic maps into any web application. Custom layers of your own symbols. OpenStreetMap and TeleAtlas map data. The maps are rendered in a Java Applet which provides fast map browsing and smooth and animated interaction. Ericsson Labs holds APIs, resources, offerings, and various expert commentaries.
+deadpool display mapping OSM viewer 
+Mapping

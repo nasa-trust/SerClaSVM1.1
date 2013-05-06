@@ -1,0 +1,13 @@
+Single and Bulk SMS service 
+ZNISMS SMS
+Znisms is one of the largest Bulk SMS providers and aggragaters in India, and supplies a number of SMS services. The API suite offers :
+
+HTTP SMS API (HTTP API based on REST) used to send single SMS from your application
+
+Group SMS API (XML API) sending SMS in masses e.g. you have a messages which you want to send to 1000 people i.e. same message to multiple recipients.
+
+Balance Check API and Delivery Report API
+
+Dynamic XML API for sending customized SMS i.e. different numbers, different messages in masses.
+india messaging sms telephony 
+Messaging

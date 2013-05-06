@@ -1,0 +1,5 @@
+Business process management service
+Barium Live
+Barium Live! provides tools and services for creating valuable and sustainable process solutions. Target customers are leading businesses and organizations that need to automate and ensure the quality of their business processes, while also keeping them up-to-date. Barium Live! offers a REST API that allows users to get information from and set information to process models and applications they have created.
+enterprise management 
+Enterprise

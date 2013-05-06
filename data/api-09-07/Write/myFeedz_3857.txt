@@ -1,0 +1,5 @@
+Blog services
+myFeedz
+From their site: The myFeedz API helps people to include myFeedz contents into their own websites or applications. You can use the API to perform various queries against our database of articles, displaying what&#039;s hot around the web or exporting pieces from your profile. A couple of use cases that we thought of are: automatic tagger for your blog posts; keep track of your reading interests with a tag cloud of your profile; display a tag cloud for your blog or blogs; display content related to your posts; and display articles from a certain topic.
+blog bookmarks community news search 
+Blog Search

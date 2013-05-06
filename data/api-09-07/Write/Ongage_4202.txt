@@ -1,0 +1,7 @@
+Email marketing platform
+Ongage
+Ongage is an email marketing platform. Ongage is a platform that allows users to use multiple email service providers to reach audiences based on geography and other characteristics.
+
+The Ongage API allows developers to integrate the functionality of Ongage with other applications. The Ongage API allows full control of email sending, management, and reporting. Public documentation is not available; API access is available with service.
+campaign email marketing 
+Email

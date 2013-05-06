@@ -1,0 +1,7 @@
+Digital image service
+NYPL Digital Gallery
+The service allows applications to access digitized images from the New York Public Library collections. Searches can retrieve photos, maps, posters, illuminated manuscripts, ebooks, and other content from a repository of over 300,000 scanned images. Much of the material documents rare and historic resources from the NYPL collections.
+
+API methods support submitting a search query with a keyword to match against collection records, with optional parameters to limit the match to image captions, subject descriptors, name of the creator or other person involved, etc. Search can be limited by to specific albums, books, etc. within the NYPL collection. Images can also be retrieved by NYPL call number or by provenance (all images from a specific source). 
+image media photo search 
+Media Search

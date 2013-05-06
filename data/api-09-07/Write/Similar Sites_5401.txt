@@ -1,0 +1,7 @@
+Search API for Finding Similar Websites
+Similar Sites
+Similar Sites is a service to help users find new sites based on another. The API uses the same technology as the flagship site, returning up to twenty similar websites order by relevance, to a given URL in XML format. The service can also return a website&#039;s tags, category, adult site classification and more.
+
+Developers can test out the API for free, but the paid service starts at $250 per month.
+categorization classification internet search 
+Internet

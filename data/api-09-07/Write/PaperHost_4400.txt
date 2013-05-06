@@ -1,0 +1,5 @@
+Electronic document management
+PaperHost
+Use the PaperHost API to develop an integration between your app and the PaperHost online document imaging system archive. For example, use it to display a digital image of an invoice next to its accounting transaction.
+enterprise office 
+Enterprise

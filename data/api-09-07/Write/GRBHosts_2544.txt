@@ -1,0 +1,7 @@
+Astronomical data service
+GRBHosts
+The service maintains a database of Gamma-ray burst events. GRBs are the most energetic events in the universe, first documented in the 1960s and fully measured only in the late 1990s. API access to this database allows retrieval of data logged for individual events.
+
+API methods support identifying logged events, either all records in the database or selections designated by location or name assigned. Methods also allow submission of SQL queries to specify more flexible retrieval parameters. The API gives access to citations of papers that were data sources for the service database.
+astronomy research science 
+Science

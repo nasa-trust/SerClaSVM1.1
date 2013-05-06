@@ -1,0 +1,7 @@
+Italian bus route and transit service
+BusOnAir
+Currently in beta, BusOnAir aims to provide a transportation service for people living in, and around, L&#039;Aquila, Italy. This online resource and app enables locals to navigate L???Aquila???s bus system. Arrivals and departure times can be viewed more accurately and constantly changing travel routes can be seen in realtime. Besides being convenient, BusOnAir provides necessary services in the city and outlying villages which are still dealing with damage and reconstruction efforts.
+
+The beta API is hosted by mashape and employs a simple REST interface with responses defaulting to JSON. A variety of clients are available as well. A mashape API key is necessary.
+italy mapping transportation travel 
+Transportation

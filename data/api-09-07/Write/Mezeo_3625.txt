@@ -1,0 +1,5 @@
+Cloud storage platform
+Mezeo
+Mezeo provides a software platform for the deployment of white label cloud storage services that lets service providers quickly enter the cloud storage market. The Cloud Storage Platform API provides programmatic access to the cloud storage services hosted by Mezeo partners.
+storage 
+Storage

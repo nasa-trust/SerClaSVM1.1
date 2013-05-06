@@ -1,0 +1,5 @@
+EPA watershed information service
+EPA Watershed Summary
+The EPA&#039;s Watershed Summary API provides a summary of information for the types of data  available within a given watershed, which is identified by an 8-digit HUC (Hydrologic Unit Code). This data includes which organizations have data, the number of stations, and result counts by characteristic type.
+environment government science water 
+Science

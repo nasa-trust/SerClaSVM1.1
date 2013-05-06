@@ -1,0 +1,7 @@
+Learning management system
+Firmwater
+Firmwater is a hosted learning management system platform for training vendors and publishers. Some of the features include a learner&#039;s interface, report generation, and content management tools for publishers.
+
+The Firmwater API allows developers to integrate Firmwater with other applications and services. Some example API methods include creating and editing user sessions, access account information, and listing session and course information.
+education LMS 
+Education

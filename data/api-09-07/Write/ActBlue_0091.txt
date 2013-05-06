@@ -1,0 +1,5 @@
+Democratic fundraising service
+ActBlue
+The ActBlue API provides programmatic access to much of ActBlue&#039;s data. ActBlue helps individuals and organizations raise money for Democratic candidates and committees across the country. The ActBlue API covers three broad areas: entity information and fundraising page management, access to public fundraising totals broken out in various ways, and access to detailed contribution records. The API uses RESTful protocol and responses are formatted in XML.
+government money politics reference 
+Government

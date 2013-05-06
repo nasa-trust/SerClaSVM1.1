@@ -1,0 +1,5 @@
+Customer Relationship Management Service
+LessAnnoyingCRM
+LessannoyingCRM is designed to be a simpler way for small business to manage their customer relationships. The LessAnnoyingCRM API supports data creation to LessAnnoyingCRM.com through third-part applications. The REST API returns JSON and requires API tokens for access. An account is required to use the API and the underlying service cost $10 per month.
+calendar CRM management notes social tools 
+Tools

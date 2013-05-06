@@ -1,0 +1,7 @@
+Online storefront and payment service
+CommerceV3
+The service provides storefront, shopping cart, checkout functions compliant with PCI and DSS specifications. A configurable feature set and display allow integration with other sites, and API integration allows application level interaction. Variable tax and shipping options are controlled for each account.
+
+API methods support creation and management of product catalog entries, product categories for grouping similar items, and rules for pricing and shipping. Methods also support booking transactions and processing payments. Administrative functions include customer account creation and updating, blast email communications, and order exporting or reporting.
+ecommerce payment shopping 
+Payment

@@ -1,0 +1,5 @@
+Personalized content aggregator
+my6sense Attention
+my6sense&#039;s Attention API enables third party developers and publishers to create personalized streams of content for their users. my6sense presents users content that is ranked according to their preferences from their various streams. The m6s system learns what&#039;s valuable to users by translating their consumption behaviour into a personalized ranking function. The Attention API lets developers integrate m6s into mobile apps, website and desktop services in order to generate tailor-made personalized streams finely tuned for each user&#039;s information interests. API documentation is not publicly available.
+attention social 
+Internet

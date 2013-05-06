@@ -1,0 +1,15 @@
+album 1
+button 1
+click 1
+create 1
+like 1
+network 2
+number 1
+object 1
+permission 1
+photo 3
+protocol 1
+save 1
+social 2
+tool 2
+view 1

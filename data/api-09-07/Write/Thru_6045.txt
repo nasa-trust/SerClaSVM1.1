@@ -1,0 +1,5 @@
+Managed file transfer services
+Thru
+Thru is a provider of secure and managed file transfer solutions. The service is used for the secure sending, sharing and collaboration of files and folders worldwide. Thru can be used to work with confidential financial records, sensitive healthcare data, advanced architectural/engineering designs and more. The Thru API allows for integration between their Managed File Transfer as a service and third party applications. Functionality includes enabling users to publish content to portals, perform searches, set file expiration and more. The API uses SOAP protocol and responses are formatted in XML. Public documentation is not available.
+enterprise security transfer 
+Enterprise

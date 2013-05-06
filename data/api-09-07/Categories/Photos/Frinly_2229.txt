@@ -1,0 +1,17 @@
+call 1
+email 1
+format 1
+free 1
+functionality 1
+integrate 1
+mobile 1
+phone 1
+photo 8
+post 2
+response 1
+set 1
+share 1
+sharing 2
+social 1
+twitter 2
+upload 1

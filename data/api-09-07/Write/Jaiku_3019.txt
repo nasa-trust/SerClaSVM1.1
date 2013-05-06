@@ -1,0 +1,7 @@
+Social messaging service
+Jaiku
+NOTE: As of January 2009, the Jaiku service will become a community project and will  not be officially supported by Google. 
+
+Jaiku&#039;s main goal is to bring people closer together by enabling them to share their presence. It is a microblogging service similar to Twitter. 
+deadpool microblogging mobile 
+Messaging

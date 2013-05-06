@@ -1,0 +1,5 @@
+International phone callback service
+CallWithUs
+Web-based API allows service users to check account balance, get calling rate(s) to a specified phone number, retrieve call history and DID minutes, and initiate a web callback to the specified phone number (Click to call). The service is intended to give web visitors a free way to contact the site provider. Also provides SMS send services.
+calls international telephony 
+Telephony

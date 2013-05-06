@@ -1,0 +1,5 @@
+Email Analysis Service
+Mailing Report
+The Mailing Report API allows users to sync the Mailing Report service with existing CRM, e-commerce systems, CMS, and customer databases. The API is accessible using HTTP/HTTPS GET and POST requests. With this API, users can manage contacts, email campaigns, mailing lists, among other functions. 
+analytics CRM email reporting tracking 
+Email

@@ -1,0 +1,15 @@
+be 1
+datum 1
+endpoint 2
+exploration 1
+explore 1
+explorer 3
+format 1
+function 1
+method 1
+rest 5
+showcase 1
+simple 3
+test 1
+tool 2
+unknown 1

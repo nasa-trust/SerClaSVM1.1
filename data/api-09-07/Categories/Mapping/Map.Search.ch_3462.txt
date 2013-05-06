@@ -1,0 +1,14 @@
+add 1
+custom 1
+display 1
+embed 1
+interest 1
+map 4
+mapping 2
+planner 1
+poi 1
+point 1
+route 1
+switzerland 4
+viewer 1
+widget 1

@@ -1,0 +1,7 @@
+Upload and Share Documents
+DocumentCloud
+DocumentCloud helps journalists track documents. It is a repository, as well as a tool for document-based investigative reporting. The company compares its repository to a card catalog. DocumentCloud was built to &quot;accelerate the work of reporters who need to make sense of large sets of documents.&quot;
+
+The DocumentCloud API allows developers to create applications around DocumentCloud services. Authentication (HTTP Basic Auth) is not required for searching documents, but is required for everything else. 
+cloud news 
+News

@@ -1,0 +1,7 @@
+Image manipulation service
+PBS Image Transformation Service
+The PBS Image Transformation Service (ITS) is exposes a tool created to take large &quot;mezzanine&quot; images and reduce them to a variety of sizes. ITS takes a single image and retrofit it into assorted pages and platforms, while accommodating the different image sizes that may be required. Images manipulated using the ITS are never cropped, and preserve the original aspect ratio. This service supports .jpg, .png, and .gif files.
+
+The API operates by directly uploading the image files to the ITS repository, where the images will be transformed on the fly. Access to this free service is only available by contacting the provider at http://open.pbs.org/.
+image internet tools 
+Internet

@@ -1,0 +1,7 @@
+Track words used by US government representatives
+Capitol Words
+The service extracts language daily from the Congressional Record, which reports the full text of deliberations in the U.S. House of Representatives and Senate. Applications can query those search terms to receive mentions, by title and speaker, from 1996 forward.
+
+Methods support retrieval of statements in Congress by date, phrase, or free-text match. Retrieval can also specify which chamber of Congress, the speaker&#039;s state and/or party affiliation, or the name of a speaker to select for biographical data.
+advocacy congress government politics 
+Government

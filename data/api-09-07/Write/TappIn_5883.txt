@@ -1,0 +1,5 @@
+Cloud content sharing service
+TappIn
+TappIn is a service that gives users the ability to access and share personal content from anywhere that today is only accessible from within the home. The API lets users list their own folders and those shared by friends, download, upload, move, copy files, directory listings and more. The API uses RESTful protocol. Developers must request full documentation from the provider.
+cloud social storage 
+Storage

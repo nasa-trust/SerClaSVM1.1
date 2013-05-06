@@ -1,0 +1,5 @@
+Mobile payments service
+ZooZ
+ZooZ provides a quick and easy way to checkout and pay on mobile devices. With the multi-platform ZooZ SDK, mobile developers can easily integrate secure in-app payments with a few lines of code. After integration, app users are offered a true mobile wallet that is fast, easy to use and secure. ZooZ also aggregates various payment sources, such as credit cards and PayPal in one universal solution (additional eWallets and carrier billing coming soon). User details are securely stored in a cloud environment and shared across supporting apps, resulting in higher conversion rates and a quicker checkout experience.
+mobile payment 
+Payment

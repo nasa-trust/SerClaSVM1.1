@@ -1,0 +1,16 @@
+aspect 1
+automate 1
+cloud 2
+compliance 4
+detection 1
+integrate 1
+interface 1
+management 1
+policy 1
+scanning 1
+seal 1
+secure 1
+security 5
+solution 2
+testing 1
+vulnerability 1

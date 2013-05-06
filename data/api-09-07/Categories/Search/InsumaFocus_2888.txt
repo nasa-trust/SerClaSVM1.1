@@ -1,0 +1,14 @@
+documentation 1
+domain 1
+engine 3
+english 2
+german 2
+germany 1
+integrate 1
+internet 1
+intranet 1
+much 1
+portal 2
+search 6
+server 1
+soap 1

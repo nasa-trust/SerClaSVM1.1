@@ -1,0 +1,5 @@
+Image editing tool
+Image Pack
+Image Pack is an API that provides a set of functions that allow users to edit images. The functionality includes the ability to crop from a point, crop from center, resize and rotate. The API uses HTTP calls and responses are formatted in JSON.
+deadpool editing photo 
+Photos

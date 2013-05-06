@@ -1,0 +1,7 @@
+Data integration service
+Informatica Cloud
+Informatica is a provider of data integration software and services. Informatica Cloud addresses specific business processes (customer/product master synchronization, opportunity to order, etc.) and point-to-point data integration requirements (e.g. Salesforce.com to on premise or cloud-to-cloud end-points).
+
+Informatica Cloud allows users to integrate data across cloud-based applications such as Salesforce CRM as well as on-premise databases and applications. In addition to data integration it can handle business processes such as customer/product master synchronization, opportunity to order, and more. Key capabilities include data quality, data replication and data loading. The API allows for custom integrations with the platform. Public documentation is not available.
+cloud Data enterprise sharing 
+Enterprise

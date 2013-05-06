@@ -1,0 +1,9 @@
+Danish social networking site
+Digitaliser
+Digitaliser.dk is an effort to help with the digitization of Denmark. It brings together key resources, recommendations and guidelines on IT, communication and IT development. The goal is to strengthen cooperation to digitize Denmark between public and private parties.
+
+Digitaliser.dk is also a social networking platform. Users have the opportunity to produce and store  content, expose content so that others can see it and share knowledge about projects, specific tasks or relevant news and topics.
+
+The API exposes parts of Digitaliser.dk&#039;s underlying data giving users both both read and write functionality. It uses RESTful calls and responses can be formatted in XML, JSON, TXT, RSS, HTML and PNG images. The site and documentation are in Danish.
+denmark internet social 
+Social

@@ -1,0 +1,5 @@
+Worldwide geocoding information service
+Geognos World Countries
+Geognos provides this API as an interface for requesting geocoding and country information from their services for use within applications. Geognos presents textual and visual information for all countries of the world. With this API, users can retrieve country specific information and IP geolocation for all world countries. The API uses RESTful protocol and responses can be formatted in either XML, JSON, JSONP or HTML.
+deadpool geolocation IP mapping 
+Mapping

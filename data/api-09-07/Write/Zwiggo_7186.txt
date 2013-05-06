@@ -1,0 +1,7 @@
+Social networking for groups
+Zwiggo
+Zwiggo is a social platform designed for group use. Users can create and customize spaces where they can invite only the people they want to share with in those spaces. 
+
+The Zwiggo API allows developers to access the functionality of Zwiggo to build applications for the Zwiggo platform. Some example API methods include embedding comments, accessing Zwiggo style sheets, and accessing user account information. 
+collaboration social 
+Social

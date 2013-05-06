@@ -1,0 +1,5 @@
+SMS messaging service
+udefn
+udefn is a SMS service which lets you define keywords or shortcuts to your favorite bots. It turns your phone into a remote control. Just text your command. Customize your profile to read the latest news, see RSS updates, or even trigger your backup. provides a set of APIs that allow external applications to send and receive SMS text messages to and from their users, respectively. 
+deadpool messaging sms telephony 
+Messaging

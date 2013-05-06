@@ -1,0 +1,15 @@
+audio 3
+content 3
+functionality 1
+method 1
+posting 1
+retrieve 1
+search 1
+share 1
+text 2
+tool 2
+transcribe 1
+transcript 1
+transcription 5
+two 1
+video 3

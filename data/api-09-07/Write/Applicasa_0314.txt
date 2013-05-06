@@ -1,0 +1,5 @@
+Mobile backend platform
+Applicasa
+Applicasa is a server side solution that lets developers build backends for their mobile apps. Applicasas offers a drag and drop interface for database creation allowing a backend to be built in minutes. The Applicasa API contains CRUD functions, filters, paging, sorting and queries such as push notification, scheduling and API calling options. Responses are formatted in JSON. 
+application backend development mobile 
+Backend

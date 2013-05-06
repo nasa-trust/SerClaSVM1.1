@@ -1,0 +1,7 @@
+Photo sharing service
+Lockerz
+The Lockerz platform offers developers a real-time media sharing API across the social web. Using the Lockerz API, developers can add media sharing capabilities and other unique features to their applications. Lockerz is a service for sharing pictures around people, places and events and creating collective memories. Lockerz allows users to instantly share their photos to popular social networks through mobile devices and on the web. The API uses RESTful protocol and responses are formatted in XML and JSON.
+
+Plixi has been acquired by Lockerz. Find out more here: http://support.lockerz.com/entries/480987-important-notice-photo-url-changing-on-april-30-2011
+photo social 
+Photos

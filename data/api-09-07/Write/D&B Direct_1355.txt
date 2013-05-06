@@ -1,0 +1,5 @@
+Commercial business information service
+D&B Direct
+D&B Direct provides subscription based access to D&B's database of over 200M companies worldwide. D&B Direct is on-demand cloud access to high quality business data that enables users to: seamlessly integrate D&B data into corporate applications, enhance the quality and completeness of data within business databases, provide on-demand business data to the entire enterprise, search teh D&B database. The API uses RESTful calls and responses are formatted in XML. 
+company reference
+Reference

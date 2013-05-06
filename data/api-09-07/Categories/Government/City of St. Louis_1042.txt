@@ -1,0 +1,15 @@
+bureau 1
+citizen 1
+city 6
+collect 1
+customer 1
+datum 4
+department 1
+government 2
+key 1
+louis 5
+party 1
+protocol 1
+request 1
+require 1
+third 1

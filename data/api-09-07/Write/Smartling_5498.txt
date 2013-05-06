@@ -1,0 +1,5 @@
+Real time web translation service
+Smartling
+Smartling is a provider of real-time, crowdsourced translations for Internet based businesses. It&#039;s cloud-based software platform streamlines the localization of web & mobile applications through professional, crowdsourced or machine translation. The developer API enables an organization to specify exactly what content is translated, identify language-specific localization and design characteristics, and take advantage of many other custom features. Full documentation is not publicly available.
+deadpool 
+Internet

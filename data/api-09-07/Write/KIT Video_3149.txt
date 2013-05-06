@@ -1,0 +1,7 @@
+Video storage, encoding, and broadcast platform
+KIT Video
+KIT digital is a provider of end-to-end video management software and services, helping users do everything from storing to broadcasting videos. The KIT Video platform is a cloud-based video asset management system that lets users to produce, manage, and deliver multi-screen social video to their audiences.
+
+The KIT Video API exposes functionality of the KIT Video platform programmatically, allowing users to manipulate and gather data about channels (containers for lists of videos), manage comments, search and upload videos, manage users and videos, and control advertisements. The API also has specific methods for interacting with exclusively iPhones. This API returns data as XML, JSON, or JSONP.
+broadcast storage video 
+Video

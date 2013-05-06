@@ -1,0 +1,8 @@
+Pharmaceuticals research data management service
+OmniComm TrialOne
+The service provides CDISC ODM compliant management of information about pharmaceutical clinical trials. It is part of a suite of tools for managing information about drug research, including subject recruitment and screening, data import and tracking, analysis and exports of test data, and generation of system reports.
+
+API methods support interaction with research data management through a uniform vocabulary of descriptive terms and categories. Methods ensure compliance with protocols for pharmaceuticals research and reporting.
+
+drugs project-management research 
+Project Management

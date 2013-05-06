@@ -1,0 +1,5 @@
+Mobile civic engagment tool
+CitySourced
+CitySourced is a real time mobile civic engagement tool. CitySourced provides 1) a free, simple, and intuitive tool empowering citizens to identify civic issues graffiti, trash, potholes etc.) and report them to city hall for quick resolution; 2) an opportunity for government to use technology to save money and be more accountable to those they govern; and 3) a positive, collaborative platform for real civic action. The platform is called CitySourced, as it empowers ordinary citizens to crowd source solutions for common civic issues. CitySourced is powered by FreedomSpeaks and it&#039;s APIs.
+government mobile 
+Government

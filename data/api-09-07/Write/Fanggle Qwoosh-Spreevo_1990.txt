@@ -1,0 +1,5 @@
+Location-Based Coupon Creation and Delivery Service
+Fanggle Qwoosh/Spreevo
+Fanggle provides cloud applications across various industries including retail and CPG, Non Profits, Automotive, Libraries, Media and Publishing, and more. The Qwoosh/Spreevo API is a coupon application that uses mobile and social medias to provide location based contextual coupons and also combines web, and e-commerce channels to get offers to patrons quickly. Access to the API is available after joining the Licensing and Partnership program.
+advertising coupons mobile shopping 
+Advertising

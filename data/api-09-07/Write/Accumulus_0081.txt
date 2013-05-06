@@ -1,0 +1,5 @@
+Subscription billing service
+Accumulus
+Accumulus is a subscription billing service that lets developers fully automate customer onboarding, cancellation and change processes. The entire billing process is available via the Accumulus API, including customers, signups, subscriptions and payment methods. The service also includes means of tracking very basic usage, so that developers can later query utilization based usage for a particular customer.
+billing payment subscription 
+Payment

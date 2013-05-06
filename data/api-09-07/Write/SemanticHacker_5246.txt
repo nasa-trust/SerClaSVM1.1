@@ -1,0 +1,5 @@
+Semantic discovery service
+SemanticHacker
+The SemanticHacker API generates Semantic Signatures???. A Semantic Signature??? is a representation of ALL concepts covered in a block of text. Each block of text contains semantic dimensions with associated weights. The dimension weights capture the strength of each concept in the block of text.
+search semantic 
+Search

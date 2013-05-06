@@ -1,0 +1,16 @@
+add 1
+file 1
+integrate 1
+make 1
+message 1
+multimedia 3
+music 1
+photo 1
+presentation 3
+recording 1
+tool 3
+upload 1
+video 2
+voice 1
+webcam 2
+widget 2

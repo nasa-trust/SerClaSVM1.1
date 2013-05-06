@@ -1,0 +1,5 @@
+KPI dashboard
+Klipfolio
+Klipfolio produces an enterprise level KPI dashboard. Using Klipfolio, managers can broadcast messages to staff using the hosted service. Then staff instantly see the messages via their Klipfolio Dashboard on their computer. Klipfolio Dashboard makes much of its internal default logic and data structures available through an API. The API uses JavaScript protocol.
+enterprise messaging 
+Enterprise

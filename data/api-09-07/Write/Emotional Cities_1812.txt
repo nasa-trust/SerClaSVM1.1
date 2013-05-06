@@ -1,0 +1,7 @@
+Art Project that Collects Data from an Emotional State Survey
+Emotional Cities
+Emotional Cities is an art project that studies and visualizes the emotions of individuals and groups. It uses data gathered from it&#039;s website, where users can log on and answer the question &quot;How are you today?&quot;
+
+Emotional Cities also provides a REST API allowing developers to query the Emotional Cities data and create their own applications around it. The API methods mostly relate to &#039;mood&#039; but there are a few other bits of data the API can provide, such as a city&#039;s weather report.
+art social 
+Social

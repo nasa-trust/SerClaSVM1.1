@@ -1,0 +1,5 @@
+Web based email API
+Email Yak
+Send and receive emails from your application via the Email Yak API. Just update your MX record and you can begin creating email accounts for your users to email and receive the messages as JSON or XML. Uses Web Hooks to provide new messages to your application.
+email INBOUND smtp 
+Email

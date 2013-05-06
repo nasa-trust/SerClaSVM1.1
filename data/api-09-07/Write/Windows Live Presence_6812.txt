@@ -1,0 +1,5 @@
+Online presence service
+Windows Live Presence
+From their site: The Windows Live Presence API is an HTTP-based API that returns a Windows Live Messenger user&#039;s presence using JavaScript Object Notation (JSON) or an image. The Windows Live Presence API can be used in conjunction with the Windows Live Messenger IM Control. A Web site can show a user?s presence using the Windows Live Presence API and let visitors send messages to the user with the Windows Live Messenger IM Control.
+chat presence 
+Chat

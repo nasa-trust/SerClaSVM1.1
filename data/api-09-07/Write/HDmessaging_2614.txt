@@ -1,0 +1,5 @@
+Mobile messaging service
+HDmessaging
+HDMessaging allows users to add group conversations to their service or application with their API. The fully featured API and open source app code provided can be used for group conversations, IP-based messaging, media sharing, online access, SMS backwards compatibility, and more. The API uses RESTful calls and responses are formatted in JSON.
+Global messaging sms 
+Messaging

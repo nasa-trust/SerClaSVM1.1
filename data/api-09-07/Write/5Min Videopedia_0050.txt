@@ -1,0 +1,7 @@
+Instructional video collection
+5Min Videopedia
+5Min Videopedia is an online collection of instructional videos and how-to videos. Videos on a variety of subjects and in numerous categories are included in this online directory of videos.
+
+The 5Min Videopedia API allows developers to access and integrate the videos and functionality of 5Min Videopedia with other applications. Some example API methods include searching and retrieving videos, requesting videos by category, and accessing daily statistics about the videos.
+education video 
+Video

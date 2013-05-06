@@ -1,0 +1,16 @@
+contain 1
+datum 1
+format 2
+functionality 1
+message 2
+messaging 1
+method 1
+mm 4
+return 1
+same 1
+send 1
+sm 3
+status 2
+telephony 2
+two 1
+view 1

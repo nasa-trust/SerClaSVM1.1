@@ -1,0 +1,5 @@
+URL shortening tool
+Qoiob
+Qoiob is a URL shortening tool that lets users choose a graphical domain when creating short, Twitter-friendly addresses. The addresses are kept within one character in an effort to make things simpler for users but more difficult for spammers. The API lets users integrate qoiob with their web sites or applications. It uses RESTful calls and responses are formatted in XML, JSON and TXT.
+internet url-shortener utility 
+Internet

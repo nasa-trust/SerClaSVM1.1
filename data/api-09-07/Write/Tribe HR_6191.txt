@@ -1,0 +1,7 @@
+Online human resource application
+Tribe HR
+TribeHR is the easiest way to manage your Human Resources.
+
+We offer human resources software that simplifies the task of hiring, finding, and engaging employees. For users and developers involved with the software, the TribeHR API offers the ability to access and export any and all data. It offers a RESTful interface and outputs data in XML format. We also offer WebHook call back notifications and SalesForce SSO hooks.
+enterprise HR hris hrms jobs sbweb 
+Enterprise

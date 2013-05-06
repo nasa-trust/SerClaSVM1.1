@@ -1,0 +1,12 @@
+Website content personalization platform
+Jiglu Insight
+The Jiglu Insight API allows developer to integrate enterprise applications with the Jiglu platform. Jiglu Insight is a platform for content personalization, discovery and analysis.
+
+The developer describes the features of the API as follows:
+* Web services / HTTP API access through Atom Publishing Protocol.
+* Open, published Java API allowing integration with other enterprise applications.
+* Feeds of tags, tagged content and occurrences in RSS 1.0, RSS 2.0 and Atom 1.0 format.
+
+Full documentation is not available.
+internet personalization 
+Internet

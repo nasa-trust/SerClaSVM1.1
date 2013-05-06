@@ -1,0 +1,7 @@
+Food industry logistics provider
+PeriShip
+PeriShip is a company that provides visibility and issue resolution capabilities for perishable shipments. PeriShip facilitates communications before, during, and after a shipment transaction. PeriShip offers an API that allows their customers to integrate their online shopping cart with the PeriShip services.
+
+When customers receive an order on their website for a product, they can pass an XML formatted message which contains data about the shipment (such as weight, destination, service type) to the API and receive a response back that contains the cost of the shipment. The API also notifies users what types of services are available to the customer at the time of purchase thus providing a date of when to expect the delivery. Documentation is not publicly available.
+deadpool food logistics shipping 
+Shipping

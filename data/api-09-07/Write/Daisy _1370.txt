@@ -1,0 +1,5 @@
+Dynamic image platform
+Daisy 
+Daisy is a dynamic image service platform. Users send Photoshop files into the Daisy API and Daisy provides tools create variable content on their images, such as text or icons. The image can then be deployed to a site and updated from databases, web forms, and other connected data sources. 
+image photo Service tool 
+Photos

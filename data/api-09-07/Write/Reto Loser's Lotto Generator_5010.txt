@@ -1,0 +1,5 @@
+Random lottery number generator
+Reto Loser's Lotto Generator
+The Lotto Generator API, created and maintained by Reto Loser, randomly generates lottery numbers. Users can specify the range of possible numbers, the number of numbers per lottery guess, and the number of guesses desired. Although the API documentation is available in English, much of the rest of the website (along with the API&#039;s web console) is provided in German. The Lotto Generator API is freely available via SOAP calls.
+fun games germany lottery 
+Games

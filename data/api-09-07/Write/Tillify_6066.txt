@@ -1,0 +1,7 @@
+Point of sale service
+Tillify
+Tillify is a web based point of sale cash register. Merchants can use the service to access cash or credit card payments without needing their own backend systems.
+
+The Tillify API is currently in private beta and allows 3rd party developers to access and lookup up customers at the point of sale, accept payment, store digital receipts and return consumer purchasing metrics.
+payment pos 
+Payment

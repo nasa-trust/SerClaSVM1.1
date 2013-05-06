@@ -1,0 +1,7 @@
+Health indicators database
+Health Indicators Warehouse
+The Health Indicators Warehouse (HIW) is a collaboration of many agencies and offices within the Department of Health and Human Services. The HIW is maintained by the Center for Disease Control???s National Center for Health Statistics. The purpose of HIW is to &quot;provide a single, user-friendly, source for national, state, and community health indicators; meet the needs of multiple population health initiatives; facilitate harmonization of indicators across initiatives; link indicators with evidence-based interventions; serve as the data hub for the HHS Community Health Data Initiative to release data, encourage innovative application development, and catalyze change to improve community health.&quot;
+
+The HIW provides an API which uses both the SOAP and RESTful protocols.
+database government health indicators 
+Medical

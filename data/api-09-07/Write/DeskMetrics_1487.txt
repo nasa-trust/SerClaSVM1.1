@@ -1,0 +1,7 @@
+Software use analytics service
+DeskMetrics
+This service logs usage of applications, either desktop or web, to track real-time information about user interactions with the system. It records and reports on bugs encountered by users, user task sequences, rates of feature usage, location of use, system configuration and environment, install/uninstall rates, and other usage patterns.
+
+API methods support monitoring application start and stop, software events and their duration, install and uninstall. Methods also allow definition of custom events to be tracked. A separate data extport API allows access to and reporting on analytics data logged by the service.
+analytics software utility 
+Utility

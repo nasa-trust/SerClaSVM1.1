@@ -1,0 +1,7 @@
+File sharing service
+Let's Crate
+Let&#039;s Crate is a file sharing service that allows users to create &quot;crates&quot; to upload files to and generate a link to share with others.
+
+The Let&#039;s Crate API allows developers to access data from Let&#039;s Crate. Some example API methods include listing files, uploading files, deleting files, adding crates, listing crates, and deleting crates.
+file sharing storage 
+File Sharing

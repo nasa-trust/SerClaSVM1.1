@@ -1,0 +1,7 @@
+Mobile and web application usage service
+keen.io
+keen.io is a service that offers mobile and web application analytics. keen.io tracks and records in-application actions of the application&#039;s users. 
+
+The keen.io API allows developers to access and integrate the functionality of keen.io with other applications. Some example API methods include retrieving usage information, creating events to capture usage informaiton, and managing account information.
+analytics application mobile utility 
+Utility

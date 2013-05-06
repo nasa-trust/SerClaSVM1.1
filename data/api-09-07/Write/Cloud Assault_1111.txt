@@ -1,0 +1,7 @@
+Website testing service
+Cloud Assault
+Cloud Assualt is a platform for API, website, and technology infrastructure testing that uses cloud resources. Cloud Assault provides information on response times, requests, errors, and data transfer speeds.
+
+The Cloud Assault API allows developers to access the functionality of Cloud Assault for integration with other applications and to create other applications. Some example API methods include searching and retrieving testing jobs, managing user information, and getting cost estimates for testing jobs.
+Apis internet website 
+Internet

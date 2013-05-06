@@ -1,0 +1,17 @@
+adjust 1
+chart 1
+country 1
+daily 1
+datum 1
+explore 1
+insight 1
+monthly 1
+mood 3
+nation 3
+over 1
+represent 1
+result 1
+set 1
+social 3
+trend 4
+weekly 1

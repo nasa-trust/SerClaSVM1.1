@@ -1,0 +1,14 @@
+capability 1
+contain 1
+define 1
+definition 1
+equivalence 1
+exchange 1
+identifier 3
+identity 1
+links 1
+registry 1
+resolution 1
+resource 1
+store 1
+subject 5

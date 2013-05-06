@@ -1,0 +1,9 @@
+Sports team statistics
+iScore Sports Team Website
+iScore sports creates ESPN affiliated apps for baseball/softball, basketball, and football. Additionally, iScore also provides websites and stat-recording services for individual teams of any level.
+
+The iScore Sports Team Website API provides those who have purchased an iScore Team Website with a variety of methods for retrieving information from the website. The API allows users to get information about a team&#039;s roster, individual games, or player-specific statistics.
+
+This API operates over HTTP and returns data as XML. Access is restricted to those with a Team Website account; users can create a password using their iSports account, which must be included in each API call.
+sports statistics 
+Sports

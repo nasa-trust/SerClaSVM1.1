@@ -1,0 +1,5 @@
+Language detection service
+Detectlanguage.com
+Language Detection API is a free service that determines what potential languages a word or phrase may be written in. The API returns values for an array of viable language codes, true or false reliability, and a confidence score. It supports both GET and POST requests, although, POST is recommend for larger requests. It is also compatible with Google Translate input and output. 
+language tools Translation 
+Tools

@@ -1,0 +1,5 @@
+Personal assessment app
+TraitPerception
+TraitPerception is a personality analysis tool. It is intended for businesses to gauge their current or prospective employees. Users connect their Facebook profiles to its analytical engine that will then comb it for quantitatively comparably data. The results are feedback reviews explaining the user???s personal strengths and weaknesses. It will also allow employers to rank prospective employees by trait. The TraitPerception API allows developers to integrate the analytical engine with other informational sources and back end communication systems.
+entertainment personality social tools 
+Social

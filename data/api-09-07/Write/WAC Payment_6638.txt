@@ -1,0 +1,7 @@
+Mobile payment service
+WAC Payment
+WAC is a mobile payment service application. Their products offer in-application payment services for mobile applications.
+
+The WAC Payment API allows developers to access and integrate the functionality of WAC Payment with other applications and to create new applications. Some example API methods include managing account information, retrieving lists of payments, and managing payments.
+commerce mcommerce mobile payment 
+Payment

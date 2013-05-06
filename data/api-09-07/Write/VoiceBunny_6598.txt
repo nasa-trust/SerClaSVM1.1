@@ -1,0 +1,7 @@
+Voiceover platform service
+VoiceBunny
+VoiceBunny is an online platform for voiceovers and voice talent. Customers of VoiceBunny can search voice talent, upload projects for voiceovers, and run voiceover contests. 
+
+The VoiceBunny API allows developers to access and integrate the functionality of VoiceBunny with other applications and to create new applications. Some example API methods include managing voiceover projects, list voice talent information, and retrieve account balances.
+games media video Voice 
+Other

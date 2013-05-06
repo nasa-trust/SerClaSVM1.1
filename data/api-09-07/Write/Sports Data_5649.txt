@@ -1,0 +1,5 @@
+Real time sports data
+Sports Data
+SportsData is a provider of real-time, accurate sports statistics and sports content. SportsData???s data coverage includes all major U.S. sports, plus hundreds of leagues throughout the world. Data can be retrieved from SportsData via their API. This data includes schedules, standings, statistics, play by play and more. The API uses RESTful calls and responses are formatted in XML except for NFL data which can also be returned in JSON.
+Data realtime sports 
+Sports

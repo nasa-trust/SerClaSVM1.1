@@ -1,0 +1,5 @@
+Online video search service
+eCoComa Video
+The eCoComa Video API allows users to search for videos from a variety of online sources. Given a keyword to search for, the API retrieves a list of videos that are associated with the specified keyword. Calls exist to retrieve lists from MSN, AOL, Google, and Yahoo. This API operates via SOAP calls using the XML data format.
+entertainment media search video 
+Entertainment

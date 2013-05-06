@@ -1,0 +1,6 @@
+Mobile Customer Service App
+Nuance Nina
+Nuance, the company behind the speech recognition technology used with Apple&#039;s Siri, now offers a Siri-like API called Nina. Nina can be integrated into developer applications allowing the use of voice commands like Siri. In order to differentiate applications from others, developers can customize their Nina integration with different voices as well.
+
+mobile speech tools TTS Voice 
+Tools

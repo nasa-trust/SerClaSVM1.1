@@ -1,0 +1,7 @@
+Craft booklet creation service
+Bookleteer
+The service allows users to create downloadable PDF files for printing locally and assembled into hand-made books. A feature enables design of StoryCubes, which generate printouts that can be cut out and folded into three-dimensional cubes presenting stories, portfolios, and exhibition components in innovative ways. Commercial print-on-demand services are available.
+
+API methods support retrieval and editing of files created with the service, including file management in PDF and HTML ebook formats. Methods also support management of images used in the publications created with the service.
+books entertainment printing 
+Entertainment

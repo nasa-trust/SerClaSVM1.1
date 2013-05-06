@@ -1,0 +1,14 @@
+capability 1
+english 1
+following 1
+french 1
+italian 1
+language 3
+list 1
+reference 2
+remote 1
+retrieve 1
+search 2
+synonym 2
+thesaurus 5
+translation 1

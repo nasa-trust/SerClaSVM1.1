@@ -1,0 +1,5 @@
+Subscription payment service
+Spreedly
+Spreedly gives web applications an easy way to handle subscription-based services. The service works through many well-known payment gateways, including PayPal and SagePay, to complete fast, secure transactions. The Spreedly API offers the tools to integrate its payment service into websites or apps.
+payment saas 
+Payment

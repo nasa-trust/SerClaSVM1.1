@@ -1,0 +1,7 @@
+Status message search engine
+Social Archive
+The Social Archive contains historical tweets and other status messages. Using its API you can retrieve a real-time stream, as we as search Twitter by keyword.
+
+The Social Archive, as the name suggests, aims to be a place to store messages permanently. It also aims to be as open as possible, providing access to its data and information. Using the service you can search by keyword, user, location or hash tag. You can also specify Twitter-only results, another service, or receive results from any service archived by The Social Archive.
+search social Twitter 
+Search

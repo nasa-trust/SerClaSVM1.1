@@ -1,0 +1,13 @@
+aim 1
+communications 1
+company 1
+context 2
+datum 1
+device 1
+initiative 1
+location 2
+mobile 1
+network 1
+permission 1
+profile 1
+telephony 2

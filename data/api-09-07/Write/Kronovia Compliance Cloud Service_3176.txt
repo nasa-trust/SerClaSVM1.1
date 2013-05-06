@@ -1,0 +1,5 @@
+Social CRM compliance service
+Kronovia Compliance Cloud Service
+The Kronovia Compliance Cloud Service allows Social CRM companies to offer social compliance, governance and brand protection as a part of their solution. Using their API, developers can integrate the service with any Social CRM application or custom social media solution. Their cloud-based API supports the application of content and relationship policies, full policy management, as well as a set of governance reporting. In addition it includes management and analytics capabilities. Developers must request full documentation from the provider.
+compliance CRM enterprise social 
+Enterprise

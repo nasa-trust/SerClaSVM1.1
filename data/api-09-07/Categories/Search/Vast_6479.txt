@@ -1,0 +1,11 @@
+car 1
+crawl 1
+datum 1
+entire 1
+find 1
+initial 1
+job 1
+profile 1
+search 4
+structure 2
+vertical 1

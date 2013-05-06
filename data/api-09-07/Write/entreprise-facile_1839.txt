@@ -1,0 +1,10 @@
+Create entreprise-facile automations and mashups
+entreprise-facile
+REST-type API that allows you to create automations, or mashup applications composed with entreprise-facile apps and other services. For example:
+
+Use a desktop app to enter timesheets in a snap; 
+Bill directly from your web boutique each time there&#039;s a sale; 
+Receive a SMS when you reach some sales targets; 
+Import contacts automatically from another application
+enterprise invoicing sbweb 
+Enterprise

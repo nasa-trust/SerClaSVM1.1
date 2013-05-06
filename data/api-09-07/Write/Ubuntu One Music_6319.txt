@@ -1,0 +1,5 @@
+Music streaming service for any platform
+Ubuntu One Music
+The Ubuntu One Music API allows users to stream their music on any platform capable of playing music. Users are able to search their music collection using a variety of parameters as well as create, edit, delete, and play their playlists. The Ubuntu One Music API operates over REST calls in XML format.
+music streaming 
+Music

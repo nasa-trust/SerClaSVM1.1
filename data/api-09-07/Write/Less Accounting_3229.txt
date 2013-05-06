@@ -1,0 +1,5 @@
+Online accounting service
+Less Accounting
+Less Accounting is a web based accounting application aimed at small businesses. The Less Accounting API allows developer to interface with the software using RESTful calls. All responses are in XML format. SSL is supported and an API key is required for use.
+accounting invoicing sbweb 
+Financial

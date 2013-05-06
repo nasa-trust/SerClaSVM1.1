@@ -1,0 +1,5 @@
+Spain tourism information service
+Castilla-La Mancha
+The Developer API gives users access to automated content related to tourism in Castilla-La Mancha, such as hotels, restaurants, monuments, photos, videos, etc. Castilla-La Mancha is a region in Spain located in the Iberian Peninsula. The services have different ways of searching: you can search for text, images and video by location, by type, etc. The API uses RESTful protocol and responses are formatted in XML. The site and documentation is in Spanish. 
+spain travel 
+Travel

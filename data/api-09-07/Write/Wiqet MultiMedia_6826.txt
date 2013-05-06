@@ -1,0 +1,5 @@
+Online multimedia presentation tool
+Wiqet MultiMedia
+Wiqet is a multimedia tool to easily make an online presentation. Users can upload photos, music files or videos, add a voice message or webcam recording. The Wiqet tool can be fully integrated within a website by using the Wiqet API.
+deadpool presentation video webcam widgets 
+Widgets

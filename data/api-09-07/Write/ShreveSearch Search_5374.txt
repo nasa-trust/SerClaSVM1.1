@@ -1,0 +1,5 @@
+Shreveport-Bossier LA area search services
+ShreveSearch Search
+Use the ShreveSearch Search API to tap into this search engine for the Greater Shreveport-Bossier, Louisiana, USA, metro area. After you provide a search phrase, relevance, and IP address, you can get XML results. Shrevesearch indexes only sites that are local to the Shreveport area and that meet quality standards. No junk sites, national sites, spamsites, and so on are included in your search results. Shrevesearch provides indexes for LSU, the The Shreveport Chamber of Commerce, and other sites.
+deadpool local search 
+Search

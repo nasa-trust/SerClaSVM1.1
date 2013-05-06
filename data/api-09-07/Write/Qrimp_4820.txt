@@ -1,0 +1,5 @@
+Developer platform with database capabilities
+Qrimp
+The Qrimp API allows you to retrieve data from your Qrimp app and display it in another website. Use the data programmatically elsewhere or enhance the functionality of an existing Qrimp app. The Qrimp mission is to make app development easier, and they offer a product called The Qrimp Platform, which helps you create dynamic database driven apps in less time than normal.
+database paas tools 
+Tools

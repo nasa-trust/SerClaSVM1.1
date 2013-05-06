@@ -1,0 +1,7 @@
+Dating verification tool
+tru.ly Verification
+tru.ly is a free verification platform based on government and private data. It allows users to link various social accounts including Facebook, Twitter, and Linkedin, while protecting personal information as they wish; generate a QR code that is unique to the user&#039;s identity, making it easy to share, without divulging details; utilize a browser plugin to see what profiles are verified on social networks and request someone be tru.ly verified in order to authenticate their online identity.
+
+Currently tru.ly offers an API for dating sites. Meant as an online dating profile enhancer, the API allows attributes like age, sex and location to be verified. The API is in beta and public documentation is not available.
+dating security social utility verification 
+Security

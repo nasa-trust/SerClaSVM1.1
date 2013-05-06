@@ -1,0 +1,5 @@
+Real-time human resources service
+TribeHR WebHook
+TribeHR uses WebHooks to provide real-time callbacks to scripts that are hosted on a user&#039;s web server. TribeHR offers a secure human resources website platform with the goal of simplifying and automating many common HR tasks. With WebHooks allows the creation ofscripts that respond to actions that take place within a secure and private human resources website.
+enterprise HR realtime sbweb 
+Enterprise

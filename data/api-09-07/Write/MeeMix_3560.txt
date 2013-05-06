@@ -1,0 +1,7 @@
+Music recommendation service and discovery
+MeeMix
+MeeMix Web Service enables partners to synchronize their own media libraries with the MeeMix database, and subsequently suggest musical recommendations and playlists to both unregistered and registered users. MeeMix API makes our core technology accessible from virtually every web-integrated device. It supports both SOAP and REST web service protocols.
+
+MeeMix services enable businesses to personalize their music and media portals, stores or applications with the goal of optimizing conversion and customer retention and significantly boosting long-tail sales.
+discovery music playlists recommendations similarities 
+Music

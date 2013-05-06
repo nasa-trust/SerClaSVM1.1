@@ -1,0 +1,5 @@
+Internet domain registration
+AdamsNames Registration
+AdamsNames runs the domain name registries for the Turks and Caicos islands (TC), the British Virgin islands (VG) and Grenada (GD). AdamsNames provides an XML-RPC interface to the registry. The API can be used for operations such as a domain edit and the associated data of some new nameservers. Responses are formatted in XML.
+deadpool domain internet registration 
+Internet

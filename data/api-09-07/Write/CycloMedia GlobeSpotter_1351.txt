@@ -1,0 +1,5 @@
+Local panoramic visualizations
+CycloMedia GlobeSpotter
+The GlobeSpotter API can be used by integrators to control one or multiple cyclorama windows embedded in a web environment or in a desktop application. CycloMedia is a leader in large-scale and systematic visualization of the environment based on Cycloramas (360 degree panoramas) and aerial photographs. This API is useful when users want to show Cycloramas based XY coordinate, address (UK only) or ImageID. The API uses JavaScript protocol. The site is in Dutch.
+photo panorama location
+Photos

@@ -1,0 +1,5 @@
+Latin America travel site
+Despegar
+Despegar is a travel agency specializing in Latin American destinations. Visitors to the site can search for hotels, flights and more and find the lowest prices. The API provides access to the data stored by Despegar. Data includes availability of accommodations, hotels, booking, airports, currencies and more. The API uses RESTful calls and responses are formatted in JSON.
+airlines reservations travel vacation 
+Travel

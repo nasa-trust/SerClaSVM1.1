@@ -1,0 +1,8 @@
+Data and text extraction and linking service
+dataTXT by SpazioDati
+dataTXT is a service that extracts named entities from short and long texts and links them to their corresponding Wikipedia and DBpedia resources. SpazioDati currently works in English and Italian.
+
+dataTXT performs particularly well on short texts, such as tweets, rss and sms.
+Along with links to DBpedia the service also returns the entity type (e.g. person, organization, place)
+Data extraction NLP semantic text tools 
+Tools

@@ -1,0 +1,5 @@
+Mobile device data exchange service
+Bump
+Uses device matching technology to identify another mobile phone and creates a messaging channel between the two handsets so they can exchange data. SDK provides concise code to include in a mobile app so it communicates through the Bump API to establish connections, exchange data, and authenticate interactions between devices. Sample tasks include starting multiplayer games, adding friend connections, and exchanging content between devices. 
+Data mobile sharing social telephony 
+Telephony

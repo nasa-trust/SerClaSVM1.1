@@ -1,0 +1,7 @@
+Bug and issue tracking service
+Snowy Evening
+Snowy Evening is a bug and issue tracking service for developers and clients. Snowy Evening provides issue management solutions.
+
+The Snowy Evening API allows developers to access and integrate the functionality of Snowy Evening with other applications. Public documentation is not available; API access is available with account service.
+bug programming project-management tools tracking 
+Tools

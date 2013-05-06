@@ -1,0 +1,5 @@
+Spore game database and content
+Spore
+The Spore API gives you access to the database for the game Spore from Maxis and Electronic Arts. Millions of custom content created and shared by the community of players. You can select items made by individual users, grouped by sporecasts or customize your search by other filters.
+games 
+Games

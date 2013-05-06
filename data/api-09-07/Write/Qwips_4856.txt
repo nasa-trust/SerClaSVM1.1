@@ -1,0 +1,5 @@
+Social voice-tagging service
+Qwips
+QWiPS is a social voice platform that lets users tag 30-second Qwips to any static image or text post. QWiPS social voice platform can be used to activate brand and publisher marketing programs and partnerships by making content stand out, getting real-time feedback in the voices of consumers and enhancing customer service. Qwips offers a JavaScript API that lets users include Qwips in their web pages.
+photo social tagging Voice 
+Social

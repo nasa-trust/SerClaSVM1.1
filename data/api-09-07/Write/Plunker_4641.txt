@@ -1,0 +1,13 @@
+Multi-file snippet sharing service
+Plunker
+Plunker is a website and RESTful API for creating, previewing and sharing web snippets online.
+
+The editor component has some unique features, including:
+* Arbitrary number of files
+* Fast syntax hilighting and live error detection
+* Live preview of code
+* Live compilation/linting/beautification of code
+
+The Plunker API allows developers to access and integrate the functionality of Plunker with other applications and to create new applications. Example API methods available are creating a &quot;plunk,&quot; updating a &quot;plunk,&quot; reading a &quot;plunk,&quot; and deleting a &quot;plunk.&quot;
+beautify code lint sharing tools 
+Tools

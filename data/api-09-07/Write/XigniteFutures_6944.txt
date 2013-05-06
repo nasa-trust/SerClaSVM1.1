@@ -1,0 +1,5 @@
+Futures market quotes
+XigniteFutures
+From their site: This web service provides futures quotes from major exchanges: CBOT, CME, NYMEX, NYBOT, LME, KCBT, and WPG. XigniteFutures gives you price quotes for oil and energy futures, agricultural futures, interest rates futures, index futures, metal futures, and more.
+enterprise finance money 
+Financial

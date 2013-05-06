@@ -1,0 +1,5 @@
+Community traffic watch initiative
+TrafficViolators 
+TrafficViolators.com is a citizenship initiative dedicated to making the roads safe in various metros. Users can observe any traffic violation, note the registration number of the vehicle, visit the site and enter the details of the violation. TrafficViolators makes an API available to let users enter traffic violations from outside of the web site. The API also lets users get the 20 most recently submitted violations and a list of the top 5 violators. It uses REST and SOAP protocol with responses formatted in XML and JSON.
+community crowdsourcing safety traffic travel 
+Travel

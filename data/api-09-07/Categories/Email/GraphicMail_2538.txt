@@ -1,0 +1,15 @@
+account 1
+add 1
+aspect 1
+bounce 1
+click 1
+email 4
+list 1
+manage 1
+marketing 2
+newsletter 2
+open 1
+remove 1
+report 1
+retrieve 1
+subscriber 1

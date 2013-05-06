@@ -1,0 +1,7 @@
+DNA mass decomposition problem solver
+Decomp
+Given the mass of a DNA fragment, Decomp can calculate which nucleotide combinations are possible. Problems like this (referred to as mass decomposition problems) often arise in mass spectrometry, where the only information left about DNA, protein, or other sample fragments are their molecular masses.
+
+Decomp is available as a web console or a SOAP API. It can be used to solve mass decomposition problems. 
+bioinformatics DNA 
+Science

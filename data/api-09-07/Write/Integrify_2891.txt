@@ -1,0 +1,5 @@
+Cloud based lean business process management software
+Integrify
+Integrify is a provider of Cloud based lean business process management software. The software offers process definition, workflow automation and visibility for areas such as Information Technology, Human Resources, Finance, Sales, Marketing and other types of services. The API allows developers to integrate Integrify into their own existing systems allowing for customized processes, forms and workflows. The API is available as both REST and JavaScript.
+cloud project-management 
+Project Management

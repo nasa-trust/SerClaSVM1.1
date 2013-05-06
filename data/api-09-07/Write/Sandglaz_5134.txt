@@ -1,0 +1,5 @@
+Task management service
+Sandglaz
+Sandglaz is a task management application that allows users to create, track, and manage their to-do lists. The application allows for collaboration making it suitable for project management tasks. With the Sandglaz API, users can write applications that integrate with Sandglaz. The Sandglaz API has a RESTful interface, providing programmatic access to most of its data. This data includes grids, tasks, labels, users and more. It accepts and returns JSON content
+pim project-management tasks tracking 
+PIM

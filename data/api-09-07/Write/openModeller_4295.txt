@@ -1,0 +1,5 @@
+Ecological niche modelling service
+openModeller
+openModeller is a program for performing species niche modelling simulations. It does so by building a representation of the ecological requirements for a species and extrapolating those requirements into a geographical region. openModeller makes its ecological niche modelling functions available as a SOAP-based API to facilitate standardized online use.
+nature science 
+Science

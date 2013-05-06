@@ -1,0 +1,9 @@
+Email delivery services
+ExactTarget
+Suite of five API products. 
+ETXML: XML and HTTP based API (REST) 
+ETWS: Web services based API (Beta) 
+ETBatch: Bulk data transfer for large data sets ETScript: Conditional behavior within an email
+Content Syndication: Inject content from your site or content management system into ExactTarget emails. Note that all developer guides require a customer or partner account for access
+email enterprise 
+Email

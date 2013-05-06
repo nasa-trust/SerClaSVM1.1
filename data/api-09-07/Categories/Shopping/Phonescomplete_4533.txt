@@ -1,0 +1,14 @@
+accept 1
+browse 1
+correct 1
+exist 1
+free 1
+header 1
+mobile 3
+page 1
+phone 4
+reference 1
+search 2
+set 1
+shopping 2
+suffix 1

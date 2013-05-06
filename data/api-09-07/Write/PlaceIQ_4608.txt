@@ -1,0 +1,5 @@
+Location data and mapping service
+PlaceIQ
+PlaceIQ extracts context and meaning from location data and organizes this into actionable intelligence about a hyper local location. PlaceIQ takes large amounts of often unstructured, unrelated, location based data such as photos, place data, event data, digital and social data and extracts patterns, trends, intelligence and context from the data. The PlaceIQ API accepts a request with time and location, and returns a full JSON string with all of the attributes and scores for that location and time period. Full documentation is not publicly available.
+local location mapping places 
+Mapping

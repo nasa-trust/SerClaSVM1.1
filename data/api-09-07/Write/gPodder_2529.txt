@@ -1,0 +1,5 @@
+Podcast retrieval service
+gPodder
+gPodder is a service that allows the user to download free audio and video content (Podcasts) to watch on their computer or on the go. The gPodder Web Service  API  provides a way to upload and download subscription lists in bulk as well as more flexibility and enhanced functionality for applications that want a tighter integration with the web service.
+audio podcast tools 
+Tools

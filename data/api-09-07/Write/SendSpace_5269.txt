@@ -1,0 +1,7 @@
+File Sharing Service
+SendSpace
+SendSpace is an online file sharing service. Any file type can be uploaded to SendSpace and there is no limit on the number of downloads per file. 
+
+The SendSpace API allows embedding of SendSpace services into applications, programs, or scripts. The API uses RESTful protocol and responses are formatted in XML. 
+file-sharing storage 
+File Sharing

@@ -1,0 +1,7 @@
+Public bathroom finding service
+SitOrSquat
+SitOrSquat is an application that gathers information on public bathrooms around the world. Users can access information about public bathrooms by location via the SitOrSquat website or on the mobile application. Users are also encouraged to add bathrooms, providing information about the bathroom like location, features, and rating the bathroom.
+
+The SitOrSquat API allows developers to access data from  SitOrSquat. Data that is accessible include bathroom, toilet, and facility information by location. Public documentation is limited, and those interested should email info@densebrain.com or support@sitorsquat.com with a description of how they intend to use the API.
+bathroom deadpool mapping places 
+Search

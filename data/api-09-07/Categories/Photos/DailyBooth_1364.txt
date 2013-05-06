@@ -1,0 +1,13 @@
+connect 1
+format 1
+integrate 1
+own 1
+photo 3
+picture 1
+protocol 1
+real 1
+response 1
+sharing 1
+social 3
+status 1
+update 1

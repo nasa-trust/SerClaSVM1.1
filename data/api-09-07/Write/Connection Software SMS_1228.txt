@@ -1,0 +1,5 @@
+Bulk SMS messaging service
+Connection Software SMS
+Connection Software is a supplier of SMS and MMS services including text messaging, ringtones, graphics, Java applications, MMS and related software including J2ME. It provides a suite of APIs for interacting with their SMS services. The APIs use both HTTP and SOAP protocol.
+Global messaging MMS sms telephony text 
+Messaging

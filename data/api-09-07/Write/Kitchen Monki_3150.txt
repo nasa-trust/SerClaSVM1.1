@@ -1,0 +1,5 @@
+Recipe management service
+Kitchen Monki
+Kitchen Monki is a cooking productivity tool allowing users to organize, search and share recipes, as well as to automate grocery lists. Kitchen Monki???s RESTful API provides customer access to the Kitchen Monki platform, allowing users to perform a variety of tasks, including retrieving and manipulating recipe data objects and re-using content across platforms and applications.
+advertising cooking food recipes 
+Food

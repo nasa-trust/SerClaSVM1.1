@@ -1,0 +1,5 @@
+Closing index values for U.S. and world indices
+XigniteIndices
+The XigniteIndices API lets you access closing index values for both U.S. and world indices. You can search by historical and end-of-day closing stock indices.
+financial stocks 
+Financial

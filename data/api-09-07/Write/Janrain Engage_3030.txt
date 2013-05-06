@@ -1,0 +1,7 @@
+Social networking login service
+Janrain Engage
+Janrain Engage (formerly RPX) is a service that allows customers to add social networking logins to their websites and applications, using a single login for their website.
+
+The Janrain Engage API allows developers to access and integrate Janrain Engage functionality into other sites and applications. Some example API methods include retrieving user data, managing account information, and accessing analytic data.
+authentication OpenID security social tools 
+Security

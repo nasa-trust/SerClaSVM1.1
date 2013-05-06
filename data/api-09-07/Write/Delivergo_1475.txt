@@ -1,0 +1,7 @@
+Digital publishing service
+Delivergo
+Delivergo provides social solutions for digital publishing and mass customization such as customized apps for iPhones or Androids and plugins for WordPress blogs. 
+
+The Delivergo Mass Customization API allows access to web service APIs for developers to build their own print, design, or creative applications. Delivergo enables companies to develop many different applications and software (plug-ins, apps, widgets) and integrate them into the broad Delivergo system. The API lets users add data to the system - and vice versa - and also lets users access all public data (articles, layouts, designs, photos and much more). The API uses RESTful protocol and responses are formatted in XML and JSON.
+internet social 
+Internet

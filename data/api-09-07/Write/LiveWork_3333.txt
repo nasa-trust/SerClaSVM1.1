@@ -1,0 +1,5 @@
+On demand virtual workforce of freelancers
+LiveWork
+The LiveWork Open Workforce API (OWAPI) enables businesses to integrate applications with an on-demand virtual workforce provided by LiveWork. LiveWork?s platform, which integrates crowdsourcing and cloud computing, offers a new approach for leveraging virtual teams of freelancers that can perform high-volume, repetitive tasks. OWAPI is a vital link for the integration of data, applications, and LiveWork?s services, and it represents a unique API that combines programmatic access to manual services.
+enterprise jobs recruiting 
+Enterprise

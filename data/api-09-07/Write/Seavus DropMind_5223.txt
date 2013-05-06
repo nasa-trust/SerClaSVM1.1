@@ -1,0 +1,8 @@
+Project and idea management
+Seavus DropMind
+Seavus DropMind is a &quot;mind mapping&quot; desktop and web application which can be used to brainstorm, organize thoughts and ideas, facilitate problem solving, and assist in process planning.
+
+The API allows for third party applications to open, create, modify and save maps. 
+
+brainstorm graph utility 
+Utility

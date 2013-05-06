@@ -1,0 +1,7 @@
+Online photo buying and printing service
+Pwinty
+Pwinty is an online photo buying and printing service. Customers of Pwinty can integrate Pwinty into their website or application to enable their customers to buy and print photos.
+
+The Pwinty API allows developers to access and integrate the functionality of Pwinty with other applications. Some example API methods include retrieving order information and status, adding photos to orders, and deleting photos from orders.
+ecommerce photos printing 
+Photos

@@ -1,0 +1,7 @@
+Urban geo-spatial data services
+Urban Mapping Mapfluence
+Urban Mapping&#039;s Mapfluence product is a platform that helps developers and enterprise markets create geospatial applications using the data and technological services that Urban Mapping provides. 
+
+The Mapfluence API allows developers to access the geospatial data from Mapfluence and Urban Mapping. Some example API methods include adding data layers, such as demographic, on web maps, access contextual information about a location, and searching data to create tables or charts. 
+geolocation mapping 
+Mapping

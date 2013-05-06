@@ -1,0 +1,5 @@
+SMS messaging service
+Voovox SMS
+The Voovox service enables users to make local and international calls as well as send SMS messages through its web site. The SMS API provides users with the ability to send SMS messages and check message delivery status from their own applications. The API uses SOAP protocol and responses are formatted in XML.
+Global messaging sms telephony 
+Messaging

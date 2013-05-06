@@ -1,0 +1,16 @@
+advertising 2
+assist 1
+field 1
+influence 1
+management 1
+marketing 4
+measure 1
+medium 2
+outreach 1
+protocol 1
+resource 1
+response 1
+return 1
+software 1
+target 1
+tool 2

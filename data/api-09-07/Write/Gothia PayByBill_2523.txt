@@ -1,0 +1,9 @@
+Northern European online payment service
+Gothia PayByBill
+The service provides online payment processing optimized for markets in Germany, Sweden and Norway, and Finland, Denmark, and the Netherlands. It offers market-specific functions for invoice creation, payment processing and financing including partial payments, and customized account profiles. Customer-specific financing and delivery options are available.
+
+API methods support transaction checkout and purchaser account checks, with generation and submission of an invoice for payment. Methods process the resulting financing request and return acceptance status. Upon completion of order invoicing and payment financing, methods handle delivery options specific to the purchaser&#039;s local market and final settlement.
+
+
+germany netherlands payment scandinavia 
+Payment

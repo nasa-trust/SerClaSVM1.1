@@ -1,0 +1,5 @@
+Local retail search service
+Bview Local Search
+The Bview local search API allows user to integrate search results into their website. This API can be combined with the Voucher & Offers API and the Content API to create localised offerings. BView is the UK&#039;s most comprehensive clearinghouse for money saving offers. BView aggregates vouchers for thousands of merchants and locations from across the UK. The API uses RESTful protocol and responses are formatted in XML.
+deadpool local retail search shopping uk 
+Shopping

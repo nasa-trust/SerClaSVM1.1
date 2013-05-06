@@ -1,0 +1,8 @@
+candy 2
+datum 1
+food 4
+foodie 2
+functionality 1
+give 1
+restaurant 1
+social 2

@@ -1,0 +1,5 @@
+US Congress database service
+Sunlight Labs Congress
+From their site: We set out to create an up-to-date database for the 110th Congress that provides basic clerical information about members of congress (phone, email, district etc.) via API. Moreover, we provide converter methods to convert between the different IDs, thereby facilitating bringing together data about the same person from different sources. To complete the package, we have provided basic API methods that tie cities to zipcodes to districts to latitude/longitude, perfect for those web-based mashups.
+government politics 
+Government

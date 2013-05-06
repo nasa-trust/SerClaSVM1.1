@@ -1,0 +1,5 @@
+Online data management system
+stSoftware Job Track
+stSoftware&#039;s Job Track is an online multi-platform data management system used for tracking daily workflow procedures. The Job Track API gives users programmatic access to the full functionality of the software. The API uses SOAP protocol and responses are formatted in XML.
+enterprise workflow 
+Enterprise

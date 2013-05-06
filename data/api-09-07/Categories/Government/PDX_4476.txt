@@ -1,0 +1,14 @@
+area 1
+call 1
+consume 2
+datum 5
+filter 1
+form 1
+format 1
+government 2
+initiative 1
+much 1
+open 1
+originate 1
+portland 4
+real 2

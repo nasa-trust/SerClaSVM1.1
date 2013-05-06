@@ -1,0 +1,5 @@
+Big data processing for business
+OpTier
+OpTier is a big data solutions provider. Their services help industries such as finance, manufacturing, insurance, and more, process huge amount of transactional data. Their Application Management Platform (APM) tracks and integrates all business transactions into a workflow model. The data can then be processed and turned into insights for all shareholders in the company???s performance. The OpTier API is available for integration with complementary products and automating transactional data processing.
+Data tools 
+Tools

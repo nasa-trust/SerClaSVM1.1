@@ -1,0 +1,5 @@
+New Zealand mapping service
+ZoomIn
+New Zealand mapping service. From their site: ZoomIn lets you create your own places and put them on the map. Spice up any place by uploading photos and leaving your own personal comments about that place. You can also create your own maps and communities by gathering together places into groups. Includes mapping and geocoding services. Programming model is patterned after the Google Maps API.
+deadpool newzealand 
+Mapping

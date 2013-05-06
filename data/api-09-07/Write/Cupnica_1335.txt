@@ -1,0 +1,5 @@
+Latin American social coupons marketplace
+Cupnica
+Cup??nica is a daily deal marketplace for Latin American localities. It provides lead-generation for local businesses and coupons to local businesses for consumers. Businesses can use the marketplace to engage socially engage customers. Consumers can browse for deals to their favorite or new local businesses. Cup??nica offers a RESTful API that exposes the daily deal functionality, allowing developers to categorically access information about new offerings. The API returns XML-encoded data. The website is in Spanish. 
+coupons shopping social 
+Shopping

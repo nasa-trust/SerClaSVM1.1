@@ -1,0 +1,5 @@
+Mobile device management platform
+MokiMobility +MDM
+MokiMobility provides a cloud-based mobile device management (MDM) platform allowing developers to manage iOS and Android devices remotely. +MDM is a platform for developers to create single-purpose solutions for iPads and Android tablets. +MDM and it&#039;s APIs offer features such as: add/remove Wifi settings, add/remove apps, require passcodes, remote rebooting of Android tablets and more. Full documentation is not publicly available.
+management mobile tablets tools 
+Tools

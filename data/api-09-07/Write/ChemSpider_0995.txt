@@ -1,0 +1,5 @@
+Chemical structure database
+ChemSpider
+The ChemSpider API is a free chemical structure database that provides access to over 25 million structures, properties and associated information. This API enables researchers to access information from more than 400 data sources with a single search. Users can search for chemicals by name, structure, properties, or elemental components.
+chemistry reference science 
+Science

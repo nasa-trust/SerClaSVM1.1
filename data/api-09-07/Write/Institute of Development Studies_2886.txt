@@ -1,0 +1,7 @@
+Research and data repository 
+Institute of Development Studies
+The Institute for Development Studies offers a research database and repository for international development research. This data and research can be used for policy making, decision making, program design, and advocacy efforts.
+
+The Institute for Development Studies API allows developers to access and integrate the data and functionality of the IDS repositories and libraries with other applications and to create new applications. Some example API methods include searching, retrieving documents and data, and managing document libraries. 
+database government international library Repository research 
+Government

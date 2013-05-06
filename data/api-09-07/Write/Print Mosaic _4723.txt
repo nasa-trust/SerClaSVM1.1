@@ -1,0 +1,5 @@
+Images-to-mosaic webtool
+Print Mosaic 
+PrintMosaic is image creation tool. It creates mosaics out of users picture collections. First, users upload their library of images to the website. Then, they specific an image that would like to recreate using all of the images they uploaded. The API exposes PrintMosaic???s entire functionality by allowing developers to upload a batch of images and specify the image they would like to create a mosaic of through a RESTful protocol. The API will return JSON-encoded data of the mosaics progress and URL.  
+image photo tools 
+Photos

@@ -1,0 +1,5 @@
+Personal banking app
+Money Toolkit
+Money Toolkit is a finance management app based targeting to UK audiences. It allows users to order their personal finance on Android and Apple mobile devices. Users can set categories for types of spending and monitor their savings with by setting targets. The Money Toolkit API exposes the data aggregation platform functionality. It is a RESTful API that returns JSON-formatted data. 
+Data financial tools 
+Financial

@@ -1,0 +1,5 @@
+File storage services
+Mosso Cloud Files
+The Mosso Cloud Files API gives you read and write access to your files that are stored on the Mosso Cloud Files servers. You can add, delete, link to your files and more.
+cloud deadpool internet storage 
+Storage

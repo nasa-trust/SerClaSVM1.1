@@ -1,0 +1,5 @@
+Electronics and appliances price comparison service
+Bountii Price Search
+From their site: Bountii is a search engine that finds pricing information for electronics and appliances. We continuously aggregate pricing information from top internet retailers using a variety of sources. The Bountii API allows developers to query our index and incorporate the results into their applications, widgets, and mashups.
+search shopping 
+Shopping

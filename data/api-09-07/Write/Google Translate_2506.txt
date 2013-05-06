@@ -1,0 +1,7 @@
+Language translation service
+Google Translate
+From their site: The University Research Program for Google Translate provides researchers, in the field of automatic machine translation, tools to help compare and contrast with, and build on top of, Google&#039;s statistical machine translation system. Participation in the program will allow researchers programmatic access to Google&#039;s translation service. A translation request returns either: A single translation, the highest scoring output of Google Translate As above but with detailed word alignment information A list of the n-best translations with detailed scoring information.
+
+The Google Translate API is now in its second version. 
+language Translation utility 
+Utility

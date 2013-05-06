@@ -1,0 +1,5 @@
+Location and statistical information about places
+Pushpin Location Data
+The Location REST API is a fast, convenient way to retrieve location and statistical information about places. The API makes a variety of information available about each of these places, inluding its geographic coordinates, its relationship to other geographies, and various statistical and physical attributes about a location including population, elevation, household income, unemployment rates, and its campaign contributions.
+location mapping places reference 
+Mapping

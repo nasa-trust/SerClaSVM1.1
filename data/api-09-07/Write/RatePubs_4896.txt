@@ -1,0 +1,5 @@
+Pub and bar reviews services
+RatePubs
+Use the RatePubs API to get two-way access to bar information, including reviews. Visitors to your site can get information or reviews, and they can then leave their own reviews.
+food recommendations reviews travel 
+Food

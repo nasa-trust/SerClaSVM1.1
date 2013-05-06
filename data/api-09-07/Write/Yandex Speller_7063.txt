@@ -1,0 +1,7 @@
+Find and fix spelling mistakes
+Yandex Speller
+Yandex is the largest search engine in Russia and develops a number of Internet-based services and products. Yandex offers owners of websites and blogs tools with which they can apply the functional services of Yandex in their projects. The site and documentation are in Russian. 
+
+Proofing Tools, which helps find and fix spelling mistakes in your texts. Currently Speller checks the text in Russian, Ukrainian and English. The API uses REST, SOAP and JavaScript protocols with responses formatted in XML, JSON, JSONP.
+language russia spelling tools 
+Tools

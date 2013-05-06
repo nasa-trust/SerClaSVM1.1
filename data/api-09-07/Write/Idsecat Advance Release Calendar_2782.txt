@@ -1,0 +1,7 @@
+Idescat publications calendar
+Idsecat Advance Release Calendar
+The Statistical Institute of Catalonia produces official statistics in the fields of the economy, demography and society. Idescat exposes some of its data via a collection of REST APIs. Idescat&#039;s APIs offer methods for third-party programs to be able to obtain information from the Statistical Institute of Catalonia and integrate it in other services.
+
+This API lets users access information from Idescat&#039;s Advance Release Calendar. The calendar shows the publication dates of Idescat&#039;s statistical production. The dissemination dates offered by this API allow users to minimize the number of requests and to make use of the rest of Idescat&#039;s APIs. It uses RESTful calls and responses are formatted in XML, JSON, PHP and iCal.
+calendar spain 
+Calendar

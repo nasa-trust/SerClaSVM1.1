@@ -1,0 +1,7 @@
+Digital gift card service
+Tango Card
+Tango Card provides digital gift cards to major stores, both online and physical. Tango Card allows the recipient to use their value exactly how they want ??? they can select a premier gift card, they can divide their value among Brands, they can use some today and save the rest for another day. They can also donate to a non-profit organization. Tango Card value can be used via the web or from almost any mobile device. 
+
+The Tango Card API provides SDK wrappers to quickly incorporate gift cards into your reward, loyalty, and engagement applications.
+giftcard shopping 
+Shopping

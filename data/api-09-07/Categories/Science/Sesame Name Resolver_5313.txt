@@ -1,0 +1,17 @@
+astronomy 1
+call 1
+display 1
+function 1
+ne 1
+object 3
+position 1
+query 2
+question 1
+reference 1
+resolve 3
+retrieve 1
+science 2
+sesame 3
+soap 1
+type 1
+vizier 1

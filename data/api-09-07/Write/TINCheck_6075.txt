@@ -1,0 +1,7 @@
+Payee verification service
+TINCheck
+The service validates a submitted taxpayer identification number (TIN) to verify a match with the correct name on a payee record. The U.S. Internal Revenue Service (IRS) imposes heavy penalties for data submissions with inaccurate TINs. The service allows applications to call validation functions and confirm accuracy before submitted data.
+
+API methods support submission of TIN data to retrieve associated first and last names and address. U.S. address format includes two possible street links, city, state, and ZIP code.
+payment verification 
+Payment

@@ -1,0 +1,16 @@
+call 1
+daily 1
+entertainment 2
+expose 1
+find 1
+format 1
+movie 1
+parse 1
+query 1
+reference 1
+response 1
+retrieve 1
+script 1
+show 1
+television 2
+update 1

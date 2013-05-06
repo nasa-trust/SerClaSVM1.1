@@ -1,0 +1,6 @@
+Get addresses from postcodes
+Postcode IT
+The Postcode IT web service provides functions to obtain address(es) from postcodes. To keep the method calls tidy, the service makes use of SoapHeaders. Set up your SoapHeader with your CustomerId, LicenceKey and MachineId. 
+
+business postal 
+Reference

@@ -1,0 +1,16 @@
+cad 1
+chart 1
+currency 2
+enterprise 1
+exchange 4
+finance 4
+get 2
+graph 2
+last 1
+money 1
+month 2
+rates 4
+support 1
+xavier 2
+year 1
+years 2

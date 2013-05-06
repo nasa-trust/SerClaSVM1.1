@@ -1,0 +1,5 @@
+Video dashboard and community
+Seesmic
+Public API is in beta now. Use the API to view who a user follows, view their list of videos, get videos for a timeline, and more.
+community conversation video 
+Video

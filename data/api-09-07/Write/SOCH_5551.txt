@@ -1,0 +1,7 @@
+Swedish cultural resource search service
+SOCH
+The service aggregates databases of cultural resources in Sweden, such as museums and objects in their collections, monuments, historical sites, and similar items important to Swedish culture. Applications can access the database to create directories for specific areas or of specific types of cultural resources. The database collection is suitable for applications serving both the general public and cultural researchers.
+
+API methods support free-text search or search for a specific object or place. Location can be specified as a particular point on the map or a bounded region. Object-specific search can limit results to particular types of cultural resources, and a time-period parameter can be specified.
+museum search sweden 
+Search

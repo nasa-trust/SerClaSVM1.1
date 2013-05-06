@@ -1,0 +1,5 @@
+Speech recognition platform
+Nexiwave
+Nexiwave speech recognition API provides a web-service based speech recognition platform. It helps to search in the collection of speech recordings, automatically transcribe speech for data mining and human correction, identify and segment speakers, align captions. Nexiwave.com is the first commercial GPU-accelerated speech indexing service provider. The API uses both RESTful and SOAP protocol and responses can be formatted in XML or JSON. 
+recognition speech utility Voice 
+Utility

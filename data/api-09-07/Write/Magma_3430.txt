@@ -1,0 +1,7 @@
+Video directory and discovery service
+Magma
+Magma is an online repository for video content. Users can search, find, and watch videos in a variety of genres and on various subjects. Users can also discover video content and browse the top 100 videos of the web at the current time.
+
+The Magma API allows developers to access and integrate the functionality and data of Magma with other applications and to create new applications. Some example API methods include searching videos, retrieving information about videos, retrieving embedding links, and getting information about video channels.
+directory Player realtime search video 
+Video

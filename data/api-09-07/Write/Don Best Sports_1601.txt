@@ -1,0 +1,5 @@
+Sports betting lines and information service
+Don Best Sports
+Don Best Sports is a web site that provides real time odds, information and news on various sports. The Don Best Sports API allows users to access the site data via web calls. The available data includes schedule, messages, injuries, betting lines, scores, teams, leagues and SportsBooks. The API uses SOAP protocol and responses are formatted in XML.
+gambling sports 
+Sports

@@ -1,0 +1,5 @@
+Collaborative question and answer software
+Ask SciPy
+Ask SciPy is a question and answer site for the Python programming language directed at the sciences, math, engineering and finance. The Ask SciPy system is based on Solace, an open source q&a platform. Since Solace has an API, so does Ask SciPy. The API lets users access the functionality of the service programmatically. Methods exposed include List Badges, List Questions, Get User and more. The API uses RESTful calls and responses are formatted in XML, JSON and HTML.
+answers programming science 
+Answers

@@ -1,0 +1,5 @@
+Annotated biology article search
+BioLit
+BioLit is a searchable database of biology-related articles. It provides an enhanced view of articles that includes semantic data and links to biological databases based on article content. Currently, all articles in the BioLit database are from the PubMed Central archives. These articles have been filtered to remove those that do not contain research-related content. BioLit&#039;s search functions can be accessed programmatically via REST API.
+articles database science search semantic 
+Science

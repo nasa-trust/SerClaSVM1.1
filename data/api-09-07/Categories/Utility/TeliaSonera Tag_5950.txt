@@ -1,0 +1,14 @@
+convert 1
+devices 1
+discover 1
+form 1
+generator 1
+mobile 2
+read 1
+response 1
+simplify 1
+support 1
+tag 2
+url 1
+utility 2
+webpage 1

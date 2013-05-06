@@ -1,0 +1,5 @@
+Outgoing SMS service
+TextBelt
+TextBelt is a telephony service. It provides outgoing SMS services for developers. TextBelt uses carrier-specific gateways to forward free SMS???s without advertisements. It can be used for testing SMS functions instead of Twilio. It supports a large variety of U.S. providers, including Alltel, Verizon, Virgin Mobile, and many more. The entire TextBelt service is a RESTful API that sends messages and responds with success or failure notices. 
+messaging sms telephony texting usa 
+Messaging

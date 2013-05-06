@@ -1,0 +1,5 @@
+Group-buying platform for publishers
+ChompOn
+ChompOn is a group-buying platform for publishers. It provides functionality for websites to integrate group-buying options and deals across a network of publishers. ChompOn also analyzes users??? social media for optimization. Their RESTful API exposes the platform???s structure for developers to expand publishers??? services on top of it, as well as for integration with other services. It can provide responses in JSON or XML. 
+deals enterprise shopping 
+Shopping

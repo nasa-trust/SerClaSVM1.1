@@ -1,0 +1,9 @@
+beta 1
+create 1
+datum 1
+employ 1
+format 1
+host 3
+interact 1
+phase 1
+platform 3

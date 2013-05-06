@@ -1,0 +1,9 @@
+TV recommendations service
+Vizimo
+Vizimo enables content to find relevant viewers. We are in the discovery business and our goal is to help viewers answer the &#039;what should I watch?&#039; question. Vizimo&#039;s approach to enabling next generation guidance revolves around a unique ability to understand the &#039;aboutness&#039; of content.
+
+Register for API information
+http://www.vizimo.com/api-register.html
+
+movies recommendations television 
+Recommendations

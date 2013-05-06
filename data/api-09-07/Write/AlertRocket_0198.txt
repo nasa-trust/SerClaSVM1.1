@@ -1,0 +1,5 @@
+Web based mobile messaging
+AlertRocket
+AlertRocket is a service that allows users to send mobile push notifications via their web sites and web applications. The service embeds links on web sites that users can then click to subscribe to receive notifications on their smartphones and tablets. The API exposes this functionality and makes it available to developers. Calls include sending push notifications, modifying registrations, and viewing registrations and feedback. The API uses RESTful calls and responses are formatted in JSON.
+messaging mobile sms 
+Messaging

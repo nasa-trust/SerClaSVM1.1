@@ -1,0 +1,5 @@
+Cloud based telecommunications services
+Genband A2
+Genband is a telecommunications and infrastructure service solutions provider. The Genband A2 Converged Applications Server is a leading SIP and IMS Applications platform that gives enterprise and consumer users access to voice and video calling, instant messaging, conferencing and other telephony services. The A2 API lets users integrate IP telephony with their applications. Developers can use the Genband A2 APIs to provide cloud-based/social multimedia services for enterprise and consumer VoIP telephony such as: click to call (voice & video calling), phone/mobile presence, instant messaging, conferencing, incoming/outgoing calls and friends list address book. Genband APIs leverage common SOAP/XML and RESTful interfaces as well as trigger-based SCIM access to SIP messaging. Full documentation is not publicly available.
+cloud telephony Voice 
+Telephony

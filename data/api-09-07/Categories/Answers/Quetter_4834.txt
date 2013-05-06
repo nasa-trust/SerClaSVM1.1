@@ -1,0 +1,15 @@
+answer 5
+ask 1
+call 1
+community 1
+expose 1
+format 1
+genre 1
+get 3
+integrate 1
+method 1
+question 4
+response 1
+social 2
+submit 1
+twitter 1

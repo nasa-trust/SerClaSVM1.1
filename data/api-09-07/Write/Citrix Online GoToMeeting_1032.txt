@@ -1,0 +1,7 @@
+Online meeting service
+Citrix Online GoToMeeting
+GoToMeeting by Citrix Online is an online meeting service that allows users to have online meetings with up to 25 people. GoToMeeting allows for video conferencing, attending online meetings by smart phones, desktops, and tablets, and audio conferencing. 
+
+The GoToMeeting API allows developers to integrate GoToMeeting functionality with other services and applications. Some example API methods include creating meetings, accessing attendee and organizer information, and updating information on meetings, organizers, and attendees. 
+conference meeting office video 
+Enterprise

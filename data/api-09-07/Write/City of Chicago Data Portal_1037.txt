@@ -1,0 +1,7 @@
+Chicago datasets
+City of Chicago Data Portal
+The City of Chicago Data Portal is just that, an online portal to data for the City of Chicago. Datasets are available for categories including administration and finance; education; historic preservation; parks and recreation; sanitation; transportation; and more. 
+
+The City of Chicago Data Portal uses the Socrata Open Data API, which uses REST and returns responses in a variety of formats including JSON, XML, and RDF.
+chicago government Illinois 
+Government

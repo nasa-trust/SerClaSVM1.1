@@ -1,0 +1,5 @@
+Subscription and payment management platform
+SubscriptionBridge
+SubscriptionBridge is a subscription management system provided by Early Impact, an ecommerce solutions business. SubscriptionBridge combines automated recurring billing with account management functions. The account management functions allow online retailers to communicate with their customers, adjust or customize customers??? subscription plans, and more. They offer an API to integrate SubscriptionBridge with other web tools for merchants, such as checkout, shopping carts, and notification systems. It is a RESTful API and returns XML-formatted data. 
+billing management media payment 
+Payment

@@ -1,0 +1,5 @@
+Multi-service URL un-shortener
+YottaShare
+YottaShare offers an API for expansion of shortened URLs. The service works for bit.ly, tr.im, snipr, and retwt.me services. It offers a RESTful interface, returning data in XML. There are no signup requirements.
+expander internet tools utility 
+Tools

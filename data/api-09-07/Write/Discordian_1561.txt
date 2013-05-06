@@ -1,0 +1,5 @@
+Date converter from Gregorian to POEE calendar
+Discordian
+The Discordian API converts dates from the Gregorian calendar to the Semi-Divinely Revealed POEE calendar. The Gregorian calendar (also called the Western or Christian calendar) is the internationally accepted civil calendar. The Semi-Divinely Revealed POEE calendar is used by adherents of the Discordian religion. The Discordian API operates over SOAP protocols.
+calendar religion 
+Calendar

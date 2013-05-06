@@ -1,0 +1,16 @@
+abbreviation 1
+city 2
+country 1
+datum 4
+display 1
+example 1
+gmt 1
+latitude 1
+longitude 1
+method 1
+names 2
+offset 1
+reference 2
+return 1
+search 1
+zone 3

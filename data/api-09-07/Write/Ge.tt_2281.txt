@@ -1,0 +1,7 @@
+File sharing and publishing service
+Ge.tt
+Ge.tt is a file sharing and publishing platform. Users can access up to 2 GB of storage for free. Users can use Ge.tt to share files and publish their files online.
+
+The Ge.tt API allows developers to access the functionality of Ge.tt to create other applications. Some example API methods include uploading files, accessing other files, and manage files. Ge.tt also offers a live API that allows for real-time sharing.
+file-sharing storage 
+File Sharing

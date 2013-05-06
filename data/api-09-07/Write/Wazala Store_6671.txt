@@ -1,0 +1,5 @@
+Shopping cart service
+Wazala Store
+Create an online store using Wazala, a hosted service that lets you embed a JavaScript widget in your site. The simple JavaScript API lets you interact with the shopping cart, then the user makes a purchase via Paypal or Google Checkout.
+payment shopping 
+Shopping

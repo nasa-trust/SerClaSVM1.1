@@ -1,0 +1,5 @@
+Virtual server management service
+HP Cloud Compute
+HP Cloud Compute allows users to deploy scalable virtual servers on demand. Users can customize and launch open source-based virtual servers in minutes for rapid time to code, and quickly scale capacity based on their needs.
+cloud internet Server vm 
+Internet

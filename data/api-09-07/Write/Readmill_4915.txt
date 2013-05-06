@@ -1,0 +1,7 @@
+Online eBook discussion platform
+Readmill
+Readmill is an online and mobile platform for readers to share information about what eBooks they are reading, allowing them to highlight and discuss sections of eBooks with other users. 
+
+The Readmill API allows developers to access and integrate the data and functionality of Readmill with other applications and to create new applications. Some example API methods include retrieving and managing user information, retrieving information on books, and managing comments from Readmill.
+books ebooks social 
+Social

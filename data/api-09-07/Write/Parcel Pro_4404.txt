@@ -1,0 +1,5 @@
+Shipping service
+Parcel Pro
+Parcel Pro is a shipping provider that offers insured shipments to the jewelry, wristwatch, and collectible industries. Packages can be insured up to $150,000, pick-up services are available at business locations and drop-offs are available at any carrier staffed center. Parcel Pro&#039;s API allows third party systems to be integrated with their own shipping module. The API also can be integrated with online retailers&#039; systems. Public documentation is not available for the API.
+Insurance retail shipping 
+Shipping

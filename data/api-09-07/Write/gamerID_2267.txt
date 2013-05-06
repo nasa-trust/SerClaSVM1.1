@@ -1,0 +1,7 @@
+Gaming identity authenticater
+gamerID
+GamerID is a free gamer identity website with social networking features &quot;where your games are your friends.&quot; A gamerID is a unique online identifier used for logging in to any gaming website with the gamerID logo. A gamerID is a public profile which can display all of your games, achievements, trophies, and more. GamerID is also a library used to organize, manage, and track all the games in one&#039;s collection, wish lists and watch lists.
+
+The gamerID API allows any website or web-enabled application to secure remote authentication using gamerID account credentials.
+games identity security 
+Games

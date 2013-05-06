@@ -1,0 +1,5 @@
+Calendar service
+Orange Personal Calendar
+From their site: The Personal Calendar API is part of the Personal APIs suite from Orange. It allows you, through your website, to access and update the Orange calendar of an Orange France customer. The information can be retrieved once the user has been authenticated by Orange through the Authentication API. You can add an event to the user&#039;s calendar, get the list of your service&#039;s events in the user&#039;s calendar, or check the availability of the user for a period of time.
+calendar events telephony 
+Calendar

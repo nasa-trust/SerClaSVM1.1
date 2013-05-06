@@ -1,0 +1,8 @@
+Graphic/image analysis service
+Image Color Summarizer
+The web service provides statistics describing color characteristics of an image identified by URL. Summary data indicate the single RGB color that best represents the image, along with average hue and saturation values and RGB and HSV histograms.
+ 
+Detailed data returned by the service provide the average, median, or mode as well as minimum and maximum values for each RGB and HSV triplet within the identified image. 
+Four levels of precision may be specified for the analysis.
+color photo utility 
+Utility

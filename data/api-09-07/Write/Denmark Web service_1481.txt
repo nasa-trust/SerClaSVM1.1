@@ -1,0 +1,5 @@
+Denmark address and municipality services
+Denmark Web service
+From their site: Denmark web service is a REST based web service, which displays information on different parts of Denmark, regions, municipalities, parishes, postdistrikter, valgdistrikter, skoledistrikter, primary schools, roads and addresses (over 2.2 million).
+denmark mapping places 
+Mapping

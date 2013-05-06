@@ -1,0 +1,5 @@
+Biological sequence and molecule analysis services
+Center for Biological Sequence Analysis
+The Center for Biological Sequence Analysis offers a collection of SOAP-based APIs for working with nucleotide sequences, amino acid sequences, and small molecules. The nucleotide sequence APIs visualize and analyze genomes, as well as find specific genes and splice sites within a genome. The amino acid APIs assess post-translational modifications to proteins, identify immunological features of proteins, and determine protein structure and function. The small molecule API helps determine the cardiotoxicology of drug molecules. Each of these APIs has its own WSDL endpoint.
+analysis bioinformatics genetics science visualization 
+Science

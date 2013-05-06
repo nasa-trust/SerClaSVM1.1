@@ -1,0 +1,5 @@
+Independent video game directory
+Game Jolt
+Game Joltis a web site and community centered on free online video games. The API provides access to site data. Data includes users, sessions, trophies, scores and the data store. The API uses RESTful calls and responses are formatted in XML and JSON.
+database directory free games 
+Games

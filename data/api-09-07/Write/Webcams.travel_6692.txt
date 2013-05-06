@@ -1,0 +1,7 @@
+Webcam repository
+Webcams.travel
+Webcams.travel is a directory of touristic webcams from around the world. Webcams may be added by members and webcams are ratable within the site.
+ 
+Webcams.travel offers two APIs. The first allows access to the webcam repository and the user community using the REST protocol and returning responses in XML, JSON, or PHP. The second, EasyMap JavaScript API, allows users to add webcams to existing maps using JavaScript.   
+travel video webcam 
+Video

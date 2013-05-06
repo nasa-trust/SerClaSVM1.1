@@ -1,0 +1,15 @@
+account 1
+advertising 3
+come 1
+create 1
+documentation 2
+functionality 1
+game 3
+get 1
+integrate 1
+mobile 1
+monetization 1
+pay 1
+platform 2
+public 1
+publisher 2

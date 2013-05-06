@@ -1,0 +1,13 @@
+cell 1
+device 1
+gps 2
+hardware 1
+location 1
+mobile 3
+part 1
+suite 1
+telephony 2
+tower 1
+underlie 1
+widget 2
+wifi 1

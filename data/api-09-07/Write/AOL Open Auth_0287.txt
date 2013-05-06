@@ -1,0 +1,5 @@
+Authentication services
+AOL Open Auth
+From their site: The AOL Open Authentication API (OpenAuth) empowers third-party web sites and applications to authenticate AOL and AIM users through their Web Sites/Applications. An AIM or AOL-registered user can now log into a third-party Web Site/Application and seamlessly access AOL services or new services built on top of AOL services.
+authentication identity security 
+Security

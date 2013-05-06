@@ -1,0 +1,5 @@
+Public domain music score library
+IMSLP
+The International Music Score Library Project (IMSLP) is a community built library of public domain music scores, the originals which have been scanned to PDF. The project contains over 170,000 scores and 10,000 recordings for over 50,000 works by over 7,200 composers. The IMSLP API allows developers to query the data stored in the library. This data includes composer, work, file, category, record ID and more. It uses RESTful calls and responses are formatted in JSON, PHP and WDDX.
+library music search 
+Music

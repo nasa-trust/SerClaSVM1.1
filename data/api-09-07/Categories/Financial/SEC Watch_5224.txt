@@ -1,0 +1,12 @@
+company 2
+filing 5
+finance 2
+google 2
+ie 1
+investing 1
+quarterly 1
+report 1
+sec 2
+stocks 1
+type 2
+watch 1

@@ -1,0 +1,7 @@
+Image-based captcha service
+CaptChair
+The service delivers distorted images of text -- a captcha -- to be incorporated in form controls or other website resources. Users must correctly interpret the captcha to successfully submit the form or use otherwise interact with the site. Bots and automated scripts, typically intended to post spam messages, fail to respond correctly, which prevents them from continuing. 
+
+API methods support retrieval and display of a captcha image, along with verification of the user response as correct or incorrect.
+captcha security 
+Security

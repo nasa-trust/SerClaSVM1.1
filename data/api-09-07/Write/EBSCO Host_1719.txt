@@ -1,0 +1,7 @@
+Biomedical reference and research service
+EBSCO Host
+The service is specific to the biomedical libraries within provider&#039;s general reference search tools. It is intended for quick online access to authoritative resources to support clinical settings, nursing activities, patient education, and general medical research. Applications gain topic-based access to comprehensive Electronic Health/Medical Records (EHR/EMR) to receive contextually relevant, evidence-based summaries for conditions and procedures from an network of resources, including DynaMed.
+
+API methods support search within the provider&#039;s EBSCO Discovery Service (EDS) or its integrated EBSCO Health Information Service (EHIS) collections. Methods also support browse access to system resources and retrieval of authority records for standard medical terminology.
+biology medical research search 
+Search

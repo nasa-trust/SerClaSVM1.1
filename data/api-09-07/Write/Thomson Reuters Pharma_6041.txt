@@ -1,0 +1,5 @@
+Investigational drugs data
+Thomson Reuters Pharma
+Thomson Reuters gathers data about investigational drugs to provide developers access to pharmaceutical research. The Thomson Reuters Pharma API allows searching of the company&#039;s database. You can filter and rank results, receive briefings about investigational drugs and more. Companies can use the API to create dashboards and competitive intelligence matrices for companies to make sense of the pharmaceutical data.
+health reference science 
+Reference

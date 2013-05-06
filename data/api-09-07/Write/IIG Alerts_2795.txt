@@ -1,0 +1,5 @@
+Voice, SMS and Email messaging
+IIG Alerts
+The Hummingbytes Interactive Information Gateway (IIG) API allows you to build custom alerts with responses. IIG is a voice, SMS, and email alerting system that can be used by businesses to send alerts to their customers.
+email messaging mobile phone sms Voice 
+Messaging

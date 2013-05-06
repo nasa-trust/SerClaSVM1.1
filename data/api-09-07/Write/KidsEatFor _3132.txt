@@ -1,0 +1,7 @@
+Restaurant deal search service
+KidsEatFor 
+KidsEatFor is a search service that finds restaurants where kids eat for free or other specials for kids based on location. KidsEatFor has both a website and a mobile application for Android and iPhone.
+
+The KidsEatFor API allows developers to integrate the search results and deals found on KidsEatFor in other websites. The API allows for retrieving information based on a variety of criteria, including location, deals, menus, chains, and reviews. 
+deadpool family food local restaurant search 
+Food

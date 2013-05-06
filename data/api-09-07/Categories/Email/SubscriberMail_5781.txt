@@ -1,0 +1,9 @@
+campaign 1
+email 6
+enterprise 1
+feature 1
+list 1
+management 1
+marketing 3
+template 1
+tracking 1

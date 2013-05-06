@@ -1,0 +1,16 @@
+code 1
+date 1
+datum 2
+feed 5
+generate 1
+get 1
+id 1
+integrate 1
+location 2
+party 1
+reader 1
+third 1
+up 1
+weather 7
+yahoo 2
+zip 1

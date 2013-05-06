@@ -1,0 +1,7 @@
+Rental property information service
+MyBuilding
+The service provides rental property management information functions such as vacancy announcements, rental applications, tenant status tracking, and maintenance requests. It also allows residents to post profiles. Property managers can list events of interest to residents and send announcements.
+
+API methods support management of resident accounts and profiles, along with assignment of residents to rental units, reassignment to different units if they move, and terminating tenancy when they move out. Methods also support submission and tracking of maintenance requests. The API also supports community interaction among residents and listings of events on the property.
+property realestate rental 
+Real Estate

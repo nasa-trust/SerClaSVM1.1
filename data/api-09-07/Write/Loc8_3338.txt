@@ -1,0 +1,5 @@
+Geolocation for mobile apps 
+Loc8
+Loc8 is a geolocating service for mobile apps. It provides pan-India coverage for determining the latitudinal and longitudinal coordinates of mobile phones without GPS-enablement. With Loc8 incorporated into their apps, developers can see what cell towers their users are near. This information is shared via Loc8???s RESTful API. The API allows developers to integrate the locational functionality into their apps code. The API responds in GeoJSON. 
+geolocation india mapping mobile 
+Mapping

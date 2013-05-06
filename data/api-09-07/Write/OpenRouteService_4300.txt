@@ -1,0 +1,5 @@
+Open GeoData route-finding service
+OpenRouteService
+The API implements a route-finding service for cars, pedestrians, and bicycles based on Open Standards and Open Geodata. Coverage varies depending on data contributed. It also adds several location-aware services created from OpenStreetMap data: Geocoder/Reverse Geocoder, Directory Service, Accessibility Analysis Service, and Emergency Route Service. Please contact the providers prior to using the API. They are interested in spreading the usage of OpenRouteService in academic and non-profit projects. 
+bicycle mapping route 
+Mapping

@@ -1,0 +1,7 @@
+Dictionary definition service
+STANDS4 Definitions
+The service provides word definitions from the provider&#039;s online multilingual dictionary. It allows applications to perform word and lookup to generate definitions or translations, comparable to the same provider&#039;s abbreviation lookup service. Possible applications include term lookup within search results.
+
+The API methods accept the term to be defined and return the definition along with part of speech (noun, verb, adjective, etc.) and an example of the word in use. 
+Dictionary reference Thesaurus words 
+Dictionary

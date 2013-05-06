@@ -1,0 +1,15 @@
+add 1
+buy 1
+buying 2
+customer 2
+delete 1
+example 1
+functionality 1
+integrate 2
+method 1
+order 3
+photo 7
+print 1
+printing 3
+retrieve 1
+status 1

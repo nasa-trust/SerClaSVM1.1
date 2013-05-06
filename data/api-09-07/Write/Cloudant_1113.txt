@@ -1,0 +1,5 @@
+Data scaling platform 
+Cloudant
+Cloudant is a data solutions provider. Businesses and research institutions can use their data layer to develop their data management operations. It is a scalable platform that supports data-replication, synchronization, analytics, and more. The Cloudant API exposes the database functionality. It is a RESTful API that allows developers to request information from all of the datasets they have access to and returns JSON-formatted data. 
+cloud Data tools 
+Tools

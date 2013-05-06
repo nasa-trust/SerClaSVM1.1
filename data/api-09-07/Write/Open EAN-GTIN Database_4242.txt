@@ -1,0 +1,5 @@
+Barcode database
+Open EAN/GTIN Database
+The Open EAN/GTIN barcode number database lets users query barcode numbers online and receive information about related products. The database contains EAN/GTIN/UPC/JAN codes and provides detailed information about the products that are tagged with such a barcode number. The API lets users query the database from their own web sites and applications. It uses HTTP calls and responses are formatted in TXT.
+barcode database product upc 
+Database

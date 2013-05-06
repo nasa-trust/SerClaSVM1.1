@@ -1,0 +1,7 @@
+Online activism network and community
+Activism Network Community
+The Activism Network Community is an online, interactive community for activists and social movements. The network includes a database of activists and social movements, contacts for certain movements and causes, resources for activists, events calendar, and email lists regarding certain topics.
+
+The Activism Network Community API allows developers to retrieve upcoming events from the network&#039;s events calendar, as well as filtering by geographic location and issue. The site says the API will be expanded with time.
+activism events reference 
+Events

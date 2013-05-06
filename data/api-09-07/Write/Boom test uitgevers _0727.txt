@@ -1,0 +1,7 @@
+Dutch educational testing service
+Boom test uitgevers 
+The service provides standardized management of Dutch School Proficiency Tests (SVT). It covers tests for mathematics and arithmetic as well as reading, both technical proficiency and comprehension of read material. The service is available to schools or educational institutions in the Netherlands
+
+API methods support management of an institution&#039;s account information, listing of available testing products, and completion of purchases to license the tests for the institution&#039;s students.  
+education netherlands testing 
+Education

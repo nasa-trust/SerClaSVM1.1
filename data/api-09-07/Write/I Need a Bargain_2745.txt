@@ -1,0 +1,5 @@
+Shopping deal aggregator service
+I Need a Bargain
+I Need a Bargain (INAB) aggregates shopping deals from numerous bargain sources. With the INAB API, developers can add deals to their own websites. The API provides methods such as getting bargain offers by keyword search, category ID, promo type ID, store ID and more. The API uses RESTful protocol and responses are formatted in JSON.  
+aggregator bargain retail coupon deal
+Shopping

@@ -1,0 +1,5 @@
+Search engine for data
+Datafiniti
+Datafiniti is a search engine for data. Unlike a typical search engine, where a user might search by keywords and are typically looking for a single link to a website, Datafiniti lets users query the entire web as if it were a database. Full documentation is not yet publicly available.
+database datasets search 
+Search

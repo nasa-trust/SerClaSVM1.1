@@ -1,0 +1,5 @@
+Travel tour booking service
+Rezgo
+Rezgo is tour operator software designed for companies who run tours, activities, and attractions. Many of the companies using Rezgo for their on-line bookings include: whale watching tours, river rafting, kayaking tours, bicycle tours, city guided tours, bus tours, boat tours, helicopter tours, special events, and more. Rezgo helps tour operators organize their tours and gives them all the tools they need to accept bookings on-line. As a tour operator system, Rezgo helps tour operators increase their on-line bookings while keeping them organized and reducing their administrative burden and costs.  Rezgo supports inventory management, real-time availability, rich media (like photos & videos), pricing & availability rules, on-line vouchering, and even 2D mobile barcode scanning.
+booking travel 
+Travel

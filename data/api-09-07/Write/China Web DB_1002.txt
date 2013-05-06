@@ -1,0 +1,7 @@
+Chinese internet information service
+China Web DB
+The service maintains a structured wiki about internet and technology use in China. The site documents Chinese websites and their uses, internet activities, and technology trends. Wiki data are open to public editing and available either via the site itself or to other applications using the API.
+
+API methods currently support access to the database of Chinese websites specified by URL, providing some or all of site logo, English-language description, screen shot, and traffic data. Future plans include API methods for access across categories of data.
+china deadpool internet wiki 
+Wiki

@@ -1,0 +1,5 @@
+Mobile barcode service
+Mytago
+Upload, decode and read two dimensional barcodes. Intended to be used from mobile devices as a means to interpret &quot;tags&quot; in the real world. Requires you include a public-readable image of the barcode on the web.
+deadpool mobile utility 
+Utility

@@ -1,0 +1,7 @@
+Video device monitoring and synchronizing service
+syncrhonize.tv
+The service provides capabilities to share information about video programs playing on a display to other devices and system management resources. It aims to allow coordination among devices by indicating exactly what program is playing and how much has elapsed from the beginning on any specific TV or video display. Applications can then coordinate or offset displays on other devices. Another service provides keyword content analysis of television programming that plays on a device.
+
+API methods support submitting the UUID (universally unique identifier) for a set top box (STB) or connected TV to retrieve the program identifier and offset in seconds from the beginning for the show playing on the device. Methods for the content analysis API include retrieval of words contained within a television program playing on a specific display.
+entertainment television 
+Entertainment

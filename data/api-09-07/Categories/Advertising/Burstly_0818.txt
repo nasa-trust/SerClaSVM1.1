@@ -1,0 +1,11 @@
+ad 2
+advertising 2
+conversion 1
+download 2
+integrate 1
+mobile 1
+monetization 3
+platform 2
+profit 1
+track 1
+tracking 1

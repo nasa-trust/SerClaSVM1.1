@@ -1,0 +1,14 @@
+code 1
+complete 1
+high 1
+integrate 2
+java 1
+messaging 2
+notification 2
+price 1
+quality 1
+soap 1
+tall 2
+telephony 2
+umbrella 2
+voice 3

@@ -1,0 +1,6 @@
+Location based tracking service
+Clearwire Location Platform 
+With this API, users can customize their Web page or application to obtain a position from the CLP. The Clearwire Location Platform (CLP) is a cell sector location system that interfaces with the existing Clearwire wireless network infrastructure to provide the location of devices within the network based upon the centeroid of the sector to which they are connected. A cell is typically divided into three sectors, thus, providing a higher level of precision than just the geodetic address (Lat, Long) of the tower.
+
+deadpool location mobile telephony 
+Telephony

@@ -1,0 +1,5 @@
+Create rich voice and SMS mashups via simple RESTful API
+Ringful
+Ringful.com provides a set of simple and powerful RESTful web services APIs for voice and mobile messaging applications such as iConference, Mobile ID Verification, and Facebook Voicetag. Ringful enhanced online services can be so sophisticated in telephone interaction that they would appear to be run by Fortune 500 enterprises.
+deadpool messaging mobile sms telephony Voice 
+Telephony

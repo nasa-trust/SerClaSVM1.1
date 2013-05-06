@@ -1,0 +1,5 @@
+Time Tracking and Task Management Tools
+Intervals
+Intervals is a time tracking and task management service. The Intervals API allows users to perform actions on various resources available within Intervals in a RESTful manner. Developers can add, edit and update tasks, as well as time-tracking. Most API requests return either XML or JSON formatted data.
+pim project-management tasks time-tracking 
+Project Management

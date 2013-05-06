@@ -1,0 +1,5 @@
+Mobile payment platform
+Netmobo FeeFactor
+Netmobo is a payments platform specifically for mobile developers. Complements and expands on the in app purchase options from Android and iOS platforms. Includes subscriptions (with metered usage), discounts, special promotions and reward programs. 
+deadpool mobile payment 
+Payment

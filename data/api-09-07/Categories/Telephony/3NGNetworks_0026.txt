@@ -1,0 +1,16 @@
+documentation 1
+entire 1
+expose 1
+format 1
+full 1
+functionality 1
+label 1
+platform 2
+private 1
+protocol 1
+provider 2
+response 1
+soap 1
+solution 1
+telephony 2
+voice 1

@@ -1,0 +1,7 @@
+Multi-language thesaurus management service
+GEMET
+The service maintains a database of multi-language thesauri, i.e. collections of terms with semantic relationships such as equivalent in meaning, broader or narrower in meaning, or associated in some other way. It provides access to each documented thesaurus and to lists of thesauri. Maintaining thesauri across different languages helps to encourage interoperability through connections between terms expressing similar concepts in different languages.
+
+API methods support retrieval of concept lists from one or more thesauri at multiple levels, either top-most concepts, all concepts, or subsets. Methods also support submission of one concept and retrieval of all concepts from the database related to the one in the request, including those in different languages. 
+language reference semantic 
+Reference

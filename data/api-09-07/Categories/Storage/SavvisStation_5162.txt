@@ -1,0 +1,17 @@
+account 2
+cloud 2
+control 1
+dashboard 1
+delete 1
+host 4
+manage 1
+method 1
+platform 1
+portal 1
+proprietary 1
+resource 2
+retrieve 1
+storage 4
+support 1
+updating 1
+upload 1

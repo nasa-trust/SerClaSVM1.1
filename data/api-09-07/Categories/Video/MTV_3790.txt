@@ -1,0 +1,13 @@
+artist 1
+associate 1
+catalog 1
+content 3
+develop 1
+logo 1
+metadata 1
+music 2
+network 1
+own 1
+rest 1
+search 1
+video 5

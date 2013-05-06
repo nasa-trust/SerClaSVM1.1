@@ -1,0 +1,5 @@
+Enables sending addresses from web to phone
+TeleNav Share
+The TeleNav Share API is designed to help users easily send an address from a website or a mobile application directly to their phone. Developers can use this API to place a &quot;Send to Phone&quot; option next to address listings. TeleNav Share&#039;s API supports SOAP, as well as REST via HTTP GET/POST, and can accommodate both XML and JSON data formats.
+address integration messaging mobile 
+Messaging

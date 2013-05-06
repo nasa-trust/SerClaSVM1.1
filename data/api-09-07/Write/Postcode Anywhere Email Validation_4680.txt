@@ -1,0 +1,9 @@
+Email validation service
+Postcode Anywhere Email Validation
+Postcode Anywhere is an &quot;information-as-a-service&quot; provider offering over 250 separate web services covering a broad range of business efficiency tools for address and data capture, validation and cleansing to geo-coding, mapping, and route planning and optimisation. 
+
+The Email validation API will validate email addresses at the point of capture. It will also verify the existence of an email address.
+
+The API uses a number of protocols including REST, SOAP and XML-RPC. Responses can be formatted in XML, JSON, CSV, HTML and PDF. 
+email validation verification 
+Email

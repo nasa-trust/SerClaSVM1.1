@@ -1,0 +1,5 @@
+Recommendations service
+StyleFeeder
+From their site: A set of RESTful services, which developers can use to leverage our unique capabilities. These services can be used to build applications for the desktop or mobile environments, platform-based applications such as Facebook, Friendster, and OpenSocial. Other uses include AJAX or Flash widgets, search and bookmark plugins, and others. StyleFeeder is a personal shopping engine that makes personal recommendations. It's a great way to discover new products and keep track of what you're shopping for online, using visual bookmarks.
+recommendations shopping 
+Recommendations

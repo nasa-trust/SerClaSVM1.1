@@ -1,0 +1,15 @@
+compensation 1
+disclosure 2
+edgar 2
+enterprise 1
+executive 1
+filing 2
+finance 2
+form 1
+insider 1
+money 1
+proxy 1
+registration 1
+sec 2
+statement 2
+transactions 1

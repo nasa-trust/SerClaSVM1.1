@@ -1,0 +1,5 @@
+Geospatial coverage retrieval service
+LAITS GMU Coverage
+The LAITS GMU Coverage API is a geospatial coverage retrieval service based on the OpenGIS Web Coverage Service Interface Standard. Types of data categorized as "coverages" may include satellite images, digital aerial photos, digital elevation data, and other phenomena represented by values given at each measurement point. The LAITS GMU Coverage API uses the XML data format and operates over SOAP. 
+mapping geography
+Mapping

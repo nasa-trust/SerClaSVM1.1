@@ -1,0 +1,7 @@
+Cost splitting application service
+Splitable
+Splitable is a service that allows users to split the cost of purchasing goods, services, and food. Users can determine the breakdown of costs among the people they are splitting the cost with and send them details about the good, service, etc.
+
+The Splitable API allows developers to access and integrate the functionality of Checkout by Splitable, which enables companies to allow their customers to split the cost of goods and services. Methods include managing details about the goods or services, managing cost information, and sending invoices.
+finance payment social 
+Payment

@@ -1,0 +1,5 @@
+Voice to email and text service
+Jott
+From their site: Use Jott Links to blog from your cell phone wherever you are. Use Jott Links for social networking and micro-blogging. A Jott Link enables you to send a Jott to a Web-based service that has an API, such as a social networking site or a blog. For example, if you add the Jott Link "Blogger" to your contact list, you can then Jott to Blogger. A Jott Link is treated much like a contact. The difference is, when a user jotts a Jott Link instead of sending an SMS or Email message, an http Post is made. The resulting text of this post is then delivered back to the user who sent the Jott. The Jott Link takes the transcribed message and delivers it to another online application such as Blogger or Twitter via that application's API.
+messaging telephony Voice 
+Messaging

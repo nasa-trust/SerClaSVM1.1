@@ -1,0 +1,7 @@
+VoIP service provider
+SureVoIP
+SureVoIP is an internet telephony service provider supplying hosted VoIP solutions, SIP trunks, inbound numbers and other related VoIP products and services in the UK.
+
+The SureVoIP API lets users automate their interaction with the SureVoIP platforms. With the API, developers can create scripts, applications or mashups which can create customers, send SMS messages and faxes, search numbers, provision numbers, generate VoIP calls, manage accounts and more. The API uses RESTful calls and responses are formatted in XML, JSON, Text and HTML (and others).
+fax messaging SIP sms telephony VoIP 
+Telephony

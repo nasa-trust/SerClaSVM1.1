@@ -1,0 +1,6 @@
+Avatar access service
+WeeWorld
+Note: API docs are not public. From their site: There are more than 21 million WeeMees worldwide and their owners want to see them on your website!
+So we&#039;ve made it easy for you to give them what they want. Partner with WeeWorld and benefit from the power of the WeeMee. The WeeWorld Partner Program allows the creation and use of WeeMees (customizable personalized avatars) on websites outside WeeWorld.com. The API is quick and easy to integrate into your website and allows your end users free and simple access to WeeMees. Benefits:   Give your website a unique angle and instant personalization; Enhance your user experience and keep them coming back for more; Align yourself with a powerful brand. Contact to determine whether you need the basic or extended API.
+social 
+Social

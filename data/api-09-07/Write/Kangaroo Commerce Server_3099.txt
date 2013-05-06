@@ -1,0 +1,7 @@
+eCommerce server integration service
+Kangaroo Commerce Server
+Kangaroo Commerce Server is an eCommerce platform. It includes a shopping cart, content management, email marketing, order processing, customer relations management, invoicing, accounting, inventory management, warehouse features, and more.
+
+Kangaroo Software provides API&#039;s in JavaScript, C#, and XML. Their JavaScript API is intended to be the go-to, platform independent interface to the Kangaroo Commerce Server. It supports functions that allow developers make calls to place an item in a shopping cart, manage and process orders, retrieve JSON representations of products, users, baskets, and orders, validate customer data, and dynamically retrieve pieces of HTML. The C# API is provided to assist developers interested in building .NET code extensions compatible with the Commerce Server. Finally, an XML API allows remote access to the server to aid developers in integrating 3rd party applications.
+ecommerce retail 
+Retail

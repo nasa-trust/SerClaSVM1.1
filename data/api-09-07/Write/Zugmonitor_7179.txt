@@ -1,0 +1,5 @@
+Germain railway information service
+Zugmonitor
+Open Data City specializes in applications involving large data sets. Their Zugmonitor API provides users with information about the trains, status, and train delays in the German Railway system. Information provided includes stations and their characteristics, trains and their properties and mroe. The API uses RESTful calls and responses are formatted in JSON. The site and documentation are in German.
+germany transit transportation travel 
+Transportation

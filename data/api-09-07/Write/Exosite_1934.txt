@@ -1,0 +1,9 @@
+Cloud storage platform
+Exosite
+Exosite is a cloud-based data platform, providing businesses with a solution for managing communications between devices and users, running calculations and transformations on data, storing and retrieving data, and processing rules and sending dispatches.
+
+Users can try out the Exosite platform for free, though full access to all features of the platform requires enrollment in a paid program.
+
+The Exosite API gives users programmatic access to many of the data storage and manipulation features provided by the Exosite platform. This API operates over REST and JSON RPC, and uses the JSON data format.
+cloud internet storage 
+Internet

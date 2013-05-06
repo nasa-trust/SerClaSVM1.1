@@ -1,0 +1,5 @@
+Keyword suggestion service
+Wordstream Keyword Niche Finder
+The Keyword Niche Finder is a tool that returns structured  keyword suggestions rather than a disorganized list. Using this keyword API will allow your users to obtain similar results to the Free Keyword Tool, but with those keywords grouped, organized, and ready to implement in high-performance PPC and organic search campaigns. WordStream is a search engine marketing software company offering an integrated keyword management solution for addressing the complexities of efficiently optimizing and expanding PPC and SEO efforts involving large numbers of keywords, on an ongoing, continuous basis. The API uses RESTful protocol and responses are formatted in JSON.
+marketing search sem 
+Search

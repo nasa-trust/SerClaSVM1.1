@@ -1,0 +1,14 @@
+Online video conferencing service
+AuraLink
+Auralink offers high definition video conferencing as an on-line service. Auralink&#039;s Integration API allows developers to create web based video conferencing tools that provide:
+
+    on-demand translation services
+    remote legal deposition tools
+    speak-to-the-expert technical support
+    personalized coaching and instruction
+    scheduled and ad hoc sales meetings
+    talk-to-the-physician health care kiosks
+
+Full documentation of the API is not publicly available.
+conference video 
+Video

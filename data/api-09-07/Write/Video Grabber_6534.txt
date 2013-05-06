@@ -1,0 +1,5 @@
+Video download and capture service
+Video Grabber
+The service uses the public URL for an online video to access the file containing the content and make it available for downloading and saving locally. It requires no application installation. Rather, it tracks the file saving location and generates a download to copy the file on the user's system.
+media movies video television
+Video

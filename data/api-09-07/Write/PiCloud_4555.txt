@@ -1,0 +1,7 @@
+Cloud computation service
+PiCloud
+PiCloud allows users to run computationally expensive operations over the cloud. Developers dealing with local performance bottlenecks can upload their projects to PiCloud and take advantage of their thousands of cores of on-demand processing power.
+
+Through the use of PiCloud&#039;s RESTful API, developers can connect any development environment to PiCloud directly over HTTP. Their documentation contains request and response examples for connecting to the PiCloud web service using CURL. The API also supports the input of binary data, as well as batched queries. Clients can choose from a variety of plans with rates that are determined by CPU core type and are prorated to the millisecond.
+cloud development internet 
+Internet

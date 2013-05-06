@@ -1,0 +1,5 @@
+Payment verification service
+Albany eVERIFY
+Albany Software provides software for payments processing, bank account validation, Direct Debit collections and e-document delivery. Albany eVERIFY is a solution that offers accurate validation of bank account and sort code details by cross-checking this data against the Extended Industry Sort Code Directory (EISCD). The Albany eVERIFY API enables users to embed the verification functionality into their existing accounts systems.
+payment validation verification 
+Payment

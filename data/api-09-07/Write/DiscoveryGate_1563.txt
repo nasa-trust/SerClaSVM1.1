@@ -1,0 +1,7 @@
+Chemical compound sourcing service
+DiscoveryGate
+The service provides information about types and availability of chemical compounds and chemistry products. It aggregates source information by compound and provider to facilitate comparison and purchasing decisions. Products are flagged by molecular structure to make them easy to find, along with listings of potential suppliers.
+
+API methods support specification of molecule &quot;flags&quot; or descriptors to identify progressively finer selections of available chemical compounds. Methods return potential matches with procurement information like supplier, location, and price.
+chemistry research science 
+Science

@@ -1,0 +1,5 @@
+Online CRM service
+Solve360
+Solve360 is an on demand CRM that acts as a collaborative workspace for users to track their contacts, leads and clients. The API gives users the ability to add, edit, delete and report on data in their Solve360 accounts without having to go through the Solve360 web interface. With the API, users can integrate Solve360 with their web site and other applications and create custom reports. It uses a RESTful protocol and responses can be formatted in either XML or JSON.
+CRM enterprise sbweb 
+Enterprise

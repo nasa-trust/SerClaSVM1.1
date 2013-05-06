@@ -1,0 +1,8 @@
+Local search service
+Yahoo Local Search
+The Yahoo! Local Search APIs give users access to a comprehensive database of information and content in Yahoo! Local ranging from business information to user comments to ratings. Data includes business address and phone, category, rating, distance, URL and traffic alerts. Yahoo! Local makes a great addition to any mashup, bringing in location-based relevancy and the additional context of what real people have experienced in these places.
+
+Version 3 of Yahoo! Local Search adds even more features! Users can now request individual business records by using the Yahoo! Local listing id. Yahoo! supports search categories to help users narrow their queries. Finally, results now return the first few lines of the last user review for each listing. The API uses a RESTful protocol and responses are formatted in either XML, JSON and PHP.
+
+display local mapping places search 
+Search

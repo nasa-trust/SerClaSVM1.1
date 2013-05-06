@@ -1,0 +1,14 @@
+account 1
+bank 1
+banks 1
+come 1
+documentation 1
+functionality 1
+integrate 2
+mobile 5
+payment 7
+po 1
+processor 1
+public 1
+retailer 1
+solution 1

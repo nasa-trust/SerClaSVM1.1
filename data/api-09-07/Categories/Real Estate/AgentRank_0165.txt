@@ -1,0 +1,6 @@
+agent 2
+estate 3
+forecast 2
+real 3
+review 2
+sales 2

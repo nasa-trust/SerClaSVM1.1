@@ -1,0 +1,8 @@
+Wiki hosting service
+Wikidot 
+Wikidot is a web application service where people can create collaborative web spaces that look like a traditional wiki, a forum, or a blog. Users can use a mix of forums, wiki pages, templates, modules, custom themes, add-in packages, and reusable site templates to create almost any collaborative web project.
+
+The Wikidot API is a way computer programs and automated system can access and interact with Wikidot for some user. User scripts can use this API to access Wikidot data like which sites belong to a user, page meta data, like title, tags, or parenting, the actual content of a page, and information about attached files.
+
+blogging wiki 
+Wiki

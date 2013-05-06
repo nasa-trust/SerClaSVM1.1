@@ -1,0 +1,5 @@
+Movie review service
+USA Today Movie Reviews
+Nationwide newspaper USA Today provides access to movie reviews it publishes. Using the API, developers can find most recent reviews, or search based on actors and directors. Response data includes a list of the main actors, director, review rating, MPAA rating. Results are sent as JSON and require an API key.
+movies news reviews 
+News

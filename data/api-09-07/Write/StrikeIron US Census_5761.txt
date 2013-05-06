@@ -1,0 +1,5 @@
+Census data information service
+StrikeIron US Census
+he StrikeIron U.S. Census Information Web Service instantly retrieves extensive information from the U.S. Census Bureau&#039;s Census 2000. Census 2000 was a nationwide census in 2000 that covered over 280 million people. To use this Web service, simply enter a ZIP, city, county or state, the District of Columbia or Puerto Rico and receive a detailed profile. Each profile consists of four tables that provide demographic, social, economic, and housing characteristics for the given input. The data can then be delivered live via an XML based Web service directly into any application, platform, product or Web site. 
+reference 
+Reference

@@ -1,0 +1,14 @@
+add 1
+integrate 1
+make 1
+message 1
+multimedia 3
+photo 1
+player 1
+presentation 1
+recording 1
+tool 1
+video 4
+voice 1
+webcam 1
+widget 2

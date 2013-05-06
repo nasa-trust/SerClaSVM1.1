@@ -1,0 +1,9 @@
+Car booking service and local driver&#039;s information
+car2go
+car2go is a point to point car sharing service available in Miami and Austin with flexible credits and rental rates. It has the advantage of promoting personal mobility and extending the reach of public transportation for the individual who chooses to forgo owning a car.
+
+The car2go API will provide up-to-date information on which vehicles are available, places to park, and local gas stations. There are protected functions for developers who register. Applications can be written to manage short term user bookings. Limited commercial applications may be obtained.
+
+ 
+auto booking cars sharing transportation 
+Transportation

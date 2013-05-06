@@ -1,0 +1,5 @@
+System Tools and Management Service
+FluidVM
+FluidVM is a service that handles systems management, local and iSCSI SAN storage, and network management, along with supporting virtualization technologies, web hosting, and data center environments. For integration into existing products, FluidVM provides an XML-RPC API and a JSON based proxy service. The FluidVM API can handle starting and executing multiple queued tasks, and can later retrieve the status of any tasks. FluidVM also provides two different license options, a permanent license or a monthly license. 
+deadpool hosting management storage tasks tools 
+Tools

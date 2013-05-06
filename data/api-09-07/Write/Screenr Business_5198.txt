@@ -1,0 +1,5 @@
+Screen capture embedding tool
+Screenr Business
+Screenr Business is a web-based screen recording service designed for businesses??? client and colleague support systems. It allows clients to capture errors and share the video privately with support staff for diagnostic purposes. The API provides integration functionality between the embeddable recorder and URLs. It is a RESTful API with JSON formatting. 
+tools utility video 
+Video

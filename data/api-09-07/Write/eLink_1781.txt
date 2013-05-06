@@ -1,0 +1,5 @@
+CRM software
+eLink
+eLink is a software tool that enables organisations to manage their customer data, their prospects, their enquiries, their activities, their diaries, their documents, their projects, their emails, their client histories, their mailshots and their reporting on key performance indicators efficiently and in a user friendly way. The eLink SOAP API is designed to implement the same set of functions and responses are formatted in XML.
+CRM enterprise 
+Enterprise

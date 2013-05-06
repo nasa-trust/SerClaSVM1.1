@@ -1,0 +1,5 @@
+iTunes App Store and iTunes Connect data source
+iTunes and iTunes Connect
+A simple REST web service to access the iTunes App Store and iTunes Connect data. Get information about apps, reviews, ratings, ranking, iTunes Connect sales data and more. 
+itunes mobile shopping
+Other

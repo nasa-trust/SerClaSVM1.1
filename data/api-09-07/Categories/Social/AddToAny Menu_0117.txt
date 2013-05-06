@@ -1,0 +1,13 @@
+bookmark 1
+button 1
+content 1
+external 1
+integration 1
+internet 1
+menu 1
+protocol 1
+share 1
+sharing 3
+single 1
+social 2
+tool 2

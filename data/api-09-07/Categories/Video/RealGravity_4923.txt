@@ -1,0 +1,11 @@
+ad 1
+content 2
+generate 1
+host 2
+license 1
+platform 2
+publishing 1
+revenue 1
+syndication 1
+upload 1
+video 5

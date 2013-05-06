@@ -1,0 +1,7 @@
+Online invoicing and payment service
+fetchflow
+fetchflow is an online invoicing and payment service. fetchflow users can create and send online invoices, manage invoices online, and accept online payments from their customers and clients.
+
+The fetchflow API allows developers to integrate fetchflow functionality and data with other applications and creating other applications. Some example API methods include accessing client information, creating and managing invoices, and retrieving estimate information. 
+enterprise finance invoicing payment 
+Enterprise

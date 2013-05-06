@@ -1,0 +1,5 @@
+Point of sale and inventory control system
+MerchantOS
+MerchantOS is a web based point of sale and inventory control system. MerchantOS is currently in development of an open API that will allow 3rd party developers to integrate their applications into MerchantOS. Customers, Inventory, and Sales will be accessible through the API. The API is expected to be available 2nd Quarter of 2010.
+enterprise Inventory sales sbweb 
+Retail

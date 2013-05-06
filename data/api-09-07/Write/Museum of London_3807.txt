@@ -1,0 +1,6 @@
+Access to museum data
+Museum of London
+The Museum of London API is a REST interface to the following data sources: publications from the Archaeology Service; events at the Museum of London, Museum in Docklands, and London; Archaeological Archive and Resource Centre; and a converter from OSGB grid references to latitude/longitude. Also there is archaeological sites to the publications API, which means that KML output. 
+
+musuem reference 
+Education

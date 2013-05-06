@@ -1,0 +1,5 @@
+Online Voice/Text Chat/Conversation Service
+Ericsson Async Voice
+Ericsson Labs Async Voice JavaScript API is a set of JavaScript libraries that allow developers to embed Async Voice push-to-talk functionality into their websites. Async Voice allows users to publish small (&lt;14sec) voice messages or small text messages which can be published alone, or in conversations (think twitter with voice clips).
+chat telephony Voice 
+Chat

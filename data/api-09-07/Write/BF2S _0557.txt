@@ -1,0 +1,5 @@
+Battlefield 2 gamers services
+BF2S 
+Use the BF2S API to locate player profiles and leaderboard details for those who play the game, Battlefield 2, and socialize on the BF2S website. When you get player profiles using the API, nearly 100% of what you see on player profiles at the main BF2S site is returned. When you get leaderboard details, as many as 64 players with their stats can be returned. The leaderboard details do not have as much detail as the main site, but they do have the essentials.
+games 
+Games

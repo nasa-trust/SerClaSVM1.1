@@ -1,0 +1,5 @@
+Email service
+Mirkolofio Mailinator
+Mirkolofio Mailinator is an email service that doesn&#039;t require sign up. Users can have any email name that they can think of at the Mailinator.com domain. The API consists of two methods; one for returning an account and the mailbox url, and the other that returns the contents of the mailbox. The API uses HTTP calls and responses are formatted in JSON.
+deadpool email internet 
+Email

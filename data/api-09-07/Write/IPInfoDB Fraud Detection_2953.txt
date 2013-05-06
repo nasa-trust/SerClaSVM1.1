@@ -1,0 +1,5 @@
+Online fraud detection service
+IPInfoDB Fraud Detection
+Fraud detection system for ecommerce site that calculate the distance between shipping location and IP location. The purpose of this API is for online fraud detection and prevention. It compares the transaction shipping / billing information with IP geolocation data for all countries. Responses are in XML format.
+ecommerce security utility 
+Reference

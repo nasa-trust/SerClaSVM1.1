@@ -1,0 +1,9 @@
+Management and content software extension service 
+MediaCast
+MediaCast is a digital signage customization and organization system for companies with a network of digital signs. The software-as-a-service offering helps simplify and automate &quot;point of sale, point of wait, or point of transit communications networks.&quot;
+
+The Mediacast API allows users of the software with programming capabilities to integrate the new management software into their existing systems to avoid retraining employees. The Mediacast API also allows companies to overlay their own rules of how content behaves within the system to coincide with their preexisting business practices. 
+
+Full documentation is available upon request.
+tools video 
+Tools

@@ -1,0 +1,9 @@
+Battlefield 3 statistic reporting service
+Battlefield 3 Stats
+bf3stats.com is a website that provides up-to-date, cross-platform stats for almost every facet of Battlefield 3, a modern combat game by Electronic Arts. bf3stats now provides an API for retrieving stats from their database, allowing developers to integrate BF3 stats into their software or application.
+
+Developers must create an account on the site, and then register their application before they can integrate their app with bf3stats. Several of the API methods are only available to users with registered applications, though simple player and global lookups are possible without an API key.
+
+This API operates via HTTP POST, and returns data in JSON.
+games statistics 
+Games

@@ -1,0 +1,7 @@
+Green healthy product ratings
+GoodGuide
+The GoodGuide API enables developers to access GoodGuide.com data through a REST-based interface.  Version 1.0 of the GoodGuide API currently supports one operation, search, that returns information and GoodGuide ratings about entities.  An entity as defined by the GoodGuide API is a product, company, brand, or product category for which there is a GoodGuide rating.  Through the API, you can find information about any entity currently available on GoodGuide.com.
+
+GoodGuide provides information about the health, environmental and social performance of products and companies.???
+environment green health ratings recommendations 
+Recommendations

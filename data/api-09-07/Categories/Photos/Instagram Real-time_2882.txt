@@ -1,0 +1,12 @@
+add 1
+geography 1
+image 1
+location 2
+notice 2
+photo 4
+re 1
+real 4
+receive 2
+sharing 1
+subscribe 2
+tag 1

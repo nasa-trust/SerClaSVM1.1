@@ -1,0 +1,16 @@
+address 2
+book 2
+contact 4
+datum 1
+edit 1
+exist 1
+permission 1
+privacy 1
+relationship 1
+respects 1
+secure 1
+social 3
+transfer 1
+view 1
+way 1
+yahoo 4

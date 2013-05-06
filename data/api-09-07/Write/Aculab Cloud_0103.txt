@@ -1,0 +1,9 @@
+Cloud based telephony services
+Aculab Cloud
+Aculab Cloud enables users to create scalable voice and fax applications. There cloud telephony platform presents high level APIs (Python and .NET) making it quick and easy to write a range of applications.  
+
+The developer account is free and once you wish to run your application you simply pay per minute for the runtime of the application. In addition you can purchase a range of international inbound numbers.
+
+Users can write applications to manage interactions and call logic including transfer calls, play messages, add calls together in a conference and more. The RESTful API provides programmatic access to the Cloud Filestore, whereby a suitable program may download, upload, delete or rename media files.
+cloud conferencing fax telephony Voice 
+Telephony

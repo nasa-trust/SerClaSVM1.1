@@ -1,0 +1,5 @@
+Romanian geocoding service
+ondi.ro Geocoding
+ondi.ro is a project which aims to provide geographical information about Romania through simple web services. Pseudo Geocoding (place name support, no full address) and reverse Geocoding services are provided. There&#039;s also a geoparsing service to extract place name from texts in Romanian.
+deadpool geocoding mapping romania 
+Mapping

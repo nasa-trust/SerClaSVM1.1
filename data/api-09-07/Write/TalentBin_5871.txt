@@ -1,0 +1,5 @@
+Social recruiting service
+TalentBin
+TalentBin is big data social recruiting tool for web development jobs. They crawl sites for personal information, reduce it to distinction identities, and store it to maintain a passive candidate database of implicit web resumes. Their API gives developers access to personal information of cataloged identities, such as their location, skills, and company. It is a RESTful API that can return data in JSON, JSONP, and XML. 
+jobs recruiting social 
+Social

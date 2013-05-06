@@ -1,0 +1,5 @@
+Random Quote Generator
+Quotes on Design
+Quotes on Design provides a free tool for developers to embed a random quote from the Quotes on Design database into their website. This can be done by embedding a JavaScript code into the website, or by using an HTTP call and then parsing the returned JSON object.
+design quotations Random 
+Other

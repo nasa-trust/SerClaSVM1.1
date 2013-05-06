@@ -1,0 +1,5 @@
+Photo and video sharing service
+Phanfare
+From their site: We created Phanfare because we wanted permanent, polished, ad-free online photo and video albums. And we wanted to reduce the time and effort needed to create and share our albums. The Phanfare Public API allows developers to build tools (which we call Widgets) that let you do more with Phanfare. You can integrate Phanfare albums, photos and videos into existing applications, sites and services or build new tools from scratch.
+photo video 
+Media Management

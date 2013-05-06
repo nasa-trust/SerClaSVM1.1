@@ -1,0 +1,16 @@
+associate 1
+chemical 3
+chemistry 1
+component 1
+datum 1
+free 1
+million 1
+over 1
+property 2
+reference 1
+researcher 1
+science 2
+search 2
+single 1
+source 1
+structure 4

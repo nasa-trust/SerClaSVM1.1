@@ -1,0 +1,5 @@
+File Storage and Management Service
+DocLanding
+The Doclanding API allows users to integrate other programs with the Doclanding service. Using this SOAP API, users can store and retrieve files from Doclanding, organize their files and cabinets, create and update data, and search for files. A developer key is required for use of the API.
+documents project sharing storage 
+Storage

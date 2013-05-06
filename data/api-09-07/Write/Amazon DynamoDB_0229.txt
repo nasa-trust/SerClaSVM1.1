@@ -1,0 +1,9 @@
+NoSQL database service
+Amazon DynamoDB
+Amazon DynamoDB is a scalable NoSQL database homegrown by the Amazon team. Developers set their write and read capacity to match the number of reads and writes their system needs. Like all NoSQL databases, DynamoDB is not relational. So, don&#039;t expect joins or other complex queries.
+
+The Amazon DynamoDB API contains methods for all the things you would expect from a database: create, update and delete tables; create, update, delete and retrieve items from a table.
+
+Like other NoSQL databases, Amazon DynamoDB API is RESTful, with data returned as JSON.
+database NoSQL 
+Database

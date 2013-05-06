@@ -1,0 +1,7 @@
+Marketing automation service
+Silverpop
+Silverpop offers email and marketing services for businesses looking to enhance the efficiency of standard marketing practices through the use of automation. Beyond automated email marketing, the Silverpop platform provides services such as lead generation and nurturing, reporting and analytics, data and list management, multichannel marketing, survey deployment, and social tools. Silverpop allows for a great deal of control and customization, allowing integration with other web analytics and CRM systems.
+
+Silverpop also provides a SOAP-based API that programmatically interacts with the Silverpop platform. The API enables users to setup automated email messages, create and manage customer records, pre-populate web forms for users, generate reports from captured data, create custom forms or surveys based on user data, and more. This API is only available to those with a paid account with service.
+email marketing surveys 
+Email

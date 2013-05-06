@@ -1,0 +1,13 @@
+aggregate 1
+aggregation 1
+atom 1
+blog 1
+feed 4
+find 1
+news 3
+search 1
+subscribe 1
+support 1
+tag 1
+topic 1
+variety 1

@@ -1,0 +1,12 @@
+add 1
+color 11
+colors 7
+download 1
+edit 1
+image 1
+off 1
+retrieve 2
+scheme 9
+search 2
+see 1
+tag 2

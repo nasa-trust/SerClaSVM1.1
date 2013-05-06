@@ -1,0 +1,5 @@
+Vacation rental booking
+Escapia Vacation Rental Network
+Escapia maintains a database of vacation rentals and provides a means to book those rentals online. You can incorporate booking into your applications with the Escapia Vacation Rental Network (EVRN) API. Partners can use the EVRN API to get information about available rental units, book those units and generate transactional revenue in the form of commissions.
+booking travel 
+Travel

@@ -1,0 +1,14 @@
+call 1
+cloud 3
+datum 1
+expose 1
+format 1
+get 1
+host 4
+interact 1
+internet 2
+marketplace 1
+platform 5
+response 1
+scale 1
+training 1

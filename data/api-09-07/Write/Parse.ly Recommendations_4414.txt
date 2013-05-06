@@ -1,0 +1,5 @@
+Recommendations platform
+Parse.ly Recommendations
+Parse.ly is a service and platform for personalized content recommendations. The service uses natural language processing and analyzes reader behavior to produce recommendations. The Parse.ly API provides methods to access the recommendations and integrate them into your site. With them, reader engagement may increase, as you continue to provide users with links to relevant content.
+deadpool recommendations 
+Recommendations

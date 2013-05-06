@@ -1,0 +1,17 @@
+aspect 1
+demographic 1
+entertainment 1
+event 5
+free 1
+integrate 1
+mange 1
+page 1
+payment 1
+platform 2
+record 1
+sales 1
+selling 1
+software 3
+ticket 3
+tool 2
+utilize 1

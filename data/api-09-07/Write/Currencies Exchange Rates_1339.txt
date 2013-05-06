@@ -1,0 +1,5 @@
+Currency exchange rates service
+Currencies Exchange Rates
+The Currencies API provides a single JSON structure that is a matrix containing the exchange rates for all known currencies. It is a read only service.
+currencies deadpool finance 
+Financial

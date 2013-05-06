@@ -1,0 +1,11 @@
+functionality 1
+go 3
+host 3
+instance 3
+integrate 1
+list 1
+manage 2
+method 1
+platform 1
+retrieve 1
+tool 2

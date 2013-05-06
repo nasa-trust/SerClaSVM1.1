@@ -1,0 +1,5 @@
+Local community social space
+BlockChalk
+BlockChalk provides users with a voice of their neighborhood. Topics include mentioning lost pets or items, reporting a pothole, advertising a garage sale, or more. The BlockChalk API gives developers the ability to access all the reported data for their own website or app.
+deadpool local social 
+Social

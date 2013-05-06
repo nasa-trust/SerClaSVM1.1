@@ -1,0 +1,5 @@
+Washington DC Metro data service
+Washington Metro
+The Washington Metropolitan Area Transit Authority (WMATA) Transparent Data Sets API exposes real-time data for both the rail transit and Metrobus systems. The API contains eight methods for rail transit with data including the order and location of rail stations by line, train arrival predictions for each station, service alerts and Elevator/Escalator status. There are seven methods for the Metrobus including schedules, bus stop details, bus route shapes and more. The API uses RESTful calls and responses are formatted in XML and JSON.
+transit transportation 
+Transportation

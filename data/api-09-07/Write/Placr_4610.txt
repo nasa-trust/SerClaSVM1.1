@@ -1,0 +1,5 @@
+UK transit data service
+Placr
+Placr is a UK public transport data aggregator offering feeds to apps and real-time running displays. Placr&#039;s public transport aggregation services give access to timetables and live running information for all of London&#039;s public transport as released through the GLA London DataStore. Performance data, live running information and timetables are also available through the Placr Transport API. Users must contact the provider for full documentation.
+transit travel uk 
+Transportation

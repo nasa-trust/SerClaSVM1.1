@@ -1,0 +1,14 @@
+commodity 2
+delay 1
+energy 1
+enterprise 1
+equity 1
+exchange 1
+finance 2
+future 1
+get 1
+market 2
+money 1
+option 5
+quote 2
+trade 1

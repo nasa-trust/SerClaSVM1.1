@@ -1,0 +1,5 @@
+Online payment gateway provider
+E-xact
+The E-xact API is a web service that allows third-party applications to process transactions through E-xact&#039;s system as well as search and report on transaction records. E-xact is a provider of secure online transaction solutions and service to get payment gateways up and running. The API provides functionality for several types of transactions including standard purchases, tagged transactions, debit transactions and special transactions such as pre-authorization. The API uses both RESTful and SOAP protocol and responses can be formatted in either XML, JSON or CSV.
+payment 
+Payment

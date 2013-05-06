@@ -1,0 +1,7 @@
+Scholarly resource search service
+Sholarometer
+The service powers a browser extension that provides a smart interface for Google Scholar, and it makes the same functionality available via API. It augments search results with impact analysis for resources retrieved, using a citation analysis function that totals appearances of one resource in reference lists of others. It also collects information about authors and disciplines, including their interrelationships with one another. The service publishes its data about authors and disciplines under linked data protocols to make that information available on the Semantic Web.
+
+API methods support listing authors or retrieval of a single author record by unique identifier or name. Methods list disciplines tracked and information about selected disciplines. The API can provide networks of related authors or disciplines to document research within a particular field.
+research search semantic 
+Search

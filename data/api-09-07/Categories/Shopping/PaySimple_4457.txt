@@ -1,0 +1,11 @@
+card 1
+check 1
+computer 1
+credit 1
+customer 1
+gateway 2
+initiate 1
+payment 3
+process 1
+prove 1
+shopping 2

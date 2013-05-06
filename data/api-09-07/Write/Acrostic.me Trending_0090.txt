@@ -1,0 +1,7 @@
+Bible poetry feed service
+Acrostic.me Trending
+Acrostic.me is a Bible-related search engine specializing in finding acrostic words. The acrostic poems created can be saved and printed freely as well as purchased for display on over 350 products. Acrostic.me currently supports searching various Bible translations and plans to add other content such as famous speeches and famous and well-known documents.
+
+Hosted by mashape, the Acrostic.me Trending API provides a real-time feed service for the top-20 most popular pages on Acrostic.me. Return formats currently supported include RSS, JSON and JSONP.
+bible feeds religion social 
+Feeds

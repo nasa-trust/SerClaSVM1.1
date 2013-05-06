@@ -1,0 +1,7 @@
+Comment spam prevention service
+SpamWipe
+The service scans a comment posted to a blog, social networking site, or other interactive application and identifies it as a legitimate post or as comment spam. It prevents spammers from posting irrelevant and unwanted text and links via the protected site&#039;s interactive controls.
+
+API methods support submission of an attempted comment post for evaluation as spam. Parameters allow the request to specify the name, email, link URL(s), and other relevant details posted with the comment, along with the comment content itself. Returned data identify whether or not the comment appears to be spam, allowing the application to block those that do not pass the check.
+blogging Comments internet security social spam 
+Security

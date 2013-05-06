@@ -1,0 +1,5 @@
+Food information service
+CalorieKing
+The CalorieKing database is now open so your own applications can search our database and access nutrient information for individual foods. You don&#039;t need to host a database or provide a search engine - you pull information from our servers as you need it
+diet food reference 
+Reference

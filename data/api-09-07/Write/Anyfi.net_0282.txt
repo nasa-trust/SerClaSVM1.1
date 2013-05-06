@@ -1,0 +1,7 @@
+Wireless access rerouting service
+Anyfi.net
+The service detects wireless network access and redirects attempts at internet connection to the user&#039;s home network, with login credentials supplied there. Upon successful authentication, the user can access internet resources via a home network, connecting over other wireless networks, needing credentials only for the home network.
+
+API methods support submission of login credentials for access at the home network along with a &quot;radio resource&quot; request that gives access to reach that network via a remote wireless access point. Methods automatically throttle traffic from the new connection to ensure that it doesn&#039;t interfere with the primary function of the access point to serve its own home network.
+internet network security wireless 
+Internet

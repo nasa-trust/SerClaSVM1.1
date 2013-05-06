@@ -1,0 +1,5 @@
+Biological sequence repetition masking service
+EBI CENSOR
+CENSOR is a program that screens nucleotide and amino acid sequences against a reference collection of sequence repeats. It then ???censors??? homologous portions with masking symbols (N for nucleotides, X for amino acids) and generates a report classifying all repeats found. The European Bioinformatics Institute makes this service available as a SOAP API.
+bioinformatics science 
+Science

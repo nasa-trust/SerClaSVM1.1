@@ -1,0 +1,6 @@
+Stock photography service
+ShutterPoint
+From their site: ShutterPoint aims to create an extensive and versatile collection of stock photography images Provide photo buyers with the hassle-free way of accessing and purchasing royalty-free photos Empower photographers by giving them the affordable e-commerce solution to reach buyers of royalty-free stock photography. The ShutterPoint API allows a third party web site or an application to submit image files to ShutterPoint on behalf of the end user. The API is an HTTP form post to the ShutterPoint online system that consists of name-value pairs described below.
+
+photo stockphoto 
+Photos

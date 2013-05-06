@@ -1,0 +1,16 @@
+canada 1
+datum 4
+document 1
+example 1
+functionality 1
+government 1
+hold 1
+integrate 1
+make 1
+map 3
+mapping 3
+method 1
+platform 1
+resource 1
+retrieve 2
+search 1

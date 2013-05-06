@@ -1,0 +1,5 @@
+Lead capturing and management service
+Bullseye Lead Manager
+Bullseye Lead Manager allows companies/manufacturers who sell products through a geographically dispersed distribution network to capture leads on a website and route them to a local dealer.  When a lead fills out a form, Bullseye will send an email to a dealer with the lead information, or the dealer can login to retrieve the lead information.  A dealer can mark the dealer as followed up.  A manufacturer is able to login and check the status of leads submitted to all dealers. The Bullseye API enables a developer to create a form which interfaces with their website and Bullseye.  The dealer routing rules need to be configured first within the application in order to begin testing (contact Electric Vine for details).
+enterprise sales 
+Enterprise

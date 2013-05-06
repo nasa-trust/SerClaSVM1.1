@@ -1,0 +1,5 @@
+Web based instant messaging
+WebAIM
+From their site: Web AIM brings the core AIM experience to the web, empowering developers to create mashups or rich internet applications integrated with AIM. With Web AIM, you can. Web AIM provides standards-based APIs to access the Buddy List? feature, the sending and receiving of IMs, rich presence information, and more.
+chat deadpool 
+Chat

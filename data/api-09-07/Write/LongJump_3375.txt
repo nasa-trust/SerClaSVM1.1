@@ -1,0 +1,5 @@
+Platform as a Service (PaaS)
+LongJump
+The platform provides support for other enterprise systems to connect to your data via REST APIs. Seamlessly and securely exchange and update information across accounting, customer data, or ERP systems, trigger processes in and out of the platform, or build an application to act as a front-end aggregator of information for driving analysis, processes, and activities across your organization within a series of meta objects in a relational database. The platform can also be installed in a private cloud enabling a full featured backend for your web services.
+analytics bpm database ERP paas soa 
+Enterprise

@@ -1,0 +1,17 @@
+agriculture 1
+category 1
+datum 3
+economics 1
+education 1
+format 1
+government 2
+number 1
+open 1
+portal 1
+protocol 1
+response 1
+return 1
+state 2
+support 1
+variety 1
+washington 3

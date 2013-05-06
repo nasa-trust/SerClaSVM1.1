@@ -1,0 +1,5 @@
+Social web browsing service
+MyselfToGo
+Web surfers use MyselfToGo to share online content such as pictures, videos, RSS feeds, events, locations and products with other surfers and to exchange their personal information between websites. The API provides users the means to share this information via JavaScript.
+deadpool social 
+Social

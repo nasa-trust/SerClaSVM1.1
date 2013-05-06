@@ -1,0 +1,7 @@
+Multi city daily deal service
+Front Door Daily Deals
+Based out of Fort Collins, CO, Front Door Daily Deals currently offers online deals with steep discounts in twelve cities and regions. Each day they update their site with a new deal offered in a local city or region. &quot;Side-Deals&quot; are occasionally offered as well from local businesses served by Front Door Daily Deals.
+
+The API allows applications to interact directly with Front Door Daily Deals via a REST API. JSON or XML formats are supported. After obtaining an API key, you can begin developing your own integrated applications.
+coupons deals marketing sales shopping 
+Shopping

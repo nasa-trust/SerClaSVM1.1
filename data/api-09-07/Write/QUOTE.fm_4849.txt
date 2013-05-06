@@ -1,0 +1,7 @@
+Quote-based recommendation service
+QUOTE.fm
+QUOTE.fm allows people to recommend articles, books, and videos through the sharing of user-chosen quotes from the source being recommended. The social aspect of QUOTE includes the ability to share quotes with anyone - be it an old friend or someone with the same interests as you. Users can also follow people and sites, and engage in community discussions revolving around quotes posted by other users.
+
+The QUOTE API exposes GET methods for programmatically interacting with the service. Users can get recommendations by id, article, or user. Other GET operations can be made on pages, users, articles, and categories. This is a free API that operates over REST and returns data in JSON. Please note that this is a German based start-up, so some of their pages require translation.
+quotes recommendations sharing social 
+Social

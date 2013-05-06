@@ -1,0 +1,7 @@
+Criminal justice agency and court information service
+New Dawn JustWare
+The service provides information tracking and sharing resources for police and other criminal justice agencies as well as courts, corrections departments, state data repositories. and related institutions. It provides for workflows and business rules needed to manage cases across steps in complex processes while monitoring and reporting status. A network of certified developers is available for secure handling of legally sensitive and security-conscious applications.
+
+API methods support secure access to application logic, processing of system updates based on predefined business rules, and web-based interactions with related systems.
+crime government 
+Government

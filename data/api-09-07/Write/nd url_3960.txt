@@ -1,0 +1,5 @@
+URL shortening service
+nd url
+ndurl allows users to shorten URLs to share and transfer content to mobile. ndurl facilitates sharing of shortened URLs with a wide variety of services, including bookmarking, social networking, and news sites. ndurl offers a public API for generating short URLs and viewing destination of short generated URLs.
+internet tools url-shortener 
+Internet

@@ -1,0 +1,5 @@
+Microblogging service
+Poodz
+Poodz is a social networking platform and micro podcasting service. Add a micro podcast from webcam, mobile, MMS.
+blogging deadpool 
+Blogging

@@ -1,0 +1,5 @@
+Online invoicing service
+Seasoo
+Seasoo Corporation is  an online invoicing company that aims to create a sustainable business environment by providing paperless invoice solution to small enterprise and freelancers. Seasoo offers developers a RESTful API for integration with Seasoo Online Invoicing system. Documentation is not publicly available.
+invoicing office 
+Office

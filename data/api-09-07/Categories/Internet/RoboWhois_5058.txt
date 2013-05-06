@@ -1,0 +1,17 @@
+call 1
+cloud 1
+datum 1
+details 1
+domain 3
+format 1
+http 2
+interface 2
+internet 2
+lookup 2
+parse 1
+record 3
+relate 1
+response 1
+retrieve 2
+structure 2
+unify 1

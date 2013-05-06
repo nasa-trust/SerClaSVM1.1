@@ -1,0 +1,5 @@
+Exchange rates and charts 
+Xavier Finance Exchange Rates
+Use the Xavier Finance Exchange Rates API to get historical exchange rates and graphs for 38 currencies. Some supported currencies are EUR, USD, JPY, CYP, CZK, DKK, EEK, GBP, CAD, and more. Get graphs for the last 1 month, 3 months, 1 year, 5 years, and 10 years.
+deadpool enterprise finance money 
+Financial

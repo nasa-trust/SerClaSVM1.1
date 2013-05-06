@@ -1,0 +1,15 @@
+accept 1
+card 1
+contact 1
+credit 1
+documentation 1
+functionality 1
+integrate 1
+interest 1
+mobile 4
+payment 3
+process 1
+public 1
+retail 1
+statement 1
+tablet 1

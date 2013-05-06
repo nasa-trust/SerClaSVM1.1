@@ -1,0 +1,5 @@
+Craigslist rentals data service
+RentRent
+Use the RentRent API to return the rentals listed on Craigslist. You can search for rooms, apartments, or houses, and you can provide a parameter so that you only return rooms, versus apartments and houses. Also, you can provide parameters for min and max latitude and longitude, number of bedrooms, and number of bathrooms. You might integrate the data with Google Maps, Yahoo Maps, or Virtual Earth. Rentrent is not associated with Craiglist.org. 
+realestate 
+Real Estate

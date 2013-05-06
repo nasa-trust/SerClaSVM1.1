@@ -1,0 +1,15 @@
+ad 1
+addition 1
+alternate 1
+blog 4
+devices 1
+documentation 1
+free 2
+french 4
+mobile 1
+one 1
+photo 1
+support 1
+text 1
+updating 1
+way 1

@@ -1,0 +1,5 @@
+Code pastebin service
+LodgeIt!
+LodgeIt is a pastebin for programming code. It allows users to upload, share and comment on code samples. LodgeIt currently supports two APIs, XMLRPC and JSON. The API allows users to retrieve information on pastes such as supported languages, lists of the most recent pastes, associated stylesheets and more.
+programming tools 
+Tools

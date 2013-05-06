@@ -1,0 +1,7 @@
+Online payment service
+Payments Gateway
+Payments Gateway is a service from ACH Direct, Inc., one of the largest and fastest growing privately held payment processing companies in the United States.
+
+The API provides a platform for customizable integration options to meet the payment processing needs of a variety of merchants. Often the API is used to build white label integrations.
+finance payment 
+Payment

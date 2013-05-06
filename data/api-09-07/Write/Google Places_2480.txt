@@ -1,0 +1,7 @@
+Local business and point of interest service
+Google Places
+The Google Places Web Service is a service that returns information about a &quot;place&quot;: an establishment, a geographic location, or prominent point of interest using an HTTP request. Place requests specify locations as latitude/longitude coordinates.
+
+Two basic Place requests are available: a Place Search request and a Place Details request. Generally, a Place Search request is used to return candidate matches, while a Place Details request returns more specific information about a Place.
+local mapping places reference 
+Mapping

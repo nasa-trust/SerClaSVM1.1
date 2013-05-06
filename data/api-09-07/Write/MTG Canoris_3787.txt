@@ -1,0 +1,7 @@
+Audio processing and analysis software
+MTG Canoris
+The Music Technology Group (MTG) is part of the Department of Information and Communication Technologies at the Universitat Pompeu Fabra in Barcelona. The MTG specializes in sound and music computing with more than 40 researchers coming from multiple disciplines. Research in the group is carried out on topics such as audio signal processing, sound and music description, musical interfaces, sound and music communities, and performance modeling. 
+
+The MTG offers Canoris a web service for audio analysis, audio similarity search and voice processing. Via the Canoris API developers have access to several technologies from the MTG and its partners including functionality for both the analysis and synthesis of sound, integrating into a single coherent platform the output of years of research in the fields of music information retrieval and digital signal processing. Public documentation of the API is not available.
+analysis audio deadpool music Voice 
+Music

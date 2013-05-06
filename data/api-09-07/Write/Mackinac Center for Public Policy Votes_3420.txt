@@ -1,0 +1,9 @@
+Michigan politics and policy information service
+Mackinac Center for Public Policy Votes
+The Mackinac Center for Public Policy in Michigan is a non-profit, non-partisan, public educational institution whose intent is to expand the debate regarding the need of government intervention in daily life. Through this site&#039;s API, citizens are empowered and allowed the opportunity for a more active part in the democratic process, as well as being provided with resources with which to hold their elected representatives accountable.
+
+Provided by the Mackinac Center for Public Policy, Votes is a free public service API informing Michigan citizens about ongoing and new legislation in their communities.
+
+The API utilizes GET requests such as: VoteResult, VoteType, Bills, Category, ChamberSession and more. Interaction with the API requires a browser with the ability to send and receive SOAP messages. After successful registration, users may begin using the API&#039;s functions.
+local michagan news politics 
+Politics

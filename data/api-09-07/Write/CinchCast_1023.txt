@@ -1,0 +1,5 @@
+Content sharing service
+CinchCast
+Share audio, text and photo updates using your phone or computer. The API provides access to the read and write features of Cinch. Your content creations can then be shared through Facebook, Twitter and more.
+audio phone photo social text 
+Social

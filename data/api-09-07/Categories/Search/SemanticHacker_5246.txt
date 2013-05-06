@@ -1,0 +1,15 @@
+associate 1
+block 3
+capture 1
+concept 2
+contain 1
+cover 1
+dimension 2
+discovery 1
+generate 1
+representation 1
+search 2
+signature 2
+strength 1
+text 3
+weight 2

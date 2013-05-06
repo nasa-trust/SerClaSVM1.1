@@ -1,0 +1,5 @@
+Web page ranking service
+ComputerSniffer
+ComputerSniffer provides APIs that let users find how their web page ranks across different services. The RESTful API lists page ranks on Alexa, Compete and Google. Users are allowed to perform 5000 requests per API Key per IP.
+deadpool internet pagerank SEO 
+Internet

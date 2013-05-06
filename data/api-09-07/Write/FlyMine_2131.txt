@@ -1,0 +1,7 @@
+Research animal genetic data service
+FlyMine
+The service aggregates genetic data about fly organisms commonly used in biological research: Drosophila, Anopheles and C. elegans. It documents the genomes and protein data for these animals, supporting data mining across domains within biological research.
+
+API methods support submission of queries against the database specifying the animals of interest via constraints such as genus, species, and genetic symbol. Methods also allow control of result sets, including number of results returned and output format.
+biology genetics research science 
+Science

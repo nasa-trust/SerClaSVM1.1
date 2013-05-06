@@ -1,0 +1,12 @@
+award 1
+enterprise 1
+entrepreneur 5
+fellowship 1
+find 1
+location 1
+open 1
+social 8
+startup 1
+tool 1
+who 1
+won 1

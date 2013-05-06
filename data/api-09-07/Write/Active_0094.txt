@@ -1,0 +1,7 @@
+Events, Activities, Races, Tournaments, Classes
+Active
+The Active.com API provides read-only access to data produced by systems within The Active Network.  This includes things like running events, tennis tournaments, triathlons and highschool sports data.  Several companies, including livestrong.com and ESPN, are active consumers of the API. 
+
+Monetize your API: Sign up for our referral program to earn a revenue share - http://www.activenetwork.com/affiliates.htm
+activities events registration running sports 
+Events

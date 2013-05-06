@@ -1,0 +1,10 @@
+authenticate 1
+create 1
+even 1
+image 1
+order 1
+organize 1
+photo 4
+place 1
+printing 3
+upload 1

@@ -1,0 +1,5 @@
+Bulk email service
+JangoMail
+From their site: JangoMail is the most sophisticated, feature-rich, and easy to use web-based mass e-mailer for businesses and agencies. You can send and track personalized e-mails to your customers, potential customers, employees, vendors, and others.
+email 
+Email

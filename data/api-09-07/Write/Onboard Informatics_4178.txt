@@ -1,0 +1,9 @@
+Real estate listings and search service
+Onboard Informatics
+Onboard Informatics helps real estate, media, and technology companies provide answers to user questions through their Lifestyle Listings Engine. This API is part of a suite of four APIs provided.
+
+The Listings Web Service search plug-in enables National and Regional Real Estate Brokerages, Web Developers and Application Developers to display Internet Data Exchange (IDX) for sale property listings through a single interface. This service is designed to allow integration of IDX search capabilities into MLS board approved agent and broker websites with consistent search across markets. 
+
+Documentation is not publicly available on the web site.
+idx realestate search 
+Real Estate

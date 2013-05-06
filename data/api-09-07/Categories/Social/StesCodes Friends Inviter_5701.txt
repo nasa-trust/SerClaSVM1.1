@@ -1,0 +1,16 @@
+ability 1
+contact 1
+friend 5
+give 1
+invitation 2
+invite 3
+manage 1
+network 1
+part 1
+portfolio 1
+provider 1
+select 1
+send 1
+social 4
+solution 1
+twitter 1

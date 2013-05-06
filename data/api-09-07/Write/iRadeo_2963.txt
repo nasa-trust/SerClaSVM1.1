@@ -1,0 +1,5 @@
+Internet radio service
+iRadeo
+iRadeo allows anyone to start their own online radio station. iRadeo provides unlimited streams and with the ability to support unlimited listeners ? all free. Unique features such as complete customization of player types, ad placement to generate revenue, and creating unlimited stations are just a few great tools within the platform. It&#039;s an all-in-one solution for radio stations, podcasters, musicians, music fans, promoters and music labels. Developers can use the iRadeo API to access player information, upload/delete audio, and more. 
+music radio 
+Music

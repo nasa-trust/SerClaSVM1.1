@@ -1,0 +1,9 @@
+News and information service
+Silo Breaker
+Silobreaker is a news service that offers information on a variety of subjects, including current affairs, technology, and the business world. Silobreaker???s products intend to help users from numerous industries with news search purposes and analysis.
+
+Silobreaker&#039;s API lets users, partners, and site owners extend their own services with Silobreaker&#039;s content. While the API is available to everyone free of charge, its use is subject to acceptance of Silobreaker&#039;s terms. 
+
+The API is currently under development (beta), with additional functionality being developed in the future. 
+news search 
+News

@@ -1,0 +1,5 @@
+Singapore postal code geocoder
+Singapore Geocoder
+Convert Singapore postal code to Lat and Long. Other Singapore address resources are also available at www.best.sg/mash/sggeocoder.jsp.
+mapping 
+Mapping

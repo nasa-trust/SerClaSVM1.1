@@ -1,0 +1,7 @@
+Government data
+USASearch
+USASearch is a program of General Services Administration???s Office of Citizen Services and Information Technology (OCSIT) to improve access to government information. USASearch???s Search Data API returns data allowing USASearch Affiliates to control the look and feel of their search results pages. Data include sections for search results, summary stats, boosted sites, spelling suggestions, and related searches, among other data. 
+
+Must be affiliated with a government agency to use this API and registration is required.
+Data government search 
+Government

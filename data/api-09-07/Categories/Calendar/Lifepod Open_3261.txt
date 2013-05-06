@@ -1,0 +1,11 @@
+appear 2
+calendar 4
+call 1
+create 1
+documentation 1
+format 1
+korea 1
+korean 1
+open 1
+personal 1
+response 1

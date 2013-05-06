@@ -1,0 +1,5 @@
+Mobile downloading service
+Blueding
+Blueding is a web service that allows users to download web content to their mobile device using RESTful calls. The service may also be used in JavaScript and PHP. If it is the first time you try to download a content you would have to select the transfer method: bluetooth, USB cable, memory card or PC.
+bluetooth deadpool mobile 
+Other

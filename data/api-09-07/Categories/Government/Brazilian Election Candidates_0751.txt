@@ -1,0 +1,14 @@
+appear 1
+brazil 1
+brazilian 3
+candidate 3
+datum 2
+division 1
+election 4
+government 3
+harvest 1
+independent 1
+interface 1
+politics 1
+rest 1
+who 1

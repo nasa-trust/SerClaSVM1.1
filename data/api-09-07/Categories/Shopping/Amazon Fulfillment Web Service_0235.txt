@@ -1,0 +1,16 @@
+amazon 4
+behalf 1
+capability 1
+class 1
+customer 1
+fulfill 1
+fulfillment 3
+fws 1
+instructions 1
+interface 1
+merchant 2
+order 2
+send 1
+shopping 2
+simple 1
+world 1

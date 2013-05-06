@@ -1,0 +1,9 @@
+Phone number verification service
+CDYNE Phone Verification
+Utilize this XML Web Service to validate any phone number within the United States and Canada. CDYNE Phone Verification can quickly and accurately verify and correct area code and prefixes on U.S. and Canadian phone numbers.
+
+If the area code is incorrect or missing, Phone Verification can be used to identify the error or return the corrected one to update your data. The service also identifies the phone numbers that have new area codes following a NANPA split and replaces incorrect area codes. As a bonus for call centers, Phone Verification can also identify land line and cellular numbers instantly and provide carrier information.
+
+The service can be built into CRM or contact software as well as integrated into Web sites and other applications to cleanse data at point of entry. This API uses SOAP protocol and responses are formatted in XML.
+phone security 
+Security

@@ -1,0 +1,7 @@
+Text to speech service
+Ivona
+IVONA Software develops Text-to-Speech solutions to fully voice any computer, application, device or home appliance. IVONA Speech Cloud gives users the ability to generate speech and is available online. The service can be used by any product with internet access such as mobile phones, ebook readers, netbooks, PCs and more. 
+
+The API provides a set of methods for performing various operations related to speech synthesis. Possible applications include creating voice-over recordings voicing services and devices, getting information about available voices and codecs, and modifying pronunciation rules to improve text interpretation (e.g. foreign words, dialects). The API uses SOAP protocol and responses are formatted in XML.
+speech text tools Voice 
+Tools

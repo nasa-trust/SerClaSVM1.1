@@ -1,0 +1,5 @@
+Government health agency information
+Healthfinder.gov
+Healthfinder is an example of a government health agency???s API. Their Quick Guide to Healthy Living API provides developers the latest version of the healthfinder.gov Quick Guide to Healthy Living content. This API allows developers flexibility to create customized products. To assist with this process, they have made the same content and updates available via content syndication for users with less web development experience or fewer resources. 
+government health 
+Government

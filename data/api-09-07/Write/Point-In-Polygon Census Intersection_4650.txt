@@ -1,0 +1,7 @@
+U.S. Census data mapping service
+Point-In-Polygon Census Intersection
+The web services link data from the decennial U.S. Census to specific geographic locations based on latitude and longitude. The user can submit a single latitude/longitude pair or a batch of records to retrieve Census data relative to the location(s).
+
+For each location submitted, the API returns the Census block, blockgroup, tract, county, and state by Census year. This data in turn allows an application to pursue additional Census information about the location.
+census government mapping 
+Mapping

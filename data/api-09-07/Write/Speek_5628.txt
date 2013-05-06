@@ -1,0 +1,5 @@
+Web based voice conferencing service
+Speek
+Speek is a free Web-based teleconferencing system that dials out to cell phones, landlines, and voice-over-Internet applications like Skype and GoogleTalk. The Speek REST API allows users to empower applications with voice conferencing technology. Responses are formatted in XML or JSON.
+conferencing telephony 
+Telephony

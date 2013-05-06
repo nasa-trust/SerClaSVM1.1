@@ -1,0 +1,7 @@
+Mobile application backend service
+QuickBlox
+QuickBlox is a cloud-hosted backend solution service for mobile applications. QuickBlox allows users to integrate their various functionalities, such as location and chat, into mobile applications.
+
+The QuickBlox API allows developers to access and integrate the functionality of QuickBlox with other applications and to create new applications. Some example API methods include managing users, creating and managing content, and retrieving location information.
+application baas backend mobile social 
+Backend

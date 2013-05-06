@@ -1,0 +1,5 @@
+City lookup service
+World Weather Online City Search
+In addition to World Weather Online&#039;s weather API, it also provides helper APIs, which sit well on their own. The City Search API allows developers to include city name search in their applications. Query the API by city name and receive a list of potential name matches as results. The free version of the API returns only three results, whereas premium developers can receive up to 50. Any developer can optionally search for only popular cities, have time zone data returned, restrict the number of results and request one of three popular formats (XML, JSON, tab delimited).
+local reference 
+Reference

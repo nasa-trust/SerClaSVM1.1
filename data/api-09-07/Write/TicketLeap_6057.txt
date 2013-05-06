@@ -1,0 +1,9 @@
+Ticket information service
+TicketLeap
+TicketLeap is a portal for selling tickets and promoting events. TicketLeap&#039;s services for ticket sellers include branding, social marketing, technological integration, data analysis, and live support.
+
+The TicketLeap API allows programmatic access to TicketLeap&#039;s publicly accessible information. Users are able to retrieve information about events, organizations, and performances listed on TicketLeap.
+
+This REST based API returns data in JSON, doesn&#039;t support HTTPS, and is accessible with a free API key.
+entertainment events tickets 
+Events

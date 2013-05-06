@@ -1,0 +1,5 @@
+B2B marketing automation software
+Marketo
+Marketo is a provider specializing in revenue performance management. Marketo offers revenue-focused, B2B marketing automation software. Marketo offers an API that lets developers integrate Marketo with multiple third-party applications and enterprise data repositories. The API provides support for integration with both back-end and front-end allowing organizations to integrate any application, service or non-standard CRM system with their Marketo solution. Documentation is not publicly available. 
+enterprise financial marketing 
+Enterprise

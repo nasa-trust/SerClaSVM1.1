@@ -1,0 +1,5 @@
+Health system backend
+AT&T mHealth Platform
+mHealth Platform supports the building and running of complete end-to-end health solutions for consumers. It enables developers to create solutions that leverage data acquisition and management from any source including devices, applications, and clinical trials. With the API developers can access, host, and share data across applications and to authorize users. Full documentation is not yet available. 
+backend platform health enterprise
+Backend

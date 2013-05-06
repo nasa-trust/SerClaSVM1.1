@@ -1,0 +1,6 @@
+Video sharing service
+Grouper Video
+Note: As of 6/7/2008 it appears the api is no longer available.
+From their site: Grouper is more than a web site. It is a platform for building video applications. The Grouper Video API allows third party developers to use video clips shared publicly on Grouper.com in their applications, mash-ups and web sites. Grouper allows people to create, upload, and share their personal video. The Grouper public directory includes over 15,000 video clips with rich metadata such as title, description, tags and comments for each clip. Each video clip is available for on-demand streaming over the Internet or as an MP4 downloadable clip that is playable with the QuickTime Player, iTunes, and the iPod Video player. Using the API you can use Grouper as a platform for adding online video content to your application. The current API is read-only. Future versions of the API will allow you to build applications that allow you or your users to upload, share and tag video. 
+video 
+Media Management

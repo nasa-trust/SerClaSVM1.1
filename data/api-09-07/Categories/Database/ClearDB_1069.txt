@@ -1,0 +1,14 @@
+acid 1
+automate 1
+back 1
+backup 1
+blog 1
+cloud 3
+get 1
+info 1
+language 1
+operations 1
+platform 2
+programming 1
+query 1
+status 1

@@ -1,0 +1,13 @@
+create 1
+display 1
+feel 1
+fit 1
+location 1
+look 1
+map 1
+mapping 3
+place 1
+reverse 1
+route 1
+tile 1
+viewer 1

@@ -1,0 +1,7 @@
+Image personalization service
+DirectSmile
+The service provides tools for generating personalized images and documents. It supports data-driven production of media resources for creating personalized images and email displays, printing of variable data sets, and web-to-print functions. Marketing campaigns are one application of the service&#039;s capabilities.
+
+API methods support specification of parameters for generating customized images and for defining and rendering documents. Methods also handle production and delivery of documents after rendering.
+image internet personalization 
+Internet

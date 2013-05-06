@@ -1,0 +1,5 @@
+Account authentication for installed applications
+Google Client Authentication
+From their site: Developers of installed applications have the option of using a programmatic login method to access Google services protected by user login. An installed application is installed on a device, such as a desktop computer or a cell phone, as opposed to a web application. With programmatic login implemented, an application&#039;s user can log into their Google account from inside the application. The application then contacts Google with the login data and requests access to a specified Google service, such as Calendar. Once access is authorized, the user can create, read, update, or delete data as needed using the application interface. Programmatic login and authentication is a big step up from the &quot;low-tech&quot; approach, which is to simply include the user&#039;s login name and password in every request to Google. With programmatic login, Google supplies the application with a token that can referenced in all requests instead of login data.
+authentication identity security 
+Security

@@ -1,0 +1,7 @@
+Location based mapping service
+Loxcel
+Loxcel Web Services can transform a simple map into a powerful tool, as responsive and easy-to-use as Google or Bing Search.
+
+Demo maps are very smartphone friendly.
+display geo location mapping mobile places 
+Mapping

@@ -1,0 +1,5 @@
+Embedded search service
+kikin EasySearch
+The kikin browser allows users to conduct contextual search without having to leave a web page. Users can click on words, phrases and images to trigger a search without having to copy and paste. The EasySearch API lets users integrate kikin functionality into their own applications via an iOS SDK. API documentation is available upon registration.
+search semantic text 
+Search

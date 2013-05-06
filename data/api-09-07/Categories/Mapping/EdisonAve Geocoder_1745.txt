@@ -1,0 +1,12 @@
+address 2
+coordinate 1
+cost 1
+forward 2
+latitude 1
+longitude 1
+mapping 1
+pair 1
+pe 1
+place 1
+reverse 3
+turn 2

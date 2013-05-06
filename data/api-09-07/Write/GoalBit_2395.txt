@@ -1,0 +1,5 @@
+Video delivery platform
+GoalBit
+GoalBit is an open source video delivery platform that includes features such as live and on-demand content, premium and user-generated content, large scale and enterprise deployments and more. With the platform, users can manage all aspects of online digital media including ingestion and transcoding, storage, replication and backup, delivery and streaming, acess control and much more. The GoalBit Suit API allows users to access the content on the platform. The API uses RESTful calls and responses are formatted in JSON.
+tools utility video 
+Video

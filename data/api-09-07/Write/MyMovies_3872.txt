@@ -1,0 +1,7 @@
+Movie and DVD collection management service
+MyMovies
+The service allows for management of a movie and media collection, including files stored locally on a computer system and DVDs or other storage media shelved separately from the PC. The service logs media resources held by a collector and retrieves metadata from online sources to record descriptive details about each movie.
+
+API methods support listing items in a collection as well as searching for specific movies by local ID number, IMDB ID, title, bar code, etc. Methods also handle related resources like DVD case images and movie trailers, episode and series information, and viewing history.
+entertainment media-management metadata movies television 
+Media Management

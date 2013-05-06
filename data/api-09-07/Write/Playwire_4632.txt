@@ -1,0 +1,7 @@
+Video hosting and publishing platform
+Playwire
+Playwire is a video hosting and publishing platform that allows users to encode, host, publish, and monetize their video content with one program. 
+
+The Playwire API allows developers to integrate Playwire functionality and content into other websites and applications. Some example API methods include listing videos and counts, showing videos, uploading new videos, deleting videos, and displaying video category lists.
+hosting publishing video 
+Video

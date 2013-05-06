@@ -1,0 +1,5 @@
+Badge creation and earning system
+Mozilla Open Badge
+The Mozilla Open Badge system is designed to provide recognition for skills and achievements that are earned online or outside of school. Any organization can issue, manage, and display digital badges online. Badge earners can collect their badges in a Mozilla-hosted Backpack and display them on their resume, web site, social networking profiles, job sites, etc. Badges are accompanied by metadata regarding how and from whom they were acquired, along with authentication information.
+badges learning pim 
+PIM

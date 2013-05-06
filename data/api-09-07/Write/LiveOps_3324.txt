@@ -1,0 +1,7 @@
+Customer support and contact tracking service
+LiveOps
+The service provides a cloud-based Contact Center for coordinating communications with customers, field sales people, remote staff, partner organizations, etc. It offers a customizable interface for managing contact information such as phone number and email address to help customer service agents keep in contact and build relationships. Contact management and call tracking functions can be integrated with other applications such as customer relationship management (CRM) packages.
+
+API methods support management of incoming and outgoing calls, including caller, agent assigned, device, transfer, and hangup functions. Methods also support customer callback and contact tracking over time.
+contacts customer-service enterprise sales 
+Enterprise

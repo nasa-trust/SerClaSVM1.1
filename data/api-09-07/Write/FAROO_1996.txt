@@ -1,0 +1,8 @@
+Web search engine
+FAROO
+FAROO is a web search engine. FAROO&#039;s search functionality is based on peer-to-peer (P2P) searching, user-generated reviews and attention, and webpage popularity based on users.
+
+The FAROO API allows developers to access and integrate the search functionality of FAROO with other applications. The available API method is displaying search results, news results, and trending topics.
+
+news p2p realtime search 
+Search

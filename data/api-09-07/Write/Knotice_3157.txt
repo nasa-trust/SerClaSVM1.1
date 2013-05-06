@@ -1,0 +1,7 @@
+Digital direct marketing service
+Knotice
+Knotice is a digital direct marketing service. Their services include email marketing, mobile marketing, search optimization, and website targeting. 
+
+The Knotice API allows users to access Knotice functionality and information. Some of the features of Knotice&#039;s API include creating and updating offers, sending SMS and email, and accessing the user profile information, as well as an overall summary of marketing campaign activity. 
+advertising marketing sms 
+Advertising

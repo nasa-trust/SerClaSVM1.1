@@ -1,0 +1,5 @@
+Cloud hosting services
+Hostway FlexCloud
+Hostway is an internet hosting company specializing in cloud hosting solutions. Their FlexCloud Servers are an on demand cloud solutions that combines features of public clouds and enterprise grade environments. The FlexCloud API lets users access, manage and resell their cloud at any computer with internet access. Users can also remotely perform operations such as soft and hard reboots, look up resources such as RAM, disk size and number of CPU and more. The API uses RESTful calls and responses are formatted in JSON.
+cloud hosting internet 
+Internet

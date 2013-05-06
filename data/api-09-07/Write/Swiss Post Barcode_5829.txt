@@ -1,0 +1,7 @@
+Swiss shipping document service
+Swiss Post Barcode
+The service generates barcoded shipping labels for parcels and other mailings within Switzerland&#039;s postal service, Swiss Post. It allows local printing of a label optimized for the provider&#039;s delivery systems, including integrated barcode and optional recipient address. Properly labeled packages, including Express shipments, can then go directly into the delivery system.
+
+API methods support generation of properly formatted labels for domestic mailing, Express and Courier shipments, international packages, and more specialized services. Methods allow shipment of letters with barcodes for financial documents and other high-value shipments to expedite processing and allow data collection en route for delivery tracking and notification. 
+address barcode postal shipping switzerland 
+Shipping

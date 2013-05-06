@@ -1,0 +1,7 @@
+Mobile application backend service
+Scotty App
+Scotty App is a backend management service for mobile applications. Scotty App is hosted in the cloud. With Scotty App, users can add features to their applications and choose or create models for their applications. 
+
+The Scotty App API allows developers to access and integrate the functionality and data of Scotty App with other applications and to create new applications. Some example API methods include user management, retrieve lists of apps and organizations, and create new users, organizations, and applications.
+applications baas backend mobile tools 
+Backend

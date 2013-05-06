@@ -1,0 +1,5 @@
+Hosted search services
+Aspect Search
+The Aspect Search API lets you submit a basic search to match words in your index, with control over records returned on each page. Perform an advanced search using boolean to match all, any, or exact words. Optionally submit a search and get XML returned that is compliant with the Google Sitemap Protocol. SEO techniques employed so your visitors get accurate results from a search.
+searchdeadpool 
+Search

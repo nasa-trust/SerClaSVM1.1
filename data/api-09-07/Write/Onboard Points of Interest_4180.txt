@@ -1,0 +1,9 @@
+Real estate listings and search service
+Onboard Points of Interest
+Onboard Informatics helps real estate, media, and technology companies provide answers to user questions through their Lifestyle Listings Engine. This API is part of a suite of four APIs provided.
+
+The Points of Interest API gives the consumer an instant picture of their prospective community. Corresponding Yelp! reviews and ratings bring the voice of the neighborhood to life. The API gives users access to search categories including: Eateries, Health care, Shopping, Places of worship and more.
+
+Documentation is not publicly available on the web site. 
+local mapping places realestate search usa 
+Real Estate

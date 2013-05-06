@@ -1,0 +1,5 @@
+SMS messaging service
+Geodrop
+Geodrop is a platform for sending and receiving SMS messages as well as mobile payments. Users can send a bulk SMS message and receive them via a dedicated number. The API gives users the ability to send and receive messages, look up contact information, and make mobile payments. It uses RESTful calls and responses are formatted in JSON. Some documentation is in Italian.
+Global messaging mobile payment sms 
+Messaging

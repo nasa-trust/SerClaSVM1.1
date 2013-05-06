@@ -1,0 +1,5 @@
+Real-time Toronto transit information
+Toronto Transit Commission Real-Time Arrivals
+This service provides real-time locations and next vehicle arrival predictions for Toronto Transit Commission (TTC) streetcars. Schedules/Route definitions are updated approximately every 6 weeks. Developers can use this data to create applications for providing passenger information to the public. The API uses RESTful calls and responses are formatted in XML.
+canada realtime Toronto transit 
+Transportation

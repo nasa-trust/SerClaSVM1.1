@@ -1,0 +1,13 @@
+array 1
+cell 1
+compare 1
+datum 1
+mobile 1
+news 1
+phone 3
+price 1
+product 1
+research 1
+shop 1
+telephony 2
+voice 1

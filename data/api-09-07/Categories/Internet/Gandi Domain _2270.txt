@@ -1,0 +1,17 @@
+change 1
+configuration 1
+domain 6
+even 1
+forwarding 1
+france 1
+french 1
+host 1
+internet 2
+log 1
+longer 1
+management 2
+may 1
+october 1
+purchase 1
+renew 1
+transfer 1

@@ -1,0 +1,7 @@
+Web-to-print and imaging service
+ZetaPrints
+ZetaPrints is a web-to-print and imaging service. ZetaPrints provides e-commerce solutions, image printing services, and dynamic imaging processing for printing purposes.
+
+The ZetaPrints API allows developers to access and integrate the functionality of ZetaPrints with other applications. Some example API methods include image resizing, uploading and managing images and content, and managing printing processes.
+cloud image photo printing tools 
+Tools

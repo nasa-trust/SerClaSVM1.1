@@ -1,0 +1,7 @@
+RESTful Access to Cambridge Dictionaries Online Services
+Cambridge Dictionaries Online 
+Provides RESTful access to Cambridge Dictionaries Online search, Word of the Day, Thesaurus, Pronunciations, etc., including several Learners&#039; Dictionaries, British and American English data, and a Business Dictionary.
+
+http://dictionary.cambridge.org/
+Dictionary education 
+Dictionary

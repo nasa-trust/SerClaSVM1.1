@@ -1,0 +1,14 @@
+add 1
+administration 1
+answer 5
+effort 1
+estate 2
+free 1
+home 1
+integration 1
+label 1
+mobile 1
+question 2
+real 2
+voice 1
+white 1

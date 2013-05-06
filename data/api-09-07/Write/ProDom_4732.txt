@@ -1,0 +1,5 @@
+Protein domain family database
+ProDom
+ProDom hosts a comprehensive database of protein domain families. These domain families are automatically generated from global comparisons of all available protein sequences in the UniProt Knowledge Database. In recent years, ProDom has placed increased emphasis on 3D modeling of proteins. A series of SOAP-based APIs are available that allow ProDom information to be retrieved programmatically.
+bioinformatics database science 
+Science

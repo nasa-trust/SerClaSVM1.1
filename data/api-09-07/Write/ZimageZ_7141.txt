@@ -1,0 +1,5 @@
+Image hosting service
+ZimageZ
+Zimagez is a free hosting and photo sharing website. To enable developers to create their own applications using this technology, ZimageZ provides an XML-RPC API. Users wishing to develop tools using the API should contact the provider directly for access. Full documentation is not available. The site is in French.
+photo 
+Photos

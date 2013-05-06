@@ -1,0 +1,5 @@
+Italian prescription transmission service
+Progetto Tessera Sanitaria
+The Progetto Tessera Sanitaria (trans: Health Card Project) API establishes a method for transmitting prescription information online. This information provides for the needs of both pharmaceutical specialists and outpatients. The API provides an online connection between individual prescribers and the Sistema di Accoglienza Centrale (trans: System of Central Reception). The Progetto Tessera Sanitaria&#039;s functions are available to users via SOAP calls. All documentation is in Italian.
+italy medical 
+Medical

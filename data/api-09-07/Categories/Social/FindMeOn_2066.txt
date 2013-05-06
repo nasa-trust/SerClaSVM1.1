@@ -1,0 +1,13 @@
+blog 1
+contact 1
+get 3
+identity 4
+item 2
+list 2
+manage 1
+management 1
+network 1
+profile 1
+recent 1
+shout 1
+social 4

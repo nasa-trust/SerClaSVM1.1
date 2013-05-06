@@ -1,0 +1,10 @@
+appear 1
+convert 1
+coordinate 1
+identifier 1
+internet 2
+latitude 1
+longer 1
+longitude 1
+note 1
+translation 1

@@ -1,0 +1,7 @@
+Japanese library catalog consolidation service
+Kariru Library Search
+The service consolidates data from 2000 Japanese online library catalogs to allow streamlined search against the aggregated data. Search results indicate the resources found, designated by ISBN, item access status, and the database where it was found, allowing the user to track down the resource and access it. The service also indicates libraries local to a specified latitude and longitude. 
+
+API methods allow input of a resource ISBN and user location. Returned data include library databases listing the item, library locations, and access policies. The site and documentation are in Japanese.
+japan library search 
+Search

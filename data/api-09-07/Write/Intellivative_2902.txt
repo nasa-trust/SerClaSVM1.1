@@ -1,0 +1,5 @@
+Payment processing service
+Intellivative
+The Intellivative API lets you integrate credit card, debit card, and e-check payments into your web site, shopping cart, or other business system--or just about any other application! With this API, you can authorize or capture a payment, process a sale, void a transaction, process a return, set up recurring payments, and more. Developers who integrate our API are eligible for referral bonuses or ongoing residuals.
+Credit payment 
+Payment

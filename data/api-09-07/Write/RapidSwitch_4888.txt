@@ -1,0 +1,7 @@
+UK internet hosting service
+RapidSwitch
+RapidSwitch is a UK-based hosting company. It offers many types of hosting, including dedicated servers. For managing dedicated servers, it includes a control panel and an API to perform much of the reporting and management functionality available in the control panel. Access bandwidth data, IP requests, reverse DNS, reboots, KVMoIP sessions and monitoring/alerts. Developers can include this data in their own customer-facing control panels, so they can offer a full service to their clients.
+
+More information on the API including documentation can be accessed by RapidSwitch clients from their MyServers account. 
+hosting internet uk 
+Internet

@@ -1,0 +1,5 @@
+Translation service
+OneHourTranslation
+The human translation API provides direct interface to more than 10000 professional translators and over 55 languages. There is no need to login, upload files etc. and your text will be sent directly from your content management system and you&#039;ll get the translated text back. The API is especially useful for customers with high volumes of content such as financial firms, new media companies, advertising agencies, commercial blogs, ecommerce sites, and other content generators. The Human Translation API is currently used by content management systems, web-sites, ecommerce platforms, mobile applications and more.
+language tools Translation 
+Tools

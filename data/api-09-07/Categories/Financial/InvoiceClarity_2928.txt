@@ -1,0 +1,9 @@
+create 1
+enterprise 1
+expense 1
+finance 2
+invoice 4
+management 1
+quotation 1
+recur 1
+track 1

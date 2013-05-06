@@ -1,0 +1,5 @@
+Media management platform
+VMIX Media Platform
+VMIX provides a suite of RESTful APIs for interfacing with clients&#039; video libraries. VMIX is the leading provider of video content management solutions. Their cloud-based Platform as a Service is designed with high-volume video producers in mind, powering top online publishers in media, entertainment and enterprise. The APIs contain functions that allow users to create and modify media collections, encrypt content, retrieve media and much more. Responses can be formatted in either XML or JSON.
+video 
+Video

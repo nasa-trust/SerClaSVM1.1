@@ -1,0 +1,15 @@
+account 1
+documentation 1
+enterprise 2
+feature 1
+functionality 1
+generation 1
+integration 1
+lead 3
+management 1
+marketing 3
+platform 2
+public 1
+report 1
+sales 1
+tracking 1

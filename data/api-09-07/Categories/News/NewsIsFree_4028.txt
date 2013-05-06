@@ -1,0 +1,8 @@
+aggregation 1
+feed 1
+mapping 1
+news 5
+normal 1
+search 2
+source 1
+support 1

@@ -1,0 +1,5 @@
+African based SMS messaging service
+Africa's Talking
+Africa&#039;s Talking provides a way for people and companies across the African continent to connect via SMS messages. They offer bulk SMS, short codes and premium SMS, USSD, MMS and customized mobile messaging solutions for individuals, businesses and developers. The API allows users to integrate the service to build SMS based apps. With the API developers can connect a short code, use an alphanumeric sender id and send SMS messages across Kenya. Users need to register to access documentation.
+africa Kenya messaging sms 
+Messaging

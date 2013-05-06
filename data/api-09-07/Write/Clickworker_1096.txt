@@ -1,0 +1,5 @@
+Crowdsourcing service
+Clickworker
+The service allows submission of orders for crowdsourced activity to support web content management, blogs, and other applications through content creation, translation, and research. Applications can submit, update, and cancel orders for crowdsourcing along with reviewing results, accepting or rejecting results, and other account interactions.
+Translation crowdsourcing social
+Social

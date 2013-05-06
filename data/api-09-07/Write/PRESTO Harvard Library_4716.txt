@@ -1,0 +1,7 @@
+University library search service
+PRESTO Harvard Library
+The service provides search against the Harvard University Library catalog. Applications can gain lookup access to bibliographic records in the university&#039;s own HOLLIS and VIA repositories and across providers of journal content. Searches can request results by DOI, ISBN, and bar code, in addition to traditional author, title, and subject access. Results for local resources include data for current item availability. The service also provides information about library and archive locations and hours of operation as well as access to external resources by IP address.
+
+API methods support submission of a resource identifier, either local ID, ISBN, or bar code, plus source and desired record format. Methods also allow submission of author name, title, or subject heading along with advanced options like genre, series, publisher, etc. Results include matching records along with subject, source, and other facets to refine and navigate results.
+library search university 
+Search

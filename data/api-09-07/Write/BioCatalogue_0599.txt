@@ -1,0 +1,7 @@
+Life sciences web registry service
+BioCatalogue
+BioCatalogue is a registry of biological web services. The BioCatalogue website is freely accessible as it is searchable and indexable to search engines. It provides an open platform for biological web services registration, annotation, and monitoring.
+
+The BioCatalogue API provides a set of public endpoints that allow developers to query the registry programmatically and integrate the data and functionality into the developer&#039;s own scripts, workflows, apps, tools, and mashups. The BioCatalogue API is read only, with write support for submission of REST and SOAP services, as well as annotations.  
+biology reference science 
+Reference

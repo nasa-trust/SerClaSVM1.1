@@ -1,0 +1,13 @@
+audio 2
+content 1
+equivalent 1
+high 1
+quality 1
+receive 1
+send 1
+speech 3
+telephony 2
+text 2
+tt 2
+type 1
+voice 1

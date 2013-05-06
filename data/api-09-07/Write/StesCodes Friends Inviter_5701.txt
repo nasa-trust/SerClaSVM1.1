@@ -1,0 +1,5 @@
+Social invitation service
+StesCodes Friends Inviter
+StesCodes is a web solution provider. As part of their portfolio of services, StesCodes offers several APIs. The StesCodes Friends Inviter gives users the ability to send invitations to their friends across social networks including Twitter, Facebook and LinkedIn. Users simply have to select their friends without having to manage their contacts.
+friends invite social 
+Social

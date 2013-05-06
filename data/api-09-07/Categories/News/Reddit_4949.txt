@@ -1,0 +1,9 @@
+document 1
+news 3
+note 1
+november 1
+rate 1
+social 2
+story 1
+submit 1
+support 1

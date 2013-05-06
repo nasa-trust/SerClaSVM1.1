@@ -1,0 +1,5 @@
+PubMed citation tracking service
+CitedIn
+Citedin finds citations based on a PubMed identifier.  Intended to find mentions of papers in unexpected locations: in blogs, databases, Wikipedia. Allows tracking of various resources citing a PubMed Identifier. Returned data can be narrowed by resource collection.
+citations reference research search 
+Search

@@ -1,0 +1,5 @@
+GPS and social presence services
+Ipoki
+Use the Ipoki API to get the location and status of a user, as well as a list of friends for the calling user and their location. Get more out of your GPS by connecting with others and sharing geolocation information. Ipoki users can use privacy settings to control who can see what on Ipoki.
+deadpool gps mapping social 
+Social

@@ -1,0 +1,5 @@
+Photo sharing and social networking platform
+yfrog
+Yfrog is a photo sharing service and social networking platform. The yfrog API exposes the photo sharing functionality of this platform. With the API users can upload media files to yfrog, find the count of photos uploaded by a user, get information about a specific photo, view all the photos from a user, access images in different sizes, upload big video or image files with the ability to suspend transfers and more. The API uses RESTful calls and responses are formatted in JSON.
+photo sharing social 
+Photos

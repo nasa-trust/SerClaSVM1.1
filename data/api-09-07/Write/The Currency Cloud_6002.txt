@@ -1,0 +1,7 @@
+Financial transaction payments service
+The Currency Cloud
+The Currency Cloud is a financial transaction payments service that offers solutions for companies that want to provide cross currency payment or transfer services. The service enables financial and transaction-based companies to automate currency receiving, conversion and payment for 140 currencies in 200 countries worldwide.
+
+The Currency Cloud API, TCC Connect, allows businesses to enrich their existing services and applications, or to build new apps around The Currency Cloud capabilities. Businesses can use TCC Connect to offer their customers an efficient and low cost International payments/transfer service. Public documentation is available.
+currency payment 
+Payment

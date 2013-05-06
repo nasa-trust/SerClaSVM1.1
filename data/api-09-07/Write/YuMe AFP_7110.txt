@@ -1,0 +1,5 @@
+Target video advertising platform and network
+YuMe AFP
+YuMe is a video delivery platform and service. Its extensive infrastructure offers opportunities for advertisers, publishers, app developers, and more. YuMe connects them in network that shares their mutually supportive assets. Content providers and advertisers can use YuMe???s delivery platform and Relevance Engine to put their content in the right place at the right time. Advertisers and publishers can use the network and delivery platform for streamlined media management. YuMe provides an API for video metadata management. It is available through their ACE for Publishers platform.
+advertising media-management video 
+Video

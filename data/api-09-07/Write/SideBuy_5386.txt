@@ -1,0 +1,9 @@
+Local deals and coupons aggregation service
+SideBuy
+Sidebuy is a daily deal and coupons aggregator that collects all deals from group buying websites and local stores and categorizes them.
+
+Sidebuy API allows you to use Sidebuy&#039;s databases in order to display local deals, online deals, travel deals and coupons in your application or website. Deals can be filtered using their categories, prices, savings, locations, keywords and more.
+
+The API uses REST protocol and responses are formatted in XML and JSON. This API is not branded and there is no daily limit for API calls.
+aggregator coupons deals shopping 
+Shopping

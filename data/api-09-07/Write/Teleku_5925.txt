@@ -1,0 +1,5 @@
+Phone and SMS application service
+Teleku
+Cloud-based RESTful web service API supports building phone applications that answer inbound calls and initiate outbound calls (phone, Skype, or SIP), interact with Web applications, and send/receive SMS text messages. XML or JSON responses from your Web pages over HTTP trigger PhoneML, TwiML, and VoiceML scripts to deliver interactive voice response (IVR) telephony applications. Options include playing MP3 or WAV files, speaking text-to-speech prompts, collecting digits and spoken commands, recording audio, dialing numbers, transferring calls, etc.
+Global sms telephony Voice voicemail 
+Telephony

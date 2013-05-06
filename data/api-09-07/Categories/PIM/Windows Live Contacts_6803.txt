@@ -1,0 +1,10 @@
+address 1
+book 1
+contact 5
+http 1
+live 3
+query 1
+result 1
+retrieve 1
+submit 1
+windows 3

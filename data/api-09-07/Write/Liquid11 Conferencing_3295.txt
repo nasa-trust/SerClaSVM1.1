@@ -1,0 +1,5 @@
+B2B telecom service - conferencing
+Liquid11 Conferencing
+There are two APIs for users to choose from: HTTP and JavaScript. Both APIs have been designed to allow users to create a conference and display the conference details (e.g. phone number to call, pin number to enter etc.) in as little as 2 lines of code. Liquid11 specializes in B2B telecoms, providing free telecom solutions aimed at small to medium sized enterprises. Revenue split opportunities available for large volume users and promoters of the platform.
+conference recording telephony Voice 
+Telephony

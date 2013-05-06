@@ -1,0 +1,5 @@
+Morphological analysis data service
+Archimedes Project Donatus
+The Donatus system provides a unified frontend to a variety of morphological analysis software and databases. Morphological services are provided through an XML-RPC interface that can be utilized by specialized user applications. In addition to providing access to pre-existing linguistic data, Donatus allows for the dynamic extension of morphological datasets by a user. The API can be used to abstract the linguistic content of a document from its structure and to add entries to the databases. 
+database education language science 
+Science

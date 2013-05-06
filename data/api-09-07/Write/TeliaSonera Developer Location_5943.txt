@@ -1,0 +1,5 @@
+Cell based location service
+TeliaSonera Developer Location
+The Developer Location API from Finland&#039;s TeliaSonera enables a user to locate themselves through their mobile device. When locating the device for the first time the located mobile device owner is asked if he/she wants to be located. The user can allow locating by sending an SMS. The locating returns the mobile device&#039;s Cell ID. The Cell ID in turn be used by the Location API Cell ID - resource to locate the device on a cell-based accuracy. The Cell ID resource currently works only in Sonera&#039;s Finland network. 
+deadpool finland geolocation mobile telephony 
+Telephony

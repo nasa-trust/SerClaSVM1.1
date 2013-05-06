@@ -1,0 +1,5 @@
+Learning technology consortium
+IMS Enterprise Services
+IMS is a non-profit consortium whose contributing members are leading institutions, suppliers, and governments worldwide that collaborate on: Interoperability, Adoption and Learning Impact. The IMS Global Learning Consortium develops standards that enable the development and adoption of technologies to improve and transform education. The API offers functionality in the following areas: person management, group management and membership management. It uses SOAP protocol and responses are formatted in XML.
+education project-management 
+Education

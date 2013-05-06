@@ -1,0 +1,5 @@
+Support email tracking service
+SupportBreeze
+The Supportbreeze API has both a RESTful and JavaScript version. The API allows users to create, list, record-view, edit, and delete questions from an account. Supportbreeze is a service that gives users a support desk complete with a knowledge base, question form, request checker, and more.
+customer-service email enterprise helpdesk 
+Email

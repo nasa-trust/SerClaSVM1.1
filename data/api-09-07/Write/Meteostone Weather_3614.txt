@@ -1,0 +1,5 @@
+Weather data service
+Meteostone Weather
+Meteostone is a crowd-sourced network of local weather data and weather media information from around the world. All content is provided by users. The Meteostone API allows users to create their own weather applications or services using Meteostone weather data. 
+deadpool local social weather 
+Weather

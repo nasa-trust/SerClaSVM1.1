@@ -1,0 +1,17 @@
+answer 1
+automate 1
+cloud 1
+complexity 1
+computing 2
+design 1
+disperse 1
+elastic 1
+environment 2
+infrastructure 1
+internet 2
+manage 1
+open 1
+platform 2
+server 1
+source 1
+transition 1

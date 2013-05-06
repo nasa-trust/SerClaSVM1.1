@@ -1,0 +1,7 @@
+Text message marketing service
+TextHub
+TextHub offers mass text messaging solutions that allow organizations to send unlimited personalized text messages directly to opt-in customers. TextHub&#039;s SMS marketing platform allows clients to sign up for specific groups, schedule send times for messages, personalize messages with the recipient&#039;s name, and allow users to send replies for two-way communication. Clients can use TextHub&#039;s web interface to set up customized auto replies that are sent as a response to customer actions. TextHub also also provides a SMS based reminder service that can be used both internally and as a part of their marketing services.
+
+TextHub&#039;s API allows developers to integrate TextHub functionality directly into existing web sites and applications, allowing for automated interactions with their marketing platform.
+advertising Global marketing messaging sms 
+Advertising

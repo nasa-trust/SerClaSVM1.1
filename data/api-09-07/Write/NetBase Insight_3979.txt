@@ -1,0 +1,8 @@
+Social media monitoring service
+NetBase Insight
+Netbase is a social media monitoring service. The service monitors social media sites to see what people are saying about a business and combines this with natural language processing to deliver sentiment analysis and social insights.
+
+The NetBase Insight API allows users to utilize NetBase???s functionality including sentiment, opinion, emotion, and behavior analysis. The API uses RESTful calls and responses are formatted in XML and JSON. Full public documentation is not available. More info can be read here: 
+http://http.cdnlayer.com/netbaseweb/wp-content/uploads/API_Datasheet.pdf
+analysis enterprise social 
+Enterprise

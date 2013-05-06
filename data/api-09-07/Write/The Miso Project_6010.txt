@@ -1,0 +1,7 @@
+Data management and visualization service
+The Miso Project
+The Miso Project is an open-source toolkit for data visualization. The Miso Project&#039;s first product, Dataset, is a JavaScript data library and management system.
+
+The Miso Project Dataset API allows developers to access and the integrate the functionality of Dataset with other applications and to create new applications. Some example API methods include retrieving data, managing data, and importing and adding data.
+Data management tools visualization 
+Tools

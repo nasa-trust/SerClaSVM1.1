@@ -1,0 +1,10 @@
+discovery 3
+like 2
+list 1
+music 4
+result 1
+return 1
+search 2
+song 1
+submit 1
+think 1

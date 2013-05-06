@@ -1,0 +1,5 @@
+Corporate payment service
+i-Payout
+The service provides payments for corporate and organizational payables to both local and global vendors via 135 banking relationships. Payment recipients have flexible options for transferring funds to their own bank accounts or to other destinations: a credit card, a specified account with another organization or even back to the payer to cover balances owed. The service also gives access to international merchant credit cards.
+payment enterprise
+Payment

@@ -1,0 +1,5 @@
+Team inbox with chat
+Flowdock
+Flowdock is a service that allows project team members to collaborate with each other. It features a team inbox with real-time group chat and activity feeds. Chat history is stored forever and users can organize their chats with tags for later reference. Flowdock provides an API that lets developers interact with flows, such as posting messages to Influx. With the API users can create custom integrations for Flowdock. The API uses RESTful calls and responses are formatted in HTML.
+chat collaboration project-management 
+Chat

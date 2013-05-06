@@ -1,0 +1,5 @@
+Universal data standards repository
+CommonDataHub
+CommonDataHub (CDH) is the global repository for data standards such as ISO codes and industry code sets. CDH aggregates and consolidates data sets from multiple sources, provides additional attributes as needed and maps related code sets giving users a full picture of a subject area. The CDH API gives users the capability to retrieve data and use it in their own applications. The API uses SOAP protocol and responses are formatted in XML.
+Data reference Repository standards 
+Reference

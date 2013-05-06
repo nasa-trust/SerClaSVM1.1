@@ -1,0 +1,7 @@
+Email marketing service
+MailerLite
+MailerLite is an email marketing service. Customers of MailerLite can create and send HTML emails to their subscriber lists for an annual fee. Features include subscription management, email campaign reporting, and HTML email design. 
+
+The MailerLite API allows developers to access and integrate MailerLite functionality with other applications, such as CRMs and eCommerce applications. Public documentation is not available; documentation is available with accounts.
+email marketing sbweb 
+Email

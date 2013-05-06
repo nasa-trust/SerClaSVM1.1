@@ -1,0 +1,13 @@
+average 2
+daily 1
+finance 2
+find 1
+give 1
+monthly 1
+price 2
+stock 1
+stocks 1
+tracking 1
+volume 2
+weekly 1
+weight 2

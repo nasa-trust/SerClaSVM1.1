@@ -1,0 +1,7 @@
+Web content extraction service
+Purifyr
+Purifyr is a service that mines web content to extract information based on semantic analysis. Purifyr turns websites with a lot of graphics and &quot;noise&quot; into the written content it contains without anything else.
+
+The Purifyr API allows developers to access and integrate the functionality of Purifyr with other applications and to create new applications. The API method returns content from a website URL when submitted to the API endpoint.
+analysis content extraction internet semantic 
+Internet

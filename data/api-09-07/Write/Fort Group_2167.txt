@@ -1,0 +1,5 @@
+IT solutions provider
+Fort Group
+The Fort??Group provides solutions for IT management. Their services include software development and hiring help. For software development, they provide custom product for enterprise, mobile, and will do quality testing on it before deployment. Their hiring help features include helping businesses craft a strong sense of their needs and approach to recruitment. Their API exposes an automated management platform. Developers can use to retrieve and feed its analytics to third-party or backend software. The API is based on RESTful protocol.
+internet management tools 
+Internet

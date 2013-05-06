@@ -1,0 +1,17 @@
+coin 1
+collectible 1
+enterprise 1
+finance 2
+fixings 1
+gold 2
+london 1
+market 1
+metal 2
+money 1
+palladium 1
+platinum 1
+price 2
+quote 1
+real 2
+silver 1
+spot 1

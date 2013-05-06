@@ -1,0 +1,9 @@
+Online gambling platform
+Betable
+Betable is an online gambling platform that handles the regulation of the gambling industry, as well as the gaming logic based on inputs from developers. The betable API allows developers to incorporate real-money gambling into their games, mobile apps and websites.
+
+Developers can include games of chance, games of skill and player-on-player games. Though the classic casino games are most common, Betable has abstracted the gaming engine so many types of games can be made to incorporate gambling.
+
+The API uses OAuth to authenticate to a user&#039;s mobile wallet. The API uses REST, with data returned as JSON.
+gambling games 
+Games

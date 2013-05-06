@@ -1,0 +1,7 @@
+Neighborhood level demographics service
+CDYNE Demographics
+Utilize this XML Web Service to return neighborhood-level data at point of entry or in batches run from user systems. CDYNE Demographics, a full-featured statistical resource, instantaneously returns enhanced neighborhood-level census data  such as gender, ethnicity, type of residence, median income, median house value, or median number of vehicles  as an add-on to databases, Web sites, or software applications.
+
+This service can easily be built into sales, marketing, or even collections and accounts receivable management software. CDYNE provides samples, development information, and support to aid in the implementation of Demographics. This API uses SOAP protocol and responses are formatted in XML.
+demographics reference 
+Reference

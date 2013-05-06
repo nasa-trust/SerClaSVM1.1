@@ -1,0 +1,7 @@
+Daily deal and voucher aggregation service
+CityPockets
+CityPockets is a service that aggregates all daily deals and coupons from various deal sites, such as LivingSocial, Yelp, DailyCandy, Groupon, and BuyWithMe. CityPockets also sends email reminders when a voucher is about to expire, and they also offer a marketplace where users can sell vouchers they can&#039;t use.
+
+The CityPockets API is coming soon. No documentation or information is available yet, but those interested should email info@citypockets.com for more information.
+aggregator coupons shopping 
+Shopping

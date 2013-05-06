@@ -1,0 +1,5 @@
+Weight loss tracking service
+Skinnyr
+Skinnyr  is a weight-tracking website. You can update your weight regularly on the website, add the widget to your webpage or add the bookmarklet to your Firefox Toolbar ? your weight-loss (or gain) is displayed in a Flash graph. The Skinnyr API allows access to 95% of SKinnyr&#039;s features, and allows application development. 
+goal-setting health 
+Goal Setting

@@ -1,0 +1,8 @@
+UK weather and climate data service
+Met Office Datapoint
+The service provides access to weather and climate datasets, including 3-hour and daily forecasts for 5000 UK locations and actual recorded observations of weather events from the previous 24 hours. The service can provide data for individual sites or for all sites for which observations and forecasts are made. Additional functions provide listings of sites and reporting capabilities.
+
+API methods support requests for either 3-hour or daily forecasts by site or for all sites during specified time periods. Methods also accept requests for weather observations with similar site and time parameters.
+
+climate uk weather 
+Weather

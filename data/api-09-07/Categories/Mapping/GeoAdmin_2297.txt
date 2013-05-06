@@ -1,0 +1,16 @@
+confederation 2
+create 3
+datum 2
+editing 1
+example 1
+functionality 1
+geography 1
+integrate 1
+layer 1
+manage 1
+map 2
+mapping 5
+method 1
+rendering 1
+swiss 2
+tool 1

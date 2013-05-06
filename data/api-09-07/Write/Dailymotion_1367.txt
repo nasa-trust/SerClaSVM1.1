@@ -1,0 +1,7 @@
+Video sharing site
+Dailymotion
+Dailymotion is a video sharing site. Users can upload and share their videos, as well as view video content from other users, content producers, and networks and studios.
+
+The Dailymotion API allows developers to access and integrate Dailymotion&#039;s functionality and content. Some example API methods include uploading, sharing, and playing content, view, create, and edit data about video content, and embedding the Dailymotion player into other sites.
+entertainment movies social television video view 
+Video

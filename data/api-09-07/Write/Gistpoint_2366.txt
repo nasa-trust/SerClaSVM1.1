@@ -1,0 +1,6 @@
+Internet article summary service
+Gistpoint
+Gistpoint is a service that lets users find and submit summaries for online articles. Gistpoint provides an API that takes a URL parameter and returns the title, formatted url, date, and top summary in JSON format. The API is available for free for both commercial and noncommercial uses.
+
+crowdsourcing internet summary text 
+Internet

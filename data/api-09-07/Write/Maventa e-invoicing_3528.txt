@@ -1,0 +1,12 @@
+Electronic invoicing services
+Maventa e-invoicing
+The Maventa API allows access to Maventa&#039;s various e-invoicing services. Maventa is a provider of electronic invoice services based on a software-as-a-service product. The company has over 4,000 customers in 27 countries. The API consists of a set of callable SOAP methods defined in their respective API versions and API end-points. Responses are formatted in XML. To use the API, users need to open a TEST account which acts as a sandbox for developing applications to be used with the Maventa API. Potential application ideas include:
+
+    * Integrating financial packages (SAP, MS Dynamics / Axapta, QuickBooks, Peachtree) to the Maventa Service.
+    * Custom import tools (SalesForce, QuickBooks, CSV, etc.)
+    * Automatic time-based invoice creation.
+    * Accounting, Revenue analysis, Budgeting, Factoring and Claiming Services.
+    * External integration with online payment gateways
+
+accounting billing enterprise finance invoicing 
+Financial

@@ -1,0 +1,6 @@
+Real-time traffic data service
+Metro Traffic
+Metro Traffic provides developers access to its 24/7 traffic data in the United States. Documentation is not publicly available but developers can contact Bill Martin, Senior Vice President at bill_martin@westwoodone.com 
+
+local traffic travel 
+Transportation

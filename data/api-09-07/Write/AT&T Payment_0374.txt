@@ -1,0 +1,5 @@
+Mobile Payment Service
+AT&T Payment
+The AT&T Payment API allows developers to monetize their apps by adding the ability to charge goods and services directly to a subscriber's AT&T bill. It lets developers control the presentation (both look and feel) of purchase options to their customers and it also supports both one-time and subscription purchases. Functionality includes operations such as New Payment Transactions and Subscriptions, Check Payment Status, Obtain Subscription Details, and Refund Transactions/Subscriptions. The API uses RESTful calls and responses are formatted in XML and JSON. 
+payment telephony finance
+Payment

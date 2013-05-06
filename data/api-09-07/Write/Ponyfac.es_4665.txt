@@ -1,0 +1,5 @@
+My Little Pony avatar platform
+Ponyfac.es
+Ponyfac.es is a gallery of My Little Pony avatars. Users submit images or animated GIFs from the My Little Pony cartoon show that others can copy and paste as expressive avatars. The API exposes the image access functionality of the collection. Developers can make requests by tags, ID, or categories (defined as the Ponies??? names). It is a RESTful API that returns JSON, JSONP, and XML results. 
+file-sharing image media social 
+File Sharing

@@ -1,0 +1,14 @@
+action 2
+belgium 1
+documentation 1
+french 1
+internet 1
+message 1
+messaging 3
+protocol 1
+receive 1
+response 1
+send 1
+sm 5
+soap 1
+telephony 1

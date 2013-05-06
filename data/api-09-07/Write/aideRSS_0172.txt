@@ -1,0 +1,5 @@
+RSS feed management and filtering service
+aideRSS
+AideRSS is an intelligent assistant, which continuously monitors RSS feeds, finds the good stuff, creates a PostRank, and delivers it to you. The philosophy behind our API is to provide full functional parity of what users see within MyFeeds and our widgets. Currently you can retrieve the Top Posts, Feed Stats and Entry Stats for a given Feed ID. In addition you can retrieve the actual RSS Feed with the PostRank RSS Extension for a given feed.
+rss 
+Feeds

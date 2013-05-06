@@ -1,0 +1,5 @@
+short messaging service
+Deutsche Telekom Send SMS
+The Deutsche Telekom Send SMS API can be used to send short messages to cell phones in Germany.
+germany Global messaging mobile sms telephony 
+Messaging

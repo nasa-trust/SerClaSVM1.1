@@ -1,0 +1,17 @@
+Real-time push service
+Pusher
+Pusher is a simple hosted API for quickly, easily and securely adding realtime bi-directional functionality via WebSockets to web and mobile apps, or any other Internet connected device.
+
+We offer a rich suite of libraries that you can use within your applications, including a JavaScript client library for web and HTML5 apps.
+
+Our event based abstraction makes it simple to bind UI interactions to events that are triggered from any client or server.
+
+We use WebSockets (with &#039;fallback to Flash&#039; in the JavaScript client library) to future proof your applications and make it easy for you to add bi-directional communication to your apps whilst keeping data usage to a minimum.
+
+As well as a WebSockets API, we have a REST API for publishing your messages. This is ideally suited to web server technologies and we have a set of REST API libraries in many common languages to help you to do this.
+
+We have a simple Publish/Subscribe model based on channels that allows you to filter and control how people receive your messages.
+
+We supply functionality such as authentication mechanisms for private channels, and presence functionality for keeping track of who&#039;s online.
+infrastructure realtime tools websockets 
+Tools

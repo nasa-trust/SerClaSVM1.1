@@ -1,0 +1,14 @@
+benchmark 1
+contract 1
+currency 2
+enterprise 1
+finance 2
+forward 2
+get 1
+market 1
+money 1
+quote 1
+rates 4
+real 1
+swap 3
+treasury 2

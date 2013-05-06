@@ -1,0 +1,7 @@
+Mobile commerce service
+Airbrite
+Airbrite is an e-commerce solution for mobile applications (m-commerce). Airbrite offers multi-touchpoint shopping and commerce functionality for mobile applications.
+
+The Airbrite API allows developers to access and integrate the functionality of Airbrite with other applications. Some example API methods include managing products, creating and managing stores, managing customer information, and accessing order information. 
+e-commerce mobile retail shopping 
+Shopping

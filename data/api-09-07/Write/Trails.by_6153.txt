@@ -1,0 +1,7 @@
+Q&A social bookmarking tool
+Trails.by
+Trails.by is a hybrid bookmarking platform that allows for the collection of &quot;curated&quot; bookmarking lists (called &#039;trails&#039;), but with an additional social Q&A component. Users can post questions, and other users can post answers in the form of bookmark trails. It hopes to offer a new way to combat information overload by combining the functionality of social bookmarking sites with those of Q&A sites. 
+
+The Trails.by API allows users to search existing trails and requests by page, rating, topic or &quot;new&quot; status. It also allows search by keyword. Calls are returned in JSON format.
+bookmarks curation social tagging 
+Bookmarks

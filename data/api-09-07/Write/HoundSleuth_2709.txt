@@ -1,0 +1,7 @@
+Document index and search engine service
+HoundSleuth
+HoundSleuth is a cloud-based search engine. Users can index documents and search for other documents in real-time.  
+
+The HoundSleuth API allows developers to access and integrate the functionality of HoundSleuth into other applications, websites, and to create new applications. Some example API methods include indexing documents, managing documents, search management, and scoring documents. 
+document search 
+Search

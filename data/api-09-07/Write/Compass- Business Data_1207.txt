@@ -1,0 +1,7 @@
+Business marketing database
+Compass: Business Data
+The Compass: Business Data API allows instant and on-demand access to a database of over 16 million business establishments in the USA, with rich information on each business: Company name, full address information (including county name, zip+4, MSA, longitude/latitude and full secondary address information), phone, fax, web address/URL, contact name/title, annual sales volume, number of employees, credit rating, number of PCs, square footage, SIC/NACIS codes, ethnicity / ethnically owned status, women-owned status, business start year / years in business, franchise status, home office status and more are available. The API can be used for CRM / data append or direct marketing / list generation purposes.
+
+Software developers can use the API to integrate this data into any software application that deals with customer data. For example, CRM (Customer Relationship Management) software can make use of this API to append rich data on businesses to an existing list of accounts or leads. Another possible use is list generation: the API can be used to generate highly-targeted customized lists for direct marketing purposes. The API uses RESTful calls and responses are formatted in XML and JSON.
+enterprise search 
+Enterprise

@@ -1,0 +1,5 @@
+Travel expense automation service
+TRX TRUEXPENSE
+TRX, Inc. is a global company specializing in travel data, software, and solutions. TRUEXPENSE is a web-based product that automates the expense management process. The API provides customers with direct access to TRUEXPENSE, enabling enhanced customization and automation, data import and export, and the integration of multiple business systems.
+enterprise travel 
+Enterprise

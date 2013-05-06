@@ -1,0 +1,7 @@
+Shopping comparison service
+PriceCheckIndia
+PriceCheckIndia is a comparison shopping site. Users can compare prices of phones, cameras, TVs, and appliances across all stores in India to find the best deal online. Users can also read reviews of the products and dicuss them with others.
+
+The API lets developers integrate the site&#039;s functionality into third party applications and web sites. The API supports price comparison across major e-commerce stores in India. Users can also request the addition of any store for comparison on request. Additional functionality includes comparing prices by specification and searching products by keyword, category and features. The API uses RESTful calls and responses are formatted in XML, JSON and YAML.
+comparison india shopping 
+Shopping

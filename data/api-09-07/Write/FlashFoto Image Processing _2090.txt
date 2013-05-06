@@ -1,0 +1,5 @@
+Image processing service 
+FlashFoto Image Processing 
+FlashFotoInc is an image processing service. They provide a variety of software for image manipulation and detection. These functions include people detection, background removal manipulation, cropping, and more. Their REST API provides access to many of the creative functions as well as data libraries and file management systems. It handles JSON and image data formats, such as JPG and PNG. 
+image photo processing 
+Photos

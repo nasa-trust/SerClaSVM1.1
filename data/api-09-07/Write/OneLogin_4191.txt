@@ -1,0 +1,5 @@
+Single sign-on solution
+OneLogin
+The OneLogin API allows developers to interact with the OneLogin service. OneLogin provides an easy-to-use single sign-on solution for businesses that embrace cloud computing. OneLogin eliminates the need for employees to remember strong passwords and saves them time because they can log into applications with a single click. OneLogin&#039;s API supports five basic operations for each entity: read, list, create, update and delete. It uses RESTful protocol and responses are formatted in XML.
+cloud enterprise sbweb security 
+Security

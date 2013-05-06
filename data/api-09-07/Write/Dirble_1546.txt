@@ -1,0 +1,5 @@
+Internet radio station directory
+Dirble
+Dirble is an open radio station directory. It stores internet radio stations by category or by country. The API lets users get the stations for a specific category or a specific country. The API uses RESTful calls and responses are formatted in XML and JSON.
+directory internet music radio 
+Music

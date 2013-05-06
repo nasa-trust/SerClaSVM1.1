@@ -1,0 +1,5 @@
+Text-based logical reasoning service
+Attempto RACE
+The service adds a reasoning function to the provider's research tool, Attempto Controlled English (ACE). ACE is a "controlled natural language" that structures statements in the English language in a way that attempts to unambiguously represent knowledge. It defines precise text expressions, based on usage in a specific topic domain, to remove inconsistencies and variance due to interpretation. The RACE service exposes these texts to logical analysis to verify the true of reasoning based on them.
+reference research text semantics
+Reference

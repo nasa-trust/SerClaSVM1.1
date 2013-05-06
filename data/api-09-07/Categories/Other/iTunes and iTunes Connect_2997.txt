@@ -1,0 +1,13 @@
+connect 4
+datum 3
+get 1
+mobile 1
+ranking 1
+rating 1
+rest 1
+review 1
+sales 1
+shopping 1
+simple 1
+source 1
+store 2

@@ -1,0 +1,5 @@
+Text mining service
+NaCTeM Termine
+Termine is a text mining service provided by The National Centre for Text Mining (NaCTeM). Termine uses C-Value term extraction, which is a domain-independent method for automatic term recognition. It combines linguistic and statistical analyses to identify key terms in a document. To identify significant acronyms Termine employs AcroMine, which operates similarly to C-Value. NaCTeM makes Termine freely available to UK academic users, and to other users by request.
+semantic tools 
+Tools

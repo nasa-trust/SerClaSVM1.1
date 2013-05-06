@@ -1,0 +1,9 @@
+become 1
+capture 1
+day 1
+essence 1
+forward 1
+looking 1
+own 1
+platform 2
+tool 1

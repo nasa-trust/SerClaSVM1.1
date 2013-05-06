@@ -1,0 +1,17 @@
+address 1
+availability 1
+check 1
+domain 7
+find 2
+function 1
+host 2
+internet 3
+ip 1
+lookup 1
+out 1
+own 1
+particular 1
+retrieve 1
+specific 2
+system 1
+who 1

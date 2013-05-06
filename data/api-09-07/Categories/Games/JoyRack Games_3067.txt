@@ -1,0 +1,13 @@
+charge 1
+commercial 1
+directory 2
+embed 1
+flash 3
+free 3
+friend 1
+game 9
+hundred 1
+internet 1
+invite 1
+play 3
+share 1

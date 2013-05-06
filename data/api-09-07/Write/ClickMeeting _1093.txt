@@ -1,0 +1,5 @@
+Virtual conferencing platform
+ClickMeeting 
+ClickMeeting is a web conferencing platform. It allows users to creating virtual meeting spaces for conferences including geographically distant parties. Users can select different features to customize their virtual conference spaces. They can choose between video and/or audio, moderated and/or private chat, and so on. The ClickMeeting API allows developers to generate meeting rooms and access tokens to them. It is a RESTful API that returns data formatted in JSON, JS, XML, PHP, and much more.  
+conference tools telephony meetings
+Telephony

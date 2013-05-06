@@ -1,0 +1,5 @@
+Bioinformatics research database
+EBI
+The EBI Web services let you access nucleic acid, protein sequence, and macromolecular structure data. Choose from about 35 EBI Web Services. The European Bioinformatics Institute (EBI) is part of the European Molecular Biology Laboratory (EMBL). The Web services offer DNA and protein sequences, text mining, structure comparisons, various BLASTs, transmembrane topology predictions, microarray searching, and more.
+bioinformatics medical science 
+Medical

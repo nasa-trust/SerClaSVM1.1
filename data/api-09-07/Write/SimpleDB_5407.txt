@@ -1,0 +1,5 @@
+Temporary data storage services
+SimpleDB
+Use the Simple DB on AppEngine API to store data of your mashup (for example, your Javascript application). You send GET and POST requests to store and read your data. Your data is stored for at least three months. No sign up needed because you get your API key as part of your GET or POST request.
+storage utility 
+Storage

@@ -1,0 +1,5 @@
+Services for IVR and Voice over IP, VoIP
+Voxeo
+Voxeo offers a SIP voice platform as an on-demand service, powered by VoiceXML and CCXML API standards. Voxeo supports IVR, speech recognition, DB integration, CTI, call control and recording, conferencing, and more. The Voxeo API provides programmatic access to these voice and text to speech services (TTS). 
+IVR telephony TTS 
+Telephony

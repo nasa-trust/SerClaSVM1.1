@@ -1,0 +1,5 @@
+Mapping geospatial data service
+Bing Maps Spatial Data Services
+The Bing Spatial Data Services API provides users with the ability to geocode, store and query spatial data. With the API users can geocode and reverse-geocode large numbers of locations; store and query sets of properties for a defined entity type such as set of retail stores or restaurants; and create, update, and delete data sources. The API uses RESTful calls and responses are formatted in JSON and ATOM.
+database geocoding mapping places 
+Mapping

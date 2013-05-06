@@ -1,0 +1,7 @@
+Automatic calling and texting service
+DialMyCalls
+DialMyCalls is a service that calls or texts phone numbers with user-created voice messages or text messages. DialMyCalls can be used for a variety of messaging needs, such as emergencies, political calls, and school updates.
+
+The DialMyCalls API allows developers to access and integrate the functionality of DialMyCalls with other applications. Some example API methods include adding and managing contacts, retrieving call history, placing calls, and creating and managing messages.
+Global messaging sms telephony Voice 
+Telephony

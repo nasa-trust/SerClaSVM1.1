@@ -1,0 +1,7 @@
+Bulk text messaging service
+SourceSMS
+SourceSMS is a service that provides bulk SMS/text messaging, both sending and receiving. SourceSMS allows users to connect the functionality of SourceSMS with other CRM applications.
+
+The SourceSMS API allows developers to access and integrate the functionality of SourceSMS with other applications. The main API methods are sending SMS/text messages and receiving SMS/text messages.
+bulk Global messaging sms text 
+Messaging

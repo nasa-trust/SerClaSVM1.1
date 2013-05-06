@@ -1,0 +1,5 @@
+Name generation service
+Fake Name Generator
+With 27 languages and 22 countries, the Fake Name Generator is the most advanced name generator on the internet. It can be used to generate names, addresses, social security numbers, credit card numbers, occupations, UPS tracking numbers, and more for free. The API uses RESTful calls and responses are formatted in XML, JSON and PHP.
+fun names tools 
+Tools

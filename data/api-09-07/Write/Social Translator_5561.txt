@@ -1,0 +1,5 @@
+Community translation service
+Social Translator
+Social Translator is a social community for translation, where words and phrases get translated for the benefit of everyone. Help translate information in the context that it&#039;s meant to be translated in, even help translate YouTube videos. Social translator provides a JavaScript widget API that allows your visitors to translate your website using human translation mixed with Google Translation. Google Translation can be selected if no human translation is given.
+deadpool social Translation 
+Social

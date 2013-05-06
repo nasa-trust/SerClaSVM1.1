@@ -1,0 +1,17 @@
+accept 1
+call 1
+datum 1
+entertainment 1
+finder 2
+format 1
+game 6
+me 2
+operate 1
+point 1
+result 1
+return 1
+search 6
+soap 1
+string 1
+url 1
+video 5

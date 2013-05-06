@@ -1,0 +1,13 @@
+back 1
+create 2
+download 2
+education 2
+flashcard 5
+learning 4
+method 1
+own 2
+schedule 1
+sending 1
+set 1
+statistics 1
+tool 1

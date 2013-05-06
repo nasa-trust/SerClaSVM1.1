@@ -1,0 +1,7 @@
+Magic: the Gathering card price ticker
+Black Lotus Project Price Ticker
+Black Lotus Project creates Magic: The Gathering card price graphs from the Magic Online Trading League&#039;s latest non-foil physical magic card list. New prices are loaded every morning around 8:30am CST, which means the graphs are always fresh and up-to-date.
+
+The Black Lotus Project Price Ticker API allows users to create a self-updating stock ticker for Magic card prices using the Black Lotus Project price information. This API is accessible using JavaScript and JSON-formatted calls.
+fun games 
+Games

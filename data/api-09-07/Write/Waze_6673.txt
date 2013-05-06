@@ -1,0 +1,5 @@
+Social navigation application
+Waze
+Waze is a social mobile application providing free turn-by-turn navigation based on the live conditions of the road. The API uses the international server (i.e. not including US and Canada maps) to display driving conditions on a live map. With the API users can customize the frame size, the center (lat/lon) and the default zoom level. The API uses RESTful calls and returns map objects.
+gps location navigation social travel 
+Travel

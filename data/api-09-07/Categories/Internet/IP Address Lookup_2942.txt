@@ -1,0 +1,11 @@
+address 3
+determine 1
+domain 1
+example 1
+given 1
+internet 1
+ip 3
+lookup 1
+return 2
+server 1
+technology 1

@@ -1,0 +1,7 @@
+Talking photo service
+Fotobabble
+Fotobabble is a social media service that allows users to add voices to photos that are shared across the web, either for marketing uses or personal uses. Other products include a talking Facebook page application, mobile applications, and hosting.
+
+The Fotobabble API is not publicly available, but interested developers can contact developers@fotobabble.com for more information. The API allows developers to access and integrate Fotobabble&#039;s functionality into other services and applications. 
+audio marketing photo social 
+Photos

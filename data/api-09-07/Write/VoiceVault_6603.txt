@@ -1,0 +1,9 @@
+Voice biometric identity verification
+VoiceVault
+VoiceVault is software that uses an individual???s vocal characteristics for biometric identity verification over the phone, web, or via mobile and smartphone applications.
+
+The VoiceVault Fusion API is implemented as a REST based XML service exposing the most common VoiceVault operations that drive user enrollment and verification processes. 
+
+Users can register for the developer program on the VoiceVault website for free access to their API.
+authentication biometric security verification Voice 
+Security

@@ -1,0 +1,7 @@
+Detect type of users mobile device
+Yandex Detektor
+Yandex is the largest search engine in Russia and develops a number of Internet-based services and products. Yandex offers owners of websites and blogs tools with which they can apply the functional services of Yandex in their projects. The site and documentation are in Russian. 
+
+The Yandeks Detektor API provides the ability to model definition and characteristics of the mobile device user site on the headers of HTTP-requests transmitted by the browser to the device. The API allows users to define the following parameters and configure the device: model and manufacturer; screen resolution; kind of platform and type of distribution J2ME (4 categories); Java-based application features (access to the camera and the file system device type of the root certificate and the size of the application&#039;s icon). The API uses RESTful protocol and responses are formatted in XML. 
+Detection internet mobile 
+Internet

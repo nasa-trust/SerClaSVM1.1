@@ -1,0 +1,9 @@
+UK travel booking service
+Conferma CSP On-Demand
+Conferma is the UK travel industry?s leading provider of booking, reconciliation and settlement software. Conferma specialises in providing tools to financial partners to enable the automation of previously manual processes in the travel and expenses sector. 
+
+CSP On-Demand is Conferma&#039;s XML-based interface that enables customers to securely access the full suite of Conferma&#039;s settlement tools for integration to their enterprise or agency applications. With CSP On-Demand any travel management booking system can take advantage of the Conferma process of introducing a onetime only card through the whole lifecycle of procure to pay. 
+
+The Conferma CSP On-Demand API acts as a plug-in to enhance established enterprise systems for simplified ordering, settlement and reconciliation. The interface supports any programming language and is based on open-standards, thus remaining vendor neutral and flexible. Full documentation for the API is available via Conferma support at apisupport@conferma.com.
+booking travel uk 
+Travel

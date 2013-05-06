@@ -1,0 +1,12 @@
+collaboration 1
+content 1
+external 1
+jot 1
+map 1
+page 1
+quote 1
+special 1
+stock 1
+style 1
+tag 1
+tool 1

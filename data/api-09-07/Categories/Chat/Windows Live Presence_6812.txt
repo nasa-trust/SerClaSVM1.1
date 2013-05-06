@@ -1,0 +1,16 @@
+chat 2
+conjunction 1
+control 2
+http 1
+image 1
+live 7
+message 1
+messenger 3
+notation 1
+object 1
+presence 8
+return 1
+send 1
+show 1
+visitor 1
+windows 7

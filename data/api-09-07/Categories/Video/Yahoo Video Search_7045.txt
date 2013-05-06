@@ -1,0 +1,4 @@
+medium 1
+search 5
+video 6
+yahoo 1

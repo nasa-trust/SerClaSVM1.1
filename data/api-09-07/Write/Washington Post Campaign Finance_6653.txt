@@ -1,0 +1,7 @@
+Campaign Finance Data
+Washington Post Campaign Finance
+The Washington Post Campaign Finance API is a collection of resources that represent a fraction of what is available from the Federal Election Commission financial data. The API will eventually represent all of what the FEC has.
+
+The FEC data is thorough, but is presented in a hard format to use. The API functionality is designed to alleviate that issue for the developer by abstracting the tougher data. This allows developers to build applications quickly instead of sifting through FEC data.
+government news politics 
+Government

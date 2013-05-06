@@ -1,0 +1,5 @@
+North American earth sciences data service
+EarthScope Data Portal
+The EarthScope Data Portal API provides a programmatic method for students, researchers, and others interested in scientific data to explore EarthScope&#039;s instrument networks. Users can download data taken from more than one thousand instruments located across North America. Available information includes seismic data, GPS data, strainmeter data, SAFOD data, airborne LiDAR imagery, and satellite InSAR imagery.
+geology gps science 
+Science

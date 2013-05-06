@@ -1,0 +1,6 @@
+Mobile business search service
+SingTel inSing Business Search
+SingTel is a mobile telephony company based in Singapore. SingTel exposes a set of web services that offer a mixture of telecom and marketplace capabilities. This API lets users access inSing.com&#039;s more than 150,000 Singapore business listing (all geocoded) in real time. At this point in time, individual developers without any company representation are not granted access to the APIs. 
+
+location mapping mobile places Singapore telephony 
+Search

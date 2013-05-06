@@ -1,0 +1,5 @@
+2 Dimensional barcode generator
+TeliaSonera Tag
+The RESTful Tag API enables users to convert URLs to 2D-barcodes that can be read by supported mobile devices. This can be used to simplify discovering new webpages. Responses are in the form of a PNG barcode.
+barcode deadpool mobile utility 
+Utility

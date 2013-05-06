@@ -1,0 +1,9 @@
+Cruise line transaction processing service
+Amadeus Cruise
+Amadeus is the leading provider of IT solutions and transaction processor to the travel and tourism industry. Amadeus provides processing services including search, pricing, booking and ticketing in real-time to travel providers and travel agencies.
+
+Amadeus Cruise Direct Connect is a worldwide distribution channel and  provides a way to book cruises. It enables cruise providers to focus on customer service and reduce call center costs by increasing the automation rate; converting telephone bookings into online bookings.  
+
+The API is a connection between the Amadeus system and a user&#039;s own reservation system, enabling agencies to view their live, real-time inventory and availability when accessing Amadeus&#039; sales and e-commerce solutions. The API offers the following functionality: distribution via online travel agencies and private-labeled cruise B2B and B2C applications. Full documentation is not publicly available.
+booking Cruise travel 
+Travel

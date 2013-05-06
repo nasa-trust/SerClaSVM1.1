@@ -1,0 +1,5 @@
+Lead generation and CRM platform 
+Nutshell
+Nutshell is a customer relations management platform. It provides a simple dashboard for carrying out various lead generation and sales tracking procedures. The dashboard includes features for leads, reports, and setup, which allows users to automate workflow. The Nutshell API exposes the dashboard???s data accession functionality. It essentially allows developers to access the database functions of the CRM platform through SOAP, JSON-RPC, and a simple HTTP POST parameters. 
+CRM enterprise tools 
+Enterprise

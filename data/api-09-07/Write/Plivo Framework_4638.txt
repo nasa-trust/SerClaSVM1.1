@@ -1,0 +1,5 @@
+Telephony framework platform 
+Plivo Framework
+Plivo Framework is a communications framework for developers to build telephony apps from. It has libraries from Java, Ruby, Python, and PHP so that developers do not need to change their web developments for integration. The API is REST-based and returns XML responses. It exposes all of the framework???s functionality toward developing voice apps including, making or receiving calls, recording calls, setting up group calls, and more. It also supports broad integration into social networks, databases, and external APIs.
+telephony tools 
+Telephony

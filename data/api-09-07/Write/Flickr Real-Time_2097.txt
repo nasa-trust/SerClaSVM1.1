@@ -1,0 +1,5 @@
+Realtime photo updates from Flickr
+Flickr Real-Time
+The Flickr Real Time APIs give developers real-time access to Flickr&#039;s collection of over 6 billion photos and enables them to build new applications with them. The API continuously searches new photos and delivers new and updated photos in real-time. It allows developers to subscribe to photos by geographic area, photo meta-data or social tagging like favoriting and friend-tagging. Over 50 institutions are participating in the Flickr Commons including NASA, The Library of Congress, and the National Archives of the U.S. and U.K. from which users can receive updates. The Flickr API supports many protocols including REST, SOAP, XML-RPC. Responses can be formatted in XML, JSON and serialized PHP.
+photo realtime 
+Photos

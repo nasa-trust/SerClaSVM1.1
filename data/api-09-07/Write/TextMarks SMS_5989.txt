@@ -1,0 +1,5 @@
+SMS text messaging service
+TextMarks SMS
+The TextMarks SMS API gives you access to text messaging functionality for integration into your existing and new web and enterprise applications. Free level of service lets developers get started writing messaging mashups and apps.
+messaging sms telephony usa 
+Messaging

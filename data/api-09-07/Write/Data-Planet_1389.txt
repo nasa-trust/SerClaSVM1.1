@@ -1,0 +1,7 @@
+Statistical data service
+Data-Planet
+The service compiles data on economic and social activities from hundreds of official sources, including several U.S. government agencies, and makes it available to support data display applications. Applications can access regularly updated datasets on financial markets, regions and geographical subdivisions, criminal activities, public health, and more. The service harmonizes data collected from diverse sources to simplify access within a single, consistent structure.
+
+API methods support retrieval of data across 15 categories and by source, including U.S. government agencies, not-for-profit organizations, the World Bank, and others.
+demographics reference statistics 
+Reference

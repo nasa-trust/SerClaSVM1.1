@@ -1,0 +1,5 @@
+Chat client service
+OMS
+OMS (Online Messenger Service) is a webservice available for everyone who wants to create their own messenger client. The OMS webservice lets users add a messenger (like ICQ, MSN Messenger, AOL Instant Messenger) to their own applications. The webservice offers functionality such as user management (Create, Change, Delete), offline users management (Add, Delete), login, logout and more. The API uses SOAP protocol and responses are formatted in XML.
+bot chat messaging 
+Chat

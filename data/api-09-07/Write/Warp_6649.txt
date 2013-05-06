@@ -1,0 +1,7 @@
+Video Streaming Platform
+Warp
+Warp is a video streaming platform that provides video transcoding, management, streaming and analytics. The Warp API provides access to an authenticated account&#039;s data via a SOAP API (SDKs provided for PHP and C#). The API allows developers to read and write metadata about uploaded videos in their accounts. Developers can add, edit and remove categories from videos, search videos and delete videos.
+
+A free demo account gives you two videos and paid accounts start at $49 for 250 videos.
+Encoding transcoding video 
+Video

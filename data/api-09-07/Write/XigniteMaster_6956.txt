@@ -1,0 +1,5 @@
+Global securities information
+XigniteMaster
+The XigniteMaster API lets you access securities master and reference data for securities traded on different exchanges around the world. You can search by name, address, industry classification changes and more.
+finance money 
+Financial

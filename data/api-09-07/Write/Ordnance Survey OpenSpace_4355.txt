@@ -1,0 +1,5 @@
+Online mapping service
+Ordnance Survey OpenSpace
+API documentation is publically available from the OpenSpace web site. From their site: OS OpenSpace is a free Ordnance Survey service that allows you to embed Ordnance Survey maps covering England, Scotland and Wales in your web apps. Place any kind of information that has a geographic reference on top of Ordnance Survey maps. Ordnance Survey is Great Britain&#039;s national mapping agency. The OS OpenSpace API is a piece of software code you can embed in your web application that provides all the necessary functionality to interact with a map, like panning, zooming in and out, and adding markers and polygons. 
+display mapping uk viewer 
+Mapping

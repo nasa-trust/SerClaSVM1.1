@@ -1,0 +1,5 @@
+SMS gateway service
+Avetio SMS
+Avetio offers an SMS platform that allows clients to manage their mass communications. The API gives users access to an SMS gateway that connects up to 250 countries. With the API uses can send and receive text messages, report on deliveries, take advantage of failover channels to ensure delivery and more. The API uses RESTful calls. Public documentation is not available.
+gateway Global messaging sms uk 
+Messaging

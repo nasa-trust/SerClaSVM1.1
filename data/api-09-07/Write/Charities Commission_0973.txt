@@ -1,0 +1,5 @@
+charity database service
+Charities Commission
+The Charities Commission of New Zealand is a publicly available database of registered charities that serves to build public trust and confidence in the charitable sector. The Charities Commission API provides open data to large amount of charities, their annual returns and officer information. It uses RESTful OData URI querying to pull information from the database.
+charity database newzealand 
+Database

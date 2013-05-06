@@ -1,0 +1,7 @@
+Poll and survey service
+PollBob
+PollBob is a service that allows users to create and take short polls and surveys. Users can share polls and share their answers with their friends and the community on PollBob.
+
+The PollBob API allows developers to access the data from PollBob and create applications on top of that data. Public documentation is not available; interested developers should contact contact@pollbob.com for more information and access to the API.
+answers polls social survey tools 
+Answers

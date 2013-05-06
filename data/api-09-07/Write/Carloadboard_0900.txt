@@ -1,0 +1,5 @@
+Vehicle transport load matching service
+Carloadboard
+The site matches car carrier services with shippers needing to transport vehicles via truck. The web service allows for posting of requests for loads needing transport, editing an existing request, and deleting a request. The web interface allows carriers to bid on load requests, assignment of loads to carriers, and tracking of shipments en route.
+auto deadpool shipping transportation 
+Transportation

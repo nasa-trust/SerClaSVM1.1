@@ -1,0 +1,5 @@
+CRM and other business applications
+Aria
+From their site: Aria's Billing and Customer Management features include top-of-the-line security, auditing, events notifications, and ample reporting and analytics functionality. The Aria Symphony Web Services API provides programmatic access to customer information, automate product and service provisioning to allow new users to access services quickly and efficiently, and allows you to initiate service modifications in real time or via bulk-load provisioning.
+CRM enterprise office 
+Enterprise

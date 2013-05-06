@@ -1,0 +1,11 @@
+Aggregate coupons for UK retailers
+Bview Promotion
+This API enables users to use any of the vouchers from BView -- the UK&#039;s most comprehensive clearinghouse for money saving offers. BView aggregates vouchers for thousands of merchants and locations from across the UK. This API enables users to display on their website any of three types of vouchers:
+
+    * Voucher codes for saving money with online retailers (e.g. Dixons, Pizza Hut)
+    * Printable local vouchers from small businesses (e.g. restaurants, tradesmen)
+    * Local offers from national merchants (e.g. Pizza Express, Starbucks) 
+
+The API uses RESTful protocol and responses are formatted in XML.
+coupons deadpool shopping uk 
+Shopping

@@ -1,0 +1,7 @@
+Cancer-related scientific information service
+cBio Cancer Genomics Data Server (CGDS)
+The service provides direct access by applications to genetic and genomic data stored by the Memorial Sloan-Kettering Cancer Center. Applications can retrieve information about cancer studies and their genetic findings, genetic profiles and indicators for specific cancer types and gene structures, and similar highly detailed data. Datasets document more than 5000 tumor samples from 20 research studies. 
+
+API methods support retrieval of cancer research studies, with detailed filtering by specific topics and findings. Methods also allow retrieval of genetic profiles and case lists reported in cancer research, extended mutation data, protein and antibody information, and clinical data.
+biology genetics science search 
+Science

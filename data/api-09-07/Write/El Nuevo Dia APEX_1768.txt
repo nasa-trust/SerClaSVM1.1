@@ -1,0 +1,5 @@
+Online newspaper
+El Nuevo Dia APEX
+El Nuevo D¨ªa (The New Day) is a Puerto Rican newspaper. El Nuevo Dia exposes some of its content and functionality via an API built and supported by APEX Technologies, Inc. The API provides methods that let users work with sections, comments, news, galleries and more. It uses RESTful protocol and responses are formatted in JSON.
+news puertorico 
+News

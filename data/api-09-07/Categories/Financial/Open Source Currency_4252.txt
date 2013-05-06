@@ -1,0 +1,10 @@
+currency 5
+exchange 1
+finance 2
+format 1
+open 2
+platform 1
+project 1
+response 1
+rest 1
+source 2

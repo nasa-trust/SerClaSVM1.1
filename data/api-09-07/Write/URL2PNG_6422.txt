@@ -1,0 +1,5 @@
+Automated screenshot service
+URL2PNG
+URL2PNG is a service that lets users integrate screenshots into their website or iOS product by using the screenshot API. Sample code is provided but full documentation is not available.
+image screenshot thumbnail 
+Tools

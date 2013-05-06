@@ -1,0 +1,11 @@
+aggregate 1
+aggregator 1
+context 3
+conversation 2
+format 1
+interface 1
+response 1
+social 4
+specific 1
+url 1
+voice 3

@@ -1,0 +1,7 @@
+Social media trend monitoring and search service
+Trendspottr
+The service monitors traffic on Facebook and Twitter and conducts semantic analysis to identify frequently occurring words and phrases associated with trends emerging as common discussion topics. It matches a search query with headlines, videos, images, phrases, and hashtags posted to the social media platforms on the same topic. Posts are grouped and linked by topic to select relevant content and identify popular concerns of the moment.
+
+API methods support submission of a query term with optional parameters to specify the platform to be searched (Twitter, Facebook, or both) and the number of responses to return. Parameters can also include a location to limit results to responses originating in a particular area. Returned values include URLs most frequently associated with the query term, as well as associated hashtags, phrases, and sources.
+monitoring search social tracking 
+Social

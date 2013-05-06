@@ -1,0 +1,5 @@
+ Company/business entity data service
+Wiki-Data
+Provides basic information about companies, corporations, and other business entities including legal name, country of incorporation, and primary operational location details: country, state/province/region (for U.S., Canadian, and Australian entities), and city. Intended to facilitate a common standard for business entity data with crowd-sourced verification of accuracy. Free to promote interest in Avox data services. 
+business reference 
+Reference

@@ -1,0 +1,7 @@
+Point map creation service
+SimpleMappr
+SimpleMappr is an application that allows users to create point maps by copying and pasting geographic coordinates in layers and  choosing pushpin styles. Maps created can be downloaded and printed.
+
+The SimpleMappr API allows developers to access the functionality of SimpleMappr for integration with other applications. Some example API methods include accessing geographic feeds, attributing characteristics to maps, and displaying various details about the maps.
+display mapping 
+Mapping

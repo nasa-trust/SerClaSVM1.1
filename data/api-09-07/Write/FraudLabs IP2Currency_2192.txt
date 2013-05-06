@@ -1,0 +1,5 @@
+Currency exchange rate service
+FraudLabs IP2Currency
+FraudLabs is a service for validating credit card transactions online. The IP2Currency API gives users a way to get a localized and latest Currency Exchange Rate based on the visitor&#039;s IP address. The service supports 58 currencies Exchange Rate. Additional functionality includes querying the currency pair exchange rate, querying the country name and the commonly use currency for a given IP address and more. The API uses SOAP protocol and responses are formatted in XML.
+conversion currency financial 
+Financial

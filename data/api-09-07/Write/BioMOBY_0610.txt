@@ -1,0 +1,12 @@
+Plant genome reference service
+BioMOBY
+BioMOBY is a system for interoperability between plant genome databases and analytical services. 
+
+MOBY-S is BioMOBY&#039;s web services branch. The MOBY-S API uses the SOAP and XML-RCP protocol and returns responses in XML. It has two major parts.
+
+The registry API describes how to interact with the MOBY Central registry. MOBY Central stores the object and services ontologies, and provides discovery services for service consumers.
+
+The service API describes how to interact with a service provided under the MOBY framework: it describes what messages you can send to a service, how should they be structured, how the service should interpret them, and what the proper responses are.
+
+biology reference science 
+Reference

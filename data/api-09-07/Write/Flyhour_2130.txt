@@ -1,0 +1,5 @@
+Random video discovery service
+Flyhour
+FlyHour is a web site where users can be shown Youtube videos randomly to aid in music and new video discovery. Users also have the option to filter the videos shown by specific country, within a certain category (like music, comedy, sports, news, technology, etc.) and to only show videos with a set number or more views. The FlyHour REST API gives developers this functionality and allows it to be integrated into their web sites or applications. With the API, a user can request to get a video from among their favorites or request to get a random video depending on country, views and category.
+discovery Random video 
+Video

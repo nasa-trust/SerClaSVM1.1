@@ -1,0 +1,5 @@
+Government info on HIV/AIDS treatment
+AIDSinfo
+AIDSinfo offers access to the latest, federally approved HIV/AIDS medical practice guidelines, information on HIV/AIDS treatment, clinical trials, and other HIV/AIDS-related research information for health care providers, researchers, people affected by HIV/AIDS, and the general public. The AIDSinfo API provides access to the AIDSinfo drug database fact sheets in XML format. The API returns information from both the professional and patient versions of the AIDSinfo drug database fact sheets based on input query strings. It uses RESTful calls and responses are formatted in XML.
+government health medical reference 
+Medical

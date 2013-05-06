@@ -1,0 +1,5 @@
+Online photo editor
+Lunapic
+Lunapic is an online photo editing processor. Users can upload images from their computers or link image URLs to add effects, crop, and more. Users can also add multiple images to one project and create an animation. The API provides total access to the website???s functionality. Users can send requests including multiple parameters and actions. 
+image photo tool 
+Photos

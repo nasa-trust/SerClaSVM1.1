@@ -1,0 +1,5 @@
+Crowdsourcing Translation Service
+Get Localization
+Get Localization is a free web based software translation platform. Get Localization utilizes crowdsourcing in software/app translations. There is also an option to use professional translators or your own team. Get Localization provides an API that allows developers to manage localization directly from the application itself or development environment. This makes app localization less painful and saves time when adding new languages.
+crowdsourcing Human language social tools Translation 
+Tools

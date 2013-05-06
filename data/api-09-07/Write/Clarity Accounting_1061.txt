@@ -1,0 +1,7 @@
+Online accounting service
+Clarity Accounting
+Clarity Accounting is now Kashoo.
+
+Clarity Accounting is online accounting software for small businesses. The API is meant for software developers who wish to interact with data stored in Clarity Accounting from their own software. The API uses either REST or SOAP protocol and responses are formatted in XML.
+accounting deadpool finance sbweb 
+Financial

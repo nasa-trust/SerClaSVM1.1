@@ -1,0 +1,5 @@
+Bitcoin market data service
+Bitcoin Charts / Markets
+Provides financial and technical data related to the Bitcoin network, including  market activity, both current and historic, and weighted prices for several world currencies for use in pricing goods in terms of Bitcoin. Bitcoincharts provides a simple API to most of its data; developers can integrate the data into their websites or applications. 
+bitcoin charts markets payment virtual 
+Payment

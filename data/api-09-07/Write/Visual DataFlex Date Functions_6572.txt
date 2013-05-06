@@ -1,0 +1,5 @@
+Multi-language ID code and date name retrieval
+Visual DataFlex Date Functions
+The Visual DataFlex Date Functions API allows users to retrieve the names of days and months in various languages. Users may also determine the default language ID for a system, or retrieve the IDs for other languages. This API can be accessed via SOAP calls using the XML data format.
+language reference 
+Reference

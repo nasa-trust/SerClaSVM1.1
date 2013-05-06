@@ -1,0 +1,5 @@
+Biochemical model viewing and manipulation service
+semanticSBML
+SemanticSBML is a collection of online tools for viewing and editing biochemical models in SBML format. Users can work with models from the BioModels Database or upload annotated models of their own. SemanticSBML can display models&#039; XML code and network structure, add Systems Biology Ontology terms for kinetic laws and parameters, and insert standard rate laws with balanced parameters. Most of the functions of semanticSBML are accessible through a RESTful interface.
+bioinformatics science 
+Science

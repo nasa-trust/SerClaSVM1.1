@@ -1,0 +1,5 @@
+Connect devices to the cloud
+Isidorey
+Isidorey is a leader in device cloud solutions providing a platform for connecting embedded devices to the cloud. The Real-Time API allows for applications and dashboards to be built in a non-polling fashion. Data is published, in real-time, to user web applications. This REST-based API provides GET, POST, and DELETE methods to users with a valid API key.
+cloud deadpool internet realtime 
+Internet

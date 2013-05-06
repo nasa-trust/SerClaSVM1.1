@@ -1,0 +1,15 @@
+city 1
+favourite 1
+friend 1
+get 2
+guide 1
+info 1
+local 2
+picture 1
+place 2
+rating 1
+recent 1
+recommendation 2
+review 3
+social 1
+track 1

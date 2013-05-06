@@ -1,0 +1,5 @@
+Stock quote service
+CDYNE Delayed Stock Quote
+The CDYNE Delayed Stock Quote API allows users to retrieve stock information using a number of SOAP-based calls. Users may retrieve a stock&#039;s price, a current stock quote, or a dataset containing information on multiple stocks. For all calls, developers may use a license key of 0 for testing.
+financial stocks 
+Financial

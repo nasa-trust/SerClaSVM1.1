@@ -1,0 +1,14 @@
+account 1
+connect 1
+contact 1
+datum 2
+doc 1
+form 1
+obtain 1
+relate 1
+route 1
+runner 1
+running 1
+sign 1
+sport 2
+up 1

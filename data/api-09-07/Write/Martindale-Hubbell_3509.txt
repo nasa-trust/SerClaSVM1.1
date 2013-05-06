@@ -1,0 +1,5 @@
+Legal directory
+Martindale-Hubbell
+Martindale-Hubbell is a legal directory that contains information on law firms, banks an real estate offices as well as a digest of the collected laws of each state and court calendars. The database now contains more than one million lawyer profiles, forty thousand plus articles, topical discussion groups, forums, and peer-to-peer networking. An API is offered that will allow sites to access Martindale-Hubbell content and functionality and build deep, rich integrations. Full documentation is not publicly available but developers can contact mhdevelopers@lexisnexis.com for more information.
+database directory law reference 
+Reference

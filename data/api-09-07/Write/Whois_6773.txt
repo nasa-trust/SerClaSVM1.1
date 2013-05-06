@@ -1,0 +1,5 @@
+Whois lookup service
+Whois
+The Whois API returns well-parsed whois fields in  XML and JSON formats. Use it to track domain registrations, check domain name availability, detect credit card fraud, locate users geographically. The service automatically follows the whois registry referral chains until it finds the correct whois registrars with the most complete whois data. Works over basic HTTP and avoices firewall-related problems of accessing Whois servers on port 43.
+internet tools utility whois 
+Tools

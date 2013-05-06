@@ -1,0 +1,5 @@
+VoIP notifications service
+Tall Umbrella
+Tall Umbrella provides a high quality voice messaging web service for a competitive price. Implemente a complete voice messaging service via this provide a SOAP-WSDL API. Integrate with your Java, C#, or C/C++ code and you immediately integrate voice notifications into your application.
+deadpool telephony VoIP 
+Telephony

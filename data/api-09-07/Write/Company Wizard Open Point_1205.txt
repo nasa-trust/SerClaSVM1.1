@@ -1,0 +1,11 @@
+Electronic company formation services
+Company Wizard Open Point
+The Company Wizard is an online resource providing electronic company formation services and business products for use in the UK. The Company Wizard Open Point API is an extension to the reseller system that enables certain functions to be performed over a remote Web Service. Currently the API supports the following functions.
+
+     *Check company name availability
+     *Check company name for sensitive words
+     *Submit new Incorporation
+
+The API uses SOAP protocol and responses are formatted in XML.
+business enterprise uk 
+Enterprise

@@ -1,0 +1,13 @@
+call 1
+datum 1
+dictionary 4
+format 1
+glossary 2
+indonesia 1
+indonesian 2
+language 1
+own 1
+reference 1
+response 1
+thesaurus 3
+utilize 1

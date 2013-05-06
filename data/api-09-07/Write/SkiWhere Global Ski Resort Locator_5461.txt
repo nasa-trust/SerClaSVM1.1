@@ -1,0 +1,7 @@
+Ski resort directory service
+SkiWhere Global Ski Resort Locator
+The service provides directory listings for approximately 2000 ski resorts around the globe. It generates listings of the nearest skiing facilities for any position on Earth specified by latitude and longitude sorted by distance from the selected location.
+
+API methods accept a request specifying latitude and longitude anywhere on the globe and return listings of the nearest ski resorts, with distance in miles from the specified location. Results come from a database estimated to list 25% of the ski facilities in the world.
+international skiing travel 
+Travel

@@ -1,0 +1,5 @@
+Email Scheduling and Queuing Service
+Futuremail
+With the Futuremail API, you can schedule emails to any date and time you wish. Developers can use the Futuremail API with any website, running from a server or processed client side. It can be used using in any of the web programming languages like PHP, ASP.NET, Python, Javascript etc. 
+calendar deadpool email 
+Email

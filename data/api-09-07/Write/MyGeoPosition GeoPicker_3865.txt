@@ -1,0 +1,11 @@
+Geocoding and location service
+MyGeoPosition GeoPicker
+A DatePicker helps people to enter calendar data into form fields. This GeoPicker helps people to easily enter latitude, longitude, postal code, etc. A popup with a Google Map lets the user search for the requested location and finetune the result by using a drag & drop marker. Another button click returns the resulting geodata back to your application or directly into the form field(s).
+
+Just link the API javascript file and specify, which data should be returned into which form fields or which callback function should process the resulting JSON object. You can also define a static starting point for the map, or let the starting point be calculated automatically by using data the user already entered into other form fields. You can even let the Map auto-detect the users location by using a devices built-in GPS functionality and the W3C HTML5 Geolocation interface.
+
+Currently supports English, Spanish, French, German, Russian & Chinese. - But you can also define your own language strings.
+
+Check http://api.mygeoposition.com/ for an extensive API documentation and many examples for the different configuration parameters. It&#039;s up to you whether integration is a task of 2 minutes or you play around with all the configuration possibilities to perfectly please your needs.
+geocoding mapping places 
+Mapping

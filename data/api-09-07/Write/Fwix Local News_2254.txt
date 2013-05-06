@@ -1,0 +1,7 @@
+Local news service
+Fwix Local News
+NOTE: This API has been consolidated with other Fwix services. View the consolidated profile at http://www.programmableweb.com/api/fwix 
+
+The Local Index API allows developers and media outlets to take advantage of Fwix&#039;s data platform to incorporate local information into their web and mobile properties.  We ask that you please comply with our API Standards to maximize the utility to users and to ensure that content publishers get the credit they deserve for the content they produce.
+deadpool news 
+News

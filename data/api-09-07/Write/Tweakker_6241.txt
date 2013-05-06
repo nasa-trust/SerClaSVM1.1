@@ -1,0 +1,7 @@
+OTA and mobile device configuration service
+Tweakker
+The service manages configuration of Over-the-Air (OTA) communication settings for interaction with mobile devices, including WAP (Wireless Application Protocol) and IAP(Internet Access Point). It manages the multitude of device-specific variables needed to provide user access to advanced online, media, and data services. 
+
+API methods support determination of device brand and model as well as user-specific settings. Methods also load settings to devices to enable application functions and provide access to help content to help resolve user problems. 
+communication device mobile telephony 
+Telephony

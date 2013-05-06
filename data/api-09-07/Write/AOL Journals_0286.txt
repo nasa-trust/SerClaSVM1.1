@@ -1,0 +1,5 @@
+Blogging platform
+AOL Journals
+NOTE: This API is no longer active and was retired from AOL in September 2008. The AOL Journals - Open Blog API was an implementation of the Atom Publishing Protocol (APP). The API allowed for full creation, deletion, retrieval, and updates of blogs, entries, and comments. It is integrated with the RSS/Atom feed services provided by the blog platform.
+blog 
+Blogging

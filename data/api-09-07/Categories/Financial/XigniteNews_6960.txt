@@ -1,0 +1,10 @@
+article 1
+briefing 1
+business 2
+finance 4
+give 1
+headline 1
+market 2
+news 4
+real 1
+search 1

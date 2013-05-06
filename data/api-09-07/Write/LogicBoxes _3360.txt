@@ -1,0 +1,5 @@
+Hosting and domain registration service
+LogicBoxes 
+The LogicBoxes API is a full-control set of programming interfaces that developers and resellers to create Website and Control Panels and integrate them into LogicBoxes OrderBox. LogicBoxes OrderBox is a core component of the LogicBoxes Hostex platform. It is a Customizable and Brandable, multi-lingual, multi-currency, multi-tier platform that provides Billing, Auto-Provisioning, User Management and a comprehensive API for all LogicBoxes Products. The API is based on SOAP/WSDL and client side kits are available in PHP, Perl, ASP.NET and Java.
+hosting internet 
+Internet

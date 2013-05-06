@@ -1,0 +1,7 @@
+Economic research data service
+St. Louis FRED
+The Federal Reserve Bank of St. Louis is one of 12 regional Reserve banks in the Fed System. The Research Division of the bank looks to promote quality economic research and contribute to economic policy discussions. In support of this goal, it has created APIs that let developers access the data stored on its web site.
+
+The FRED API lets users query the Federal Reserve Economic Data (FRED) and Archival Federal Reserve Economic Data (ALFRED) databases to retrieve specific data. The requested data can be customized according to data source, release, category, series, and other preferences. The API uses RESTful calls and responses are formatted in XML.
+economy financial government research 
+Government

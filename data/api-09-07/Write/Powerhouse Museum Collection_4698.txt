@@ -1,0 +1,7 @@
+Online museum collection and datasets
+Powerhouse Museum Collection
+Powerhouse Museum is part of the Museum of Applied Arts and Sciences in Sydney, New South Wales, Australia. It holds a diverse collection including history, science, technology, design, industry, decorative arts, music, transport and space exploration. The Museum offers a number of online collections, as well as an OPAC. An API makes the collection datasets available to developers. 
+
+The API uses a RESTful protocol, returning responses in XML, JSON, JSONP, YAML, and XML. The catalog can also be queried using YQL.
+catalog collections museums reference 
+Education

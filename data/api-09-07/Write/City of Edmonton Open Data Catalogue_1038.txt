@@ -1,0 +1,7 @@
+City of Edmonton datasets
+City of Edmonton Open Data Catalogue
+The City of Edmonton Open Data Catalogue provides open access to datasets for the City of Edmonton, Alberta, Canada. Search and browse datasets for categories including city administration, education, events, public works, transit, and more. 
+
+The City of Edmonton Open Data Catalogue uses the Socrata Open Data API, which uses REST and returns responses in a variety of formats including JSON, XML, and RDF.
+canada government 
+Government

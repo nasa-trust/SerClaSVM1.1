@@ -1,0 +1,9 @@
+message 1
+messaging 2
+mm 2
+note 1
+open 1
+sm 3
+spain 1
+spanish 1
+telephony 1

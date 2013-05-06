@@ -1,0 +1,7 @@
+Pharmaceutical and medical search service
+Drugle
+The service provides a semantic search engine for authoritative information on pharmacology and medical drugs free of provider bias. It provides a general reference tool for health-care providers, patients and families, researchers, and medical students. Health information systems can implement the service as a component of decision support technology. 
+
+API methods support submission of search queries and retrieval of results. Integration demos illustrate incorporation of the service with health information sites.
+drugs medical search 
+Medical

@@ -1,0 +1,11 @@
+contain 1
+covering 1
+instance 1
+link 1
+literature 1
+protein 3
+reference 1
+science 2
+species 1
+substrate 1
+verify 1

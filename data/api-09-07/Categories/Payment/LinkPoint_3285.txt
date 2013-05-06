@@ -1,0 +1,12 @@
+code 1
+control 1
+need 1
+option 1
+payment 7
+process 2
+processing 3
+shopping 1
+sophisticate 1
+terminal 1
+type 1
+who 1

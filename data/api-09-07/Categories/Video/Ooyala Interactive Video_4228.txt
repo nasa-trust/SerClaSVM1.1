@@ -1,0 +1,13 @@
+beta 1
+capability 1
+content 2
+create 1
+delivery 1
+distribution 1
+feature 1
+monetization 1
+object 1
+platform 1
+stream 1
+syndication 1
+video 7

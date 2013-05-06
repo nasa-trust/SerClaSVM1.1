@@ -1,0 +1,5 @@
+Referral tracking platform
+Alau.me
+Alau.me is an iOS App referral-tracking platform designed by The Daily Tracker. It creates a short referral link for sharing. Then it can track how many downloads resulted from the link. The API is available with an Alau.me account. It exposes the general functionality of the URL generating and referral-tracking services. It is RESTful and provides JSON responses. Documentation is publicly available in an SDK.  
+analytics network social tools 
+Tools

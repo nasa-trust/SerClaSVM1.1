@@ -1,0 +1,7 @@
+Gaming content feeds
+Sapo Games
+SAPO is a Portuguese Internet service provider whose main web site acts as a web portal featuring a directory of Portuguese sites. SAPO Services provides a large suite of web services and applications to developers worldwide.
+
+This API returns RSS feeds from the Sapp GameOver service. The feeds include all articles, articles by platform and content related with a game sheet. The API uses RESTful calls and responses are formatted as RSS.
+feeds games 
+Games

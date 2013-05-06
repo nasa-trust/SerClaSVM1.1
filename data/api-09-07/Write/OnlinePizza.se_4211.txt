@@ -1,0 +1,5 @@
+Swedish pizza service
+OnlinePizza.se
+OnlinePizza.se provides a RESTful API that allows users to order pizza from 945 pizzerias in 155 cities and towns throughout Sweden. Orders can be created and sent programmatically, yielding JSON responses for order confirmation. This service can also be used to query a database of menus, customer reviews, and restaurant information.
+food pizza sweden 
+Food

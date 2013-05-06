@@ -1,0 +1,14 @@
+approval 1
+budget 1
+fin 1
+finance 5
+glossary 1
+mainframe 2
+metadata 1
+organization 1
+pas 1
+private 1
+resource 1
+university 4
+vendor 1
+washington 3

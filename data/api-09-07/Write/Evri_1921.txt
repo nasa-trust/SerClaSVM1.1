@@ -1,0 +1,12 @@
+Recommendations and semantic search service
+Evri
+Use the Evri API to get access to Evri&#039;s mapping of the entity web, or the web of people, places and things connected to one another via language. Portions of Evri&#039;s NLP-based (natural language processing) technology are exposed in the API as well as Evri&#039;s knowledgebase of information. 
+
+With this API you can:
+
+* tag, or identify entities in text or HTML documents
+* get recommended articles, images or videos
+* find how people, places and things are related to one another
+* find facts from a large database of people, places, and things
+NLP recommendations search semantic semantics tagging 
+Recommendations

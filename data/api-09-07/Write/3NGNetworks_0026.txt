@@ -1,0 +1,5 @@
+VoIP services provider
+3NGNetworks
+The 3NGNetworks API allows developers to intergate their existng applications with the 3NG VoIP Platform. 3NG is a provider of private label VoIP solutions. The API exposes the entire VoIP platform functionality. It uses SOAP protocol and responses are formatted in XML. Full API documentation is not publicly available.
+telephony Voice VoIP 
+Telephony

@@ -1,0 +1,5 @@
+Real estate profile and search service
+Homes.com Neighborhood Envoy
+The service provides a neighborhood profile for real-estate buyers based on 300 factors related to schools, population demographics, employment, climate, and local features. It allows integration with Multiple Listing System (MLS) property search to allow buyer review of prospective properties.
+search realestate neighborhood
+Search

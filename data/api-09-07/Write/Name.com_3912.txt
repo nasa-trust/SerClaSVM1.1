@@ -1,0 +1,5 @@
+Domain reseller service
+Name.com
+Name.com provides internet domain name registration and web hosting services. They offer a reseller API that allows users to incorporate domain registration as an option or ancillary service to an existing site. The API provides methods categorized by domains, orders, DNS, nameserver and authentication. The API uses RESTful calls and responsese are formatted in JSON.
+domain hosting internet 
+Internet

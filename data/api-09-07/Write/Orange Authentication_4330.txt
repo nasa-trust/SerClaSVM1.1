@@ -1,0 +1,5 @@
+Authentication service
+Orange Authentication
+From their site: First, it enables basic authentication and privacy functionality. Second, it simplifies access to your website for Orange users by allowing them to use their existing Orange account credentials. This is done with the customer&#039;s knowledge and consent and is applicable to registered users of www.orange.fr. Use of this API is mandatory if you wish to use the other Orange Personal APIs.
+authentication identity security telephony 
+Security

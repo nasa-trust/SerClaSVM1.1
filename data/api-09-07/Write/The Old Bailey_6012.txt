@@ -1,0 +1,7 @@
+UK criminal court record search service
+The Old Bailey
+The service allows search against records of legal proceedings at the Old Bailey, London&#039;s central criminal court, from 1674 to 1913. The fully searchable repository gives access to documentation of almost 200,000 criminal trials either by specific case or for all cases that match specified terms.
+
+API methods support submission of search criteria, either a trial number, text to match, or both, along with the number of desired results (maximum of 1000 per request) and the desired output format, either text or zip file. If both a trial number and match text are specified, output tags the specified terms within the text returned.
+crime government history law uk 
+Government

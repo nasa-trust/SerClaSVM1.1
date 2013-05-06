@@ -1,0 +1,5 @@
+Local business ecommerce platform 
+Main and Me
+Main and Me is a local business commercial platform. It allows physical shops that serve a local community to post pictures of their wares online. This is intended to expand their potential audience and customer base, but also to allow locals who prefer shopping online to do so. Customers can search by keyword or location to find the right product from the right location. The Main and Me API exposes the platform???s essential functionalities, including gathering information about users and posting items to stores. It is a RESTful API that returns JSON-encoded data.
+ecommerce local shopping 
+Shopping

@@ -1,0 +1,7 @@
+Online store and e-commerce product search service
+Google Commerce Search
+The service provides hosted functionality for product search to meet the needs of e-commerce retailers. It gives online store managers a customized search engine against their own specific product catalog and related product information materials. It includes familiar Google search features like sophisticated relevance ranking that can be adjusted by the store owner, query expansion to match synonyms of users&#039; search terms, complex variant spelling of search terms, and targeted promotions based on result sets.
+
+API methods support submission of a user search query and retrieval of matching listings from an online store&#039;s own product catalog. Methods work with the [http://www.programmableweb.com/api/google-shopping-search Google Shopping API] to support definition of product categories for the store&#039;s catalog, specification of spelling rules to ensure retrieval of the right results for similar query terms, control of promotions and product recommendations linked to search terms, and complex guidelines for filtering and sorting relevance ranked results. The API also allows clickthrough tracking to reveal customer behavior patterns based on search results.
+catalog search shopping 
+Shopping

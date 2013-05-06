@@ -1,0 +1,5 @@
+Web visual search service
+Helioid
+Helioid is a visual search and aggregation tool that helps refine web searches. The Helioid API is a public API that generates categorizations from groups of data. Various functions are provided for retrieving items in a category, etc. It uses a RESTful interface and results are returned in XML format.
+categorization deadpool search 
+Search

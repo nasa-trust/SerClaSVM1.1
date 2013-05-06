@@ -1,0 +1,5 @@
+Media management service
+Dalet
+Dalet is a provider of media asset management and digital production tools. These tools can be used for acquiring, cataloging, producing and distributing multimedia content. The Dalet API exposes functionality of the Enterprise edition of the software. This funcionality includes importing, updating and exporting media and metadata, media management such as conversions and transfers, task management functions such as notifications and assignments and more. The API uses REST and SOAP protocols and responses are formatted in XML. Full documentation is not publicly available.
+deadpool digital media-management metadata 
+Media Management

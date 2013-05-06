@@ -1,0 +1,5 @@
+Shipping Information, Labels, and Tracking Service
+Despatch Bay Parcel Service
+From website: &quot;With our Website API (Application Programming Interface), you can seamlessly integrate your existing website, e-commerce system or back office software into Despatch Bay. Website integration will enable your site to automatically create Despatch Bay labels as part of your checkout process, validate addresses and postcodes and we can even provide you with a realtime list of available delivery options per postcode with costs, ensuring that your customers always choose a valid delivery option based on their delivery address. With further integration you can even make use of our tracking data within your website.&quot;
+shipping shopping 
+Shipping

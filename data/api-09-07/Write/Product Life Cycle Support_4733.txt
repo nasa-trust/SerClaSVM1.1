@@ -1,0 +1,6 @@
+Product management service for businesses
+Product Life Cycle Support
+Product Life Cycle Support (PLCS) is a standard for creating and managing an Assured set of Product and Support Information (APSI), which can be used to specify and control required support activities throughout the life of a complex product. PLCS provides an application-specific, but flexible, information model, which can be tailored through the use of Reference Data Libraries. The Product Life Cycle Support API provides SOAP-based, programmatic access to PLCS functions.
+
+enterprise product reference 
+Enterprise

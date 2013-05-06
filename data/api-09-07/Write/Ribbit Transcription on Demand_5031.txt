@@ -1,0 +1,6 @@
+Voice-to-text Transcription Service
+Ribbit Transcription on Demand
+Ribbit is a phone company dedicated to a new way of approaching telephony; an open platform for voice innovation and an entire &quot;developer success ecosystem&quot; to support the developers.
+Using Ribbit&#039;s Transcription on Demand RESTful API, users can have various media (.mp3, .wav, .ulaw, and voicemail) transcribed into text files. Users can create folders and upload media files with POST requests and the transcription service will automatically be triggered, creating a new .txt file in the same folder as the original media. If a file already exists, no transcription will occur.
+deadpool telephony Transcription Voice 
+Telephony

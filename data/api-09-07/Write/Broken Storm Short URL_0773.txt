@@ -1,0 +1,5 @@
+URL Shortening Service
+Broken Storm Short URL
+Brkn.be provides a Url shortening service on its regular web page. This feature is also available as a simple REST API that responds to GET or POST requests to shorten the submitted URL. The shortened URL can also be used to track click statistics such as unique visitors, visiting countries, and browsers. 
+internet tools url-shortener utility 
+Tools

@@ -1,0 +1,5 @@
+Driving directions service
+CloudMade NavEngine
+Provides driving, walking and biking directions via web service. Basic directions between two pairs of latitude/longitude points are supported, as well as more advanced directions options. The service allows developers to pass multiple points and receive directions for the entire trip. CloudMade is built on top of OpenStreetMap data.
+Directions mapping openstreetmap places 
+Mapping

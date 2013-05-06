@@ -1,0 +1,17 @@
+address 4
+book 4
+call 1
+contact 4
+format 1
+import 3
+integrate 1
+integration 1
+major 1
+multiple 1
+office 2
+own 1
+point 1
+response 1
+single 1
+software 1
+source 1

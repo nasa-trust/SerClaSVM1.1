@@ -1,0 +1,11 @@
+amazon 1
+feature 1
+format 2
+make 1
+read 1
+result 3
+search 6
+set 1
+sharing 1
+simple 1
+tool 1

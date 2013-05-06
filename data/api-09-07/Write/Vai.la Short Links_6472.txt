@@ -1,0 +1,5 @@
+URL shortening service
+Vai.la Short Links
+The Vai.la Short Links API uses REST protocol and allows the user to input a URL and get a shortened URL in return. This site lacks documentation and is in Spanish. 
+deadpool internet spain url-shortening 
+Internet

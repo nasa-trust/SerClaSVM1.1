@@ -1,0 +1,12 @@
+Email marketing service
+Emma
+Emma&#039;s Web Services suite will allow a client&#039;s software to access many of Emma&#039;s audience and response-tracking features. Emma offers two levels of API integration. The first is the Remote Signup feature whereby users can bypass the Emma-powered signup forms and create signup forms that are linked to their Emma account. Web Services allows a higher level of synchronization between a user database and the Emma database. The API allows functionality such as 
+
+# Add or delete member fields to have your Emma email-marketing database mirror the structure of your master database
+# Add, edit and delete groups to mirror your master database groups/lists, and move people about from group to group
+# Add, edit and delete member records in your Emma database to reflect changes in yours
+# Retrieve overall stats for email campaigns to be merged with broader campaign reports
+
+The API uses SOAP protocol and responses are formatted in XML.
+email marketing 
+Email

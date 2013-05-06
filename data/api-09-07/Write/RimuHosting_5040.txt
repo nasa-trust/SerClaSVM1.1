@@ -1,0 +1,5 @@
+Virtual hosting services
+RimuHosting
+The RimuHosting API is an programmable interface to manage some of RimuHosting services. It lets you do things like setup new VPSs, add memory or disk to existing VPSs, check your data transfer usage, grab host server load stats, reboot servers, and most other actions that until now you could only perform through the RimuHosting control panel.
+enterprise hosting internet 
+Internet

@@ -1,0 +1,5 @@
+Trust ranking service 
+TrustCloud
+TrustCloud is a service that rates how trustworthy its users are. Based on trustworthy behavior indicators developed by Charles H. Greene such as Credibility, Reliability, Familiarity, and Consideration, TrustCloud issues reports on users. These reports take the form of Badges and Scores. The information for these scores is harvested from available social network data. Their RESTful API allows developers to access users members??? data. It returns JSON-formatted responses.
+ranking social 
+Social

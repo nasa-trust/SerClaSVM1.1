@@ -1,0 +1,7 @@
+Cloud-based enterprise content management service
+SpringCM
+The cloud-based enterprise content management platform allows applications to assemble customized services matched to specific needs. Available functions include configuring document-storage spaces, structured by user-defined folders and metadata, along with supporting workflow processes for updates, review, and publishing.
+
+API methods support CRUD actions (create, read, update, delete) for folders, documents, and descriptive metadata. Workflow methods provide for automation of repeatable processes, step status review, check-in/checkout of documents, and related functions. 
+cms documents enterprise 
+Enterprise

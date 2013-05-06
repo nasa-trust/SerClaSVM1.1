@@ -1,0 +1,5 @@
+News popularity service
+New York Times Most Popular
+The New York Times Most Popular API provides links and information about the most frequently e-mailed, shared and viewed blog posts and articles on the New York Times website. Developers can look at popularity based on views, emails and shares. In the case of the last method, developers can also look at shares on specific social networks, including Twitter, Facebook, Digg and more.
+news popular reference 
+News

@@ -1,0 +1,5 @@
+Online affiliate programs
+Commission Junction
+The Commission Detail Service is a REST-based API that enables advertisers and publishers to access real-time commission and item-detail data. Advertisers and publishers that wish to receive commission reporting updates in near real-time or to request new commission data on a regular basis can use this API to create in-house tools that access real-time commission data from the CJ network. Developers may search by any number of criteria including price, currency, country, serviceable area and UPC. A SOAP API is also available but will eventually be deprecated.
+shopping 
+Shopping

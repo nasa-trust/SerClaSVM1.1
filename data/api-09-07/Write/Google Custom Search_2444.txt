@@ -1,0 +1,5 @@
+Google custom search management
+Google Custom Search
+From their site: You can now exploit the full power of your ideas to dynamically generate Custom Search Engines. You host the CSE specification on your web site and include the url for this specification in your CSE search request. Google retrieves the CSE specification from your website when your user searches in the CSE.
+search 
+Search

@@ -1,0 +1,5 @@
+CRM and sales management service
+ClickHQ
+The service provides customer relationship management (CRM) functions, including customer database, easy customer communications with contact tracking to log interactions over time, and sales lead generation to identify prospects for new product offerings. Integration with other applications enables company functions to recognize a specific customer's history and tailor interactions based on that experience.
+CRM enterprise sales customer-service
+Enterprise

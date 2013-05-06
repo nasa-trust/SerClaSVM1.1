@@ -1,0 +1,4 @@
+dictionary 2
+lookup 1
+reference 2
+slang 1

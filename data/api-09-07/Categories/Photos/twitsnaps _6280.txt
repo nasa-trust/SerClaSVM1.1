@@ -1,0 +1,10 @@
+account 1
+datum 1
+free 1
+get 1
+photo 5
+photograph 1
+share 1
+sharing 1
+twitter 3
+upload 1

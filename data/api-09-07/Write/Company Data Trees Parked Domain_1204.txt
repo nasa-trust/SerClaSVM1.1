@@ -1,0 +1,9 @@
+B2B marketing analysis service
+Company Data Trees Parked Domain
+Company Data Trees is a search engine for company data, linking companies with their various data points scattered around the web. Company Data Trees uses a system that uses a tree-like structure to store and retrieve data.
+
+The Parked Domain API detects if a given domain is parked. B2B data companies use it to purge dead businesses from marketing lists. Search engines and content analysis companies use it to remove unwanted web content from their databases. 
+
+The API uses RESTful calls and responses are formatted in JSON.
+domain internet 
+Internet

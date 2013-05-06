@@ -1,0 +1,13 @@
+community 1
+discuss 1
+news 4
+open 1
+read 1
+reader 1
+sharing 1
+social 1
+story 1
+submit 1
+talk 1
+video 1
+vote 1

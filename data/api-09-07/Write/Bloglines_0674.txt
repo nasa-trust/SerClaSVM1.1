@@ -1,0 +1,5 @@
+Online feed aggregator
+Bloglines
+From their site: Bloglines is a FREE online service for searching, subscribing, creating and sharing news feeds, blogs and rich web content. With Bloglines, there is no software to download or install. Bloglines provides several mechanisms for accessing account information. The Notifier API is used to quickly gather a count of unread items in a Bloglines account. The Sync API is used to accessing subscription lists and unread blog items. The Blogroll API is used for incorporating subscription lists in other sites.
+blog 
+Feeds

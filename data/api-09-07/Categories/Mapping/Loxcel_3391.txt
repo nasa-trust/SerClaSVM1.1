@@ -1,0 +1,13 @@
+demo 1
+display 1
+friendly 1
+google 1
+location 2
+map 2
+mapping 3
+mobile 1
+place 1
+search 1
+simple 1
+tool 1
+transform 1

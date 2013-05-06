@@ -1,0 +1,5 @@
+Feed validation service
+W3C Feed Validator
+The World Wide Web Consortium (W3C) is an international community that works to develop Web standards. The Feed Validation service is used to check the syntax of Atom or RSS feeds. The API exposes the functionality of the service for use by developers in the creation in third party applications. It uses SOAP protocol and responses are formatted in XML.
+feeds internet validation 
+Feeds

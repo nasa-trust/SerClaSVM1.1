@@ -1,0 +1,7 @@
+Content sharing analytics data service
+AddThis Analytics 
+AddThis is a free way to boost traffic back to your site by making it easier for visitors to share your content.
+
+The AddThis Analytics API is a RESTful web-service you can use to access the analytics data about sharing taking place on your site, without using the AddThis analytics interface. You can use this to build your own reports, for example. 
+analytics internet social 
+Internet

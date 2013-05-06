@@ -1,0 +1,5 @@
+Global weather information services
+World Weather Online
+World Weather Online provides weather forecast and weather content for worldwide city and towns. The Developer Weather API allows developers and programmers to access free 5 day weather feed in XML, JSON and CSV format for any location by UK Postcode, Canada Postal code, US Zipcode, City and Town name (country and state/region filter) or by using Latitude and Longitude.
+local weather 
+Weather

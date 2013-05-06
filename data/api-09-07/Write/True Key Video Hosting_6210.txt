@@ -1,0 +1,5 @@
+Video and radio streaming platform
+True Key Video Hosting
+TrueKey Video Hosting is an online video publishing solutions provider. Businesses can use their services to manage and stream proprietary video content. Users can upload videos to encode them in a number of video formats, and share them securely from their account on any web player. The TrueKey API exposes the uploading and informational functionalities of their service. It is a RESTful API that returns XML-encoded data.
+audio streaming utility video 
+Video

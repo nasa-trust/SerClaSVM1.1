@@ -1,0 +1,24 @@
+Multi platform music service
+Omnifone MusicStation
+Omnifone offers a full suite of APIs for their MusicStation program. The MusicStation Next Generation program allows partners, including leading device manufacturers, to provide an unlimited music solution on a range of connected devices, from home entertainment systems to set-top boxes and in-car audio systems, using dedicated service APIs and bespoke client development services and capabilities.
+
+Omnifone is an independent provider of unlimited music services. The company???s open music solution, MusicStation, is the world???s leading multi-platform interoperable end-to-end unlimited music solution and is used by leading device vendors, mobile network operators and broadband providers.
+
+The MusicStation Next Generation program offers the following end-to-end suite of MusicStation APIs 
+
+* Community management APIs
+* Private and public playlist management and storage APIs
+* Catalogue Services APIs
+* Search Services APIs
+* Metering Services APIs
+* DRM Services API
+* Content Delivery APIs
+* User Services APIs
+* Playlist Services APIs
+* Events & Audit Trail APIs
+* Recommender Services APIs
+* Reporting Services APIs
+
+Public documenataion of the APIs is not available on the site.
+deadpool music 
+Music

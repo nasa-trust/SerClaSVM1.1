@@ -1,0 +1,7 @@
+Federated search service
+WebLib Polymeta
+The service provides federated search and clustering of results from queries across multiple repositories. Its common interface allows applications to execute searches simultaneously against a diverse range of web-based information providers. It merges results and presents them ranked by relevance to the query.
+
+API methods support query submission and execution of algorithms for Natural Language Processing and Information Retrieval to analyze and refine submitted queries. Applications can specify search strategy, relevancy ranking, and further processing of filter the result set.
+research search semantic 
+Search

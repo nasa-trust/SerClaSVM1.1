@@ -1,0 +1,9 @@
+GPS tracking service
+Alpha Micro Systems
+Alpha Micro Systems (AMS) provides vehicle tracking and asset security solutions that are compatible with mobile and web-based platforms. AMS provides location-aware technology that businesses can use to track valuable items and reporting technology that can be used to leverage location data gathered as your assets move from point to point.
+
+The AMS API has a wide array of methods for managing driver, vehicle, device, and customer data. The operations offered by this API represent the most popular features from the AMS tracking applications and services, allowing developers to integrate their existing platform with AMS system.
+
+This is a SOAP-based API that requires an account with service for access.
+cars gps location mapping transportation 
+Transportation

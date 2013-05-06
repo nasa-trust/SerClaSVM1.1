@@ -1,0 +1,5 @@
+Indoor rower workout generator
+ErgDB
+ErgDB generates workout routines for use on indoor rowing machines with ergometers to measure the energy produced. The ErgDB API provides a basic API to search and export workouts. 
+exercise health sports 
+Sports

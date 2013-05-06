@@ -1,0 +1,5 @@
+Virtual world
+SecondLife
+From their site: Second Life is a 3-D virtual world entirely built and owned by its residents. Since opening to the public in 2003, it has grown explosively and today is inhabited by nearly 100,000 people from around the globe. The Second Life Webmap API allows you to embed Second Life Maps onto your web pages. Note: A JavaScript model similar to Google and other map APIs.
+games mapping 
+Games

@@ -1,0 +1,5 @@
+Video game news and information site
+Unofficial JeuxVideo
+JeuxVideo is a French website dedicated to video games on both PC and consoles. It offers news, previews, tips and tricks, forums and more. The unofficial API provides users with access to the information stored on the site. This information includes search, game details, game previews, video footage of games, lists of tips and mroe. The API uses RESTful calls and responses are formatted in XML.
+entertainment games news unofficial 
+Games

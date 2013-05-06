@@ -1,0 +1,7 @@
+Airport activity and weather information service
+FAA Airport Service
+The service provides reports of known delays and other airport status from the FAA&#039;s Air Traffic Control System Command Center (ATCSCC). It also returns current weather reports from NOAA for the airport. 
+
+Methods accept an IATA airport code and return a status message, reason for any flight delays, and average length of delays. Return data also includes the current weather forecast for the airport with update time local to that location.
+airlines airports transportation weather 
+Transportation

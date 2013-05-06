@@ -1,0 +1,7 @@
+IP and host name geolocating service
+FreeGeoIP
+The service provides search access to a database of geolocation information for IP addresses and host names. An application can query with an IP or host name and retrieve the geographic location of the associated server.
+
+API methods support submission of a query specifying either IP address or host name and the desired output format for the data. Returned data include the city code and name, the region code and name (e.g., U.S. state or Canadian province), the country code and name, postal code, latitude and longitude. 
+DNS geolocation IP mapping 
+Mapping

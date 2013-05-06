@@ -1,0 +1,5 @@
+Platform for email extensions
+Yahoo Mail Applications
+Use the Yahoo Mail Applications API to create apps that extend Yahoo Mail. Part of the Yahoo Application Platform, YAP. Developers can embed a JavaScript application inside an iframe running inside Yahoo Mail. Functionality includes: register callbacks to get notified when messages are dropped onto your app, create new messages with app-generated content, and integrate social data from the Yahoo network using YQL. Developers can also call out to their own or a third party?s web services, optionally using OAuth or a Flickr-style signed-call-home for authentication.
+email widgets 
+Email

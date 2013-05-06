@@ -1,0 +1,5 @@
+Online photo editing service
+Snipshot
+Snipshot Services is the way for outside sites to hook into Snipshot. As a site developer, you can use Services to give your users the power to edit their pictures online with Snipshot.
+photo 
+Photos

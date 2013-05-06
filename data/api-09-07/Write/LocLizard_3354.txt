@@ -1,0 +1,5 @@
+Mobile application positioning service
+LocLizard
+LocLizard is a platform that is used for application positioning. It provides positioning along with the ability to both collect and analyze the positioning data. With the LocLizard API, users can integrate their positioning into a mobile application. The cloud based API provides GPS coordinates to work with. Full documentaion is not publicly available but developers can access it upon registration.
+indoor location mobile positioning tools 
+Tools

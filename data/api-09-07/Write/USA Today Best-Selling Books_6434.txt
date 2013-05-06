@@ -1,0 +1,6 @@
+Best-Selling Books Information Service
+USA Today Best-Selling Books
+USA Today&#039;s Best-Selling Books API provides a method for developers to retrieve USA TOday&#039;s weekly compiled list of the nation&#039;s best-selling books, which is published each Thursday. In addition, developers can also retrieve archived lists since the book list&#039;s launch on Thursday, Oct. 28, 1993. The Best-Selling Books API can also be used to retrieve a title&#039;s history on the list and metadata about each title. 
+
+books news reference 
+Reference

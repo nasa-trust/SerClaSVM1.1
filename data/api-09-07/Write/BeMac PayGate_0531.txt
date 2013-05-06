@@ -1,0 +1,5 @@
+Payment processing service
+BeMac PayGate
+Barron McCann is a UK provider of IT products focusing on information security and payment processing. PayGate integrates directly into internal Accounts, ERP or CRM systems that need to process payment, direct debit and SWIFT Messages. The SOAP API offers calls that enable application developers to access all the features of PayGate. Messages can be provided to PayGate either as individual transactions or in bulk format. API documentation is not publicly available.
+deadpool finance payment 
+Financial

@@ -1,0 +1,5 @@
+OAuth authentication across several APIs
+Apigee OAuth
+OAuth API is designed to make it easier to deal with OAuth by letting you quickly and easily authenticate across several APIs. It works by letting you delegate the OAuth dance to Apigee, then use a keychain and client libraries to invoke multiple APIs in a consistent way with less code. The OAuth API supports Facebook, Twitter, Flickr, Foursquare and Salesforce&#039;s REST and Chatter APIs, with Java, Javascript and Objective C libraries.  
+authentication security utility 
+Security

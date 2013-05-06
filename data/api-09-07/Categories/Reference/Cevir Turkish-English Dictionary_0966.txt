@@ -1,0 +1,13 @@
+dictionary 5
+english 4
+feature 1
+format 1
+look 1
+lookup 1
+protocol 1
+reference 2
+response 1
+translation 2
+turkey 1
+turkish 4
+up 1

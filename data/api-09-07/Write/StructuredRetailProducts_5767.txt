@@ -1,0 +1,7 @@
+Financial and business database
+StructuredRetailProducts
+StructuredRetailProducts is a database that provides information and data on companies, market trends, sales, revenue, and market news and analysis. 
+
+The StructuredRetailProducts API allows developers to access and integrate the functionality of StructuredRetailProducts with other applications and to create new applications. Some example API methods include searching and querying the data, retrieving information given certain parameters, and managing account information. 
+business database financial news 
+Financial

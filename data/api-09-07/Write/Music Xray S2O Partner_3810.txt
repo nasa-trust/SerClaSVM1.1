@@ -1,0 +1,5 @@
+Music sharing platform
+Music Xray S2O Partner
+vMusic Xray is a music-sharing platform intended to connect musicians and music industry representatives. Musicians post tracks to be analyzed for acoustical properties by Music Xray???s Song to Opportunity (S2O) technology. Music Xray will then email the user when an industry professional is looking for music that is comparable to S2O???s analysis. The S2O Partner API exposes Music Xray???s song uploading and comparison functionality to business partners. Users who register through a partner???s API account become affiliates who generate commission for the partner. The API is RESTful and returns XML responses. A Ruby SDK is also available. 
+music sharing social 
+Music

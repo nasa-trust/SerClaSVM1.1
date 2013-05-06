@@ -1,0 +1,5 @@
+Wiki search and comparison service
+WikiMatrix
+From their site: WikiMatrix provides access to the Wiki infos through a simple XML API. This allows you to pull interesting data from the Matrix system to create your own customized analysis (eg. ???Which are the most popular programming languages for Wikis??? or ???What is the mostused syntax for bold???).
+reference wiki 
+Wiki

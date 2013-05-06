@@ -1,0 +1,3 @@
+community 1
+distribution 1
+medium 1

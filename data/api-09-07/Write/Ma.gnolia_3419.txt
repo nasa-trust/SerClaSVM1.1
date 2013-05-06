@@ -1,0 +1,5 @@
+Social bookmarking service
+Ma.gnolia
+From their site: The Ma.gnolia API makes available key features for accessing and managing bookmark collections data through other websites and online applications. Browser extensions, rich client-side bookmark collection managers and browsers, and the integration of Ma.gnolia content are all possible through this aspect of the service.
+bookmarks collection deadpool 
+Bookmarks

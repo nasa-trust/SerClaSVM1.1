@@ -1,0 +1,5 @@
+Protein sequence search and alignment service
+HMMER
+HMMER is an online service that is used to search sequence databases for homologs of protein sequences. Users can choose from seven sequence databases to search against. HMMER can also perform protein sequence alignments. Its methods use probabilistic models called Profile Hidden Markov Models. The REST-based HMMER API makes these functions available programmatically to users. 
+bioinformatics database search science
+Science

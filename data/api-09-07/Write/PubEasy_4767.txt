@@ -1,0 +1,7 @@
+Publishing and book sales information service
+PubEasy
+The service handles e-commerce functions for booksellers, including product information, order placement and tracking, and availability data. Users can interact with participating publishers, distributors and wholesalers to complete sales and provide customer service.
+
+Methods support retrieval of bibliographic information, placing orders, tracking previous orders, and monitoring backorders. A separate API supports managing an affiliate network, including methods for publisher and imprint information, ordering policies, and invoicing.
+books ecommerce shopping 
+Shopping

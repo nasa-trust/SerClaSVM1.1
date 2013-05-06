@@ -1,0 +1,12 @@
+account 1
+image 3
+photo 3
+post 1
+posting 1
+send 1
+share 1
+social 1
+status 1
+twitter 4
+update 1
+upload 3

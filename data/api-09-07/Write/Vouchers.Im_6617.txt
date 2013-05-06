@@ -1,0 +1,5 @@
+Shopping coupons and deals services
+Vouchers.Im
+Use the Vouchers.Im API to access an open database of vouchers and discount codes for UK retailers. For example, when Pizza Express offers a deal, the API can return information, such as Pizza Express 2 for 1 deal. New voucher codes are constantly added so that all existing vouchers are available for you to access. Vouchers and Coupons.im exist to bring disruptive innovations to the coupon space.
+coupons shopping uk 
+Shopping

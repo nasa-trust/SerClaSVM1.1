@@ -1,0 +1,5 @@
+Project management software
+Backlog
+Backlog is a project management tool that supports collaboration and communication amongst team members. It provides features such as a gantt chart, file sharing, version control, issue management, wikis and more. The API provides access to this functionality and gives developers a way to integrate them into their own sites or applications. The API uses XML-RPC calls and responses are formatted in XML. The site and documentation are in Japanese.
+japan office project-management tools 
+Project Management

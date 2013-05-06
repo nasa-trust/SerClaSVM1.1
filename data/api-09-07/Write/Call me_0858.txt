@@ -1,0 +1,5 @@
+Hide contact details on the internet
+Call me
+The C4ll.me API allows users to integrate C4ll.me services into their external applications. C4ll.me is a service that allows users to hide their personal information behind a short URL. It gives users the ability to control the lifetime of their contact details on Internet by creating a short URL to their contact details. The contact information is readable for human beings on the internet with a self explanatory short URL, but unreadable for search engines. The API uses SOAP protocol and responses are formatted in XML. 
+privacy security spam url 
+Security

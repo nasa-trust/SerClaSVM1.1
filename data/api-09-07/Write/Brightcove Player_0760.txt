@@ -1,0 +1,5 @@
+Video publishing service
+Brightcove Player
+Brightcove is an online digital media platform used by media companies, businesses and organizations worldwide to publish and distribute video on the Web. The on-demand platform is used by professional publishers to power online video initiatives. The Brightcove Player API provides the ability to build user interfaces and allowing for control over the functionality of players. This API uses JavaScript and ActionScript protocols. Responses are formatted in XML and JSON.
+video 
+Video

@@ -1,0 +1,5 @@
+Global multiple sequence alignment service
+EBI ClustalW2
+ClustalW2 is a program for the global multiple alignment of biological sequences. It can align anywhere from 3 to 500 DNA or protein sequences. One notable feature of this alignment program is that it considers sequence redundancy. The European Bioinformatics Institute makes this service available as an API via SOAP or REST protocols.
+bioinformatics genetics science 
+Science

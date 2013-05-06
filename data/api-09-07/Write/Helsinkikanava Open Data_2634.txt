@@ -1,0 +1,5 @@
+Helsinki city council meeting information and recordings
+Helsinkikanava Open Data
+The Helsinkikanava Open Data API provides open and free-to-use access to the Helsinki city council meeting video recordings and associated metadata. The data is primarily targeted towards developers who wish to embed or include the recordings in their own applications. All resources are accessible using RESTful calls in JSON or JSONP.
+finland government 
+Government

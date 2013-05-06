@@ -1,0 +1,9 @@
+activity 1
+contact 4
+live 1
+management 1
+office 2
+organize 1
+people 1
+tool 1
+work 1

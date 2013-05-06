@@ -1,0 +1,13 @@
+art 3
+associate 1
+create 1
+fan 3
+image 7
+integration 1
+method 1
+music 8
+musician 2
+repository 4
+retrieve 1
+search 2
+upload 1

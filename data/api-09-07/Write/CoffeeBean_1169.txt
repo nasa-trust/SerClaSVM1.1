@@ -1,0 +1,8 @@
+Social media sales prospecting and relationship management service
+CoffeeBean
+The service provides a CRM platform based on social media contacts. It promotes &quot;social sales&quot; and &quot;social marketing&quot; by interacting with social media profiles to discover sales leads within user industries and develop customer relationships. It provides social tools for prospecting and outreach as well as ongoing contact tracking to help sellers manage customer relationships.
+
+API methods support creating and managing sales leads and opportunities by name, job title, and company with ranking for likelihood of purchase and potential sales volume. The API also gives tools for logging and tracking customer contacts and for tracking activity at sales events.
+
+CRM enterprise marketing sales social 
+Enterprise

@@ -1,0 +1,7 @@
+Group email and mailing list service
+Fiesta
+Fiesta is a group mailing list service and management platform. Users can set up private mailing lists for group emails. Mailing lists are free and ad-free.
+
+The Fiesta API allows developers to integrate the functionality of Fiesta with other applications. The main API method is list management, which includes creating groups and managing users.
+email group lists 
+Email

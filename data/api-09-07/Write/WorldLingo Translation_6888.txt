@@ -1,0 +1,5 @@
+Language translation service
+WorldLingo Translation
+WorldLingo offers free and paid translation services for over 130 languages. Professional translation services include human-translated document translation, localization services, and more. Machine translation services include website, browser, real-time chat, email, and text block translation. HTTP- and SOAP-based translation APIs are also available. 
+government language tools Translation 
+Tools

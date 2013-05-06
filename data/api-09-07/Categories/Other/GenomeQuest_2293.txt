@@ -1,0 +1,14 @@
+biology 1
+datum 2
+generation 1
+investigator 1
+live 1
+management 1
+method 1
+object 1
+platform 2
+science 1
+sequence 2
+technology 1
+url 1
+version 1

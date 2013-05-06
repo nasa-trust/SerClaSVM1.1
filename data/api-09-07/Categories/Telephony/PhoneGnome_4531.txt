@@ -1,0 +1,13 @@
+call 1
+configure 1
+connection 1
+contact 1
+hardware 2
+internet 2
+ip 1
+making 1
+manage 1
+over 1
+phone 1
+telephony 2
+voice 1

@@ -1,0 +1,14 @@
+booking 1
+datum 1
+event 7
+format 1
+guide 2
+hotel 1
+integrate 1
+protocol 1
+response 1
+restaurant 1
+search 2
+ticket 1
+uk 3
+venue 1

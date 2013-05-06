@@ -1,0 +1,5 @@
+eCommerce platform
+Amazon Product Advertising
+The Product Advertising API gives users access to Amazon&#039;s databases and exposes much of the functionality of the site. The data includes items for sale, item descriptions and images, customer reviews and seller reviews. Functionality includes finding items, finding similar items, displaying customer reviews, and product promotions. With this API, users can build thier own web store to sell either Amazon items or their own items. The API uses RESTful and SOAP calls and responses are formatted in XML.
+ecommerce retail shopping 
+Retail

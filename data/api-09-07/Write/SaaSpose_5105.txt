@@ -1,0 +1,7 @@
+Document creation, conversion and automation service
+SaaSpose
+SaaSpose is a cloud-based document generation, conversion and automation platform. Developers can use Saaspose to allow their apps the ability to work with Microsoft Word documents, Microsoft Excel spreadsheets, Microsoft PowerPoint presentations, Adobe PDFs, OpenDocument formats, and email formats and protocols.
+
+The SaaSpose API offers the following functionality to be integrated into a users web site or application: Document Assembly & Mail-Merge, Reporting, Document Conversion, Text and Image Extraction, Device Targeting, Metadata Removal, Barcode Recognition, Generation & Embedding, Email Templating & Tracking. It uses RESTful calls and responses are formatted in XML and JSON.
+documents office 
+Office

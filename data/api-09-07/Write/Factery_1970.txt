@@ -1,0 +1,5 @@
+Search engine and meaning extraction service
+Factery
+Factery has developed FactRank technology to mine real-time feeds and web content for the purpose of providing simple, short answers to user queries. You decide the sources to use. You can search Twitter, Digg, or a standard search engine. 
+search 
+Search

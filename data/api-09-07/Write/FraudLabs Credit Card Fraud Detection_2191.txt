@@ -1,0 +1,6 @@
+Credit card verification service
+FraudLabs Credit Card Fraud Detection
+From their site: The FraudLabs Credit Card Fraud Detection Web Service is a hosted, programmable XML Web Service that allows instant detection of fraudulent online credit card order transactions. The user provides FraudLabs online transaction data such as IP address, email address domain name, delivery address, credit card bank identification number (BIN), area code and ZIP code. FraudLabs Web Service analyzes and scores the transaction information. FraudLabs develops, markets and supports a scoring system online for online credit card transactions. The API uses SOAP protocol and responses are formatted in XML. Complete documentation is not publicly available.
+
+security shopping 
+Security

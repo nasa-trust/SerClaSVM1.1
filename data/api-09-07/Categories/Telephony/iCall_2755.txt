@@ -1,0 +1,13 @@
+call 1
+calling 1
+feature 1
+free 1
+group 1
+instant 1
+messaging 3
+mm 1
+mobile 1
+phone 1
+sm 2
+telephony 2
+voice 1

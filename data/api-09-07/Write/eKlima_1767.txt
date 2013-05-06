@@ -1,0 +1,7 @@
+Norwegian weather and climate data service
+eKlima
+The service provides access to the Norwegian Meteorological Institute&#039;s database of weather and climate data for Norway and the region. Applications can retrieve reported data from current and past weather stations and from other institutions that have provided reports and allow distribution of their data. Services range from basic data listings to sophisticated analysis tools and report formats. 
+
+API methods support data retrieval with two levels of detail, standard and complete, plus graphing of data as frequency distributions, monthly summaries, trend indicators, and by reporting station. Data include temperature, pressure, and humidity readings for a specific time period, as time series, and by reporting station.
+norway scandinavia weather 
+Weather

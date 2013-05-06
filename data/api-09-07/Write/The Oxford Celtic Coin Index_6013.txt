@@ -1,0 +1,7 @@
+British coin collection images and data
+The Oxford Celtic Coin Index
+The Celtic Coin Index is the online incarnation of the Celtic Coin collection at the Institute of Archaeology at Oxford University. The collection began in 1960 and contains photographs and information about coins held in Britain&#039;s museums. Coins are still being found and added to the collection.
+
+The API is RESTful and returns responses in JSON, XML, geoRSS, KML, RSS, and CSV.
+catalog education money museum uk 
+Education

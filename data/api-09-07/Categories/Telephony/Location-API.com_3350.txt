@@ -1,0 +1,16 @@
+cell 2
+connect 1
+coordinate 1
+country 1
+devices 1
+id 1
+latitude 1
+locate 1
+location 3
+longitude 1
+mobile 5
+network 1
+phone 1
+provider 1
+telephony 2
+tracking 1

@@ -1,0 +1,7 @@
+SMS text messaging service
+YouTXT
+The YouTXT API lets you create and manage distinct codes and messages on the YouTXT system (New Zealand based). Imagine a gig guide, an order tracking system or updates via SMS. The user just sends a code to 8808 for information. 
+
+Coverage:  New Zealand, but international service is available upon request. 
+Global messaging newzealand sms telephony 
+Messaging

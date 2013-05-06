@@ -1,0 +1,7 @@
+NVO directory interface
+National Virtual Observatory
+The National Virtual Observatory (NVO) provides researchers with access to astronomical data from ground- and space-based telescopes worldwide. From NVO&#039;s website visitors can discover, retrieve, and analyze astronomical data from an international assortment of archives and data centers.
+
+NVO offers multiple SOAP-based APIs that allow users to access resource metadata in the NVO directory. Several of these APIs are designed for use with the Open Archives Initiative (OAI), which promotes open access to academic data repositories.
+astronomy science 
+Science

@@ -1,0 +1,5 @@
+Social community
+Socialight
+Use the Socialight API to access  Socialight data, which is used to discover great places near you on your mobile phone and then share places and experiences with friends. For example, you can create an iPhone app that shows the coffee shops in your neighborhood that have cute baristas. An open-access how-to is available: http://socialight.com/help/apihowto
+mapping mobile places social 
+Social

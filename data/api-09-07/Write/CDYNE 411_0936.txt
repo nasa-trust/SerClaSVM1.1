@@ -1,0 +1,9 @@
+Directory assistance service
+CDYNE 411
+Utilize this XML Web Service to keep customers and contact information current. CDYNE 411 enables any company to add U.S. and Canadian directory assistance services digitally to any application.
+
+The service can be built into a user&#039;s system or software to make it easy to do instantaneous lookups in the middle of a transaction, when entering lead information into a CRM, or while managing a call queue.
+
+CDYNE 411 has five different methods available to update data. Reverse Phone is used to return first name, last name, business name, and address by phone number. Reverse Address returns names and phone numbers based on address. CDYNE 411 also offers Find Business, Find Person, and Find Neighbor.
+address phone reference 
+Reference

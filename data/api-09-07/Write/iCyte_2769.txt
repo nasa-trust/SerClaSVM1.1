@@ -1,0 +1,7 @@
+Resource and document saving service
+iCyte
+iCyte is a service that allows users to save websites, PDFs, documents, and other items and access them from anywhere. Additionally, iCyte allows users to annotate and collaborate on their resources.
+
+The iCyte API provides a way for developers to access users, projects, and notes from iCyte. This API is read-only.
+document reference research 
+Reference

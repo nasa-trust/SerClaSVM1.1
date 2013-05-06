@@ -1,0 +1,5 @@
+Graphic icon and image search
+IconFinder
+IconFinder is a search tool for graphic designers and web developers. The site acts as a repository of symbolic graphics. Users can search and browse the IconFinder for images suiting their needs. They can download or buy icons or whole sets of icons. Users may also submit icons and attach different levels of license protection to them. The IconFinder API is RESTful and exposes the collection???s search functionality, allowing users to use parameters such as keyword, filter by license, and more. The results are returned in JSON or XML-encoded data. 
+icon image search 
+Search

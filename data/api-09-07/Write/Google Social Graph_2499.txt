@@ -1,0 +1,5 @@
+Search service for finding social connections
+Google Social Graph
+From their site: The API returns web addresses of public pages and publicly declared connections between them. The API cannot access non-public information, such as private profile pages or websites accessible to a limited group of friends.
+deadpool social 
+Social

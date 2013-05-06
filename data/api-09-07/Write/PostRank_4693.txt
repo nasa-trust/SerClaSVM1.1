@@ -1,0 +1,7 @@
+Social engagement data analysis service
+PostRank
+PostRank is an aggregator of social engagement data across the web. PostRank delivers objective, real-time data and analysis on any topic, trend, or interest relevant to a user. The platform tracks where and how users engage, and what they pay attention to. 
+
+The PostRank APIs allow users to create applications that interact with the subscription management component of the PostRank website, as well as create and retrieve story ratings and customized RSS feeds. The API uses RESTful calls and responses are formatted in XML, JSON and HTML.
+bookmarks deadpool feeds rss social 
+Feeds

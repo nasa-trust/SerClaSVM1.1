@@ -1,0 +1,7 @@
+Bulk SMS messaging service
+Shreeweb Bulk SMS
+Shreeweb provides Bulk SMS Service that enables users to send and receive text messages on any mobile operators worldwide. The Bulk SMS Gateway provides users with a range of sms products that enables sending and receiving sms anywhere in the world. The Bulk SMS HTTP API allows users to send sms from their applications or systems. The API uses HTTP and SOAP protocol with responses formatted in XML.
+
+Coverage:  216 countries
+bulk Global messaging sms telephony 
+Messaging

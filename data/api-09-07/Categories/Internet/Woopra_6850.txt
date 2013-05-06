@@ -1,0 +1,11 @@
+analysis 2
+datum 4
+given 1
+internet 3
+live 2
+port 1
+read 1
+real 1
+server 1
+traffic 1
+write 1

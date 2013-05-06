@@ -1,0 +1,7 @@
+Data portal platform service
+CKAN
+CKAN (Comprehensive Knowledge Archive Network) is an open-source data portal platform that provides an out of the box solution for managing, transferring, and accessing data. CKAN operates under a SaaS model and was created to help data publishers make their data open and available. The CKAN platform contains a catalog system with a web interface, data visualization and analytics, workflow support, access control, data storage, and federated structure.
+
+The web service is broken down into two distinct parts: Search and Model. The Search API exposes methods for searching resources, datasets, and revisions, as well as tag counts. The Model API provides a variety of GET, POST, and PUT operations for manipulating, creating, and retrieving model resources from the platform.
+Data database internet portal 
+Internet

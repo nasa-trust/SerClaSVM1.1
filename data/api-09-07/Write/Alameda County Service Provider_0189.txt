@@ -1,0 +1,5 @@
+listings for social services in Alameda County (Oakland), CA
+Alameda County Service Provider
+Listings for over 400 social service providers in Alameda County (Oakland), California. This dataset was collated and quality checked over several months in 2010 and is a very comprehensive listing of social service providers in our county with rich details including service eligibility, opening hours, accessibility and more. API returns service organizations in specified categories. Service provider locations may contain duplicates since most locations provide multiple services across several categories.
+california government oakland Service 
+Government

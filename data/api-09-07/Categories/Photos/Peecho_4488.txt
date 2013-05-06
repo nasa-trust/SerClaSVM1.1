@@ -1,0 +1,9 @@
+book 1
+content 3
+create 2
+document 2
+magazine 1
+photo 3
+print 3
+printing 1
+product 1

@@ -1,0 +1,7 @@
+Hydrologic data service
+CUAHSI WaterOneFlow
+The service handles exchanges of hydrologic data between servers, databases, and applications for data sharing and analysis. It provides a specialized flavor of XML known as WaterML. Provided by a consortium of university hydrology programs, it is part of a Hydrology Information Service (HIS) that documents and supports research in water supplies and environmental activities within many watersheds studied by affiliated researchers.
+
+API methods support retrieval of a list of sites studied with information objects and metadata summarizing location and conditions. The API also returns variables tracked and values logged.
+environment science watershed 
+Science

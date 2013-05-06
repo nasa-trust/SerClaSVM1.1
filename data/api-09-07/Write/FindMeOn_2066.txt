@@ -1,0 +1,5 @@
+Social site identity management services
+FindMeOn
+Use the FindMeOn API to manage your identities across social networks, blogs, and more. Use the API to list user identities, list user contacts, get a newsfeed items from a global identity, get a profile, and get recent findmeon.com shout items.
+social 
+Social

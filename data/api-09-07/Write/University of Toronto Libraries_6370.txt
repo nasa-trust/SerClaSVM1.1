@@ -1,0 +1,5 @@
+University of Toronto&#039;s library management system
+University of Toronto Libraries
+The University of Toronto Libraries API allows users to access its Library Management System, the documentation database used for managing and describing library holdings. The University of Toronto uses the Unicorn Library Management System provided by SirsiDynix. This system is accessible via API using SOAP calls.
+books canada reference university 
+Reference

@@ -1,0 +1,5 @@
+Chat based live support service
+LiveLeader Data Export
+Kalibera LiveLeader is a live chat based support service. The LiveLeader data export API lets users access historical chat data and integrate it with their own CMS.  Chat data can be searched for by time, user, keyword, location, ISP and more. The API uses RESTful calls and responses are formatted in XML.
+chat customer-service 
+Chat

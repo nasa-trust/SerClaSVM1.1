@@ -1,0 +1,14 @@
+finance 2
+give 1
+home 1
+housing 3
+inventory 1
+market 2
+much 1
+price 1
+reference 1
+region 1
+sales 1
+search 1
+start 1
+statistics 2

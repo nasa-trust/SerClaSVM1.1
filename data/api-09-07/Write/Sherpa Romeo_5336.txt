@@ -1,0 +1,5 @@
+Journal publishing service
+Sherpa Romeo
+Sherpa provides open-access institutional research repositories for universities. The Sherpa Romeo API provides access to publishers&#039; copyright and archiving policies. This service is maintained with support from JISC and the Wellcome Trust. 
+education research 
+Reference

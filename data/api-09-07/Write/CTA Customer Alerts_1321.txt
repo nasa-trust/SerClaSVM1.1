@@ -1,0 +1,7 @@
+Chicago transit tracking service
+CTA Customer Alerts
+The service, a companion to the CTA Bus Tracker, gives access to alerts from transitchicago.com highlighting service disruptions and other events that might affect transit service in Chicago. Alerts distribute information about system status, route changes, and news from RSS feeds, ranked by potential to affect transit services and categorized by routes and stations affected.
+
+API methods support submission of requests by service category (bus, train, systemwide, etc.), route, and station. Responses include a time-date stamp, route status message and color-coded indicator, plus specific alert content for notifications matching the request parameters.  Detailed alert content specifies affect on handicap-accessible service, if appropriate, and whether the system affect results from planned maintenance.
+chicago Illinois transit travel 
+Transportation

@@ -1,0 +1,5 @@
+Online payments service
+Adyen
+Adyen provides hosted payment pages for merchants. Their solution supports multiple currencies and accepts over 100 payment methods across Europe, USA, Asia and Latin America. Some of the functionality of the service includes one-click payments, single screen payment pages, A/B testing of payment pages and more. This functionality is supported by the API as well as using single-click without the need to store payment details, alternative payment methods, support for hybrid models in combination with hosted payment pages, and full 3D-Secure support. Full documentation is not publicly available.
+ecommerce hosting internet payment 
+Payment

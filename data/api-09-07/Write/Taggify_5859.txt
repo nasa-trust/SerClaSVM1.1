@@ -1,0 +1,7 @@
+Social commenting and photo sharing widget
+Taggify
+Taggify is a widget that allows visitors of a web site to add comments and notes to the pictures on it. Other visitors can then see the notes when they mouse over the pictures.
+
+This API allows users to replace the native Taggify authorization scheme with one of their own. This allows the widget to be integrated with membership websites like social networks where multiple users can use the widget. Using custom authorization allows memebers of the website to authorize only once on  without additional authorization by Taggify widget. In this case the Taggify widget completely delegates authorization to the website. 
+deadpool photo social widget 
+Social

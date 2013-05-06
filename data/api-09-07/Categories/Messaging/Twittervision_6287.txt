@@ -1,0 +1,9 @@
+datum 1
+location 2
+messaging 1
+people 1
+publish 1
+social 1
+twitter 2
+ways 1
+work 1

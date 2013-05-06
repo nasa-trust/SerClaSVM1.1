@@ -1,0 +1,16 @@
+add 1
+build 1
+cloud 7
+container 1
+create 1
+documentation 1
+functionality 1
+gb 1
+hp 3
+internet 2
+need 1
+object 6
+public 1
+size 1
+storage 8
+up 1

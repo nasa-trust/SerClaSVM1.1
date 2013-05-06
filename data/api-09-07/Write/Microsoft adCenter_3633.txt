@@ -1,0 +1,5 @@
+Online advertisting services
+Microsoft adCenter
+From their site: The Microsoft adCenter application programming interface (API) enables you to create applications that: Create and manage adCenter campaigns, orders, keywords, and ads. Obtain the status on orders, keywords and ads. Pause and resume orders. Generate keyword estimates. Generate reports about campaign performance. Perform order targeting. 
+advertising money 
+Advertising

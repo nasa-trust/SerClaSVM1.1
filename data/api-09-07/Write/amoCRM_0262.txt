@@ -1,0 +1,5 @@
+Customer Relationship Management Service
+amoCRM
+amoCRM is an online sales and relationship management service designed to help users manage and pursue sales leads. The amoCRM API allows users to retrieve, search, edit and add contacts, deals, notes, and tasks. The service is available over HTTPS GET and POST calls, and returns XML for all responses.  
+contacts CRM enterprise management sales social 
+Enterprise

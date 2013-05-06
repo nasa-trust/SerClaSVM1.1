@@ -1,0 +1,5 @@
+Library document sharing service
+OCLC Article Exchange 
+OCLC is a member-owned global library cooperative, whose membership aims to improve access to the information held in libraries worldwide. The Article Exchange API provides developer access to OCLC&#039;s document sharing site, where member libraries can lend and borrow articles and book chapters through interlibrary loan.
+library reference sharing 
+Reference

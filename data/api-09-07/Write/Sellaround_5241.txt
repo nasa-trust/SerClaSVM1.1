@@ -1,0 +1,7 @@
+eCommerce service
+Sellaround
+Sellaround is an eCommerce service that integrates with social networking and other sites and allows users to increase their social reach.
+
+The Sellaround API allows developers to integrate Sellaround&#039;s functionality into other applications and sites. Example API methods include creating and managing widgets, managing account information, managing shipping information, and retrieving orders.
+ecommerce payment social 
+Payment

@@ -1,0 +1,5 @@
+News database
+Associated Press
+The Associated Press, the world's oldest and largest newsgathering organization, has an API that enables developers to build applications incorporating data from the Associated Press's expansive database of content. The platform includes tools that allow developers to target the exact content users want. The API allows users to search and download AP Images.  
+news image
+News

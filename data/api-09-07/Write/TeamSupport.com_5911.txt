@@ -1,0 +1,5 @@
+Online customer service and help desk
+TeamSupport.com
+TeamSupport.com is an online Customer Service and Help Desk platform (SaaS). It lets your entire team to work together to manage your customers issues. This RESTful API allows easy access to all TeamSupport data.
+enterprise help-desk sbweb support 
+Enterprise

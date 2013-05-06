@@ -1,0 +1,7 @@
+Mobile web services
+Vodafone Betavine
+Send Text messages (SMS), WAP Push links, Application Trigger (JavaPush) messages using a either XML, JSON or Plain text over HTTP GET.
+
+
+j2me mobile sms telephony trigger WAP 
+Messaging

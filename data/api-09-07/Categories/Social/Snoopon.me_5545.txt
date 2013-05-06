@@ -1,0 +1,11 @@
+computer 1
+datum 1
+mini 1
+net 1
+people 1
+photo 1
+screen 3
+share 1
+sharing 1
+snapshot 1
+social 2

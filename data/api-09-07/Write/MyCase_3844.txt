@@ -1,0 +1,5 @@
+Social legal practice management platform
+MyCase
+MyCase is a social practice management platform for legal professionals. It allows lawyers to access their documents, emails, client contact information, billing data and other core applications. The Open API enables developers create technologies for the MyCase technology platform. Full documentation is not publicly available.
+law management office social 
+Office

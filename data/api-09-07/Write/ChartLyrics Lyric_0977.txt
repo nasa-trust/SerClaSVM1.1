@@ -1,0 +1,5 @@
+Lyrics database search service
+ChartLyrics Lyric
+ChartLyrics is a lyrics database sorted by artists or songs. The Lyric API uses either a SOAP or REST interface to allow users and developers to access the database. The API provides 2 functions. SearchLyric to search the available lyrics and GetLyric to retrieve the lyric.
+lyrics music 
+Music

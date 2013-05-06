@@ -1,0 +1,11 @@
+address 1
+city 1
+country 1
+internet 2
+ip 3
+mapping 1
+origin 1
+rest 1
+retrieve 1
+soap 1
+subscriber 1

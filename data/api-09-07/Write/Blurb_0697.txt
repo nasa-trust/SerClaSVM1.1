@@ -1,0 +1,7 @@
+Social book publishing platform
+Blurb
+Blurb is a company and a community that believes passionately in the joy of books ??? reading them, making them, sharing them, and selling them. With the launch of our API, we want to help you help your community of book lovers become bookmakers.
+
+The Blurb API gives developers the ability to programmatically publish photobooks onto the Blurb publishing platform. We currently have two resources available to facilitate this. The first is a Photobook resource that lets you generate an XML list of your photos and POST it to the Photobook Resource. The second is a book pricing resource  which allows your application to show prices in various currencies for various book combinations. The API uses RESTful interface and responses are formatted in XML.
+books deadpool photo 
+Social

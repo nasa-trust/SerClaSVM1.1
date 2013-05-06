@@ -1,0 +1,5 @@
+Advertising monetization service
+PubMatic
+PubMatic is a service for web publishers that automates and optimizes ad serving decisions. PubMatic simplifies the online publishing business by determining in real-time which ad network can best monetize each ad impression for a publisher. The API allows ad networks to deliver real-time pricing to PubMatic. Documentation for the API is not publicly available.
+advertising deadpool 
+Advertising

@@ -1,0 +1,8 @@
+Semantic Analysis Tool
+TrustYou Semantic
+TrustYou provides several tools for performing semantic analysis of data, such as reviews of hotels and restaurants, and integrating them into an app or website. The TrustYou service can extract opinions and sentiments from any piece of user-generated content and supports several different languages (German, English, French, Spanish, Portuguese, Chinese, and others). TrustYou provides the TrustYou Semantic API that allows developers to access TrustYou data and use TrustYou technology to structure and analyze social data. 
+
+
+
+semantic tools 
+Tools

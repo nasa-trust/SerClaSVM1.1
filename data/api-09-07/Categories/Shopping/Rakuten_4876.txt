@@ -1,0 +1,7 @@
+book 1
+catalog 1
+cd 1
+dvd 1
+japan 1
+japanese 2
+shopping 4

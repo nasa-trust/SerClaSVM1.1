@@ -1,0 +1,7 @@
+Classical music community
+InstantEncore Maestro
+InstantEncore is a marketing platform and online community for the classical music community at large. It provides concert calendars, an online music and video file database, and aggregation of classical music &quot;buzz&quot; around the internet. 
+
+InstantEncore offers the Maestro API for accessing data and incorporating it into third-party applications. There are a number of pricing packages for the API. The Maestro API is RESTful and returns responses in XML and JSON formats. 
+deadpool events marketing music social 
+Music

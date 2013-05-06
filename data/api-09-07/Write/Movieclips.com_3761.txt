@@ -1,0 +1,5 @@
+Movie scene search and information service
+Movieclips.com
+Movieclips.com is a site that has collected movie clips and made them completely searchable by actor, title, genre, occasion, action, mood, character, theme, setting, prop, and even dialogue. The Movieclips API allows approved partners to interact with the movieclips.com search engine, clips, and metadata. Some of the data returned include duration, movie title, dialogue and more. The API allows developers to integrate movie clips into their applications. Full documentation is not publicly available. Developers may submit a proposal which is reviewed and granted.
+movies video 
+Video

@@ -1,0 +1,5 @@
+Twitter user ratings service
+Twitter Grader
+Use the Twitter Grader API to programmatically access some of the data that Twitter Grader has collected. Twitter Grader tries to measure a Twitter account&#039;s power, reach and authority; it tries to answer the question When this user tweets, what kind of an impact does it have? The grader algorithm is based on the Number of followers, Power of followers, update frequency, update recency, follower / following ratio, and engagements (number of retweets, etc.). Twitter.grader.com has a list of Twitter Elite, where it shows top users, top in location, top cities, top U.S. states, and top countries.
+deadpool microblogging social Twitter 
+Social

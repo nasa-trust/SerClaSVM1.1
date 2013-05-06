@@ -1,0 +1,13 @@
+call 1
+communications 1
+company 1
+format 1
+get 1
+handset 1
+initiative 1
+location 3
+mobile 1
+place 1
+response 1
+telephony 2
+uk 1

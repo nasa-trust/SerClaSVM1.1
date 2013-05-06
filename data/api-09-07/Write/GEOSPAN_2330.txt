@@ -1,0 +1,7 @@
+Geographic information and visualization service
+GEOSPAN
+GEOSPAN is a visual geographic information service. They offer multiple products including aerial imagery, street level inventories and imagery, location geocoding, and GIS feature extraction. 
+
+The GEOSPAN API allows developers to access images and information from GEOSPAN. Some example API methods include integrating viewers into other applications, extracting coordinates, cropping images, and creating map overlays. Public documentation is not available. Interested developers should sign up here: http://www.geospan.com/product-api.asp.
+Aerial geocoding gis Imagery location mapping 
+Mapping

@@ -1,0 +1,5 @@
+Online billing service
+SnapBill
+SnapBill is an automated billing system that allows users to sell their services online. SnapBill is ideal for businesses requiring a subscription or recurring billing system with payment collection facilities. The RESTful API is still in beta and documentation is not complete. It provides users with some of the functionality of the SnapBill service. Responses are formatted in XML, JSON, TXT or HTML.
+billing finance payment 
+Financial

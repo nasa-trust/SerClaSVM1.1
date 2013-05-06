@@ -1,0 +1,5 @@
+Authentication services
+Cumulo Authorize
+Use the Cumulo Authorize for access control of web sites, desktop applications, Google App Engine apps, or any other app. Handle millions of users and requests. Authorize has an online part and an API part. Customers use the web interface to set up access controls, and the REST API is used to verify authorization levels for users.
+authentication authorization deadpool identity security 
+Security

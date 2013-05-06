@@ -1,0 +1,17 @@
+company 2
+create 1
+email 2
+number 2
+own 1
+people 2
+person 1
+phone 2
+publish 1
+rate 1
+rating 1
+report 1
+reputation 1
+review 2
+search 2
+social 2
+submit 1

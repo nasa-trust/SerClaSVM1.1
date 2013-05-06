@@ -1,0 +1,5 @@
+Academic admissions services
+AdmitPad
+AdmitPad is an enterprise iPad application that streamlines the university admissions process. The AdmitPad API allows 3rd party developers to expand and build on the AdmitPad platform. With the API, users can reassign applications and get all application response data from reviewers, upload new applicants or retrieve a list of applications. It uses RESTful calls and responses are formatted in XML and JSON.
+applications education 
+Enterprise

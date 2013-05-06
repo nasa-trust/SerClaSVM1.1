@@ -1,0 +1,5 @@
+Polling place location service
+Open Dems Polling Place
+The Polling Place API allows developers to create applications that can look up the nearest polling places based on an individual&#039;s street address and zip code. It is offered by Democrats.org through their Open.Dems project: &quot;Opening up the Party to innovation while sharing our technology and ideas.&quot;
+government mapping voting 
+Government

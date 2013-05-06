@@ -1,0 +1,5 @@
+Photo management and sharing service
+MediaSock
+From their site: A lightweight service for handling a user&#039;s personal media assets, such as photos. Users with a MediaSock compatible client application simply enter a server domain and the client discovers the available methods without the need for the user to select from a confusing list of APIs or URLs. MediaSock draws on the workings of existing private APIs and related public APIs in use by web-service providers, and it is intended to work alongside the methods provided by them. It is not a wide-ranging specification but a guideline for minimum interoperability, with ease of implementation by services and ease of use for consumers.
+media photo 
+Photos

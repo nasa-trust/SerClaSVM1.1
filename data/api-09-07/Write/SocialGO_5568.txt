@@ -1,0 +1,5 @@
+Social network platform
+SocialGO
+SocialGO is a social network platform that allows anyone to build a social network for their group, business or interest. The network comes with all the tools you would expect, such as profiles, messaging, groups, chat, events and photo/video sharing. The SocialGo API provides access to most functions of a SocialGo social network, so developers can create new interfaces to their sites.
+social utility 
+Social

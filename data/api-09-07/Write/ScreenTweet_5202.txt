@@ -1,0 +1,5 @@
+Media sharing service
+ScreenTweet
+With the ScreenTweet API you can build dynamic applications using the ScreenTweet.com service. ScreenTweet shares videos, pictures, screen shots, and images on Twitter. We welcome new developers and value your feedback.
+microblogging photo social Twitter video 
+Social

@@ -1,0 +1,5 @@
+Business messaging service
+Campfire
+From 37Signals. Campfire is a realtime chat collaboration tool. Share files and links, create rooms for specific discussions.
+business chat social 
+Chat

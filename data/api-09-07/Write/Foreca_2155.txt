@@ -1,0 +1,11 @@
+Weather forecasting service
+Foreca
+The Foreca API gives users access to three types of raw weather data feeds. Foreca is a provider of digital weather data for business use. The three feeds include:
+
+    * NaviFeed - lat/lon coordinate based on-line queries for forecasts, current conditions and maps
+    * NameFeed - name based on-line queries for forecasts, current conditions and maps
+    * BatchXML - batch files containing forecasts and optional current conditions for a fixed location list
+
+The feeds uses RESTful protocol and responses are formatted in XML and delimited ASCII.
+feeds location weather 
+Weather

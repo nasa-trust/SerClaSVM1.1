@@ -1,0 +1,5 @@
+Social networks for churches
+WeGather
+WeGather is a private social network for churches. It is web based software that allows churches to manage their events, volunteers, store data and more. The data stored on WeGather can be accessed via an API and integrated with third party applications and other websites. Documentation of the API is not publicly available.
+religion social 
+Social

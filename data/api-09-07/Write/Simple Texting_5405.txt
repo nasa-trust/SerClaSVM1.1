@@ -1,0 +1,5 @@
+Text message marketing service
+Simple Texting
+Simple Texting offers text message marketing services. The API gives users access to much of the functionality of the platform. Functionality includes the ability to send sms messages, receive inbox messages, check keyword availability, rent and configure keywords, configure forwarding, list contacts and more. The API uses RESTful calls.
+marketing messaging sms text usa 
+Messaging

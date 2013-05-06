@@ -1,0 +1,7 @@
+Web and mobile app analytics service
+PulseFlow
+PulseFlow is a analytics and user behavior service. PulseFlow works with websites, web applications, and mobile applications. PulseFlow tracks user behavior and events on sites and applications.
+
+The PulseFlow API allows developers to access and integrate PulseFlow functionality and data. API methods available are starting a user session, recording a user session, and tracking user information for further analysis.
+analytics behavior measurement metrics tools 
+Tools

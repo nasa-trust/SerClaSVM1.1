@@ -1,0 +1,5 @@
+Brazilian daily deals service
+Peixe Urbano
+Peixe Urbano is a local deals site in Brazil. Users can purchase coupons for restaurants, shops, events and more at discounted prices. The Peixe Urbano API lets developers integrate the service with their applications and web sites. Functionality includes retrieving offersâ€?information, user authentication, coupons visualization and purchase, userâ€™s credit statement, user subscription and purchase history visualization. Users can also filter deals, view coupons and register users to receive emails. Public documentation of the API is not currently available. The site is in Portuguese. 
+shopping coupons local brazil deadpool
+Shopping

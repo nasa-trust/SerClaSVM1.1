@@ -1,0 +1,5 @@
+General question and answers service
+True Knowledge
+True Knowledge is a new class of Internet search technology aimed at improving the experience of finding known facts on the Web. The True Knowledge Answer Engine gives consumers instant answers to complex questions. Request information on any topic and get back results in a processable form. Early areas of strength include geographic knowledge, local time, and geolocation. Natural language questions can also be processed. View demos at their website.
+answers search semantic 
+Search

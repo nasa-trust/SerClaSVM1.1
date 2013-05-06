@@ -1,0 +1,14 @@
+Wireless network community wiki
+BC Wireless
+The WaveCaster API is the backend of British Columbia Wireless Network Society&#039;s (BCWNS) CommunityInformaticsSystem. The API provides various levels of functionality for the community informatics system including:
+
+    Website User Interface Functions for consistent HTML objects.
+    XMLRPC and SOAP remote functions
+    Interfaces to third party informatic systems including Industry Canada, Google, CEONet, etc.
+    Interfaces to the BCWNS AAA6 identity management system.
+    Interfaces to the BCWNS Communication Networks including MSN, IRC, Web Groups and related communication networks.
+    Community Network Management and Awareness 
+
+The API uses XMLRPC and SOAP protocols with responses formatted in XML.
+deadpool internet wireless 
+Internet

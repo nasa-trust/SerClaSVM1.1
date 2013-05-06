@@ -1,0 +1,5 @@
+Keyword analysis database
+Qirina
+Qirina is a database that represents a websites??? relations on a mapped out matrix of keywords. This allows users who submit their websites to their database with an analysis of their SEO strengths and weaknesses. Their RESTful API provides users access to query the Qirina database for an analysis of a particular website. Neither the API nor its documentation is available without permission. 
+analysis database keyword marketing SEO 
+Database

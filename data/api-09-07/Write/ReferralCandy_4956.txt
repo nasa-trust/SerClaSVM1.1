@@ -1,0 +1,5 @@
+Customer referral service
+ReferralCandy
+ReferralCandy is an ecommerce referral tool that businesses can use to encourage current customers to refer friends back to their business or products. Customers are emailed a unique coupon link to share with friends. The coupon/discount is determined by the business. Sales can then be tracked based on customer referrals. The API offers e-store integration with the ReferralCandy platform using RESTful GET and POST calls.
+customer reference referral shopping 
+Reference

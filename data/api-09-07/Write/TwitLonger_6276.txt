@@ -1,0 +1,7 @@
+Tool for posting longer Tweets
+TwitLonger
+TwitLonger allows Twitter users to post longer Twitter posts, beyond 140 characters, when necessary. TwitLonger works with your Twitter account, providing a link to the longer Tweet. 
+
+The TwitLonger API is very basic, but allows developers to integrate the TwitLonger functionality into desktop, mobile, and web applications. Public documentation is not available; those interested in integrating TwitLonger should email hello@twitlonger.com to get access to the API.
+social Twitter 
+Social

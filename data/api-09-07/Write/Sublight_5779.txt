@@ -1,0 +1,7 @@
+Subtitle acquisition service
+Sublight
+Sublight allows users to search for and download subtitles for movies and TV shows from a collection of databases. Subtitles are available in dozens of languages, including English, Spanish, French, German, Chinese, Japanese, and Swedish. The API provides a way to integrate automatic subtitle downloading into other sites or applications.
+
+
+movies subtitle television 
+Entertainment

@@ -1,0 +1,5 @@
+Social online payment system
+VK Merchant
+VK is a popular European social networking website. The VK Merchant API it offers provides a means of connecting applications and external internet stores to the VK payment system. This allows buyers to pay for items and services in an internet store from their personal VK account. One unique feature of the VK payment system is that it allows users to chip in together on purchases with their friends. 
+payment retail social 
+Payment

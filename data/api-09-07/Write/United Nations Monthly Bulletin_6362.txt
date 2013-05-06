@@ -1,0 +1,12 @@
+World economic development statistics
+United Nations Monthly Bulletin
+Published by the United Nations, the Monthly Bulletin of Statistics Online presents current economic and social statistics for more than 200 countries and territories of the world. It contains 55 tables, comprising over 100 indicators, of monthly, quarterly and annual data on a variety of subjects illustrating important economic trends and developments, including population, industrial production indices, price indices, employment and earnings, energy, manufacturing, transport, construction, international merchandise trade, finance and national accounts. 
+
+The Monthly Bulleting of Statistics offers a SOAP API for developers. The API has four primary calls offering different functionality. 
+
+The GetDataSeries lets users extract MBS data by series, including relevant footnotes. 
+The GetMetadataCountries gets metadata of all countries and other regional associations currently listed in the MBS.
+The GetMetadataDateCode gets metadata of the date codes used in MBS.
+The GetMetadataSeries gets metadata of all statistical series currently listed in the MBS. Series names and other descriptions are in English.
+economy government statistics 
+Government

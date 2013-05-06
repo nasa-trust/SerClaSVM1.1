@@ -1,0 +1,15 @@
+add 3
+alert 3
+capability 1
+create 1
+documentation 1
+exist 1
+feed 1
+french 1
+generate 1
+internet 1
+mobile 3
+notification 2
+source 1
+twitter 1
+widget 3

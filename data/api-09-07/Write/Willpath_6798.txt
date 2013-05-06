@@ -1,0 +1,5 @@
+Health tracking project
+Willpath
+Willpath is a service that allows users track their healthy choices. Users register their fitness tracking sensor devices, such as FitBit, with Willpath. They can also keep track of their diet via Willpath. The more healthful choices they make, the more credit users receive. This credit can be redeemed with participating charities and retailers. Users can also gain more credit by attaining sponsors. The Willpath API exposes the aggregated data about user performance and the entirety of the crediting system. It is a RESTful API that returns JSON-encoded data. 
+database health sports tracking 
+Sports

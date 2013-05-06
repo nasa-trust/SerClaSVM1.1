@@ -1,0 +1,7 @@
+XML repository content management service
+NSDL Repository Update Service
+The National Science Digital Library (NSDL) is the national online portal for education and research on learning in science, technology, engineering, and mathematics in the United States. The NSDL provides a XML repository search server tool called the Digital Discovery System (DDS), complete with an API built on top of Apache Lucene.
+
+When a user uses the DDS tool in conjunction with a XML repository, they can use RESTful calls to remotely create, update, and delete collections and items in their repository using the DDS&#039;s  Repository Update Service web service. Client access to a DDS repository system and, likewise, the API is governed by a list of valid IP&#039;s that can be specified in the DDS&#039;s Collection Manager interface.
+library Repository science 
+Science

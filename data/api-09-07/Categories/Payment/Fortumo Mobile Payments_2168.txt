@@ -1,0 +1,17 @@
+asia 1
+billing 1
+connectivity 1
+country 1
+format 1
+game 1
+integrate 1
+mobile 6
+open 1
+operate 1
+pacific 1
+payment 7
+platform 2
+protocol 1
+response 1
+sm 2
+telephony 1

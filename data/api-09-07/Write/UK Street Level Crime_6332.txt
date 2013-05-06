@@ -1,0 +1,9 @@
+UK police force mapping service
+UK Street Level Crime
+The UK Police and Street Level Crime API returns aggregated crime statistics about areas served by all police forces in England and Wales. All provide accurate, up-to-date data by neighborhood and even block by block.
+
+API methods support retrieval of statistics for the local police force such as identifier, web URL, and contact methods. Methods also return crime statistics by location, neighborhood and street, and by category of crime.
+
+
+crime government 
+Government

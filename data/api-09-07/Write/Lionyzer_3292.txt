@@ -1,0 +1,5 @@
+Website analysis and classification tool
+Lionyzer
+Lionyzer is a web site analytics service that analyzes content, environment, current popularity and other parameters, assigns a grade and provides helpful advice to improve a site. The API allows third party applications to integrate with the service. It provides calls for classifying a site and returning a report summary. The API uses RESTful calls and responses are formatted in JSON.
+analytics classification internet website 
+Internet

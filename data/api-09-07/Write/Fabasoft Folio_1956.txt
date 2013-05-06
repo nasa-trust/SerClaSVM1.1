@@ -1,0 +1,13 @@
+Cloud based enterprise software
+Fabasoft Folio
+Fabasoft Folio Cloud is cloud based software that offers enterprises a number of business applications within a single cloud computing environment. Developers can use Folio Cloud as a platform on which to develop their own apps. APIs are available that let users access their business data using open standards such as WebDAV, CalDAV and CMIS. 
+
+CalDAV - Synchronize a calendar in Folio Cloud with a mobile device. For more information see http://developer.foliocloud.com/en/api/caldav.html
+
+WebDAV - Synchronize content from Folio Cloud to a local computer and access documents by double-click. For more informations see http://developer.foliocloud.com/en/api/webdav.html
+
+Content Management Interoperability Services (CMIS) - Access data and Team Rooms in Folio Cloud. For more informations see http://developer.foliocloud.com/en/api/cmis.html
+
+These standards allow for functionality such as scheduling, data manipulation and content management. Public documentation is not available.
+cloud enterprise 
+Enterprise

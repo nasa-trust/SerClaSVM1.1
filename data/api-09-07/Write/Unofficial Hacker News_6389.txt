@@ -1,0 +1,5 @@
+News and comment service
+Unofficial Hacker News
+Provides programmatic access to Hacker News stories, comments and votes. API is unofficial, but has the blessing of Hacker News.
+bookmarks hackernews news unofficial 
+News

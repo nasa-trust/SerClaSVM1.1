@@ -1,0 +1,5 @@
+eWallet payment service
+Paxum
+Paxum offers a secure ewallet payment service that lets users pay merchants and other users by transferring funds from banks. The Paxum Payment API gives developers the ability to implement direct payment processing. Integrating the API lets users accommodate various payment methods including prepaid cards, checks and wire transfers while working with a single provider to process and manage all online payments. The API uses RESTful calls and responses are formatted in XML.
+ecommerce internet payment 
+Payment

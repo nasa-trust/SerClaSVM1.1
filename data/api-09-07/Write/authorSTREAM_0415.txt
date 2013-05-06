@@ -1,0 +1,7 @@
+Powerpoint sharing service
+authorSTREAM
+authorSTREAM is a platform for sharing PowerPoint presentations on the Internet. authorSTREAM makes it easier to share your PowerPoint slideshows through blogs, websites, on YouTube and even via iPOD.
+
+The authorSTREAM API provides programmatic access to authorSTREAM features and services. Developers can build custom applications that correspond to the same services available through the main website, authorSTREAM. You can interact with the authorSTREAM API using SOAP and REST protocols.
+office presentations social 
+Office

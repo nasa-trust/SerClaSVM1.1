@@ -1,0 +1,5 @@
+Artificial intelligence tools
+Strongsteam
+Strongsteam is an AppStore that offers artificial intelligence and data mining APIs to let users pull information out of images, video and audio. With the APIs, users can do things such as use optical character recognition to get text out of images, determine the similarity of two images, use natural language processing to analyze, cluster and compare text, extract text from audio and use machine learning on text to derive new data. The REST based API allows web clients to interact with its AI modules to complete tasks without having to program. This gives developers the ability to prototype AI in applications with simple calls to URLs. Developers can contact the provider for access to the API documentation.
+ai extraction ocr semantic tools 
+Tools

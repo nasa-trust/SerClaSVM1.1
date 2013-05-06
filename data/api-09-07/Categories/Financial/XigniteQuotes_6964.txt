@@ -1,0 +1,16 @@
+chart 1
+day 1
+delay 1
+equity 1
+exchange 1
+finance 2
+give 1
+market 2
+mover 1
+price 1
+quote 2
+stock 2
+stocks 2
+tick 1
+top 1
+trade 1

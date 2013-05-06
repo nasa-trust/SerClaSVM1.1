@@ -1,0 +1,5 @@
+Business information service
+KPI Dashboard
+KPI Dashboard is an online tool for anyone who wants to create and share company dashboards with colleagues, or partners. The KPI Dashboard API is a simple and secure interface for accessing your KPI Dashboard account data using plain XML or JSON over HTTP using all four REST commands ??? GET, POST, PUT and DELETE.
+analytics dashboard enterprise sbweb 
+Enterprise

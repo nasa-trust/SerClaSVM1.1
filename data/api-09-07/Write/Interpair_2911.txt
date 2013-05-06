@@ -1,0 +1,7 @@
+Cloud-based device pairing service
+Interpair
+Interpair is a cloud-based device pairing service. By using a dynamically generated PIN code, two clients can exchange pairing information. 
+
+To send pairing information one client posts information via an interpair.net URL parameter, and receives a numeric code in return. The other client then retrieves the information using the code.
+device internet 
+Internet

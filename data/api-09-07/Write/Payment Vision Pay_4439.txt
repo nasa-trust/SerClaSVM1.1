@@ -1,0 +1,5 @@
+Payment processing service
+Payment Vision Pay
+The Payment Vision service has a payment plug-in that works with receivables software, shopping carts, billing websites, and many other payment applications. Payment Vision also has a suite of built in payment capture applications. PayAPI is a SOAP-based XML web service, designed for software publishers to add payment processing functionality to their software applications in compliance with PCI-DSS. PayAPI can process one-time and recurring credit card, debit card and ACH payments. PaymentVision is an online payment gateway that connects to the ACH (Automated Clearing House) and all major debit and credit card networks. 
+payment shopping 
+Payment

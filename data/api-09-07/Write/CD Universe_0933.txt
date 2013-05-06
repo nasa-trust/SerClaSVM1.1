@@ -1,0 +1,7 @@
+Online CD and music retailing service
+CD Universe
+The service gives access by sales partner sites to the online retailer&#039;s collection of music CDs, along with some movie and game titles. Also available are MP3 downloads, audiobooks, vinyl records, and accessories. Affiliate sites can resell and process transactions through the service for fulfillment.
+
+API methods support a range of search services by CD identifier, UPC, title, artist, and category. Users can also retrieve top sellers, new releases, and future releases in a category or by artist.
+audio mp3 music 
+Music

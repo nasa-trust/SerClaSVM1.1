@@ -1,0 +1,15 @@
+business 1
+card 1
+credit 1
+format 1
+ig 1
+internet 1
+merchant 2
+need 1
+payment 5
+processing 3
+protocol 1
+response 1
+security 1
+soap 1
+solution 2

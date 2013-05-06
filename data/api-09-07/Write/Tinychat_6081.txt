@@ -1,0 +1,7 @@
+Video chat service
+Tinychat
+Tinychat is a video chat service that offers chat rooms. Tinychat includes text, audio, and video capabilities for chatting, and users can have up to 12 simultaneous chat rooms at one time. 
+
+The Tinychat API allows developers to embed Tinychat functionality into other applications, as well as accessing Tinychat server-side information. Some example API methods include listing rooms in Tinychat, accessing room information, retrieving chat passwords, and broadcasting chat passwords.
+chat deadpool social text video 
+Chat

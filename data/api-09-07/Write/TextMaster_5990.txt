@@ -1,0 +1,7 @@
+Translation, copywriting and proofreading services
+TextMaster
+Textmaster is a service offering professional grade translation, copywriting and proofreading to clients, agencies, SMEs or large corporations. It supports a community of over 22,000 registered authors, translators and editors and can be used for a variety of needs including articles, leaflets and contracts.
+
+API for content translation, copywriting and proofreading. The API facilitates the integration to the customer&#039;s needs and promotes applications built for many varied needs such as Outlook extensions, Wordpress plugins, and translations for worldwide marketing and sales.
+editing office tools Translation 
+Tools

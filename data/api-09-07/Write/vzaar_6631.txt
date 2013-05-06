@@ -1,0 +1,5 @@
+Video hosting service
+vzaar
+vzaar allows businesses to upload video to the vzaar platform. From there, vzaar streams the video to the business website or online market product listings. vzaar hosts their own video player for embedding content on the web. vzaar is intended for ecommerce usage. The vzaar API exposes vzaar???s key features to web applications that would like to build custom solutions on top of the vzaar video platform.
+restful video XML 
+Video

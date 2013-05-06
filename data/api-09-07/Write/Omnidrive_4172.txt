@@ -1,0 +1,7 @@
+Online storage services
+Omnidrive
+NOTE: As of June 2008 this service appears to be no longer in operation.
+
+The Omnidrive API is REST-like web service for the storage, sharing and publishing of files, content and media. Omnidrive offers interfaces for developers both for web and desktop applications and provides all users with simple to use file browsers on multiple platforms.
+deadpool files 
+Storage

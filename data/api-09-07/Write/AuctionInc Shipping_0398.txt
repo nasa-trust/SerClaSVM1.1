@@ -1,0 +1,5 @@
+Shipping rate service
+AuctionInc Shipping
+AuctionInc provides e-commerce and auction tools, including a full-featured shipping rate calculator. The services calculates shipping rates, including insurance, taxes and handling, for UPS, FedEx, DHL and the USPS. Include local pickup, drop shipping from multiple locations and intelligent packaging for multiple items. The service is available as an API using XML-RPC. 
+shipping
+Shipping

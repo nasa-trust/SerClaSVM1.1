@@ -1,0 +1,7 @@
+Project management and collaboration service
+Zoho Projects
+Zoho Projects provides REST style Web APIs that return an XML or JSON document over HTTP.  With this API, users/developers can extend their web applications to push or pull data into or from Zoho Projects for application mashups. As the API is purely HTTP based, your application could be in any of the programming languages like Java, Python, ASP etc., to use the same.
+
+Zoho Projects offers planning and reporting capabilities, and makes the process social by bringing everyone in your project team together and helping them get the project done. 
+collaboration project-management social 
+Office

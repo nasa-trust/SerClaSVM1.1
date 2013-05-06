@@ -1,0 +1,5 @@
+Prediction market platform
+Inkling
+Our REST API allows you to replicate much of the functionality in our hosted marketplace solution to build custom widgets and stock tickers for your Intranet, create custom reports, add trading capabilities to an existing application, or even develop your own custom marketplace.
+finance 
+Financial

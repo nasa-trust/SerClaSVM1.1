@@ -1,0 +1,9 @@
+blog 2
+blogger 2
+core 1
+customize 1
+management 1
+photo 3
+sharing 1
+support 1
+version 1

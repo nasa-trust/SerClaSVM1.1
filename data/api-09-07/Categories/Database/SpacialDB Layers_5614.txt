@@ -1,0 +1,12 @@
+amazon 1
+cloud 4
+create 1
+datum 1
+dedicate 1
+format 1
+geography 1
+layer 2
+operate 1
+place 1
+scale 1
+storage 1

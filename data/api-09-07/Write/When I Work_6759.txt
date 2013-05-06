@@ -1,0 +1,7 @@
+Employee work scheduling application
+When I Work
+When I Work is an employee work scheduling application that can be used on the web, on mobile phones, over email, and by text messages. Employers can make employee schedules and share them in a variety of ways.
+
+The When I Work API allows developers to access and integrate When I Work functionality with other applications and programs. Some example API methods include listing schedules by location and employee, editing schedules, accessing user information, and  editing employee information.
+calendar enterprise office scheduling 
+Enterprise

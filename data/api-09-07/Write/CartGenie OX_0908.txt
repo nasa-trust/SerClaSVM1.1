@@ -1,0 +1,7 @@
+Online ordering and payment service
+CartGenie OX
+The service books online orders and allows retrieval, updates to item quantity and other details, and processes credit card payment. Orders can be handled within the service or imported into other applications. After updating and processing an order and completing payment, the service emails customer confirmation messaging. 
+
+API methods support retrieval of orders for a specific merchant matching criteria in the request and updating of specified orders. Methods also support processing of credit card payment and communicating order fulfillment to customers.
+ecommerce payment shopping 
+Payment

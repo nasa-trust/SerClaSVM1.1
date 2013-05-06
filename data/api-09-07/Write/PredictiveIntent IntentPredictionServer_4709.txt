@@ -1,0 +1,7 @@
+Behavior profiling and filtering service
+PredictiveIntent IntentPredictionServer
+The Intent Prediction Server provides high speed behavioral profiling and filtering services over the internet. The Intent Prediction Server is comprised of a set of powerful APIs and management interfaces, which enable 3rd parties to easily connect to it in order to send their data for processing. These interfaces also enable the customization of what mathematical processes and filters are required to run prior to sending site/user specific data back to the 3rd party system.
+
+The Open Connectivity API enables 3rd parties to connect and send data using their preferred method (HTTP, Java, PHP etc.). The Data Processing Configuration API enables 3rd parties to build content suggestion strategies specific to their exact business requirements. Full API documentation is not publicly available.
+semantic tools 
+Tools

@@ -1,0 +1,7 @@
+Product purchase tracking service
+Warranty Life
+Warranty provides users with a system that tracks thier product purchases and stores the receipts. The system also tracks data associated with product warranties. Users can look up information such as manuals, product specifications, datasheets and automated warranty claims.
+
+The Warranty Life API allows users to integrate the functionality into their own websites and applications. Functionality includes the ability to purchase extended warranty plans on a variety of products, register purchases made by customers allowing them to track their purchases through the free Warranty Life product tracking service, roduct search via UPC or EAN barcodes (through the Scandit API), model number, manufacturer, category or general search query. The API uses RESTful calls and responses are formatted in JSON.
+barcode retail shopping tracking 
+Retail

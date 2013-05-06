@@ -1,0 +1,5 @@
+Mobile customer profile service
+Orange Personal Profile
+From their site: The Personal Profile API gives your application real time access to Orange France customers&#039; profile information, enabling you to retrieve data such as name, email, address, phone number, etc., with their permission. Part of the Personal APIs Alpha suite.
+contacts enterprise mobile telephony 
+Telephony

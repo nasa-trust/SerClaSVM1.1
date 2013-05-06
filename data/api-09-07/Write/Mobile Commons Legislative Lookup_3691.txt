@@ -1,0 +1,8 @@
+Legislative representative information service
+Mobile Commons Legislative Lookup
+The service retrieves information about representatives in the U.S. Congress and state legislatures for a location specified by latitude and longitude. Data returned include contact information, so an application can automatically route users directly to their legislative representatives to support calls for action as part of advocacy campaigns. Another use would be to target advocacy messages to specific legislative districts served by members casting key votes on an issue.
+
+API methods accept latitude and longitude and return legislative district for both the U.S. House of Representatives and state legislative houses, as applicable. The service returns error messages for submissions without latitude/longitude data or for locations outside the United States.
+
+advocacy congress government Lobbying 
+Government

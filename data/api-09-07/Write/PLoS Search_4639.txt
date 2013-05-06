@@ -1,0 +1,5 @@
+Scientific literature search service
+PLoS Search
+PLoS is a non-profit organization of scientists and physicians with the goal of making the world&#039;s scientific and medical literature a freely available public resource. The PLoS Search API gives developers access to data from the PLos archive of scientific articles that can be integrated into applications for the web, desktop or mobile devices. It allows PLoS content to be queried using any of the fields in the PLoS Search engine. The API uses JavaScript protocol.
+reference science 
+Reference

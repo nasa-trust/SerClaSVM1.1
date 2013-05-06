@@ -1,0 +1,17 @@
+computer 1
+connect 1
+console 1
+datum 1
+desktop 1
+device 2
+distribution 1
+game 1
+internet 2
+messaging 2
+notification 2
+push 4
+real 2
+receive 1
+refrigerator 1
+television 1
+works 1

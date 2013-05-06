@@ -1,0 +1,12 @@
+Rail travel planning service
+SilverRail Technologies
+SilverRail Technologies offers a global rail platform to improve online travel planning. They consolidate passenger rail content from around the world into a single integrated technology platform to help Railways and Travel Distributors to easily connect with each other. Their API allows travel sellers to access fares and pricing, routes and schedules, payment processing, rules and ticketing information.
+
+Travel Sellers may choose to access the rail product via either of two technologies offered by SilverRail: 
+
+    WEB SERVICE: Air-like interface, standardized queries and responses and end-to-end functionality across global rail content.
+    WHITE LABEL: Customized websites and widgets available for immediate website plug-in, leveraging the SilverRail Web Service.
+
+Documentation is not publicly available.
+scheduling Ticketing trains travel 
+Travel

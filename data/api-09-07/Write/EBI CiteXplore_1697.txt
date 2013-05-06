@@ -1,0 +1,5 @@
+Scientific publication and metadata retrieval
+EBI CiteXplore
+CiteXplore is a SOAP-based service that retrieves data from the European Bioinformatics Institute&#039;s publication database. Users can search for metadata from the CiteXplore database and full text articles from UK PubMed Central. Version 3 of the service allows users to pick and choose the components required, making information retrieval more efficient.
+reference science search 
+Reference

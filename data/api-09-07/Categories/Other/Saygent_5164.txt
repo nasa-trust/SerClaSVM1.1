@@ -1,0 +1,7 @@
+customer 2
+feedback 4
+gather 1
+integrate 1
+mobile 2
+po 2
+store 1

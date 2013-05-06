@@ -1,0 +1,11 @@
+aggregate 1
+collection 1
+community 1
+group 1
+interface 1
+item 1
+local 1
+news 4
+search 1
+wellington 2
+zealand 2

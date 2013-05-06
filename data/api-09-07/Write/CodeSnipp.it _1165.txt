@@ -1,0 +1,5 @@
+Code sharing service
+CodeSnipp.it 
+Codesnipp.it is a social sharing site where developers can follow other developers, share their code and find coding help. The API lets users get the status of other site users and list the methods available for the API. It uses HTTP calls and responses are formatted in JSON.
+code internet sharing 
+Internet

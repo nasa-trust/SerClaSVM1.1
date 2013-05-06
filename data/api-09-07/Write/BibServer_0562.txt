@@ -1,0 +1,7 @@
+Bibliographic metadata consolidation and sharing service
+BibServer
+The service facilitates sharing of bibliographic metadata between separately maintained collections. It aims to allow interaction among repositories documenting human knowledge across disciplines to support improved scholarship. Scholars accumulate large, separate collections of bibliographic citations like Zotero, Bibsonomy, and Mendeley in the course of their work, and this service helps them to share that information for easier research by all.
+
+The API implements the elasticsearch API, and methods support upload of a local collection with specifications for access such as relevant search facets and overall statistics for the sources included. Methods also support submission of search queries to the combined collection with filtering parameters to control results returned. 
+metadata reference research search 
+Reference

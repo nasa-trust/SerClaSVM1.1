@@ -1,0 +1,12 @@
+booking 1
+connect 1
+current 1
+deal 2
+destination 1
+direct 1
+path 1
+publish 2
+publishing 1
+recommendation 1
+search 1
+travel 5

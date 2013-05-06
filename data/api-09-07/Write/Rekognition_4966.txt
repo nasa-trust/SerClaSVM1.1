@@ -1,0 +1,5 @@
+Face and Scene Image Recognition
+Rekognition
+The Rekognition API provides facial and scene image recognition optimized for social photo applications. Utilizing the eyes, mouth, face and nose along with mood recognition and sex dependent characteristics the Rekognition API can predict sex, age and emotion. The API is RESTful with JSON formatting and can also be used with clients such as Python, Obj-C, Ruby, Java and PHP.
+face photo recognition 
+Photos

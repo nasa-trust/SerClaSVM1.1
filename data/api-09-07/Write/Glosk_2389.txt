@@ -1,0 +1,5 @@
+Location Based Photo Search
+Glosk
+Glosk is a website where users can search for different locations around the world and be able to look at facts and photos of those locations. Users can also upload their photos of different locations. Glosk will soon be providing an XML-RPC API, allowing developers to access the Glosk database of locations and photos.
+location photo 
+Photos

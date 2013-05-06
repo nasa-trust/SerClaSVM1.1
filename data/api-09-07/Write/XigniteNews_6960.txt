@@ -1,0 +1,5 @@
+U.S. financial, economic and business news
+XigniteNews
+The XigniteNews API gives you access to real time U.S financial news. You can search articles on market news and headlines, briefings and more.
+business economic financial markets news 
+Financial

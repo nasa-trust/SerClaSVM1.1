@@ -1,0 +1,7 @@
+New Zealand highway mapping and location service
+NZTA Location Referencing
+The web service gives access to data describing locations along the New Zealand State Highway Network. It gives standard KML vector data for state highways and supports validation queries to verify the logical structure of the highway network. Conversion methods allow translation of linear route data to spatial representations, with accuracy less than 1 meter.
+
+API methods provide data for logical network structure, spatial centerline mapping, linear/spatial translation, and directionally tolerant location search.
+location mapping transportation 
+Transportation

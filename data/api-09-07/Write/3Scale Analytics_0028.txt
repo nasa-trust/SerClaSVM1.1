@@ -1,0 +1,7 @@
+API management services
+3Scale Analytics
+3Scale enables API owners to integrate API management services into their existing systems. 3scale offers an on-demand infrastructure platform lets businesses capitalize on their Web Services to increase revenues and exploit the full potential of the API technology.
+
+The Analytics API complements the Account Management API and allows users to access statistics on API usage from 3scale???s management system. It pulls out usage statistics for the user&#039;s API, either for the whole service or for each application, enabling integration of stats into a user&#039;s own internal dashboards or provide enhanced dashboards for your API users. The API uses RESTful calls and responses are formatted in XML and JSON.
+analytics deadpool internet tools 
+Tools

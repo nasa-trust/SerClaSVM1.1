@@ -1,0 +1,11 @@
+address 1
+cook 1
+county 1
+footprint 2
+geography 2
+government 2
+illinois 2
+look 1
+lookup 1
+politics 1
+up 1

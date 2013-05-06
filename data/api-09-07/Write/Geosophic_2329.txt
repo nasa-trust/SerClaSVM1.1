@@ -1,0 +1,5 @@
+User analytics for mobile gaming
+Geosophic
+Geosophic is a user engagement solutions provider for mobile games. Their gaming platform allows developers to take in user behavior data and turn it into user profiles. Developers can use this information to segment players and invite marketers with targeted ad campaigns. Geosophic also includes user engagement features such as leaderboards. The Geosophic API exposes the platforms essential information gathering and integration functionalities. It is a RESTful API that return JSON-formatted data.
+analytics games mobile 
+Games

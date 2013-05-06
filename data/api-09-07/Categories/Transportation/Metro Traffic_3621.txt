@@ -1,0 +1,17 @@
+24/7 1
+bill 1
+contact 1
+datum 2
+documentation 1
+local 1
+martin 1
+metro 2
+president 1
+real 1
+senior 1
+state 1
+traffic 5
+transportation 1
+travel 1
+unite 1
+vice 1

@@ -1,0 +1,5 @@
+Social media marketing platform
+Vitrue Agency
+Vitrue is a provider of a cloud-based social marketing solution. Their solution, the Social Relationship Management (SRM) Platform gives agencies and brands a way to manage, measure and maximize value on social networks and across the web. The Agency API allows agencies to create, deliver and manage custom brand experiences on their Facebook wall. With the API, an agency can create a custom Wall app and deliver it to the news feeds of their clients&#039; fans. Documentation for the API is not publicly available.
+advertising marketing social 
+Social

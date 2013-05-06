@@ -1,0 +1,5 @@
+Journal article metadata harvesting service
+Open Archives Initiative
+The Open Archives Initiative API provides a low-barrier mechanism for repository interoperability. The API allows service providers to harvest article metadata from repositories using the OAI-PMH protocol so they can use the metadata in their services. OAI-PMH is composed of a set of six verbs or services that are invoked within HTTP.
+education journal library 
+Education

@@ -1,0 +1,7 @@
+Cloud identity management service
+HP Cloud Identity Service
+The HP Cloud Identity Service, lets users access all of their HP Cloud Services in a seamless manner. HP Cloud Identify Service provides a single method for managing user identities and for authenticating each user???s access to resources across all HP Cloud Services. 
+
+Users are freed from having to manage different credentials for each service and authenticating access to resources via unique endpoints. Through HP Cloud Identity Service, users have a consistent, foundational set of capabilities  for identity management and authentication.
+authentication authorization cloud internet security 
+Security

@@ -1,0 +1,5 @@
+Business and personal recommendations
+Rummble Labs
+Rummble Labs provides personal and business recommendations for content by creating a trust network that calculates trust scores between people. The Rummble labs API allows users to process large volumes of data. It uses a combination of methodologies to return accurate and relevant material for each user. Full documentation is not available.
+recommendations social 
+Recommendations

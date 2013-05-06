@@ -1,0 +1,5 @@
+Tag based Internet directory
+TagTooga
+TagTooga is a Web 2.0 wiki-directory and social bookmarking tool.  It integrates resources into a shared directory of links, embedded video, code snippets, downloads, MySpace friends, and blurbs/comments.  The data is syndicated via RSS feeds and programmatic APIs.  
+bookmarks deadpool directory social tagging 
+Tagging

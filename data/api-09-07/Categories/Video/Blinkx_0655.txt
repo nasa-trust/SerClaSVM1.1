@@ -1,0 +1,12 @@
+analysis 1
+capability 1
+doc 1
+feature 1
+note 1
+public 1
+register 1
+repository 1
+search 3
+speech 1
+text 1
+video 3

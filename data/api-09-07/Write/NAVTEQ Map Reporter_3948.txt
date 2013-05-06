@@ -1,0 +1,7 @@
+Map feedback submission service
+NAVTEQ Map Reporter
+NAVTEQ is a provider for digital maps and map content used in navigation and location-based services. The NAVTEQ Network for Developers (NN4D) program provides developers with a variety of API&#039;s for mapping, road traffic data, and advertising.
+
+NAVTEQ&#039;s Map Reporter allows individuals to suggest updates or corrections to NAVTEQ maps. Users can give feedback about addresses, roads or road features, points of interest, or traffic restrictions. Attachments, such as images or supporting evidence, can also be added to the submission. In addition to submitting feedback on existing map elements, users can suggest new map content such as other points of interest or cartography details. The Map Reporter web service is composed of two primary parts: a submission service that allows users to provide their feedback to NAVTEQ, and a query service for searching map reports for the status and details of previously submitted requests.
+feedback mapping 
+Mapping

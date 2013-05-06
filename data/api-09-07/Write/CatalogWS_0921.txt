@@ -1,0 +1,5 @@
+Academic library
+CatalogWS
+From their site: CatalogWS is a Web API for dynamically querying information from the NCSU Libraries Catalog (North Carolina State University). This API supports a variety of applications that repurpose catalog data outside of the native catalog interface.
+books education reference 
+Reference

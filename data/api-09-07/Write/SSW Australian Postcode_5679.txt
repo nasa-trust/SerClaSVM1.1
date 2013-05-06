@@ -1,0 +1,5 @@
+Australian address checking service
+SSW Australian Postcode
+The SSW Australian Postcode API is a public web service that provides a quick and centralized method of checking that suburb name and postcode details are correct for addresses located in Australia. This API can be accessed using a web form or via SOAP calls using the XML data format.
+address Australia mail tools 
+Tools

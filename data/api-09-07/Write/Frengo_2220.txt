@@ -1,0 +1,5 @@
+Mobile widgets and messaging platform
+Frengo
+From their site: Want to extend your Facebook, MySpace, Bebo application to mobile? Want to add mobile social features to your application? Want to reach millions of people around the world? Now you can. Frengo has created an Open Social and Facebook compliant mobile toolkit for developers. A simple API to extend Notification events to mobile to rich threaded messaging features that let you manage web and mobile conversations concurrently. Powerful SMS, MMS and WAP functionality. Monetize through Frengo&#039;s market leading social advertising platform. Monetize social applications directly through premium SMS.
+messaging mobile opensocial sms social telephony 
+Messaging

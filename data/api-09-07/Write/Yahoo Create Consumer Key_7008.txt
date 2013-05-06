@@ -1,0 +1,7 @@
+Yahoo consumer API key creation service
+Yahoo Create Consumer Key
+The Create Consumer Key (CCK) API allows developers to  provide Yahoo-issued Consumer Keys, Consumer Secrets, and Application IDs to their users. Often developers who use Yahoo Web services and APIs provide applications that allow their users to access their own Yahoo user data. This requires developers (the third party) to have your own OAuth Consumer Key and Secret, while ensuring each of your users (the fourth party) also have their own distinct OAuth credentials. 
+
+The CCK API offers developers the following benefits: It streamlines the process of using your application, only requires one call and allows for one-click authorization. The API uses a POST method to submit the required information.
+authentication security 
+Security

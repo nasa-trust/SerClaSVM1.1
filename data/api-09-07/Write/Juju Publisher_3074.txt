@@ -1,0 +1,5 @@
+Job search engine
+Juju Publisher
+Juju is a job search engine. The search results link to jobs found on employer career portals, recruiter websites, job boards, and other employment sites all over the Internet, as opposed to locally hosted job postings. The Juju Publisher API allows partners to post job serach results across multiple channels on their sites. It uses RESTful calls and responses are formatted in XML.
+jobs search 
+Job Search

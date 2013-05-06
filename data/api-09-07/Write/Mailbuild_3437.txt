@@ -1,0 +1,5 @@
+Email forms and templates service
+Mailbuild
+From their site: Put your clients back in the driving seat and let them create and send their own great looking emails in-house. Once you design a template for each client, they can easily add their own content, select their recipients and schedule delivery in their own time. The MailBuild API will allow you or your clients to perform a range of operations on their accounts, including the addition and removal of subscribers to their lists.
+email 
+Email

@@ -1,0 +1,7 @@
+Travel and purchase service
+Bistip
+Bistip is a service that connects travellers with people who need or want items bought in other places. Bistip lets users post their upcoming trips so other users can see if someone is going to a place where they want something from. Users can request the travellers buy whatever the item is that they want.
+
+The Bistip API is read-only but allows developers to access content from Bistip. The available API methods are retrieving a list of upcoming trips and retrieving a list of items wanted.
+shopping travel 
+Travel

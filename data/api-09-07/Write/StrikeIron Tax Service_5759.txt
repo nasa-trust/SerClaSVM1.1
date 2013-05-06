@@ -1,0 +1,6 @@
+Sales tax reference lookup
+StrikeIron Tax Service
+Simply supply a U.S. ZIP or Canadian postal code and receive the general sales and use tax rate levels for the state, county, city, MTA, SPD and more. This complete version handles multiple tax jurisdictions within a single ZIP code (where county boundaries cross a ZIP code for example), and also includes multiple levels of tax rates such as MTA and SPD data, and 4 &#039;other&#039; tax rate fields.
+
+reference 
+Reference

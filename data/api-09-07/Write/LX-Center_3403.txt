@@ -1,0 +1,7 @@
+Linguistic text processing services
+LX-Center
+The Natural Language and Speech Group at the University of Lisbon&#039;s Department of Informatics provides several online linguistics tools for processing text. The Sentence Chunker tool marks sentence and paragraph boundaries and unwraps sentences split between lines. Tokenizer segments text into lexically relevant tokens.
+
+Some of the provided tools are designed specifically for use with the Portuguese language. These tools include a Part-of-Speech (POS) Tagger, a Constituency Parser, and a Computational Grammar for language processing. These services can be accessed via the LX-Center SOAP API.
+education language portuguese semantic 
+Education

@@ -1,0 +1,16 @@
+business 3
+corporation 6
+datum 1
+division 1
+government 1
+nonprofit 1
+register 1
+relate 1
+renew 1
+result 1
+retrieval 1
+return 1
+search 7
+secretary 1
+state 4
+washington 5

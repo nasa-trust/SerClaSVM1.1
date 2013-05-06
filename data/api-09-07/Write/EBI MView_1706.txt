@@ -1,0 +1,5 @@
+Bioinformatics data reformatting service
+EBI MView
+MView is a tool for re-formatting the results of a sequence database search or a multiple sequence alignment. It can also be used to add HTML markup to control results&#039; coloring and layout on a webpage. MView is not a multiple sequence alignment program, nor is it a general purpose alignment editor. The EBI MView API provides access to MView&#039;s functions via SOAP and REST protocols.
+bioinformatics science 
+Science

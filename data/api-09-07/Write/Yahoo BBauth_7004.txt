@@ -1,0 +1,5 @@
+Browser based authentication service
+Yahoo BBauth
+From their site: You build great web applications. We have millions of users who store their data on Yahoo!. Browser-Based Authentication (BBAuth) makes it possible for your applications to use that data (with their permission). BBAuth also offers a Single Sign-On (SSO) facility so that existing Yahoo! users can use your services without having to complete yet another registration process. The first time a user visits your web site, you redirect them to a specially constructed Yahoo! URL where they can login and grant your application permission.
+authentication identity security 
+Security

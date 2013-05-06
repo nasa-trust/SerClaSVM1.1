@@ -1,0 +1,5 @@
+Recipe database
+Recipe Puppy
+The Recipe Puppy is an ingredient based recipe search engine. The Recipe Puppy API gives developers access to a database of over a million recipes, searching by ingredient or keyword. Access is gained via HTTP and results can be returned in JSON or XML 
+recipes food
+Food

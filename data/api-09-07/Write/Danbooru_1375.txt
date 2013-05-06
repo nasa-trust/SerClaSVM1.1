@@ -1,0 +1,8 @@
+Adult art database and forum tool
+Danbooru
+Danbooru is an adult artist database with forums. The Danbooru API allows users to interact with the database to create posts, list artists, update tags and more. It uses a RESTful interface and responses are formatted in XML or JSON.
+
+Note that this content is NSFW.
+
+forum nsfw social 
+Social

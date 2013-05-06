@@ -1,0 +1,5 @@
+QR scanning app
+QRdvark
+QRdvark is a QR scanning app for Android phones. The QRdvark API allows developers to use QRdvark as the scanning functionality for their own third-party applications.
+barcode qr utility 
+Utility

@@ -1,0 +1,6 @@
+Social music data sharing
+We Are Hunted
+We Are Hunted listens to what people are saying about artists and their music on social networks like Facebook and MySpace, music blogs, message boards and forums, Twitter and P2P networks to chart the top songs online everyday. The We Are Hunted API provides three core functions for developers: 1. Suggest Songs 2. Download Charts 3. Cache Artists. People listen to music and talk about artists on social networks like Facebook and MySpace, music blogs, message boards and forums, Twitter and P2P networks to chart the top songs online everyday. With Hunted API, you can play with all this data. 
+
+deadpool music social 
+Music

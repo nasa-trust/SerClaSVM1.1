@@ -1,0 +1,5 @@
+AddThis Integration Service
+AddThis Services
+AddThis is a free way to boost traffic back to your site by making it easier for visitors to share your content. With the AddThis Services API, combined with the &quot;oExchange sharing endpoints, and the personalization information provided by the User Data API, you now have all the same tools as the official AddThis menu.&quot; Developers can use the Services API as an alternative to the JavaScript-based AddThis Menu API.
+bookmarks internet social 
+Internet

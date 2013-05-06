@@ -1,0 +1,5 @@
+Online blog backup service
+Carbonite Blog Importer
+Carbonite is an online backup service allowing users to make secure and automatic backups of their hard drives. Users can restore lost files and access their backups from any computer or internet enabled device. The Carbonite Blog Importer allows users to import their blogs and perform basic management of it. Methods include adding posts and comments, retrieving files, handling files and images and more. It uses SOAP calls and responses are formatted in XML.
+backup blogging cloud storage 
+Storage

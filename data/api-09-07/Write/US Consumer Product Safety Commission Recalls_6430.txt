@@ -1,0 +1,5 @@
+Consumer product recall information
+US Consumer Product Safety Commission Recalls
+The US Consumer Product Safety Commission (CPSC) provides information about the safety of consumer products dating back to 1973. CPSC offers a recall service which can be accessed through the API. The API provides data in XML format. Data available includes recall number, company, product type and description and more.
+government product recall safety 
+Government

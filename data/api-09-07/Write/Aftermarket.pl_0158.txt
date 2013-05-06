@@ -1,0 +1,9 @@
+Internet domain marketplace
+Aftermarket.pl
+Aftermarket.pl is an internet domain marketplace that allows users to buy, sell, and auction domains. Aftermarket.pl currently only supports Polish (.pl) and European Union (.eu) domains. 
+
+The Aftermarket.pl API allows developers to automate many of the actions frequently taken by domain buyers and sellers on their site. Using the API, users can set up notifications, automate transactions such as listing or selling domains, and check buyer/seller ratings.
+
+This SOAP-based API is free to use, however Aftermarket.pl will charge a fee for actions such as selling, transferring, renewing, or registering domains.
+domain europe internet poland 
+Internet

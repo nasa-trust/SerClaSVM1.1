@@ -1,0 +1,7 @@
+Cloud server hosting service
+ElasticHosts Cloud Computing 
+ElasticHosts is an elastic cloud computing provider. Users can configure ElasticHosts&#039; sophisticated cloud infrastructure to match their needs with any web browser. They provide web hosting solutions on a virtual server.
+ 
+The ElasticHosts API allows users to create drives, upload, and download drive images, and create and control virtual servers on their infrastructure. 
+cloud internet 
+Internet

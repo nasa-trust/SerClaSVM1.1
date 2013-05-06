@@ -1,0 +1,12 @@
+ans 1
+audio 1
+confirmation 1
+creation 1
+czech 1
+form 1
+get 1
+http 1
+protection 1
+protocol 1
+request 1
+security 2

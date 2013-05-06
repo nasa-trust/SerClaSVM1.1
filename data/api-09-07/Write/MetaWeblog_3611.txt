@@ -1,0 +1,5 @@
+Blog editing service
+MetaWeblog
+The MetaWeblog API is a programming interface that allows users to get and set the text and attributes of weblog posts. It is designed to build on the Blogger API, which was limited in that it could only work with text. The MetaWeblog API can also work with media objects embedded in weblog posts.
+media weblog 
+Blogging

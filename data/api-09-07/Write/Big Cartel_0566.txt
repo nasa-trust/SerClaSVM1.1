@@ -1,0 +1,5 @@
+Shopping cart service
+Big Cartel
+Big Cartel is a shopping cart specifically designed for artists to sell their wares on the Internet. A non-authenticated API is available to access areas of the store in read-only format. Add an XML extension to your store URLs (which are sub-domains off of bigcartel.com) to get data from the API. You can retrieve store details, a list of products, specific product information and the contents of the current user&#039;s cart.
+shopping 
+Shopping

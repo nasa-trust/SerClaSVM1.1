@@ -1,0 +1,7 @@
+Natural intelligence database
+Saffron Sierra
+Saffron Sierra is a developer site for using SaffronMemoryBase(SMB). The SMB stores &quot;associations&quot; or &quot;links&quot; between things so while it is organized like a relational database it acts as an information or knowledge store.
+
+The RESTful API allows developers to interface with the SMB during application development. All calls are authenticated with an API key and responses are formatted in JSON.
+mdatabase semantic 
+Database

@@ -1,0 +1,5 @@
+Patent and scientific document portal
+Boliven Publications
+Boliven is the leading information portal for R&D, IP and business development professionals with over 100 million peer-reviewed documents to help identify technologies, clients, partners, opportunities and ideas. Amongst its documents Boliven publications include 35,000,000+ references, 5,500+ publications from Crossref, NLM Pubmed. The Publications API lets users create custom searches on the Boliven patent database and show details of the patent document texts that are returned. This data can be integated into a user&#039;s website or application. The API uses RESTful calls and responses are formatted in XML and JSON.
+database patents reference science search 
+Reference

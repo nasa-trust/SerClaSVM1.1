@@ -1,0 +1,5 @@
+URL shortening tool 
+Rewd.co
+Rewd.co is a URL shortening tool. Users copy and paste unwieldy links into Rewd???s homepage box which recasts it in a smaller URL. Furthermore, Rewd.co can minimize multiple URLs at once with a Multi Shrink function. Other additional features include URL customization and a bookmarklet. Their RESTful API exposes the site???s entire functionality, allowing developers to shorten URLs, password protext, set expiry dates, and more. It can return XML and JSON formatted data. 
+deadpool internet tools url-shortener 
+Tools

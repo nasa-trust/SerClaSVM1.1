@@ -1,0 +1,5 @@
+Company news releases
+XigniteReleases
+The XigniteReleases API gives you real-time company news, including press releases, industry news, earnings and dividend announcements, mergers and acquisitions, stock analyst coverage and more. Ideas for using this API include investor portals, business intelligence and competitive portals, or CRM applications.
+enterprise finance news stocks 
+Financial

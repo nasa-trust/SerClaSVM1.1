@@ -1,0 +1,15 @@
+amazon 2
+automate 1
+current 1
+datum 1
+exchange 1
+integrate 1
+listing 1
+marketplace 3
+order 1
+payment 1
+product 1
+report 1
+sellers 2
+shopping 2
+workflow 1

@@ -1,0 +1,5 @@
+QR code generator
+Mutationevent QR code generator
+The Mutationevent QR code generator is a simple API that lets users quickly create QR codes. Users can pass in content such as text, URL and SMS and specify image size and quality. The API returns a URL path of the generated image. It uses HTTP calls and responses are formatted in JSON.
+barcode qr tools 
+Tools

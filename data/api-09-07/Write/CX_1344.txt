@@ -1,0 +1,5 @@
+Cloud storage and sharing service
+CX
+CX is a cloud storage provider that offers features such as secure storage, real-time syncing, public and private sharing, interactive group collaboration, and intelligent discovery. The CX API is broken into three main areas of functionality
+cloud storage collaboration sharing internet
+Storage

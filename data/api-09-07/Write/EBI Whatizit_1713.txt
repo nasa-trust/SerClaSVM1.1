@@ -1,0 +1,5 @@
+Molecular biology term identification and reference linking
+EBI Whatizit
+Whatizit is a text processing system designed to identify molecular biology terms and link them to publicly available databases. Identified terms are wrapped with XML tags that carry additional information, such as the primary keys to databases where relevant information is kept. The wrapping XML is then translated into HTML hypertext links. In this way, the Whatizit API allows users to enrich and annotate writings on molecular biology.
+bioinformatics science semantic tools 
+Tools

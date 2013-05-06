@@ -1,0 +1,5 @@
+Financial, census data, phone numbers, and other data
+StrikeIron Lite Web Services
+Leverage multiple data sources for use in mashups or other applications or Web sites without requiring registration, authentication or the purchase of a Web service. Our Lite services are free subsets of some of our most popular Web services: Census Information Lite, Historical Foreign Exchange Rates Lite, IP Location Lite, Lite Web Services Search, Phone Number Information Lite, Simple Graphing Lite, Wall Street Horizon Current Day Company Earnings Lite, Wall Street Horizon Historical Car Loan Interest Rates Lite, Wall Street Horizon Current Car Loan Interest Rates, ZIP Code Information Lite. Good data for developers to test with or to use in demos.
+deadpool enterprise finance reference 
+Reference

@@ -1,0 +1,7 @@
+Movie and celebrity database
+Muvi
+Muvi is a social movie platform where users can search and access information on movies from Hollywood and Bollywood, as well as celebrities from all over the world. 
+
+The Muvi API allows developers to access and integrate the functionality of Muvi with other applications and to create new applications. Public documentation is not available; interested developers should contact baas@muvi.com for API access.
+celebrity database entertainment movies 
+Entertainment

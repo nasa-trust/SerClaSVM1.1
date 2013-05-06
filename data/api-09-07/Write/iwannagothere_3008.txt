@@ -1,0 +1,7 @@
+Community-based travel guide
+iwannagothere
+iwannagothere.com is a travel site that is community-based. Their tagline is &quot;this is travel, not tourism,&quot; as users of iwannagothere.com share their experiences doing different travel activities that are not necessarily in regular travel books. Users can search based on destinations, specials, and city guides.
+
+The iwannagothere API allows developers to retrieve data from iwannagothere.com. Some example API methods include searching and retrieving categories, place information and photos, user information, and guides and routes. For &quot;places id,&quot; developers will also need to get an API Key from geoplaces.org, as that is what iwanngothere.com uses for places.
+photo social travel 
+Travel

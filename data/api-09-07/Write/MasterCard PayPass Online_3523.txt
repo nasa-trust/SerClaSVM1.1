@@ -1,0 +1,5 @@
+Wallet checkout service
+MasterCard PayPass Online
+PayPass Online allows checkout from a site or app using any wallet that belongs to the Paypass Online network. This speeds up the checkout process by allowing customers to use the payment and shipping information already associated with their wallet of choice on the network. PayPass Online supports full and mobile sites and both Android and iOS apps. This service is free for both consumers and merchants.
+creditcard mobile payment 
+Payment

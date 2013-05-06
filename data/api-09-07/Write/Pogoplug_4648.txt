@@ -1,0 +1,7 @@
+Internet file access service
+Pogoplug
+The service gives internet access to the file system on a user&#039;s PC through a hardware dongle plugged into a USB port. That access allows retrieval and sharing of locally stored files from anywhere with web access. An iPhone application allows file access via cellphone networks.
+
+API methods support CRUD (create, read, update, delete) control of files on a machine connected to the dongle. To enable that access, methods can list, search, retrieve, create, remove, and copy files.
+backup filesharing storage 
+Storage

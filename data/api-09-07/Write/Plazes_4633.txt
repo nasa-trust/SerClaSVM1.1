@@ -1,0 +1,9 @@
+Location based social network
+Plazes
+Plazes is a location aware social network and search application. With Plazes, users can share their location with those people they want to know their location, while keeping their location private from those they don&#039;t. Users can also use Plazes to see what is happening near them and who is near them.
+
+The Plazes API allows developers to access and integrate the functionality and data of Plazes with other applications. Some example API methods include retrieving locations, accessing location categories, and retrieving user activities. 
+
+
+deadpool location places sharing social 
+Social

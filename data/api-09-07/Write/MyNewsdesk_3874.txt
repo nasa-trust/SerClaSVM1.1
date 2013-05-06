@@ -1,0 +1,5 @@
+MyNewsdesk - The News Exchange Site
+MyNewsdesk
+MyNewsdesk.com API Platform offers structured press information from over 10,000 Nordic and UK-companies. Current information types are press release, news, blogs, pictures, videos, documents, contact persons and events.
+news public-relations 
+News

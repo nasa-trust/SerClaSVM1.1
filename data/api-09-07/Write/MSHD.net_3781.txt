@@ -1,0 +1,5 @@
+Reference information lookup
+MSHD.net
+This JavaScript API is a side project of Martin Schibel. The API can be used to look up the following IP address information, currency, postal codes, lyrics and other reference type of information. A full list is available on the site. Responses can be formatted in XML, JSON or TXT.
+geolocation IP lyrics postal Translation 
+Reference

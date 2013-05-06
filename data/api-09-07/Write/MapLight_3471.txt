@@ -1,0 +1,7 @@
+Government database linking contributions and votes
+MapLight
+MapLight looks at the connection between campaign donations and legislative votes in an effort to reveal money&#039;s influence on politics. 
+
+MapLight performs research on supporting and opposing interests for legislative bills. MapLight&#039;s Bill Positions API provides a tool for discovering the connection between campaign donations and legislative votes. It can also be mashed up with other databases that contain information about bills or politically-active organizations. This RESTful API returns results in JSON or XML.
+government 
+Government

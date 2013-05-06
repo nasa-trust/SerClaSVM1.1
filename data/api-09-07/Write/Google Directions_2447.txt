@@ -1,0 +1,9 @@
+Driving directions web service
+Google Directions
+The Google Directions Web Service web service calculates directions between locations using an REST request. Directions may specify origins, destinations and waypoints either as text strings (e.g. &quot;Chicago, IL&quot;) or as latitude/longitude coordinates. The Directions web service can return multi-part directions using a series of waypoints.
+
+This service is designed for giving directions for static addresses for placement of application content on a map and this service is not designed to respond in real time to user input, for example. 
+
+The Directions Web Service is a companion to the existing Geocoding and Elevation Web Services, and allows applications to obtain Driving, Bicycling, and Walking directions through an XML/JSON REST interface. All of the features of the Map API v3 Directions service are supported, including ???avoid highways???, ???avoid tolls???, and waypoint optimization (travelling salesman solver). 
+Directions mapping 
+Mapping

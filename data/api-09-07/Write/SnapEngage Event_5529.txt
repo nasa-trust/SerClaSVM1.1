@@ -1,0 +1,5 @@
+Live chat support
+SnapEngage Event
+SnapEngage is a live chat solution that allows a business&#039; support team to interact with site visitors in real time. The SnapEngage API allows developers to interface SnapEngage with third-party applications. Using the API, SnapEngage can automatically POST events to an external URL when new requests are received (either offline or live chat). This transaction provides detailed information pertaining to the request and allows developers to recreate the request in the destination system. The API uses HTTP protocol and resposnes are formatted in XML.
+chat customer-service realtime sbweb 
+Chat

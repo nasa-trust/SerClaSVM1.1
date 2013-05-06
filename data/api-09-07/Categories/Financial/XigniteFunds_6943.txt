@@ -1,0 +1,11 @@
+analyze 1
+daily 2
+finance 2
+fund 4
+funds 1
+holding 1
+investment 1
+money 1
+performance 1
+portfolio 1
+price 2

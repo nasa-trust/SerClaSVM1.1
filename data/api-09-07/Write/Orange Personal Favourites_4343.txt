@@ -1,0 +1,5 @@
+Website bookmarking service
+Orange Personal Favourites
+Orange is France Telecom&#039;s single brand for Internet, television and mobile. France Telecom is a leading telecommunications operator in Europe. The Orange Personal Favourites API alpha is part of the Personal APIs suite. It allows users to add new links to the Orange favourites of an Orange France customer. The Personal Favourites API gives user applications real time access to Orange France customers&#039; &quot;Mes favoris&quot;, enabling them to add new entries redirecting to a website, with their permission. Currently, the API is in alpha mode. The API uses RESTful protocol and responses are formatted in XML.
+bookmarks telephony 
+Bookmarks

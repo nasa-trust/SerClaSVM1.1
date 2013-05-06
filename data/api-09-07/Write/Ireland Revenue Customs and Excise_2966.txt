@@ -1,0 +1,5 @@
+Irish tax collection office data
+Ireland Revenue Customs and Excise
+Ireland&#039;s Office of the Revenue Commissioners exists to collect taxes and duties and implementing Customs controls. The Customs & Excise API exposes functionality of the Revenue On-Line Service (ROS). The service gives users a secure way to file tax returns, pay tax liabilities and access their tax details online. Functionality exposed by the API includes the ability to file returns online, make payments by laser card, debit instruction or by online banking for Income Tax only, obtain online details of personal/clients revenue accounts, calculate tax liability, conduct business electronically and claim repayments. The API uses SOAP calls and responses are formatted in XML.
+finance ireland reference tax 
+Financial

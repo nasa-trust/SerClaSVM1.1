@@ -1,0 +1,7 @@
+Interactive Video Service
+MegaPhone Labs
+MegaPhone offers a platform that lets audiences interact with screens in realtime using phone calls, mobile websites and mobile applications. The platform receives phone calls and translates key presses into control commands. These commands can be used to help make television and videos interactive.
+
+The MegaPhone Labs ActionScript SDK allows users to create real-time, social, interactive video content on any screen, in any household, anywhere.
+social telephony television 
+Telephony

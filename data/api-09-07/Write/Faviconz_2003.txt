@@ -1,0 +1,5 @@
+Database of favicons
+Faviconz
+The faviconz API gives you access to a database of favicons. They collect, store and share them so you can easily use them.  
+Favicon internet 
+Internet

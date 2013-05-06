@@ -1,0 +1,5 @@
+Cloud-based audio management
+AudioBox.fm
+Like a cloud-based iTunes. AudioBox is an open platform to store, manage and stream your media library in the cloud. The API provides methods for storing, retrieving and organizing your music. All calls require SSL.
+music storage 
+Music

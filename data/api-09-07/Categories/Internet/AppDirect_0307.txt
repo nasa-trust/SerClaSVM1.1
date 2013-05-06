@@ -1,0 +1,15 @@
+business 2
+call 1
+cloud 1
+distribution 1
+find 1
+format 1
+integrate 1
+internet 2
+marketplace 3
+need 1
+network 1
+platform 1
+response 1
+software 3
+solution 1

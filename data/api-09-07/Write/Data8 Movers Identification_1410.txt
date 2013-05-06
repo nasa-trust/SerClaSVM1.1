@@ -1,0 +1,7 @@
+Address checking and update service
+Data8 Movers Identification
+Data8 is the UK&#039;s premier data solutions provider with a range of data cleansing, postcode lookup and data validation services to ultimately improve the way businesses communicate with their customers. This API allows users to check that their customers are still at the same address and if they have moved will update the address. The API uses SOAP calls and responses are formatted in XML.
+
+
+address location reference uk 
+Reference

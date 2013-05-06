@@ -1,0 +1,7 @@
+Renewable energy information service
+Webservice-Energy
+The service, developed through the EU-funded MESoR project, provides data and applications to encourage uses and management of renewable energy resources. It provides information about applications of solar and wind energy, along with forecasts of effectiveness over a system&#039;s life cycle. Its goal is to link users to information and encourage sharing and interaction around energy conservation.
+
+API methods support estimation by location of solar irradience and shadow effects from several different sources. Methods also forecast availability of hydro power resources and weather events with likely effects on renewable energy use. 
+education energy environment 
+Education

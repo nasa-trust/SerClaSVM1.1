@@ -1,0 +1,7 @@
+Travel tours and activities booking service
+GetYourGuide
+GetYourGuide is a website service for travel tours and activities. Users can book their travel tours and activities for upcoming trips. GetYourGuide offers tours and activities by geography and location, categories, and activity type. 
+
+The GetYourGuide API allows developers to access and integrate the content and functionality from GetYourGuide with other sites and applications. The API returns lists of activities from GetYourGuide based on location. Public documentation is not available.
+activities booking deadpool Tourism travel 
+Travel

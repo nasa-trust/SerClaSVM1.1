@@ -1,0 +1,5 @@
+Data analysis and management service
+BellaDati
+BellaDati is a data analysis and management service. Users can connect their databases and cloud services, such as MySQL and Twitter, to BellaDati???s business dashboards to produce analytical reports, graphs, and charts. They can then integrate the results and visualizations onto other platforms. The API is a RESTful protocol with JSON responses that gives developers access to their mobile product, BellaDati Piccolo.
+analytics business tools 
+Tools

@@ -1,0 +1,5 @@
+Email spam filtering service
+Postmark Spamcheck
+Postmark is an email delivery service for web apps. The Spamcheck API gives developers a programmatic interface to the spam filter tool SpamAssassin. The API can be used by an application to pre or post process email content. It helps to filter out junk and prevent clutter within a database or application. The API uses RESTful calls and responses are formatted in JSON.
+email Filter spam 
+Email

@@ -1,0 +1,5 @@
+Document conversion tool
+VISup DataCollab
+The DataCollab API accepts as input a URL of an xls, ods, csv or Google spreadsheet file and return a csv formatted file, with additional information, like column count, row count, header&#039;s row count and the header labels. The API uses HTTP calls and responses are formatted in JSON.
+csv deadpool documents tools 
+Tools

@@ -1,0 +1,17 @@
+belonging 1
+business 1
+busy 1
+corporation 1
+create 1
+free 1
+gateway 1
+mobile 3
+network 1
+one 1
+phone 2
+push 3
+relate 1
+see 1
+soap 1
+status 5
+telephony 2

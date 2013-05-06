@@ -1,0 +1,5 @@
+Database of plant transcription factors
+PlantTFDB
+The Plant Transcription Factor Database (PlantTFDB) contains over 50,000 transcription factors (TF) from 49 species of green algae, mosses, ferns, gymnosperms, and angiosperms. Each identified TF is given comprehensive annotations, including functional domains, 3D structures, gene ontology, expression information, and annotations from various databases. By inferring orthologous groups and constructing phylogenetic trees, evolutionary relationships among identified TFs can be inferred. Data from PlantTFDB can be accessed programmatically via SOAP API.
+bioinformatics database science 
+Science

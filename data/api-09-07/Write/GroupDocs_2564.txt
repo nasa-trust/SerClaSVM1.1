@@ -1,0 +1,7 @@
+Online document management service
+GroupDocs
+GroupDocs is an online document management platform. GroupDocs allows users and organizations to manage and revise documents, create digital signatures, collaborate on documents, and search for all documents within groups.
+
+The GroupDocs API allows developers to access and integrate the functionality of GroupDocs with other applications. Some example API methods include retrieving documents, managing files and folders, annotate documents, and manage account information.
+documents file-sharing management 
+File Sharing

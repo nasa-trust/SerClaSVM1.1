@@ -1,0 +1,5 @@
+Abbreviated words services
+Abbreviations
+The Abbrevations API lets you get abbreviations for a word. For example, you can submit the word "asap" to the service endpoint and get "As Soon As Possible" returned in the response. Words have categories, which are also included in the responses. Use parameters to customize requests, such as category id, sort by, search type, or a mixture of these. The Abbrevations API is from Abbreviations.com. 
+reference
+Reference

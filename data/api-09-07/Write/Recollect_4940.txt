@@ -1,0 +1,5 @@
+Garbage and recycling collection reminder service
+Recollect
+Recollect, originally VanTrash, is a garbage and recycling collection reminder service. The service allows users to get reminders about taking the garbage and recycling out. Reminders can come as texts, emails, phone calls, or tweets.
+calendar reminder
+Calendar

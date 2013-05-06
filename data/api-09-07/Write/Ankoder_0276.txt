@@ -1,0 +1,5 @@
+Video transcoding service
+Ankoder
+Ankoder is a cloud based video transcoding API enabling companies to easily integrate video functions into their web services. Its pay-per-use service keeps you up-to-date with the latest codecs and saves you from developing custom encoding solutions.
+Encoding video 
+Video

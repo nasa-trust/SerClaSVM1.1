@@ -1,0 +1,7 @@
+Music streaming, download, radio and playlist service
+Playme
+The Play.me API helps developers to plug into nearly 6 million* song catalog and create new and innovative web, mobile and desktop widgets and applications allowing music fans to do even more with the music they love (album, artists, playlists, radio, stream, download and more). there are different integration level, non commercial, affiliate program and partnership.
+
+*Depending on territory.
+downloads ecommerce mp3 music streaming 
+Music

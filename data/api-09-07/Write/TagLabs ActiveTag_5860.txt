@@ -1,0 +1,7 @@
+Mobile QR code tagging service
+TagLabs ActiveTag
+TagLabs created its ActiveTag platform to allow clients to integrate QR codes with their mobile advertising and marketing efforts. ActiveTag allows its users to generate QR codes and tie actions or content to them, enabling incentives and promotions to engage users with push-oriented interactions. Currently, only the highest &quot;Enterprise&quot; plan gives access to the ActiveTag API, and its associated analytics software. 
+
+In the ActiveTag platform a tag represents an asset of interest such as a physical product, a website, or a marketing campaign. The purpose of the ActiveTag platform is to connect these assets to customers, and to use QR codes to allow users to share these assets easily with others. The ActiveTag API is designed to enhance the ability to integrate the ActiveTag platform with existing systems, exposing methods for managing tags and collections of tags, as well as creating QR codes.
+advertising barcode marketing mobile qr 
+Advertising

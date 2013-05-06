@@ -1,0 +1,5 @@
+Online docketing service
+Royal Mail E*Pro
+Royal Mail&#039;s E*Pro service allows users to complete mailing dockets online, track invoices, and much more. Certain tasks can be accomplished in bulk, such as creating dockets and sending mail. The Royal Mail E*Pro API makes these functions available programmatically via SOAP calls in XML format.
+email mail 
+Email

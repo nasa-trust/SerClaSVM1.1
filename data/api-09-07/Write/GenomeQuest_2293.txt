@@ -1,0 +1,5 @@
+Biological data managment platform
+GenomeQuest
+GenomeQuest is the biological sequence data management platform - particularly useful for investigators using next generation sequencing technologies. Using the live version of GenomeQuest available at my.genomequest.com, you can use the URL API and HTx to access any GenomeQuest objects and their methods.
+biology science 
+Other

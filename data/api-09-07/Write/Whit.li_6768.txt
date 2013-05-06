@@ -1,0 +1,7 @@
+Social profile creation service
+Whit.li
+Whit.li is a social identity creation application that allows customers to create psycho-social identities for their users. This allows for unique user experiences within applications and sites.
+
+The Whit.li API allows developers to access and integrate the Whit.li functionality with other applications. Some example API methods include retrieving information on users from their Facebook profiles, compare user profiles, and accessing user information.
+facebook identity personalization social 
+Social

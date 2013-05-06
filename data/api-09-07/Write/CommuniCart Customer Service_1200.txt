@@ -1,0 +1,5 @@
+eCommerce store creation services
+CommuniCart Customer Service
+CommuniCart provides online shopping cart and ecommerce website design services. The CommuniCart Customer Service API allows authorized customers to login to the user&#039;s information system and query available products. Using the API, developers can allow customers to search a catalog of items, import a product catalog into their own catalog and get their wholesale pricing from the developer. The API is included at no cost for every CommuniCart storefront. The API uses SOAP protocol and responses are formatted in XML. Full documentation is not publicly available.
+shopping 
+Shopping

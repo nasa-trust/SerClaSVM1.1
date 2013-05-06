@@ -1,0 +1,7 @@
+social networking post tracking service
+Tweet Marker
+The service logs a user&#039;s accesses to Twitter via multiple platforms and tracks the last read tweet on any of them. This syncs access to a Twitter stream, allowing a user to continue reading where they left off, on any of the supported platforms.
+
+API methods support identification of the specific user across multiple clients and platforms. Methods also mark the last tweet accessed under that user account and retrieve the user&#039;s timeline from that point forward. 
+networking social tracking Twitter 
+Social

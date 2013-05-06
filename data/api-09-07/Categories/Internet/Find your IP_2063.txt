@@ -1,0 +1,11 @@
+address 1
+documentation 1
+find 1
+good 1
+homepage 1
+internet 2
+ip 5
+need 1
+requester 1
+return 2
+script 1

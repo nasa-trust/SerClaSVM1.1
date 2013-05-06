@@ -1,0 +1,7 @@
+File management service
+Wappwolf
+Wappwolf is a file management application. Users can upload documents from a variety of sources (mobile, email, web, dropbox), process photos, process documents, and share files with other people.
+
+The Wappwolf API allows developers to access and integrate Wappwolf functionality into other applications and sites. Example API methods include managing files, creating and editing user accounts, and retrieving files.
+document filesharing management photo 
+Media Management

@@ -1,0 +1,5 @@
+Spam, bot, and CAPTCHA sweatshop blocker
+Xortify
+Xortify was developed in response to attack on the XOOPS platform by rogue malicious bots, as well as CAPTCHA and spam sweat shops where individuals are paid less than 1 USD per day to set up accounts for bots to spam websites by typing past CAPTCHA puzzles. The Xortify client stops close to 99% of spam and CAPTCHA attacks. It does so by maintaining a local ban list of bad IP addresses. Users must sign up for Xortify to access this service, but they don&#039;t need to use Xortify&#039;s software to maintain or add bans to the framework. Xortify&#039;s functions are accessible programmatically via RESTful and SOAP-based APIs.
+internet security 
+Security

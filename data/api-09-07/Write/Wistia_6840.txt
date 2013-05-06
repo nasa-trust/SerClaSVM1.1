@@ -1,0 +1,7 @@
+Video hosting service
+Wistia
+Wistia is a video hosting and sharing service with built-in analytics to track your videos. With the platform you can engage your prospects, customers, and employees with video. The Wistia API provides access to much your own content, though it does not provide a way to programmatically upload videos (but there is an upload widget).
+
+Use the Wistia API to access your projects and videos. Share the videos via the API and list previous sharings. The platform also allows you to generate embed code from a video. Then you can retrieve detailed analytics about your video, including number of users to the embed page, the number who have clicked play and the average percent of the video that is watched.
+sbweb video 
+Video

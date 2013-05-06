@@ -1,0 +1,5 @@
+Real-time public transit information
+TheBus
+TheBus is the public transportation system of the City and County of Honolulu, part of the larger Oahu Transit System. TheBus provides an API for real-time bus schedule data, including vehicle arrival times and vehicle location reporting. 
+bus transit 
+Transportation

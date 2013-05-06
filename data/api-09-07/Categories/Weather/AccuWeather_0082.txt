@@ -1,0 +1,9 @@
+business 1
+contact 1
+datum 1
+development 1
+documentation 1
+forecast 1
+manager 1
+michael 1
+weather 4

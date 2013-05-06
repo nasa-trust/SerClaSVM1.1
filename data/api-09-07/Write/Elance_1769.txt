@@ -1,0 +1,5 @@
+Online job marketplace
+Elance
+The Elance Developer API exposes the Elance system through a Web-based interface that can be called from any application platform. Elance provides an online platform for freelancers and employers to connect. Using the Elance API, users can obtain profile data for providers, search our database of available jobs, and obtain listings of groups and their members. All that is required is an account and an API key. The API uses RESTful calls and responses are formatted in JSON.
+freelance jobs recruiting 
+Job Search

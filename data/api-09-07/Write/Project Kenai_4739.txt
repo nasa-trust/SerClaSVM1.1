@@ -1,0 +1,7 @@
+Collaborative open source development cloud
+Project Kenai
+Project Kenai is Sun Microsystem&#039;s connected developer destination where developers can host open source projects and code, as well as connect, communicate, and collaborate with like-minded developers. Users may set up a profile, start or join projects, discuss projects on forums, host their code, post downloadable project files, and more.
+
+Project Kenai&#039;s functions and resources are accessible programmatically using RESTful calls in JSON or JSONP.
+programming project-management 
+Project Management

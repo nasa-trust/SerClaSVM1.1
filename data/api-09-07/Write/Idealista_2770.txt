@@ -1,0 +1,5 @@
+Spanish real estate portal
+Idealista
+Idealista is the leading real estate portal in Spain. They provide a simple search API that exposes all of the site data. Search data includes address, price, pics and more. The API uses RESTful calls and responses are formatted in JSON.
+realestate search spain 
+Real Estate

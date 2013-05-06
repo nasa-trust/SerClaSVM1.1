@@ -1,0 +1,5 @@
+Independent Twitter advertising platform
+IZEA Sponsored Tweets
+The Sponsored Tweets service, provided by IZEA, the company behind PayPerPost, allows any Twitter user to sell tweets. Those interested in advertising can pay for a user to send a tweet on their behalf. The Sponsored Tweets API provides access to the company&#039;s database of Twitter users willing to sell tweets.
+advertising Twitter 
+Advertising

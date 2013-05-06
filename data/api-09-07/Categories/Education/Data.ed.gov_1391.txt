@@ -1,0 +1,14 @@
+college 1
+datum 5
+department 1
+education 4
+government 2
+grant 2
+initiative 1
+open 2
+part 1
+performance 1
+set 1
+split 1
+statistics 1
+university 1

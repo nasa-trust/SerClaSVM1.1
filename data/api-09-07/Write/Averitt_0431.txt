@@ -1,0 +1,5 @@
+Freight transportation services
+Averitt
+Averitt Express is a provider of freight transportation and supply chain management with over 100 facilities across 18 states. Averitt Web Services provide XML feeds to a developer&#039;s website or internal systems. The feeds include: real-time rate quotes specific to a user&#039;s account, real-time shipment status by PRO, transit times throughout the U.S. and Canada, retrieval of shipment-related images and documents. The API uses SOAP protocol and responses are formatted in XML.
+freight transportation 
+Transportation

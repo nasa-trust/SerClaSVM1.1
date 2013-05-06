@@ -1,0 +1,14 @@
+add 1
+determine 1
+format 1
+forum 4
+interface 1
+internet 2
+query 1
+register 1
+response 1
+social 1
+spam 3
+spammer 3
+stop 2
+try 1

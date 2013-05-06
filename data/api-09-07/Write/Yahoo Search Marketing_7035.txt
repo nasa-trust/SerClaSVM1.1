@@ -1,0 +1,5 @@
+Search advertising platform
+Yahoo Search Marketing
+From their site: The Yahoo! Search Marketing API provides programmatic access to the same functionality exposed visually in the web-based interface. You can create and manage campaigns, pull reports, set bids and more. All of these capabilities are exposed via a collection of SOAP-based Web Services that are easy to use and thoroughly documented.
+advertising 
+Advertising

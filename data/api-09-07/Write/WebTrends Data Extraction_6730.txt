@@ -1,0 +1,7 @@
+Web site analytics service
+WebTrends Data Extraction
+WebTrends is an organization providing digital marketing solutions for companies looking to expand their Web presence in the social and mobile arenas, as well as on the Web. Their platform focuses on leveraging analytics and data collection to empower their clients to make informed decisions about their digital marketing endeavors.
+
+The WebTrends Data Extraction API allows users to programmatically retrieve WebTrends Analytics profile and report data. Furthermore, this web service exposes functions for the creation of feeds for alerts and notes, and monitoring metrics for profiles. Finally, this RESTful API enables developers to integrate their WebTrends Data Mart with other systems, allowing for custom integration of analytics data.
+analytics internet marketing metrics 
+Internet

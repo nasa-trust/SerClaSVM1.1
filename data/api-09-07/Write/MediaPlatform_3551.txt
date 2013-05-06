@@ -1,0 +1,7 @@
+Video Sharing Service
+MediaPlatform
+Mediaplatform provides a platform for utilizing video media for purposes of archiving and sharing across the web. Provides solutions to problems involved in the production, delivery and management of digital video content.
+
+The API allows integration with enterprise portals like Microsoft SharePoint, IBM WebSphere, and Oracle WebCenter as well as social business software such as Jive and Yammer for cross-platform compatibility. 
+media-management network video 
+Media Management

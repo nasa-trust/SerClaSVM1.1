@@ -1,0 +1,14 @@
+broker 1
+documentation 1
+event 2
+evolution 3
+industry 1
+manage 1
+own 1
+sales 1
+secondary 2
+sell 2
+shopping 1
+software 2
+solution 1
+ticket 9

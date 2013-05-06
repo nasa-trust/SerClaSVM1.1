@@ -1,0 +1,5 @@
+User reviews database and services
+RateItAll
+Use the RateItAll Consumer Rating API to add to your consumer reviews with some of the millions of consumer ratings in RateItAll&#039;s database, to collect and display ratings and reviews from your user base, and to distribute and promote your data to RateItAll.com&#039;s large user base. Also, monetization opportunities are available.
+recommendations reviews 
+Recommendations

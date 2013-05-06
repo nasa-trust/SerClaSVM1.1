@@ -1,0 +1,5 @@
+Mobile services
+Skydeck
+Use the Skydeck API to access your mobile phone call log, address book, and the minutes remaining for the month. Users give permission to developers to access their call logs, address book, or minutes remaining so that their information is available for developer applications. Use of OAuth is required for all applications that use this API, although only an API key is necessary to access your own account&#039;s information.
+deadpool iPhone mobile telephony 
+Telephony

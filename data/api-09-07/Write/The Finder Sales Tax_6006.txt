@@ -1,0 +1,7 @@
+Ohio sales tax data service
+The Finder Sales Tax
+The service from the Ohio Department of Taxation provides applicable sales tax amount to be applied to a purchase subject to tax according to state law. It generates all relevant tax percentages according to either the zip code or the exact address specified by the application that makes the service call. 
+
+API methods support submission of a correctly formatted address within Ohio or a U.S. Postal Service ZIP code along with the price subject to tax and the purchase data. Returned data include the amount of sales tax payable to the state government for the specified sale.
+government payment sales tax usa 
+Government

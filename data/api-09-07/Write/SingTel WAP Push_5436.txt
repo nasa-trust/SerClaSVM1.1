@@ -1,0 +1,5 @@
+WAP Push service
+SingTel WAP Push
+SingTel exposes a set of web services that offer a mixture of telecom and marketplace capabilities. SingTel WAP Push API allows you to access WAP Push service provided by SingTel. At this point in time, individual developers without any company representation are not granted access to the APIs. 
+internet mobile Singapore telephony WAP 
+Telephony

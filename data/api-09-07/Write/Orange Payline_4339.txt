@@ -1,0 +1,5 @@
+Electronic payment service
+Orange Payline
+Orange is France Telecom&#039;s single brand for Internet, television and mobile. France Telecom is a leading telecommunications operator in Europe. The Payline API lets developers implement electronic payments into their sites and applications. Payline receives, authenticates and ensures payment for domestic and international payment methods: international cards, direct debits, transfers, pre-paid accounts, etc, in all European currencies and those of numerous countries of the world. The API uses SOAP protocol and responses are formatted in XML.
+mobile payment telephony 
+Payment

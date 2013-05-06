@@ -1,0 +1,16 @@
+analysis 1
+content 2
+extract 1
+extraction 2
+format 1
+large 1
+list 1
+one 1
+perform 1
+phrase 1
+response 1
+search 4
+technology 1
+term 2
+words 1
+yahoo 2

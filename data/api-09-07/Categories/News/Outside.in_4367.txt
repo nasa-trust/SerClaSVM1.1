@@ -1,0 +1,16 @@
+aggregator 1
+blog 1
+city 1
+code 1
+datum 1
+integrate 1
+local 1
+neighborhood 1
+news 5
+post 1
+recent 1
+search 1
+state 2
+story 1
+unite 1
+zip 1

@@ -1,0 +1,5 @@
+New Zealand events calendar
+Eventfinder
+NOTE: No API documentation is available on their site. From their site: Eventfinder is an events calendar that focuses on what's on from around New Zealand. 
+events 
+Events

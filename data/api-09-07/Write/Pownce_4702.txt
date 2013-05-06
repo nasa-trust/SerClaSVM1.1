@@ -1,0 +1,5 @@
+Social networking and micro-blogging service
+Pownce
+Pownce is a social networking platform that lets you keep up friends in interesting ways. Send messages, files, links, and event invitations to the whole pownce community, or to just your friends, or to groups of your friends, or to specific people directly. API v2 released Feb 2008.
+blogging deadpool microblogging social 
+Social

@@ -1,0 +1,5 @@
+Agile project management tool
+Agile Bench
+Agile Bench calls itself &quot;the easiest way to manage agile projects.&quot; Agile Bench helps manage teams, products and releases. It makes estimating work and controlling costs easy. The Agile Bench API provides read-only access to agile resources like projects and iterations. It also provides read/write access to stories and comments.
+agile development project-management 
+Project Management

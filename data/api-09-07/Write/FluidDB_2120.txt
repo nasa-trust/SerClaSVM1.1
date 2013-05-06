@@ -1,0 +1,7 @@
+Information Architecture & Database Service
+FluidDB
+&quot;FluidDB is a single web of things providing a no-questions-asked writable social object to represent each and every thing. Using a flexible underlying representation of information and a new model of control, it allows users and applications to work with information without constraint. That includes dynamically organizing, sharing, combining and augmenting information, and searching in ways that have previously not been possible. It also allows users to choose exactly which information to share with whom, with separate controls for reading and writing.&quot;
+&quot;FluidDB makes it possible for data to be social. It allows almost unlimited information personalization by individual users and applications, and also between them. This makes it simple to build a wide variety of applications that benefit from cooperation, and which are open to unanticipated future enhancements. Even more importantly, FluidDB facilitates and encourages the growth of applications that leave users in control of their own data.&quot;
+The FluidDB API makes it possible for developers to create their own apps that can programmaticaly search the FluidDB datbase.
+database 
+Database

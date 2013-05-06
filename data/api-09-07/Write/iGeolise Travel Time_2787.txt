@@ -1,0 +1,7 @@
+Transportation time estimation service
+iGeolise Travel Time
+The service provides estimate of travel time from a given location to a list of destinations and a specified travel mode such as walking, driving, train, bus, etc. It also provides a map of the fastest route between specified origin and destination locations, with adjustment for travel mode. 
+
+API methods support specification of an origin point by latitude and longitude, a travel mode, a time limit, and the type of destination. Returned data provide destinations of the requested type within the specified travel time range. Methods also allow specification of a point of origin, destination, and travel mode to receive the fastest available route. The API also supports geocoding for specified U.K. postal codes.
+mapping route traffic transportation travel 
+Transportation

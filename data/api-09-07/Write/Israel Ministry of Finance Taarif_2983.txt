@@ -1,0 +1,5 @@
+Israeli tariff reference service
+Israel Ministry of Finance Taarif
+The Israel Ministry of Finance provides the Taarif API, which gives users programmatic access to data on Israeli tariffs. This API is accessible using SOAP calls issued in XML format. Functions are provided for retrieving customs rates system tables, customs rates texts, customs rates HS Codes, customs rates quotas, and additional texts for HS Codes. HS Codes (Harmonized System Codes) are part of an internationally standardized system of names and numbers for classifying traded products. 
+reference government israel financial
+Financial

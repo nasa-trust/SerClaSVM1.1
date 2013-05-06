@@ -1,0 +1,5 @@
+Internet-based, inter-device communication service
+Across Communications
+Across Communications is a web-based service that provides a platform and infrastructure for delivering messages from any computer connected to the Internet to a wide variety of communication devices. This allows users to integrate phone calls, faxes, SMS, ICQ, MSN, numeric pagers, and e-mail. Across Communications&#039; SOAP-based APIs allow users to access many of their services programmatically.
+messaging telephony 
+Telephony

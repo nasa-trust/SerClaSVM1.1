@@ -1,0 +1,6 @@
+add 1
+capability 1
+customize 1
+engine 1
+product 1
+search 6

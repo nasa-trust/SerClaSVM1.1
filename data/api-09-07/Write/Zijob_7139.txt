@@ -1,0 +1,8 @@
+French job search service
+Zijob
+Zijob is a French employment site that allows candidates to seek employment from more than 600 jobs and submit their resumes, and recruiters to post job offers. The Zijob API allows users to search across all jobs, connect to an account recruiter and publishing deals. Users can also Publish/edit/delete a job offer, publish/edit a company, manage resumes and applications. The API can be used to create web applications for desktop or mobile phone. It uses RESTful calls and returns XML formatted responses. The site and documentation is in French.
+
+
+
+france jobs recruiting 
+Job Search

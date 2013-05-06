@@ -1,0 +1,15 @@
+create 1
+custom 1
+datum 1
+draw 1
+enterprise 1
+idea 1
+lean 1
+management 3
+manufacture 1
+personal 1
+project 5
+solution 1
+thinking 1
+way 1
+zen 4

@@ -1,0 +1,5 @@
+Photo conversion service
+Lica
+The service renders uploaded photos as line drawings with simplified, stylized contours. Users can specify the levels of detail and extent of processing during conversion to control the appearance of the output.
+image utility photos graphics
+Utility

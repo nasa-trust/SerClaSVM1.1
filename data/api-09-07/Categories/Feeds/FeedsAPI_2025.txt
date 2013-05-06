@@ -1,0 +1,12 @@
+ability 1
+content 1
+feed 6
+full 1
+news 1
+output 1
+page 1
+separate 1
+shorten 1
+static 1
+text 2
+turn 3

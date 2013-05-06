@@ -1,0 +1,7 @@
+Citation reference index
+Thomson Reuters Web of Science
+Web of Science is a cited reference index, which acts as a tool for discovery and the only method of retrieving accurate citation counts. Users can trace a particular research forward in time or backward in time to see how works grow and develop in a focused area of research using the only true cited reference index. 
+
+The Web of Science API lets users access the data within the index. Data includes records such as topic, title and author information. The service offers the ability to access formatted, current information for enhancing an institution???s repository, perform automatic, real time querying of multiple records, deliver real-time Web of Science information into multiple institutional applications such as department web pages or institutional repository. The API uses SOAP protocol and responses are formatted in XML. Full documentation is not publicly available.
+reference research science 
+Reference

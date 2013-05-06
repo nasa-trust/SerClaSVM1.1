@@ -1,0 +1,13 @@
+attendance 1
+calendar 2
+create 1
+date 1
+event 4
+find 1
+give 1
+indicate 1
+local 1
+location 1
+monitor 1
+schedule 1
+social 3

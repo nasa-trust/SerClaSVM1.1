@@ -1,0 +1,15 @@
+atlanta 1
+bike 5
+calling 1
+cycling 1
+example 1
+functionality 1
+integrate 1
+location 1
+method 1
+phone 1
+program 1
+retrieve 2
+sharing 3
+text 1
+transportation 2

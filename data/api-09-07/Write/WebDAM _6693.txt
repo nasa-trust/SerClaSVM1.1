@@ -1,0 +1,7 @@
+Digital asset management service
+WebDAM 
+WebDAM is a web-based digital asset management platform. Users of WebDAM can upload, organize, store, manage, and share their digital assets, such as photos, videos, logos, and other digital assets. 
+
+The WebDAM API allows developers to access and integrate the functionality of WebDAM with other applications and systems. Some example API methods include managing digital assets, adding digital assets, deleting digital assets, creating asset folders, and searching digital assets.
+Asset content digital management media-management 
+Media Management

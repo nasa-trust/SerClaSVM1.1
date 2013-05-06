@@ -1,0 +1,5 @@
+Online payment service
+PayPal MassPay
+Use Mass Payments to send up to 250 payments to different payees in one batch. It&#039;s a fast and convenient way to send all kinds of disbursements, including commissions, rebates, rewards, and general payments. The API uses SOAP protocol and responses are formatted in XML.
+finance payment 
+Payment

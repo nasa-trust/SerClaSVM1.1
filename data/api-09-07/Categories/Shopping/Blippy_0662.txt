@@ -1,0 +1,12 @@
+create 1
+datum 1
+friend 1
+money 1
+much 1
+purchase 1
+share 1
+shopping 2
+so 1
+social 1
+spending 2
+tool 1

@@ -1,0 +1,7 @@
+Flash or HTML5 charting and graphing service
+ZingChart
+The service allows creation of charts and graphs in Flash or HTML5 formatting using programmatic controls. Applications supply data to be charted and specifications for the graphical appearance to be generated. The service renders imagery reflecting the input data according to the specified output formatting.
+
+API methods support uploading of datasets along with output formats: image format and quality level, width and height, encoding standards, file location, etc. The service renders the chart specified by the output variables in the request. Tutorials demonstrate creation of static images, downloadable PDF, and overall use of the API methods.
+graphics html5 image utility visualization 
+Utility

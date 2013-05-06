@@ -1,0 +1,17 @@
+aim 1
+call 2
+code 4
+details 1
+endpoint 1
+given 1
+location 3
+reference 1
+regard 1
+rest 1
+soap 1
+state 1
+tool 2
+type 1
+unite 1
+usa 2
+zip 4

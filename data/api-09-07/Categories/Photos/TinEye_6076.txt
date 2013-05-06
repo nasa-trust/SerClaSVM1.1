@@ -1,0 +1,15 @@
+brand 1
+commercial 2
+compliance 1
+copyright 1
+image 8
+inc 1
+match 1
+monitoring 1
+photo 2
+reverse 2
+search 4
+tracking 1
+upload 1
+url 1
+usage 1

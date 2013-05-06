@@ -1,0 +1,5 @@
+eCommerce payments service
+Amazon Flexible Payments Service
+From their site: The first payments service designed from the ground up specifically for developers. The set of web services APIs allows the movement of money between any two entities, humans or computers. It is built on top of Amazon&#039;s reliable and scalable payment infrastructure. Amazon FPS offers developers unmatched flexibility in how they can structure payment instructions, including standing instructions that can remain in place for multiple transactions.
+payment shopping 
+Payment

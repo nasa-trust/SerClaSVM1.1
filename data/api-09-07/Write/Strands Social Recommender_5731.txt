@@ -1,0 +1,5 @@
+Social Recommendations API
+Strands Social Recommender
+Strands Social Recommender is a recommendation engine that enables social recommendations and personalized discovery features in web or wap sites, mobile applications as well as through email platforms. Using the APIs, developers can create a user experience involving personalized suggestions of products and media goods, similar to what is found in sites like Amazon, Netflix, or YouTube. This is a REST-style API that accepts standard HTTP GET or POST requests and returns responses in either XML or JSON format.
+recommendations social 
+Recommendations

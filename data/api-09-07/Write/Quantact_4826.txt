@@ -1,0 +1,5 @@
+Virtual Private Server hosting
+Quantact
+The Quantact API allows control of Quantact&#039;s services over standard https, without logging into the Quantact Control Panel (QCP). Most functions available in the QCP are currently supported, with more to come. Quantact provides Virtual Private Server hosting. To use the Quantact API, users need a Quantact account. The API must be enabled in the QCP on the profile page, which generates an API password that must be supplied with every API call. The API uses RESTful calls and responses are formattted in XML.
+hosting Server virtual 
+Internet

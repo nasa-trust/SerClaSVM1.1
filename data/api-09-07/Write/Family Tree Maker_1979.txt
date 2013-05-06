@@ -1,0 +1,7 @@
+Genealogy search service
+Family Tree Maker
+The service, associated with Ancestry.com, provides search results against the provider&#039;s database of genealogy and family history information. Functionality supports synchronizing a desktop Family Tree Maker database with online member family trees. Documentation comes from a third-party source.
+
+API methods support submitting a search for genealogical information about an individual specifying related family roles and profile data. Methods also allow listing of providers with information potentially related to that search. 
+family genealogy search 
+Search

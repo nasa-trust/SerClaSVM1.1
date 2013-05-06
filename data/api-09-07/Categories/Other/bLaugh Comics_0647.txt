@@ -1,0 +1,5 @@
+comic 1
+comic_strip 2
+humor 1
+magazine 1
+strip 1

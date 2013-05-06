@@ -1,0 +1,5 @@
+Digital and virtual goods payment service
+Facebook Credits
+The Facebook Credits API enables a user to use credits as a method for purchasing digital and virtual goods within an application. A user places an order by clicking a &quot;Pay with Facebook&quot; button. The order gets submitted to Facebook through JavaScript. Based on the contents of the &#039;order_info&#039; parameter passed to Facebook and Facebook gets the item details. Responses are formatted in JSON.
+games payment virtual 
+Payment

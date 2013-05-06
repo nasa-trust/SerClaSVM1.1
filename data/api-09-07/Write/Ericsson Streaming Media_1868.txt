@@ -1,0 +1,5 @@
+Streaming Media Status Tools
+Ericsson Streaming Media
+Ericsson Labs provides a way for developers to monitor and test the status of various media streaming connections, either through the Streaming Media web pages or through a RESTful API. Users can request a JSON list of the test contents, a log of all tests, a log of tests for a specific connection, a list of users with a successful connection, or a detailed monitor log for one session.
+audio deadpool streaming telephony video 
+Video

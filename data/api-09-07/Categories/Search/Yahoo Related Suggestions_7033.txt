@@ -1,0 +1,6 @@
+query 2
+relate 3
+search 3
+submit 1
+suggestion 4
+yahoo 1

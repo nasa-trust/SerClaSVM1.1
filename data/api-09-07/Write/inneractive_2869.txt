@@ -1,0 +1,5 @@
+Mobile advertising mediation service
+inneractive
+Inneractive is a mobile ad mediation provider with over 100 ad networks and local agencies available at the click of a button. Inneractive helps developers monetize their apps by giving them tools that let them serve targeted ads to their users. The company offers SDKs for Android, J2ME, Symbian & Qt. For other platforms, developers can use an HTTP based API to gain access to multiple ad networks. Documentation for the API is not publicly available.
+advertising mobile telephony 
+Advertising

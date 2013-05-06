@@ -1,0 +1,7 @@
+Illinois election data service
+Illinois State Board of Elections
+The service provides access to voter registration information in the U.S. state of Illinois. The state maintains rolls of qualified voters and makes this public data accessible to registered political committees, which includes individuals or organizations making contributions above $3000 in support or opposition to candidates and ballot measures. 
+
+API methods support search for registered voter information and signature data statewide. Methods also allow for updating voter registration records.
+Illinois politics 
+Politics

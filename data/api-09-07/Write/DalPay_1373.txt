@@ -1,0 +1,7 @@
+Icelandic online payment service
+DalPay
+The service from Iceland provides PCI-compliant processing of online payments via credit cards and debit cards, with CVV validation. It allows pre-authorization of transactions and final payment processing, including funds capture. It also allows processing of refunds and updating or voiding transactions.
+
+API methods support submission of a transaction for payment, with seller information, transaction amount, and customer name, card number, etc. Methods also handle pre-authorization, voiding a pending transaction, and processing a refund, if needed. Rebilling methods allow scheduling of recurring payments.
+iceland payment shopping 
+Payment

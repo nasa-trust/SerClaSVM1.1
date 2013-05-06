@@ -1,0 +1,7 @@
+Persistent web URL service for science applications
+BioWeb.me
+The service provides persistent URLs for science applications to maintain access to them as their hosting environments change over time. Based on a finding that URLs change for almost half of all scientific web services within 5 years, the service defines an access URL that forwards to a current access address. Forwarding information can be updated if access information changes, so the service&#039;s URL continues redirecting to the updated location.
+
+API methods support submission of an encoded URL and return a shortened URL at the service&#039;s domain. Submissions can also specify a desired URL tag, and the API will return either the shortened URL using that tag or an error message if it is already in use.
+internet science tools url-shortener 
+Tools

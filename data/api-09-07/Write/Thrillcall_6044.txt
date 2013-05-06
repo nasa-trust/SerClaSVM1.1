@@ -1,0 +1,5 @@
+Music concert, tickets and tour information
+Thrillcall
+Thrill call is a web site that acts as a hub where fans can find tour dates, tickets and reviews at the best venues to see live music. For artists, Thrillcall helps with event and concert promotion across social networks such as Facebook, Myspace, and Twitter, and instantly publishes event and ticket data into the Thrillcall database. The API exposes the functionality of the site including listing and searching for artists, events and venues. It uses RESTful calls and responses are formatted in JSON.
+events music tickets 
+Music

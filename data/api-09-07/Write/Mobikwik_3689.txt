@@ -1,0 +1,5 @@
+Mobile phone top up service
+Mobikwik
+Mobikwik.com provides a free mobile recharge API which can be used to provide topup services for prepaid mobile phones in India. The API allows users to recharge phones at a given number, retrieve the recharge status, check balances and retrieve discount coupons. It uses RESTful calls with responses formatted in XML.
+telephony 
+Telephony

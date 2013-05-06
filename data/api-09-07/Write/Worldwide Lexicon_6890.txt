@@ -1,0 +1,7 @@
+Open source, collaborative language translation service
+Worldwide Lexicon
+The service provides an open source platform for translation of text selections into different languages. It merges results from machine translation with submissions from human translators, both professional service providers and program volunteers. The service seeks to build a database of translations for integration with other websites and web applications.
+
+API methods support queries against the database to identify passages already logged, then retrieval of either machine or human translations, if they exist. Methods also support review of translation history of a passage and activities of particular participating translators, including other users&#039; comments and scores as well as an option to block input from those sources. The API allows for submission of new translations and related involvement in the community around the service.
+language localization reference Translation 
+Reference

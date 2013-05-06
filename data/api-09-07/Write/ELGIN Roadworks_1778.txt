@@ -1,0 +1,7 @@
+U.K. road construction information service
+ELGIN Roadworks
+The U.K. service provides timely information about roadworks and construction projects. It aggregates and repackages information from a number of sources, including government agencies under the Open Government License. Applications can use the information to coordinate local construction activities, manage emergency response near construction zones, or influence route optimization for traffic mapping and similar applications.
+
+API methods support search by location for road construction underway and planned. Methods also support mapping of construction projects, with further access to relevant data about each project.
+mapping route traffic transportation 
+Transportation

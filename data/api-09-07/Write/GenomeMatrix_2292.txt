@@ -1,0 +1,5 @@
+Multi-species genome analysis service
+GenomeMatrix
+GenomeMatrix performs parallel genome analyses and connects multi-species functional information with a collection of manually curated experimental data. It is capable of displaying multi-species data sets for single genes, pathways, or entire chromosomal regions inside an interactive matrix display. If desired, users can retrieve additional detailed information and references. Some of GenomeMatrix&#039;s functions are available programmatically as SOAP APIs.
+bioinformatics genetics science 
+Science

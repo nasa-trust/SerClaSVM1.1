@@ -1,0 +1,8 @@
+Online word pronunciation guide
+Forvo
+The Forvo API allows users to integrate the functionality of Forvo into their websites or applications. Forvo is the largest pronunciation guide in the world, the place where you will find millions of words pronounced in their original languages. Ask for that word or name, and another user will pronounce it for you. You can also help others by recording your pronunciations in your own language.
+
+Currently the API allows users to read or listen to word pronounciations with future functionality to include search, languages and standard pronounciations. Possible uses include adding pronunciations for your dictionary or creating a better Google Translate with real human pronunciations. This RESTful API returns responses in either XML, JSON or JS-tag format.
+
+education languages learning pronunciation reference 
+Reference

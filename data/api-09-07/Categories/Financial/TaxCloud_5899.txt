@@ -1,0 +1,15 @@
+address 1
+calculate 1
+calculation 1
+call 1
+destination 1
+finance 2
+format 1
+management 1
+response 1
+retail 1
+retailer 1
+sales 3
+soap 1
+state 1
+tax 4

@@ -1,0 +1,7 @@
+Social media integration service
+Allyve
+allyve All-in-One is a Software-as-a-Service that unifies APIs from 10 popular social networks including Facebook, Twitter, Linkedin and Xing to provide web businesses (website and apps) with an All-in-One API for social media integration. There are additional software development kits (Java, PHP, .NET) for a fast implementation and beyond that, allyve provides 9 different Social Plugins for more user interaction. 
+
+With the API developers can give their visitors a way to log on its existing profile on social networks to disseminate content to their site and viral way to communicate with friends on these networks. The API provides  profile and friends data of the visitor, such as name, address, interests (social graph) and address books. The site and documentation are in German.
+authentication social 
+Social

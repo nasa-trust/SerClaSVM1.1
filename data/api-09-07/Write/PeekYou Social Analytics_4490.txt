@@ -1,0 +1,5 @@
+Social network mapping and information service
+PeekYou Social Analytics
+The service aggregates standardized information from over 60 social sites and a range of blogs to define a digital footprint of fans and followers specified to create a picture of those users. The Social Audience API supports awareness of audience and message to enable audience measurement for social analytics platforms, including audience type, age range, gender, location, social affiliations, social activity, interest, work, school related tags, and proprietary scores for Sociability, Network, and Reach. 
+social analytics
+Social

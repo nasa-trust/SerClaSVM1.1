@@ -1,0 +1,7 @@
+Electronic coupon and discount service
+Cellfire
+Cellfire is a service that offers electronic coupons. Users can save their coupons to their grocery store savings card. The savings can be redeemed at checkout, and the service is available via website or mobile application.
+
+The Cellfire API allows developers to access and integrate the functionality of Cellfire into other applications. Some example API methods include adding coupons and discounts to the Cellfire platform, listing coupons and discounts on websites, and editing coupon and discount information. Public documentation is not available; interested developers should register here http://developer.cellfire.com/member/register for access.
+coupons deadpool Grocery mobile shopping 
+Shopping

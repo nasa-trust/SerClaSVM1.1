@@ -1,0 +1,7 @@
+Clinical trials database and registry
+ClinicalTrials.gov
+ClinicalTrials.gov is a registry and results database of federally and privately supported clinical trials conducted in the United States and around the world. ClinicalTrials.gov gives visitors information about a trial&#039;s purpose, who may participate, locations, and phone numbers for more details. 
+
+This API provides a method for creating links to ClinicalTrials.gov or downloading ClinicalTrials.gov data in XML format. Obtain information including a trial&#039;s purpose, who may participate, locations, and phone numbers for more details about clinical trials being conducted throughout the United States and in many countries throughout the world. The API uses RESTful calls and responses are formatted in XML.
+medical reference research science 
+Medical

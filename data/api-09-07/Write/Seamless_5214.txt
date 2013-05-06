@@ -1,0 +1,7 @@
+Food ordering and delivery service
+Seamless
+Seamless is an online and mobile food ordering and delivery service. Users can use Seamless to order food and get it delivered to where they are.
+
+The Seamless API allows developers to access and integrate the functionality of Seamless with other applications and to create new applications. Public documentation is not available; interested developers should sign up for an API key here: http://www.seamless.com/business-development/developers/.
+delivery food restaurant 
+Food

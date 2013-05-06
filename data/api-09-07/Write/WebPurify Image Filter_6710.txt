@@ -1,0 +1,5 @@
+Image moderation service
+WebPurify Image Filter
+The WebPurify Image Moderation Web Service allows you to integrate live moderators into your application. WebPurify moderates over 100,000 images per day. Our service provides an easy to use API to quickly moderate your images based on either our standard criteria or your custom criteria. You will no longer have to spend valuable time maintaining a CMS or moderating images for your application.
+Filter image moderation photo utility 
+Photos

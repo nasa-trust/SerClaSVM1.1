@@ -1,0 +1,7 @@
+Mobile email messaging service
+Orange Personal Messages
+From their site: The Personal Messages API gives your application real time access to the message boxes of Orange France customers, enabling them to be alerted of their emails at any time. And soon they will be able to check their SMS, MMS, and much more. Part of the Personal APIs Alpha suite.
+
+Some portions of this website are in French. 
+france Global messaging mobile sms telephony 
+Email

@@ -1,0 +1,5 @@
+San Francisco bike route planning service
+Bikesy
+Bikesy is an open bike mapping system used for finding biking routes in the San Francisco Bay Area. The service focuses on providing users with the safest bike routes with the least change in elevation. The API lets developers access bike route data for use in their own websites and applications. The API accepts a number of inputs such as starting and ending points, reluctance to ride hills and safety. It uses RESTful calls and responses are formatted in XML and JSON.
+cycling mapping safety 
+Mapping

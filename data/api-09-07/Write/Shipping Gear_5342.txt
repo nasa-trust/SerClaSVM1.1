@@ -1,0 +1,5 @@
+eCommerce shipping calculation service
+Shipping Gear
+Shipping Gear is an API that aims to help users with eCommerce shipping. Currently it supports one method where the user can calculate the result of package physical weight and volume comparison for given dimensions which represents the total chargeable weight for specific carrier. It supports the following carriers: DHL, TNT, Parcelforce, FedEx, UPS. The API uses HTTP calls and responses are formatted in JSON.
+ecommerce shipping tools 
+Shipping

@@ -1,0 +1,7 @@
+UK museum and history information service
+Black Country History
+The service provides information about museum holdings, archives, images, and historic artifacts related the the Black Country. This region in central England west of Birmingham is prominent in UK history for coal mining and metalworking industries. Search can be targeted to museum holdings alone, to local document archives, or to the broader collection of artifact records. Partners in the resource include organizations from the towns of Dudley, Sandwell, Walsall, and Wolverhampton.
+
+API methods support submission of queries to an Open Search application using Lucene, filtered if desired by metadata fields in the Dublin Core structure: title, creator, description, creation date, subject, etc. Methods also allow formatting of results returned, including sort, format grouping, etc.
+education history uk 
+Education

@@ -1,0 +1,5 @@
+Social network service
+Google Friend Connect
+The Google Friend Connect API gives developers an easy way for one-click user authentication using any of Google, Yahoo, AIM, or OpenID accounts. Google Friend Connect APIs enable developers integrate social flows and data directly within a page&#039;s markup, via the OpenSocial standard specification. Integrate existing login systems, registered users, and existing data with new social data and activities. Create social gadgets and services that are embeddable within millions of Friend Connect enabled sites.
+deadpool opensocial social 
+Social

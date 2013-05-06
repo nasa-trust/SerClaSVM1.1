@@ -1,0 +1,5 @@
+Email delivery services
+Email2HTTP
+From their site: Email2HTTP is a service that turns incoming email into easy-to-handle HTTP POST requests. Use Email2HTTP to make your web applications capable of accepting email. Maybe you have a document storage or photo album website that could benefit from users being able to email files directly into their accounts. To use Email2HTTP, simply sign up for an account, tell us your domain name(s), and the URLs you would like to have your email sent to. Then just write web scripts to handle the email.
+email 
+Email

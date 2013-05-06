@@ -1,0 +1,5 @@
+Online identity verification service
+Verify.IM Trust
+The Verify.IM verification API lets users integrate the Verify.IM service into their web site via a CURL call. Verify.IM is an independent third-party verification service that protects users&#039; online identities. The API returns member approved public data including account type, user name, business name and more. It uses RESTful protocol and responses are formatted in either XML or JSON.
+identity security verification 
+Security

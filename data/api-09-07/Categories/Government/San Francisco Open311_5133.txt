@@ -1,0 +1,15 @@
+citizen 1
+create 1
+government 2
+graffito 1
+issue 3
+mapping 1
+neighborhood 2
+pothole 1
+public 1
+reporting 2
+response 1
+return 1
+system 1
+tool 1
+tracking 1

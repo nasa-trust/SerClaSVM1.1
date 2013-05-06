@@ -1,0 +1,17 @@
+activity 1
+appear 1
+basic 1
+comment 1
+datum 2
+design 1
+extension 1
+friend 2
+like 1
+make 1
+method 1
+none 1
+see 1
+share 2
+so 1
+social 6
+widget 1

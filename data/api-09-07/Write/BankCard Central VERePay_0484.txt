@@ -1,0 +1,5 @@
+eCommerce gateway
+BankCard Central VERePay
+The BankCard Central VerePay Virtual Terminal is a secure, browser-based solution that enables  businesses to authorize, process, and manage credit card transactions from any computer. The VERePAY Gateway Switch (VERePAY) is a gateway that supports the secure transmission of transactions by routing the transaction to the appropriate credit card processor. The API uses HTTP/S calls.
+deadpool ecommerce payment security verification 
+Payment

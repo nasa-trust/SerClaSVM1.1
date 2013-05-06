@@ -1,0 +1,5 @@
+Chinese internet portal
+Tencent
+Tencent is China&#039;s largest and most used Internet service portal. Tencent provides Internet, mobile and telecom services and online advertising. Tencent???s leading Internet platforms include QQ (QQ Instant Messenger), QQ.com, QQ Games, Qzone, 3g.QQ.com, SoSo, PaiPai and Tenpay. Tencent&#039;s API gives developers access to the data and functionality of it&#039;s microblogging service. Methods provided give access to the timeline, trends, related topics, tags and more. The API uses RESTful calls and responses are formatted in XML and JSON. The site and documentation are in Chinese.
+china internet social 
+Internet

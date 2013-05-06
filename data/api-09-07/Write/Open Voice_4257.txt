@@ -1,0 +1,5 @@
+VoIP telephony services
+Open Voice
+From their site: Open Voice APIs to provide third-party developers and VoIP device manufacturers with open standards protocols that will enable them to easily integrate the AIM Call Out service into softphones, as well as SIP-enabled hardware and cell phones with wi-fi connectivity.
+telephony VoIP 
+Telephony

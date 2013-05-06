@@ -1,0 +1,5 @@
+Image recognition and search service
+Moodstocks
+The Moodstocks API enables users to integrate visual search into an application. Moodstocks is a company dedicated to visual search on the Internet. They analyze images in terms of their visual properties like color, shape, and texture, interlink them based on their visual similarity and display them into state-of-the-art interfaces. The Moodstocks API provides users with a set of web services to deal with image recognition. It comes with a dashboard to upload data and follow stats in real time. It uses a RESTful protocol and responses are formatted in JSON.
+deadpool photo recognition search 
+Photos

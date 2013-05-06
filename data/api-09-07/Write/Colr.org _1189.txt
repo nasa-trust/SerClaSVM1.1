@@ -1,0 +1,7 @@
+Color and color scheme service
+Colr.org 
+Colr.org is an online service that allows users to search for images, colors, and color schemes. Users can edit colors and color schemes, tag them, and download them. Users can also search for similar colors and color schemes based off of other colors and color schemes.
+
+The Colr.org API allows users to retrieve colors and color schemes, see information about colors and color schemes, retrieve random color schemes, and add tags to colors and color schemes.
+color webdesign 
+Other

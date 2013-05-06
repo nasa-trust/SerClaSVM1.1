@@ -1,0 +1,10 @@
+account 1
+create 1
+doe 1
+entire 1
+host 2
+html 1
+installation 1
+like 1
+require 1
+write 1

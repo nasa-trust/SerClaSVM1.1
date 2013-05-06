@@ -1,0 +1,5 @@
+Medical practice managment software
+Practice Fusion
+Practice Fusion is a provider of a web-based Electronic Health Record (EHR) application aimed at physicians. Practice Fusion is currently being used by over 150,000 physicians and practice managers in 50 states. The EHR is used by practice managers to schedule appointments, complete medical charts, send prescriptions, do complete billing and more. The API allows developers to integrate EHR functionality into existing systems and applications. Full documentation is not publicly available.
+health management medical office 
+Office

@@ -1,0 +1,5 @@
+Blogging Service
+Netalive
+Netalive.org is a social community allowing users to have discussions about any topic with other users. Users can post topics, posts, responses to posts, and personal journals. The Netalive API allows developers to access read-only data from Netalive; the API can pull data such as Posts, Topics, and Recent Posts from Netalive but it cannot push data to Netalive. The API has two protocols, XML-RPC and REST. The REST API is easier to use and consumes less bandwidth than the XML-RPC API, however the XML-RPC API is more standardized. 
+blogging social 
+Blogging

@@ -1,0 +1,9 @@
+Business and campaign telephony management service
+CallFire Cloud
+Callfire provides a variety of services for call centers, voice broadcasting, Customer Relationship Management, Interactive Voice Response, and other telephony-related business and campaign operations.
+
+The Callfire Cloud API provides programmatic access to a number of Callfire services including sending and replying to SMS messages, area code validation, call recording reports, finding and ordering toll-free numbers, and campaign management.
+
+This is a RESTful API that returns data as XML. An API key and an account with service are required for use.
+marketing telephony 
+Telephony

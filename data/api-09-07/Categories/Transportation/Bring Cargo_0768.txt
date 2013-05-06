@@ -1,0 +1,8 @@
+bring 1
+cargo 2
+delivery 1
+europe 1
+european 1
+shipping 1
+transportation 2
+uk 1

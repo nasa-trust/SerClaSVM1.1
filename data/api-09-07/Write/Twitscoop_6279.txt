@@ -1,0 +1,5 @@
+Twitter trend visualisation tool
+Twitscoop
+Twitscoop is a real-time Twitter-trend visualization tool powered by an algorithm that parses tweets into tags and ranks them by frequency of use versus normal usage. The Twitscoop API allows a selected number of partners to integrate Twitscoop???s data to integrate with their own applications.
+monitoring news social tracking visualization 
+News

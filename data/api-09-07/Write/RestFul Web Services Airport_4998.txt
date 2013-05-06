@@ -1,0 +1,5 @@
+Airport code reference service
+RestFul Web Services Airport
+Airport codes are short codes that are used to identify specific airports. The RestFul Web Services Airport API allows users to retrieve detailed information about a given airport code using either SOAP or REST calls.
+airports reference travel 
+Travel

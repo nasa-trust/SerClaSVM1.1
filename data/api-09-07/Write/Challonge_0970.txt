@@ -1,0 +1,5 @@
+Tournament Management Tools
+Challonge
+Challonge is a service to create tournament brackets. Users can make single elimination, double elimination and round-robin brackets, in addition to the FIDE-based Swiss system. The Challonge API expands tournament creation and control to the programmatic level. You can create tournaments on the fly and report scores directly from your application. This allows you to define score reporting permissions that fit your user model, and provide a more seamless tournament experience for your users.
+sports 
+Sports

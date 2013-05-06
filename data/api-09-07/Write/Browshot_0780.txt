@@ -1,0 +1,7 @@
+Screenshot and website sizing and testing service for multiple devices
+Browshot
+Browshot is a service that allows users to take screenshots and size them for a variety of devices, such as tablets, smart phones, and computers. Browshot also allows users to test websites on various devices in multiple resolutions. 
+
+The Browshot API allows developers to access the functionality of Browshot for integration with other applications. Some example API methods include creating, listing, and managing instances, listing browser information and details, and creating screenshots. 
+BROWSER sbweb screenshot utility 
+Utility

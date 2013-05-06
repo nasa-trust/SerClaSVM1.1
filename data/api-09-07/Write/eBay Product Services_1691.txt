@@ -1,0 +1,5 @@
+eBay product compatibility service
+eBay Product Services
+Parts Compatibility is an eBay feature that uses structured data to associate compatible assemblies with parts listed on eBay. It is meant to improve search relevancy allow item titles and descriptions be more detailed and infromative. The eBay Product Services APIs allow users to get information about eBay products and list their items with Parts Compatibility. It uses REST and SOAP calls and responses are formatted in XML, JSON and Name Value Pairs.
+ecommerce retail search shopping 
+Retail

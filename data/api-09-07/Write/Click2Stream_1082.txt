@@ -1,0 +1,5 @@
+Streaming video platform
+Click2Stream
+Click2Stream is a video-feed hosting platform. Users partner with Click2Stream for space on their server to host live feeds from their cameras. Their live feed can then be parked on a permanent page on Click2Stream’s website or embed them elsewhere, such as a personal or Facebook page. The Click2Stream API exposes functionalities for data retrieval, camera operations, and presentation customization. It is a RESTful API that returns JSON-formatted data.  
+streaming video hosting
+Video

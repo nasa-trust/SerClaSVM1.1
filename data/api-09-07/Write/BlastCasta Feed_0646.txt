@@ -1,0 +1,5 @@
+RSS feed management and filtering service
+BlastCasta Feed
+Use the BlastCasta Feed API to get feed modifying services. For example, combine multiple feeds into one feed, sort feeds, filter feeds, translate a feed from one language to another, convert a feed from RSS to Atom, remove HTML tags, and suppress images in feeds. As part of filtering, you might use the API to set a max limit on the number of feed items in the output feed. As part of the sorting functionality, you might sort by title, published date, author, or randomly.
+blog internet rss utilities 
+Feeds

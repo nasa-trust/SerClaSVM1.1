@@ -1,0 +1,5 @@
+Email Marketing Service
+leadsNyou Email Marketing
+LeadsNyou is a marketing service that provides several tool such as Email Marketing and SMS Marketing, along with a database. The leadsNyou Email Marketing API lets developers synchronize their applications with the leadsNyou Email Marketing service. With this API, developers can create tools to manage contacts, send email campaigns, fetch results and perform other required tasks. The Email Marketing API uses XML as a data format and requires an API Key to be attached to all calls. 
+email india marketing sms unknown 
+Email

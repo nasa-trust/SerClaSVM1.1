@@ -1,0 +1,5 @@
+Online accounting service
+Quick File
+Quick File is an online accounting system. The Quick File API is an XML gateway, enabling 3rd Party developers to extend and enhance the Quick File Platform. The API contains all the common methods for building invoices, managing clients, inventory items and credit information. It uses SOAP calls and responses are formatted in XML.
+accounting finance 
+Financial

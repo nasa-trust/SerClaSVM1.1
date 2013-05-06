@@ -1,0 +1,10 @@
+bible 3
+book 1
+day 2
+display 1
+gateway 1
+lookup 1
+protocol 1
+religion 1
+soap 1
+verse 2

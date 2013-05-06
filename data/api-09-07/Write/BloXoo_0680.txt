@@ -1,0 +1,5 @@
+Blogging platform
+BloXoo
+BloXoo is a blogging platform. Users can create blogs, post content and aggregate other blogs. The BloXoo API provides users with an interface to the service. Methods include Blog Details, Blog Comments, Categories and UserStatus. The API uses REST and SOAP protocol and responses are formatted in XML. The site and documentation are in Turkish.
+blogging deadpool turkey 
+Blogging

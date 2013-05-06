@@ -1,0 +1,5 @@
+Social deal marketing platform
+Dealicio
+Dealicio is a platform for advertising unique deals for brands. Flash sales, daily deals, and local offers can be advertising conveniently through the Dealicio platform. Brands simply need to register to begin setting up targeted social media marketing campaigns. Dealicio also allows brands to integrate its functionalities into their existing services and webpages. The Dealicio API exposes the customization functionality. It is only available to users with Dealicio accounts.
+business deals marketing shopping social 
+Shopping

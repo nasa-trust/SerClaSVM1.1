@@ -1,0 +1,5 @@
+Video streaming service
+StreamAPI
+StreamAPI enables users to incorporate live streaming video into their website or application. StreamAPI keeps track of viewership through reporting and analytics services.  High definition video (HD) is supported using Flash technology, including support for full HD using VP6 and H.264 with 16:9 widescreen aspect ratio. The Stream API allows developers to embed videos into their websites.
+streaming video 
+Video

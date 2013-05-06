@@ -1,0 +1,7 @@
+College student organization information service
+CollegiateLink
+The service provides tools to help college staff manage co-curricular activities such as student clubs, organizations, and interest groups, including student registration as organization members, event management, allocation of fees, and group communication. Student officers get tools for roster management, officer elections, tracking community service hours, and related tasks.
+
+API methods support listing campus organizations, membership rosters, all memberships for a specified student, and officer positions. Methods also support event listing, scheduling, and management
+clubs college education 
+Education

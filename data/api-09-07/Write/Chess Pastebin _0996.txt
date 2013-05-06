@@ -1,0 +1,5 @@
+Chess match sharing service
+Chess Pastebin 
+Chess Pastebin is a webservice for sharing the outcome of chess games with friends. As a pastebin, anyone can add documentation of his or her chess game, without logging in or submitted additional personal information. Players simply copy the text documenting all the moves of the chess they wish to share, and plug it into the pastebin. Each move becomes hyperlinked for other users to see the players??? positions on the board. The RESTful API exposes the website???s game-posting functionality. It will return a unique ID for each game for recall. Developers must request an API key from the site&#039;s manager. 
+games pastebin social 
+Games

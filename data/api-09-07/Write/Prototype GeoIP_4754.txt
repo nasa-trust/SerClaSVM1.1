@@ -1,0 +1,5 @@
+IP-to-location service
+Prototype GeoIP
+This is an API for GeoIP, an IP-to-location service. Pass the locate method an IP address, and it returns the location information, including latitude, longitude, city and country. Response format is in JSON (by default) or XML.  It&#039;s currently in &quot;alpha&quot; with not a lot of functionalities.
+geolocation IP mapping 
+Internet

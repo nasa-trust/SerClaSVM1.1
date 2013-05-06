@@ -1,0 +1,5 @@
+Music licensing service
+LicenseQuote
+LicenseQuote is a music licensing e-commerce solution that lets users license music from their own website and keep all sales revenues. The LicenseQuote API is used for controlling both a music licensing store and catalog. The API also enables the following functionality:
+audio licensing music publishing
+Music

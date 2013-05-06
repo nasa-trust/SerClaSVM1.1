@@ -1,0 +1,7 @@
+Search advertising
+Google AdWords
+The Google AdWords API is the main revenue source for Google. AdWords offers pay-per-click advertising, cost-per-thousand advertising, and site-targeted advertising for text.
+
+The Google AdWords API lets developers build applications that interact directly with the AdWords platform. With these applications, advertisers and third parties can more efficiently and creatively manage their large or complex AdWords accounts and campaigns. With the API, developers can automatically generate keywords, ad text, and destination URLs, integrate AdWords data with an inventory system to manage campaigns based on stock and develop additional tools and applications to help you manage accounts. The AdWords API SOAP interface is supported by all popular programming languages, including Java, PHP, Python, .NET, Perl, and Ruby.
+advertising search 
+Advertising

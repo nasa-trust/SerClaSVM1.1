@@ -1,0 +1,16 @@
+call 1
+commodity 1
+datum 1
+dollar 1
+fetch 1
+finance 2
+format 1
+internet 1
+mt 3
+order 1
+place 1
+public 1
+response 1
+trade 1
+trading 1
+vice 1

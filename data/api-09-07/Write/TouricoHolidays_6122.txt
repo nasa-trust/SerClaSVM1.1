@@ -1,0 +1,7 @@
+Travel booking service
+TouricoHolidays
+Tourico Holidays is a worldwide wholesale travel provider with more than 150 international distribution websites, more than 23,000 merchant hotel agreements, and operating globally in 23 languages.
+
+Tourico Holidays offers its clients access to multiple products across thousands of vacation destinations around the world. Tourico Holidays??? clients have access via its XML platform to everything the company offers. Full documentation is not publicly available.
+booking hotel travel 
+Travel

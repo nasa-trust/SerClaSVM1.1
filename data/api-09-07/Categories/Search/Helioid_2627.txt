@@ -1,0 +1,17 @@
+aggregation 1
+categorization 2
+category 1
+datum 1
+format 1
+function 1
+generate 1
+group 1
+interface 1
+item 1
+public 1
+refine 1
+result 1
+retrieve 1
+return 1
+search 5
+tool 1

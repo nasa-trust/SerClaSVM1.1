@@ -1,0 +1,6 @@
+Ship Location Information service
+LongLatToLocation
+The LongLatToLocation API is a service that allows you to submit the longetude and latitude of a ship, and it will return information about where you are. This information can include nearby ports and jetties and even country information. 
+The API uses C-flow integration to allow you to integrate your shift tracking data and this API into your inhouse systems and spreadsheets, calling up vessel and port history as you approach them. 
+geography location mapping shipping 
+Mapping

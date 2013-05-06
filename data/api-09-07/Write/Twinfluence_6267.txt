@@ -1,0 +1,5 @@
+Twitter profile analysis service
+Twinfluence
+twInfluence is a simple tool using the Twitter API to to measure the combined influence of twitterers and their followers, with a few social network statistics thrown in. Scores are cached before they will be recalculated in order to keep repeat requests to the Twitter API to a minimum.
+deadpool microblogging social Twitter 
+Internet

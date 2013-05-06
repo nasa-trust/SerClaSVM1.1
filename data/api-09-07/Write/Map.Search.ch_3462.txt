@@ -1,0 +1,5 @@
+Interactive map of Switzerland
+Map.Search.ch
+Map.Search.ch provides a map of Switzerland with route planner. The JavaScript API of map.search.ch lets users embed the interactive map of Switzerland in any website or web-based application. Using the API users can also add custom Points of Interest (POIs) to the map widget.
+display mapping switzerland viewer 
+Mapping

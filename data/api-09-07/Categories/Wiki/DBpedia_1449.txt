@@ -1,0 +1,12 @@
+ask 1
+community 1
+datum 1
+effort 1
+extract 1
+interface 1
+link 1
+make 1
+query 2
+reference 1
+sophisticate 1
+structure 2

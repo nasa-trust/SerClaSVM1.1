@@ -1,0 +1,5 @@
+Gift money transfers
+GiftRocket Gift Card
+GiftRocket is gift card money transferring service. First, users buy their friends a gift card online and then GiftRocket sends the recipients money to redeem the present, by check, PayPal, or bank transfer. The API provides users access to gift card purchasing functionality. It is a RESTful API that responds in JSON. Access and an API key are granted by request.
+money payment social 
+Social

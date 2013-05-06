@@ -1,0 +1,5 @@
+Visual voicemail services
+YouMail
+YouMail offers a visual voicemail application for use on BlackBerry, Android, iPhone, WebOS, Windows Phone 7 platforms. With YouMail, users can organize their voicemails, access them through any computer or email, connect to social services such as Facebook and Twitter and much more. Functionality exposed by the API includes the ability to manipulate contacts, retrieve messages and update accounts. The API uses RESTful calls and responses are formatted in XML.
+messaging telephony Voice 
+Telephony

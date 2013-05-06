@@ -1,0 +1,5 @@
+Estate Agent and Letting Management Service
+Domus 
+The Domus API makes the Domus Estate Agent and Letting service available to be included in third party websites. Using the API, users will have full search capabilities of all featured properties with full detail. The API responds to HTTP requests and returns XML. Domus.net has a PHP site to demonstrate the API which is available to see upon request. 
+property realestate search 
+Real Estate

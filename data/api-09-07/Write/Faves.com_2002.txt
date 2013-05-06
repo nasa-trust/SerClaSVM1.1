@@ -1,0 +1,7 @@
+Social Bookmarking
+Faves.com
+Faves.com is a social bookmarking site. Users can add a bookmark, write a description or comment and tag the bookmark. Then the bookmark is stored and shared, giving friends the ability to add comments on the bookmarks.
+
+The Faves.com API is RESTful, returning data as JSON. Previous versions of the Faves.com API may be available as a RESTful, Delicious-compatible version, as well as a SOAP API.
+bookmarks deadpool social 
+Bookmarks

@@ -1,0 +1,17 @@
+arrest 6
+book 1
+call 1
+county 2
+format 1
+individual 1
+jail 3
+know 1
+lookup 1
+mugshot 2
+notify 1
+person 2
+prison 1
+recent 1
+response 1
+search 4
+someone 1

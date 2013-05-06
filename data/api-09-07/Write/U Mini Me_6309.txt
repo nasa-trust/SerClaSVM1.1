@@ -1,0 +1,7 @@
+URL shortening tool
+U Mini Me
+U Mini Me is a service to compress long URLs for easy sharing with friends. Compressing long URLs into a umini.me is beneficial when having to post links on Twitter and other messaging systems where text length is limited.
+
+umini.me can be accessed both through its main website, and through its open and free RESTful API. Pasting a umini.me on the site allows users to preview it before visiting it. The focus of umini.me is simplicity and speed.
+deadpool internet url-shortener utility 
+Utility

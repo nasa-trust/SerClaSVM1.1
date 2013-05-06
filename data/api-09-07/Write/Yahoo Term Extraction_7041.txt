@@ -1,0 +1,5 @@
+Contextual search service
+Yahoo Term Extraction
+The Term Extraction API allows users to perform content analysis by providing a list of significant words or phrases extracted from a larger content. It is one of the technologies used in Yahoo! Search. It uses a RESTful API and responses are formatted in XML.
+search 
+Search

@@ -1,0 +1,9 @@
+The global platform for human memory
+Evernote
+Evernote makes it easy to remember things big and small from your notable life using your computer, phone, and the web. 
+
+Evernote&#039;s web service API provides secure access for your applications using the same network communications that are used by Evernote&#039;s own client software, including the ability to create, read, update and delete notes, notebooks and tags. 
+
+Third party integrations are a critical part of the Evernote ecosystem and are heavily promoted via the [[http://www.evernote.com/about/trunk Evernote Trunk]] and [[http://blog.evernote.com/category/friends_partners/ company blog]].
+mobile notes office pim productivity 
+Utility

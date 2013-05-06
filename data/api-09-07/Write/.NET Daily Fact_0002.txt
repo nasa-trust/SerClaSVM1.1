@@ -1,0 +1,5 @@
+.NET daily fact widget
+.NET Daily Fact
+This SOAP-based API allows the user to place a widget on their website that returns a fact of the day reflecting all aspects of the .NET platform.
+DotNet internet programming Random 
+Internet

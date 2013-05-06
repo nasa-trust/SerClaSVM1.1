@@ -1,0 +1,5 @@
+Instant messaging
+Yahoo Messenger
+From their site: A Yahoo! Messenger Plug-in is an HTML page that runs inside Yahoo! Messenger. Developers create plug-ins using the Yahoo Messenger Plug-in SDK?a toolkit of JavaScript and C++ APIs. With the Plug-in SDK APIs, you can create exciting and helpful collaborative plug-ins and make them available to anyone through the Messenger Network, offering you a chance to show your next great idea to over 60 million users. 
+chat 
+Chat

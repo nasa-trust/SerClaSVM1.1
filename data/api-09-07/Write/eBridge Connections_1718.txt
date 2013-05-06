@@ -1,0 +1,7 @@
+Cloud-based accounting integration with EDI, ecommerce, CRM & SCM
+eBridge Connections
+eBridge Connections is a cloud-based accounting integration platform for EDI, ecommerce & CRM applications with support for over 40 accounting packages. Supported accounting packages include Intuit QuickBooks, Sage Peachtree, Sage MAS 90/200/500, Microsoft Dynamics, SAP Business One and NetSuite. Magento, Amazon, eBay, PayPal, 3dcart and Volusion are among the supported ecommerce connections.
+
+The eBridge Connections API allows developers to integrate web applications with the eBridge platform. Once an application is on eBridge, data can be seamlessly integrated with any supported accounting package, ecommerce provider, CRM application or EDI trading partner.
+accounting CRM ecommerce EDI enterprise ERP 
+Enterprise

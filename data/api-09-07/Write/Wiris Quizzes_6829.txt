@@ -1,0 +1,7 @@
+Educational content service
+Wiris Quizzes
+The service adds functions to generate an present questionnaires and mathematical notation within a learning management system (LMS). It allows creation of quiz questions with random variables and automatic evaluation of answers. It can provide 2D and 3D graphical representations of mathematical relationships. A formula editor allows creation of questions and submission of answers. 
+
+API methods support submission of questions and composition of quizzes composed of previously defined questions. Methods also support automated assessment of student answers, based on configuration defined when questions are created.
+education Math 
+Education

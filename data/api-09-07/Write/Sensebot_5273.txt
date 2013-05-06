@@ -1,0 +1,5 @@
+Semantic search service
+Sensebot
+Sensebot Semantic Cloud API features extraction of semantic concepts from a page; creating ???semantic cloud??? of concepts describing a group of documents; generating a multi-document summary of a set of pages; multiple parameters to control the type and format of results. It is now deployed in the Amazon computing cloud. This gives it virtually unlimited scaling capabilities to support client applications. 
+search semantic summary 
+Search

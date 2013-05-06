@@ -1,0 +1,7 @@
+Location based services
+Locaid
+Locaid is the world&#039;s largest location-enabling mobile transaction platform. Locaid specializes in location-enabled business applications, services and systems and integrating location feeds into back office systems and databases. 
+
+The Locaid API allows developers to integrate location services for uses such as validating legitimate credit card purchases and detecting fraud, automating timesheets for offsite employees, alerting workers to day jobs or tracking assets. The API uses SOAP protocol and responses are formatted in XML.
+location mobile tools tracking 
+Tools

@@ -1,0 +1,12 @@
+buy 1
+city 3
+compile 1
+coupon 2
+daily 1
+deal 7
+get 1
+list 3
+magic 3
+place 1
+return 1
+shopping 2

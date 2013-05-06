@@ -1,0 +1,5 @@
+Identity and reputation platform
+Scaffold
+Scaffold provides user verification services. Businesses can use the Scaffold service to confirm personal information such as email and home addresses, phone numbers, and home numbers. It does this as an API that accesses third party information sources. The API is customizable and allows businesses to set specific parameters for verification. Developers pay for Scaffold per call, but can set up volume-based pricing. 
+pim information tools identity reputation
+Tools

@@ -1,0 +1,7 @@
+Voice Processor for VoIP Services
+Global IP Sound
+Global IP Sound develops embedded voice processing technologies for real-time communications over packet networks. GIPS SoundWare? provides better than PSTN voice quality and fidelity in end-to-end IP communications with robustness against packet loss.  Global IP Sound?s world-renowned speech processing and IP telephony experts deliver these solutions to applications developers, gateway and chip manufacturers. Companies using GIPS SoundWare? products include Nortel Networks, Skype, WebEx, AOL, Yahoo, EarthLink and other key players in the VoIP market. 
+The GIPS Developer Community was designed to enable developers to build creative and unique Voice over IP applications on top of the world?s leading voice-processing platform.
+
+Engine telephony Voice VoIP 
+Telephony

@@ -1,0 +1,5 @@
+Social music playback integration
+Rdio Web Playback
+Rdio is a subscription music service that helps users discover new music, follow friends and people with great taste in music, and listen to their playlists. The Web Playback API is based on an Adobe Flash file (SWF) and Javascript, and allows developers to incorporate the playback of licensed Rdio music into their web applications. Full length songs are available to Rdio subscribers and trial users; non-users will be able to hear previews of the songs.
+music radio social 
+Music

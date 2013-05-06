@@ -1,0 +1,5 @@
+2 dimensional barcode generator for QR and DMX codes
+QR and DMX Barcode Generator
+This API lets you dynamically generate QR and DMX codes. With it, you can implement two dimensional code in web pages by using tag img with appropriate attributes. You can set alternate image sizes if the default is not suitable for you.
+barcode qr utility 
+Utility

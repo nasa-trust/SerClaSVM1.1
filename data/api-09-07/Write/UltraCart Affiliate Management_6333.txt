@@ -1,0 +1,7 @@
+Affiliate marketing management service
+UltraCart Affiliate Management
+UltraCart is an online shopping cart and e-commerce service, providing users with the functionality to connect their sites to UltraCart&#039;s hosted platform. UltraCart also offers Affiliate Management software, giving users the means to set up affiliate marketing on their site, provide affiliates with specific marketing content, control commissions, manage affiliates, and run reports on individual affiliates or the program as a whole.
+
+The SOAP-based Affiliate Management API exposes methods for creating new affiliates within an account, gathering data about existing affiliates, and establishing relationships between different affiliates.
+advertising internet marketing 
+Advertising

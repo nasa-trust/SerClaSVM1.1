@@ -1,0 +1,5 @@
+Postal and area code lookup services
+KnowMarkets Address Verification
+From their site: Improve database accuracy and save time by automatically inputting the city and state fields once a user has entered the zip code of a record. Send the Postal Code and in return you get both the corresponding City and State. Additionally you can send the Area Code and receive back the State, City, and County.
+enterprise mapping reference 
+Reference

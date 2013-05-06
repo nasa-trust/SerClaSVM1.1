@@ -1,0 +1,17 @@
+address 8
+associate 2
+billing 1
+block 1
+compare 1
+country 2
+detection 2
+fraud 2
+internet 2
+ip 7
+list 1
+location 3
+look 1
+return 2
+security 1
+tool 1
+up 1

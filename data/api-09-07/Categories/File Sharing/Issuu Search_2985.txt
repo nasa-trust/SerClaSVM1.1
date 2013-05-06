@@ -1,0 +1,6 @@
+document 2
+file 1
+publication 2
+search 1
+sharing 1
+turn 1

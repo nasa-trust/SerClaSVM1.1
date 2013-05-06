@@ -1,0 +1,5 @@
+Online learning platform
+Blackboard Collaborate
+Blackboard Collaborate is an web-based learning platform designed specifically for education. It is used in schools at all levels as well as government and corporate organizations. The platform gives educators the ability to offer online, blended or mobile learning. The API allows developers to integrate Blackboard Collaborate with any LMS, CMS, VLE or portal. Documentation is not publicly available but developers can contact the provider for further information.
+collaboration education 
+Education

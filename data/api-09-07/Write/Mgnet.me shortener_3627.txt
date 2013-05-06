@@ -1,0 +1,5 @@
+torrent magnet URL shortening tool
+Mgnet.me shortener
+Mgnet.me is a shortener for magnet: URI scheme. Magnet links are primarily used for referencing resources available for download via peer-to-peer networks. The API provides the same functionality in XML, JSON and text output formats.
+filesharing p2p torrent url-shortener 
+File Sharing

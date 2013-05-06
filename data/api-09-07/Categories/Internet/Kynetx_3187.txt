@@ -1,0 +1,17 @@
+action 1
+behavior 1
+build 1
+cloud 2
+condition 1
+context 2
+drive 2
+event 3
+fire 1
+internet 2
+like 1
+location 1
+look 1
+platform 2
+session 1
+url 1
+weather 1

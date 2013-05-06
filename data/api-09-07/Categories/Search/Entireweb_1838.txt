@@ -1,0 +1,13 @@
+control 1
+daily 1
+direct 1
+engine 1
+free 1
+full 1
+page 1
+present 1
+receive 1
+request 1
+result 3
+search 5
+up 1

@@ -1,0 +1,17 @@
+australia 1
+canada 1
+country 1
+cover 1
+enterprise 1
+exchange 2
+finance 2
+frankfurt 1
+london 1
+major 1
+market 1
+milan 1
+money 1
+paris 1
+quote 3
+stock 6
+tokyo 1

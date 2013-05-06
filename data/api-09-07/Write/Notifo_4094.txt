@@ -1,0 +1,5 @@
+Mobile push notification platform
+Notifo
+Notifo???s API allows any site to quickly offer Push Notifications by inserting a few lines of code. This means that a user can get all of their notifications from various sources in a single place. Notifo is a platform for real-time mobile notifications across multiple sources. The API uses RESTful protocol and responses are formatted in JSON. 
+messaging mobile push 
+Messaging

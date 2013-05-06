@@ -1,0 +1,9 @@
+Online marketplace and store creation service
+Storenvy
+Storenvy assists in developing online stores for clients as well as aggregating independent online stores into a web marketplace with over 18,000 stores at present. Users can either open their own online store utilizing their tools and API or browse and shop through the growing directory.
+
+The API is currently in private beta (request a beta invite).
+
+Developers using the API can manage their storefront, monitor and control order fulfillments, and receive event notifications through a REST interface in a JSON format. The API fully supports OAUTH2 and allows developers to create useful third-party apps for Storenvy merchants. Utilizing the store???s API key, developers can also connect directly with their own store and augment its functionality.
+ecommerce payment retail shopping 
+Shopping

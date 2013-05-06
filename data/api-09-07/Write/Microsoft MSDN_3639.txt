@@ -1,0 +1,5 @@
+Technical reference library
+Microsoft MSDN
+From their site: The MTPS Content Service is an XML web service that provides access to the content stored in MTPS. This includes, for example, the content available at [[http://msdn2.microsoft.com/library http://msdn2.microsoft.com/library]]. Using the MTPS Content Service, developers can integrate documentation, technical articles, whitepapers, images and the other content available from the MTPS system into their own applications. 
+reference 
+Reference

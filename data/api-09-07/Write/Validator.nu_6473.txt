@@ -1,0 +1,7 @@
+HTML5 validation service
+Validator.nu
+The service validates html code against a range of standards specified in the request. Options include generic or html5 validation, or validation of the document object model. Input includes an http or https URL or data resource IRI. A range of preset schemas can be specified in the request.
+
+API methods support submission of a resource URL to be validated, along with a number of parameters for parser, schema, and Unicode options. Returned data provide references to departures from relevant standards.
+html5 utility validation 
+Utility

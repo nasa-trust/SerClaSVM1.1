@@ -1,0 +1,5 @@
+Money management platform
+Yodlee FinApp Store
+Yodlee offers a set of APIs built which allow external developers approved access into the Yodlee platform. The Yodlee FinApp platform gives users the ability to build applications that help people figure out how to manage their money. Applications built on the Yodlee SDK will use these REST APIs to read and update Yodlee platform information. This includes account summary information for banking accounts, investment account, credit cards, loans and more. To get the complete API documentation requires sign up to become a developer. The API uses REST protocol and responses are formatted in XML.
+financial money 
+Financial

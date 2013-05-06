@@ -1,0 +1,5 @@
+Product comparison site
+Consumer Notebook
+Consumer Notebook is a product comparison site that allows users take products and add them to lists and grids. The site provides API access to Consumer Notebook where users create product lists and product comparisons. Functionality currently allows users to access Users, Products, Lists, and Grids. The API uses RESTful calls and responses are formatted in JSON.
+comparison product shopping 
+Shopping

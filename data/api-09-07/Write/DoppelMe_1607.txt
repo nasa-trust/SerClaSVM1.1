@@ -1,0 +1,5 @@
+Avatar creation service
+DoppelMe
+DoppelMe is creative platform for generating personalized avatars. With a variety of character design options at their disposal, users can create avatars in the likeness of themselves, friends, family, and otherwise. They may then use those avatars on websites such as message boards, blogs, and more, across the Internet. DoppelMe provides an SOAP API to organize groups of users partnered with DoppelMe. It returns XML-formatted data. 
+Avatar image social tools 
+Tools

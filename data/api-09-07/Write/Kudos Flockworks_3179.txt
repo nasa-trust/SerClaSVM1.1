@@ -1,0 +1,7 @@
+Semantic text analysis service
+Kudos Flockworks
+Kudos Knowledge is a company that develops knowledge management products. Their products are backed by Semantic Social Intelligence, a form of AI that has the ability to discover meaningful relationships inside any content. 
+
+Flockworks is an artificial intelligence service that analyzes written language to extract relationships and meaning. Once a text has been analyzed, the words are placed in a Semantic Space which acts as a way of quickly discerning which topics are close in meaning. The Flockworks API allows users to access their own Semantic Space, store objects within it, query it and overlay tags and ratings. Developers can use this to create software that clusters, auto-categorizes, auto-rates, auto-tags and performs semantic searches. The API uses RESTful calls and responses are formatted in JSON.
+enterprise semantic text 
+Enterprise

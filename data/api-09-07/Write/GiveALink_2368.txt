@@ -1,0 +1,5 @@
+Social bookmarking service
+GiveALink
+GiveALink is a social bookmarking and recommendation service. Their stated goal is to collect information about what objects people bookmark and how they annotate and organize these objects in order to mine socio-semantic links between them. The GiveALink API allows developers to access GiveALink data and use it within their own applications. Functionality includes retrieving user annotations, getting similar tags, retrieving most used tags, get info associated with a URL and more. The API uses RESTful calls and responses are formatted in XML.
+bookmarks internet recommendations social 
+Bookmarks

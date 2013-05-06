@@ -1,0 +1,15 @@
+ability 1
+company 1
+core 1
+feature 1
+message 1
+messaging 2
+mm 1
+mobile 3
+network 1
+send 1
+singapore 2
+sm 2
+telco 1
+telephony 3
+unknown 1

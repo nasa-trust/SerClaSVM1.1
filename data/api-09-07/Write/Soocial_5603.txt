@@ -1,0 +1,7 @@
+Address book sync service
+Soocial
+Soocial is a system that connects a user&#039;s various address books. Users can sync their address books and store them in one place. The API lets developers access their contacts&#039; information programmatically and integrate it into third party applications.
+
+The API uses RESTful calls and responses are formatted in XML and JSON.
+contacts office 
+Office

@@ -1,0 +1,11 @@
+Personal productivity and task management
+Doris
+Doris is a hosted service designed to let you keep track of the things you need to get done, wherever you are. Doris provides productivity and task management services like:
+
+- Delegation: assign tasks to people in your team
+- Email integration: that&#039;s where we&#039;ve found most tasks originate
+- Basecamp/Trac integration: integrate Doris with your existing workflow
+
+The majority of Doris data and functionality are exposed via its Application Programming Interface (API). The REST based  lets developers create Doris-based apps or integrate Doris with their existing development workflow. 
+office pim project-management tasks 
+PIM

@@ -1,0 +1,17 @@
+browser 1
+calculate 5
+carbon 7
+datum 1
+energy 2
+enterprise 1
+environment 1
+free 1
+government 1
+green 1
+industry 1
+leading 1
+management 3
+open 1
+regulation 1
+software 1
+tool 2

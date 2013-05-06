@@ -1,0 +1,5 @@
+Ministry jobs feed service
+Interserve Job Openings
+Interserve is a Christian community, in partnerships with the global church that strives to make Jesus Christ known through wholistic ministry amongst peoples of Asia and the Arab World. The API provides access to data feeds that  are updated twice daily with the latest job openings from Asia and the Arab world, with stories from people serving there, and other useful supporting information. Data formats available include RSS, HTML5, JSON/JSONP, and CSV.
+church feeds jobs religion 
+Feeds

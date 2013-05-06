@@ -1,0 +1,8 @@
+Stock market data service
+eSignal Market Data
+The eSignal suite of products provides global, real-time market data and decision support to individual investors and traders worldwide. With The eSignal products users get access to stock, futures, Forex and options market quotes. The eSignal market datafeed provides real-time, streaming data from North America and more than 125 other global exchanges. 
+
+The Market Data API allows users to integrate real-time or delayed data into a variety of financial applications, including front office user applications and back office automated systems. It is suited for applications that require financial market information for trading, analysis, portfolio pricing and other market-critical operations. The Market Data API offers access to all the data managed by the eSignal network. Full documentation is not publicly available.
+
+finance stocks 
+Financial

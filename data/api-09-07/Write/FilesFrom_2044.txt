@@ -1,0 +1,5 @@
+File delivery service
+FilesFrom
+FilesFrom is an email attachment service. Users can upload files to the website and email them to specified recipients. This service is offered in place of uploading attachments to emails. FilesFrom allows users to upload large files, up to 1,00 MB. Users can send up to ten files a month.  The FilesFrom API allows developers to integrate the FilesFrom service with their existing software. It is a RESTful API that can return either JSON or XML-encoded data.
+email filesharing office tools 
+File Sharing

@@ -1,0 +1,16 @@
+cloud 2
+customer 1
+datum 2
+estate 6
+key 1
+listing 2
+management 1
+mls 2
+multiple 1
+real 6
+relationship 1
+require 1
+rest 1
+retrieve 1
+return 1
+search 1

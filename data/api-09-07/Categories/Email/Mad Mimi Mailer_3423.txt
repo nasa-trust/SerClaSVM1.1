@@ -1,0 +1,15 @@
+account 1
+activation 1
+audience 1
+email 5
+letters 1
+like 1
+list 1
+mailer 2
+marketing 2
+mass 1
+password 1
+reset 1
+send 2
+tool 1
+welcome 1

@@ -1,0 +1,14 @@
+europe 2
+friend 1
+like 1
+list 1
+location 3
+mapping 1
+place 3
+recommendation 2
+retrieve 1
+review 2
+search 1
+sharing 2
+social 1
+write 1

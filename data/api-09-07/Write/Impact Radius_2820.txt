@@ -1,0 +1,5 @@
+Advertising management tool
+Impact Radius
+Impact Radius provides performance-advertising services for web marketing expansion. Their API is available to advertising clients and media partners. It provides advertisers with functionality for uploading transactional histories from back-office systems, crediting media partners, and linking ecommerce systems to submit returns. For media partners it provides functionality for keeping approved campaigns up to date, build new promotional links, and receive live performance and earnings data. The API is RESTful and access requires an account with Impact Radius.
+advertising marketing tools 
+Tools

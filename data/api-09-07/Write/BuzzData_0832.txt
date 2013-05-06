@@ -1,0 +1,7 @@
+Data hosting and management service
+BuzzData
+BuzzData is a service that offers data hosting and management services. Users can upload data, track revisions, share data, and interact with the data with BuzzData.
+
+The BuzzData API allows developers to access and integrate the functionality and data of BuzzData with other applications and to create new applications. Some example API methods include downloading datasets, listing datasets, and managing user information.
+Data database hosting management 
+Database

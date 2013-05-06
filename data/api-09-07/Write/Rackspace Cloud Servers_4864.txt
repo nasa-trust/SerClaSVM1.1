@@ -1,0 +1,5 @@
+Cloud hosting services
+Rackspace Cloud Servers
+Rackspace Cloud Servers is a cloud based platform of on demand virtualized servers. The API can be used to interact with the Cloud Servers instead of using the online control panel. Features of the API include the ability to reboot and rebuild servers, create custom images, schedule backups of servers, share IPs and more. The API uses RESTful calls and responses are formatted in XML and JSON.
+cloud hosting internet 
+Internet

@@ -1,0 +1,9 @@
+Geolocation service
+Postcode Anywhere Geocoding
+Postcode Anywhere is an &quot;information-as-a-service&quot; provider offering over 250 separate web services covering a broad range of business efficiency tools for address and data capture, validation and cleansing to geo-coding, mapping, and route planning and optimization.
+
+The Geocoding API allows users to geocode UK addresses and postcodes and integrate them into their websites and applications as well as coordinates from around the world. Users can also retrieve the names of nearby places.
+
+The API uses a number of protocols including REST, SOAP and XML-RPC. Responses can be formatted in XML, JSON, CSV, HTML and PDF.
+geocoding geolocation location mapping uk 
+Mapping

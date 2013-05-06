@@ -1,0 +1,5 @@
+Online humor and lolcat service
+Cheezburger
+The Cheezburger API allows users to integrate features of Cheezburger.com (a funny photo site) into their website or web app. Features include database searching (of the site&#039;s photos), photo uploading, caption uploading, and more.
+humor lolcat photo 
+Photos

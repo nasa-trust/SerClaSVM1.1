@@ -1,0 +1,5 @@
+Classified ads service
+iList
+The iList API lets you access the eCommerce shopping services of iList classifieds. At other classifieds sites, your data is locked away in a closed database and you?re banned if you try to scrape it. At iList, we?re hard at work building a full API so your iList data is portable.
+classifieds shopping 
+Shopping

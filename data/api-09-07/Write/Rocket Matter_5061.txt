@@ -1,0 +1,7 @@
+Legal software service
+Rocket Matter
+Rocket Matter is an online legal software system that offers a variety of features for legal professionals and attorneys to manage their legal documents, track and bill time, manage clients, and communicate within their firms.
+
+The Rocket Matter API allows developers to access and integrate the functionality of Rocket Matter with other applications and to create new applications. Some example API methods include integration with time-tracking systems, retrieving contacts, and retrieving documents.
+law project-management 
+Project Management

@@ -1,0 +1,5 @@
+UK legislation information service
+legislation.gov.uk
+The National Archives publishes all UK legislation, and its Legislation API provides consolidated UK legislation, with a few limitations, in a variety of formats for people to reuse. Identifier searches enable you to work out the correct identifier to use for an item or section of legislation. Listings enable you to find multiple items of legislation and information about them.
+government legislation uk 
+Government

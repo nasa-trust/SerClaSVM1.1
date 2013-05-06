@@ -1,0 +1,5 @@
+European research and academic libraries network
+The European Library
+The European Library is a consortium of academic and research libraries. Their website is a portal to very large collections of digitized artifacts and bibliographic records. Users can browse by provider, such as European national libraries, by special collections, by discipline, and more. The API is only available to members of the European Library. Through the API, the searching functionality of the catalog is exposed. It is RESTful and returns both XML and JSON-encoded data. 
+database library research 
+Database

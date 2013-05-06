@@ -1,0 +1,9 @@
+Realtime mapping service
+NAC Real-time Mapping
+The Natural Area Coding System is a geodetic system that has generated code called Natural Area Code (NAC) to unify the representations of geographic coordinates, area codes, street addresses, postal codes, map grids and property identifiers of every location or area in the world, and make the information from all maps, GPS receivers and location based services and products connected, efficient and universal. 
+
+The NAC Real-time Mapping API provides detail street maps of any areas in 25 countries plus 59 other large cities in the world and thematic maps of any areas in the world to web applications in real time. Users can map any number of objects to the maps with customized  icons or selected stock icons and labels. Users can also specify map type (road, aerial or aerial with labels), map ranges, map sizes and language culture for their maps. The supported languages are Dutch, English, French, German, Italian, Portuguese, Spanish and Swedish. 
+
+The service can be accessed through either SOAP web service requests or REST web service requests. The REST web service can return in either XML or JSON format.
+display geocoding mapping realtime 
+Mapping

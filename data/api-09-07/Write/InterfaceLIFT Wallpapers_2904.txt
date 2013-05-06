@@ -1,0 +1,5 @@
+Mobile wallpaper service
+InterfaceLIFT Wallpapers
+The InterfaceLIFT API offers downloadable high-resolution wallpapers for Iphone, Droid, computer screens, tablets and etc. Functionality includes calling about the camera used to take a certain wallpaper picture, lens types that fit a certain camera and overall information about a user or wallpaper. Users are required to sign up with the site for authentication and pay a small fee for accessing the API information from a managed site.
+mobile photo 
+Photos

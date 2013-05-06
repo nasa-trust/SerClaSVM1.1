@@ -1,0 +1,5 @@
+Web translation tool
+Bing Translator
+The Microsoft Translator services can be used in web or client applications to perform language translation operations. The API can be used with either REST, SOAP or JavaScript protocol and responses are formatted in XML or JSON.
+internet language tools Translation 
+Tools

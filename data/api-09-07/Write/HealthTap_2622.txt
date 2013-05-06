@@ -1,0 +1,7 @@
+Online health network service
+HealthTap
+HealthTap is an online health network. HealhTap aims to improve the health of users by providing medical advice and answers to health questions from physicians. Users can ask questions and search for answers for their health needs. HealthTap also offers a mobile application.
+
+The HealthTap API allows developers to access the data and functionality of HealthTap for integration with other applications as well as creation of new applications. Public documentation is not available; interested developers should sign up here https://www.healthtap.com/what_we_make/developers/ for access to the API and full documentation. 
+advice answers health medical 
+Medical

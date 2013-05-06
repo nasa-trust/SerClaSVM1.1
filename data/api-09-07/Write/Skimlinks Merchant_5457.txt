@@ -1,0 +1,7 @@
+Merchant information service
+Skimlinks Merchant
+Skimlinks is a technology that helps users monetize online content by converting normal product links from thousands of retailers into their equivalent affiliate links. 
+
+The Merchants API is the main interface for publishers wishing to know statistics about the merchants on our networks. The Merchants API returns all merchants that Skimlinks works with. Information exposed includes commission rate, conversion rate and domains associated with the merchant. The API can also be used to conduct searches for merchants. The API uses RESTful calls and responses are formatted in XML, JSON and PHP.
+affiliate merchant shopping 
+Shopping

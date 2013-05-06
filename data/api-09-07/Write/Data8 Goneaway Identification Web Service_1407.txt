@@ -1,0 +1,7 @@
+Check last known address
+Data8 Goneaway Identification Web Service
+Data8 is the UK&#039;s premier data solutions provider with a range of data cleansing, postcode lookup and data validation services to ultimately improve the way businesses communicate with their customers.
+
+The Goneaway service enables user applications to check if a person is known to have moved away from the address on file for them.  It uses SOAP protocol and responses are formatted in XML.
+address tools uk 
+Tools

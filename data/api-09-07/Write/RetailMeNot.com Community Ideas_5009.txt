@@ -1,0 +1,5 @@
+Online coupons and discounts
+RetailMeNot.com Community Ideas
+The RetailMeNot.com Community Ideas API provides methods for obtaining data from this site for using in mashups and other consumable formats. Retail Me Not is a website that provides links to, and information about online coupons, coupon codes and discounts for a variety of retailers. The API uses RESTful protocol and responses are formatted in JSON.
+coupons retail shopping 
+Shopping

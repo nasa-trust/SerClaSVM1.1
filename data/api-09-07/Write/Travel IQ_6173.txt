@@ -1,0 +1,5 @@
+German travel booking service
+Travel IQ
+Travel IQ is an online travel booking service based in Germany. The Travel IQ API offers developers programmatic access to the functionality offered by the site. This functionality includes hotel booking, translations, hotel and flight search and location data. The API uses RESTful calls and responses can be formatted in XML, JSON, JSONP and YAML. The site and documentation are in German.
+booking germany travel 
+Travel

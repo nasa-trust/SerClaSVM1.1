@@ -1,0 +1,5 @@
+Online casino-style games exchange
+Betfair Games
+The Betfair Games Exchange allows players to log in to online versions of Blackjack, Hi Lo, Bullseye Roulette, Hold &#039;Em, Baccarat, Card Derby Racing and Omaha Hi. The Betfair Games API uses REST protocol that allows developers to integrate with the Games Exchange and retrieve data on the games market and their personal account. It also offers transactional capabilities so players can manage and place bets through the Games API.
+betting gambling games 
+Games

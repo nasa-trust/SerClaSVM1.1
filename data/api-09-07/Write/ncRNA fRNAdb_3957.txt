@@ -1,0 +1,7 @@
+Functional RNA sequence search service
+ncRNA fRNAdb
+The service provides search access to a database of functional RNA sequences. It is part of a web portal of bioinformatics tools supporting genetic research specific to functional RNA, it is a comprehensive listing of non-coding RNA sequences. International scientists maintain data for open access within the genetic research community.
+
+API methods support submission of a search query to retrieve matches in the database. Methods also support retrieving complete details of individual listings, with output available in several mapping and sequencing formats, in addition to XML. 
+biology genetics science search 
+Science

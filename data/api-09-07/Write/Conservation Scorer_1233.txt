@@ -1,0 +1,5 @@
+Homologous protein sequence similarity calculator
+Conservation Scorer
+The Conservation Scorer API calculates how much Eukaryotic Linear Motif (ELM) matches vary in a set of homologous protein sequences. A console is given for data input, but the SOAP calls are also made available for those who wish to integrate the Conservation Scorer API into other applications.
+biology science 
+Science

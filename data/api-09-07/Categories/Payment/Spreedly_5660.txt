@@ -1,0 +1,14 @@
+complete 1
+fast 1
+gateway 1
+give 1
+handle 1
+integrate 1
+know 1
+payment 5
+secure 1
+subscription 2
+tool 1
+transactions 1
+way 1
+works 1

@@ -1,0 +1,17 @@
+aim 1
+alignment 4
+become 1
+blast 4
+collection 1
+comprehensive 1
+compute 2
+possible 1
+protein 2
+psi 2
+result 2
+retrieve 2
+running 1
+science 2
+sequence 2
+soap 1
+update 1

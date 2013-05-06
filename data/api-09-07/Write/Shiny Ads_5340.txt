@@ -1,0 +1,5 @@
+Self service ad platform
+Shiny Ads
+The REST based Shiny Ads API allows developers to integate operations into their own applications. Shiny Ads provides a self-serve advertising platform that allows publishers to control the ad purchase process by directly offering an ad purchase system to their advertisers. With the API, online publishers can manage their self-serve advertising offering as well as be notified of events such as new orders. Responses are formatted in either XML or JSON. Full documentation is not publicly available.
+advertising 
+Advertising

@@ -1,0 +1,7 @@
+.Tel domain registry service
+TelPages
+The service provides registry services for the .tel top-level domain. It provides a search service for domains currently registered under .tel along with ability to register new domains. Additional services include traffic analysis and branding assistance.
+
+API methods support submission of simple queries for matches to submitted domain name strings as well as complex queries specifying a personal or organizational name, location, or business type. Results returned include information for all .tel domains matching the submitted query.
+DNS domain internet utility 
+Internet

@@ -1,0 +1,17 @@
+bill 2
+billing 1
+business 1
+charge 1
+customer 1
+good 1
+mobile 1
+model 1
+monetize 1
+payment 5
+phone 1
+protocol 1
+rest 1
+return 1
+revenue 1
+sharing 1
+telephony 2

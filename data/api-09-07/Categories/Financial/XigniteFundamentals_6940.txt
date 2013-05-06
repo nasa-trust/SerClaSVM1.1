@@ -1,0 +1,17 @@
+average 1
+company 2
+earnings 1
+enterprise 1
+finance 3
+growth 1
+insight 1
+money 1
+move 1
+performance 1
+price 2
+rates 1
+ratio 1
+registration 1
+sec 1
+statement 1
+stock 4

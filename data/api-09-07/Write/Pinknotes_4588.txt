@@ -1,0 +1,7 @@
+Secure instant messaging service
+Pinknotes
+The service provides for secure exchanges of instant messages between users enrolled in the same service-defined network. Online messaging ensures access across locations with web access while maintaining reliable security. Applications can also retrieve currently updated user information, system and user status, etc.
+
+API methods support sending and receiving messages via the service, with ability to define a folder structure for organizing received messages, and management of recipient individuals and groups of users. Methods also support management of user and group calendar entries along with reporting functions about service use within the defined user community.
+enterprise im messaging security 
+Messaging

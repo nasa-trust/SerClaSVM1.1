@@ -1,0 +1,5 @@
+Business management tool
+Brightpearl
+Brightpearl is a remotely accessible business management tool, providing a single point from which to manage all aspects of a business: eCommerce, inventory management, accounting, order processing, and CRM. The Brightpearl API allows customers to access the data held in their Brightpearl account and make use of the platform???s functionality from within their own applications.
+cloud CRM enterprise 
+Enterprise

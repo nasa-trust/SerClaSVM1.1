@@ -1,0 +1,5 @@
+Search results enhancements and extensions
+Wikia
+The Wikia Intelligent Search Extensions API is a JavaScript API that allows third-party sites to build applications that appear as Wikia Search results for end-users who install them.
+search 
+Search

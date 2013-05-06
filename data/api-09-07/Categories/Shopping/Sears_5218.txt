@@ -1,0 +1,16 @@
+availability 1
+catalog 3
+description 1
+embed 1
+expose 1
+feature 1
+full 1
+image 1
+platform 1
+pricing 1
+product 3
+retail 1
+sear 5
+shopping 3
+specification 1
+want 1

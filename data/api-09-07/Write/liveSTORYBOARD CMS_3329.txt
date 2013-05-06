@@ -1,0 +1,5 @@
+Web content management service
+liveSTORYBOARD CMS
+liveSTORYBOARD CMS is a web content authoring, management, and publishing system. It is fully compliant with W3C standards, supports human-readable URLs, and uses a clean markup style that helps search engines index clients&#039; sites more easily. All site content is stored in XML format to enable easy retrieval via custom topical hierarchies. liveSTORYBOARD is a browser-based, hosted CMS, which means that users can access the service at any time from anywhere with a browser and an internet connection.
+cms internet website 
+Internet

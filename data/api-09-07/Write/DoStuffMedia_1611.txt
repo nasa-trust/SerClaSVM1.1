@@ -1,0 +1,7 @@
+Music festival data lookup service
+DoStuffMedia
+DoStuff Media is a company that helps local media companies and music festivals monetize their web sites by providing a technology that aggregates, organizes and displays critical information about the festival, all while incorporating social networking, sharing and interactive features.
+
+The DoStuffMedia API is designed to allow access to the schedules for festivals and music events. Their API gives users access to the data for a specific festival and year. Users can cross reference data on bands and events. The API uses RESTful calls and responses are formatted in XML or JSON.
+calendar concerts events music 
+Events

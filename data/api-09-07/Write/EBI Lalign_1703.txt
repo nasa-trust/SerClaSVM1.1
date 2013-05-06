@@ -1,0 +1,5 @@
+Local pairwise sequence alignment service
+EBI Lalign
+Lalign is a program for the local pairwise alignment of DNA and protein sequences. It finds internal duplications by calculating non-intersecting local alignments in the two sequences input by the user for analysis. The European Bioinformatics institute makes these functions available as an API via SOAP or REST protocols.
+bioinformatics genetics science 
+Science

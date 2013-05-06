@@ -1,0 +1,5 @@
+Group purchasing service
+Buyvite Transaction
+Buyvite is a group purchasing platform available via web, mobile and Facebook apps. It allows the user to organize group purchases like event tickets, gifts, flights, etc. and collect money easily through the secure payment platform. The API uses POST requests to submit transactions and retrieve account information.
+payment shopping social 
+Payment

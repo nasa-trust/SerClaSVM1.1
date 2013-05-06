@@ -1,0 +1,5 @@
+One-time Facebook Wall post application
+Joey Calca's Post to Facebook
+The Post to Facebook API - provided by HackedExistence&#039;s Joey Calca - allows users to create a button for making one-time posts to the end user&#039;s Facebook Wall. Unlike Facebook&#039;s Open Graph API, the end user doesn&#039;t have to grant the Post to Facebook app special permissions to post to their Wall. The button used to make the one-time post can be replaced with any text or image the user desires.
+social tagging 
+Tagging

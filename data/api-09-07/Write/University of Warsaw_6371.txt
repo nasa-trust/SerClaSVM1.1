@@ -1,0 +1,7 @@
+University and student information for Poland universities
+University of Warsaw
+The University of Warsaw API is managed by the USOS, which is a student management system for universities in Poland.
+
+The University of Warsaw API allows developers to access and integrate the functionality and data of USOS and the University of Warsaw with other applications and to create new applications. Some example API methods include returning information on classes, sending emails, and accessing user information. API can return responses in either English or Polish.
+campus education students university 
+Education

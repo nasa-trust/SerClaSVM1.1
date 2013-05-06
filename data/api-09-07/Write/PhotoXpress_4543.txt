@@ -1,0 +1,5 @@
+Digital image store
+PhotoXpress
+PhotoXpress.com is a high quality, royalty-free image bank that offers digital images and illustrations to creative professionals. The API allows users to earn more money through affiliation by allowing them to create their own image bank and earn money through the affiliation program. With the API, they can search the PhotoXpress database of Free, Premium or both collections, display results on their own website, and generate revenue through our affiliation program. The API uses XML-RPC calls with responses formatted in XML.
+affiliate photo 
+Photos

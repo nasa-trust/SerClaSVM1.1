@@ -1,0 +1,7 @@
+Social media and website creation services
+ONEsite
+Supporting such clients as FOX Entertainment, Panasonic, the NBA, and THQ, ONEsite is an organization that specializes in the design, creation, and implementation of community websites and social applications. ONEsite offers a wide range of services to its clients, revolving around the establishment of online communities and social web presence. Their services include setup and customization of the ONEsite community platform, development of new features, integration with new and existing systems, application development, management of social web presence, and mobile development.
+
+ONEsite&#039;s API is offered in both REST and SOAP, and allows for finely-grained control over services provided by the ONEsite platform. The ONEsite web services were created with a service-oriended architecture to facilitate the integration of external services with ONEsite features such as comment hosting RSS feeds. Full documentation is available with registration and login.
+internet media social website 
+Internet

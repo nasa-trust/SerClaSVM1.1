@@ -1,0 +1,5 @@
+CRM management
+FutureSimple Base
+Base is FutureSimple???s CRM and sales tracking service for small business. It is designed for both web and mobile experience. It functions include methods for tracking sales and managing contacts. The API allows users access to the data in their Base user account. It is a RESTful API and provides responses in JSON and XML. 
+contacts CRM sales tracking 
+Enterprise

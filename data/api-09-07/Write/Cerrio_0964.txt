@@ -1,0 +1,5 @@
+Cloud-based data storage and sharing service
+Cerrio
+Cerrio is a cloud service for storing real-time data online. It provides an intuitive visual interface for developing and maintaining one&#039;s cloud. The Cerrio API provides users with non-streaming read and write access to all of their Cerrio data. This API operates over REST calls using the JSON data format.
+cloud file-sharing storage 
+File Sharing

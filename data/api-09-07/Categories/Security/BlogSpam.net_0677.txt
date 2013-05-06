@@ -1,0 +1,16 @@
+block 1
+blog 3
+comment 2
+common 1
+contain 1
+detection 2
+forum 3
+identify 1
+interface 1
+open 1
+real 1
+security 2
+social 1
+source 1
+spam 5
+type 1

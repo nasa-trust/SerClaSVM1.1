@@ -1,0 +1,7 @@
+Integrate Adobe feeds
+Adobe Feeds
+The Adobe Feeds API allows developers to interact with Adobe Feeds and extract data from the aggregator. The new API gives developers access to categories, smart categories and post data (optionally retrievable by category, smart category, or feed). You can also search for posts matching a specified search term.
+
+The API uses SOAP protocol and responses are in XML.
+feeds 
+Feeds

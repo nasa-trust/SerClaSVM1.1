@@ -1,0 +1,5 @@
+Social Mail Application Service
+Mail.Ru
+Social API for largest mail service in CIS countries and social network my.mail.ru. The Mail.Ru API allows developers to integrate Mail.Ru services into their websites and to develop applications based on Mail.Ru. Mail.Ru API has both REST and JavaScript versions which both return JSON and XML data.
+email russia social 
+Social

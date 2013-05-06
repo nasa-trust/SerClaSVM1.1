@@ -1,0 +1,14 @@
+address 1
+aim 1
+extract 1
+full 1
+mapping 2
+place 2
+project 1
+pseudo 1
+reverse 1
+romania 2
+romanian 2
+simple 1
+support 1
+text 1

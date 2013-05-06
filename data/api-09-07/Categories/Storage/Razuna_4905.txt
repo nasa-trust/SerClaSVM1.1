@@ -1,0 +1,14 @@
+asset 2
+custom 1
+format 1
+integrate 1
+management 2
+open 1
+protocol 1
+response 1
+rest 1
+soap 1
+solution 1
+source 1
+storage 2
+system 2

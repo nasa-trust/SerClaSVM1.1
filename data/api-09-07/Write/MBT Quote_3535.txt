@@ -1,0 +1,5 @@
+Stock Quote Service
+MBT Quote
+The MBT Quote API provides users access to financial stock quotes. MB Trading is an online financial trading platform catering to a variety of financial markets. The service provides quotes only, and can return information for a single ticker, the entire market, and everything in between,  historical data is currently underdevelopment. The API sources data from NASDAQ Market, New York Stock Exchange (NYSE), American Stock Exchange (AMEX), Toronto Stock Exchange (TSX), INET / ARCA ECN books, CBOE Options quotes, CME Futures Quotes, CBOT Futures quotes and Foreign Currencies.
+finance realtime stocks 
+Financial

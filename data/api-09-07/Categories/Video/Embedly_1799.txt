@@ -1,0 +1,14 @@
+add 1
+code 1
+content 1
+embed 3
+get 1
+image 1
+medium 1
+over 1
+photo 1
+retrieve 1
+rich 2
+standard 1
+utility 2
+video 3

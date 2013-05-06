@@ -1,0 +1,10 @@
+colorado 2
+county 5
+government 2
+property 4
+public 3
+record 3
+retrieve 1
+soap 1
+tax 2
+taxis 1

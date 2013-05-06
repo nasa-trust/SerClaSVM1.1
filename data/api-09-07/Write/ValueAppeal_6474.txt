@@ -1,0 +1,34 @@
+Property Tax Appeal Service 
+ValueAppeal
+GetSavings API Description
+The ValueAppeal GetSavings API returns only two possible values, either a 0 or a ValueAppeal Estimated Savings dollar amount. (See Definitions) Advertising partners should only display a ValueAppeal advertisement on their site if a non-zero result is returned. 
+
+In order to receive a ValueAppeal Estimated Savings dollar amount the following conditions must be met:
+1.	ValueAppeal can correctly match the candidate address to a valid property address in the ValueAppeal property database of approximately 90 million residential property addresses. 
+2.	The candidate property must be inside the ???Appeal Window??? for the relevant jurisdiction. (See Definitions)
+3.	The candidate property must be ???Overassessed??? (See Definitions)
+
+Definitions:
+Jurisdiction
+Depending where the candidate property is located, property tax assessments, property tax rates, and Appeal Windows may be determined at the county level, city level, township level, neighborhood level, or according to arbitrary political jurisdictions within a city. Therefore, the Appeal Window, tax rate, and unique assessor rules can vary dramatically for two homes that are within only a few blocks of each other.  
+
+Residential Property 
+ValueAppeal offers its service for the following property types: Single Family Residential, Condominiums, and Townhomes. 
+ValueAppeal does not offer its service for Co-ops, duplexes, triplexes, mobile homes, vacant land, apartment buildings, or any commercial property types. 
+
+Appeal Window
+Homeowners are not allowed to file an appeal of their property tax assessment any time they want throughout the year. A homeowner may only file an appeal of their property tax assessment during a specific period of time each year called the Appeal Window. The typical Appeal Window is only forty five to sixty days out of each year, though it may be as short as twenty five days or as long as nine months. Each jurisdiction across the country has a different length Appeal Window, and occurs at different times throughout the year. Sometimes the Appeal Window is uniform for properties in a particular county. Sometimes the Appeal Window is uniform only at the neighborhood level. By design, the GetSavings API will not tell you whether a candidate property is inside its Appeal Window or not. 
+
+Overassessed 
+ValueAppeal???s proprietary, patent pending, algorithm determines whether a home is overassessed or not based on the unique rules imposed by the local assessor.  By design, the GetSavings API will not tell you whether a candidate property is overassessed or not.
+
+ValueAppeal Estimated Savings
+If ValueAppeal???s proprietary algorithm determines a candidate property is overassessed, we us the relevant local property tax rate to calculate the estimated savings the homeowner would realize by filing an appeal to have their assessment lowered. 
+
+Note: Some jurisdictions reassess properties every year, while other jurisdictions reassess properties on a two, three, or four + year cycle. If the candidate property is in a multi-year jurisdiction we multiply the single year estimated savings by the number of years left until the next reassessment to determine the total estimated savings which would be realized by filing a successful appeal. 
+
+Summary:
+The vast majority of calls to the GetSavings API should receive a 0 result. In order to receive a non-zero API result the candidate property must be both inside it???s Appeal Window and Overassessed. 
+
+finance government money realestate tax 
+Real Estate

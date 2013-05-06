@@ -1,0 +1,17 @@
+add 1
+alternative 1
+christian 3
+delete 1
+describe 1
+direct 1
+edit 1
+friend 2
+message 3
+network 3
+profile 1
+public 1
+religion 1
+retrieve 1
+send 1
+social 4
+twitter 1

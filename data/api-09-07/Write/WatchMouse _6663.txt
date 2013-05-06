@@ -1,0 +1,8 @@
+Web site monitoring service
+WatchMouse 
+The WatchMouse service checks the behavior and availability of websites. WatchMouse allows site owners to optimize the internet experience of their customers. 
+A worldwide network checks websites from 40 different locations in 25 countries around the globe.
+
+The API provides access to data collected via the service, access to monitoring settings, and direct commands to check a site.
+internet monitoring 
+Internet

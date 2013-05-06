@@ -1,0 +1,5 @@
+Mobile games discovery and marketing service
+AppLift
+AppLift is a mobile games discovery and marketing service. Their goal is to be a mobile affiliate network that is soley focused on games. Advertising affiliates can use the API to track, analyze and optimize mobile game app installs and post install events. The API or an SDK can be used to track conversions to any traffic source, marketing channel, creative type or other variable.
+affiliate games marketing 
+Games

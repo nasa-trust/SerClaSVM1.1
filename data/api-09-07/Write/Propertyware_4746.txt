@@ -1,0 +1,5 @@
+Rental property management platform
+Propertyware
+Propertyware is asset management software for real estate. It is intended for landlords, fee managers, and REO asset managers. The software comes in different packages for different sized operations. All of its features enable aforementioned parties to manage their portfolio, payments, and prospects. It also has in-built capacities to integrate with QuickBooks, Outlook, and Google Sync. The Propertyware API is available only Enterprise subscribers. It exposes integrative and developmental functionalities. 
+management realestate rental 
+Real Estate

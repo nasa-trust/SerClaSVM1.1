@@ -1,0 +1,7 @@
+APL programming and reporting service
+KassEnterprises APL Navigator
+The APL Navigator provides on-demand access to Check Free APL reports over the web. APL Navigator provides a simple API for retrieving portfolio accounting data as XML documents using the APL Navigator engine and the SOAP standard. 
+
+Using SOAP calls developers can access portfolio holdings (position and tax lots), transactions, gain-loss, and performance data sets, even access a firm&#039;s PDF reports. Additionally APL SOAP can manage user access via database level services from APL Navigator for requests such as authenticating users, or finding out what accounts a user has access to. APL SOAP is currently composed of three services: an APL Report Service, an APL Message Service, and an APL Navigator Database Service. Calls are secured over HTTPS and responses are formatted in XML.
+APL enterprise 
+Enterprise

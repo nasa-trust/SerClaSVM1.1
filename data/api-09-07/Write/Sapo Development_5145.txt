@@ -1,0 +1,13 @@
+Web application development tools
+Sapo Development
+SAPO is a Portuguese Internet service provider whose main web site acts as a web portal featuring a directory of Portuguese sites. SAPO Services provides a large suite of web services and applications to developers worldwide.
+
+The Sapo Development suite of APIs includes web services related to application development. The services are:
+
+* Code generation - RESTful service that generates web service client proxies for various languages including: .NET 2.0, .NET 3.0 (WCF), Java, PHP, Perl, Python, Ruby and javascript.
+
+* STS - User authentication service using SOAP protocol
+
+* WSI - RESTful service used to validate a WSDL as being in conformance with Basic Profile 1.1 from WS-I.Code generation, authentication, WSDL compliance
+authenticaion code tools validation 
+Tools

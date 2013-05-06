@@ -1,0 +1,5 @@
+Presentation construction ad sharing service
+VCASMO
+VCASMO is an online presentation tool which can be used to synchronize video, powerpoint, and music within a single presentation. The VCASMO API is in private beta and allows interaction with presentations, as well as getting information from presentations. To inquire about future availability contact: info@vcasmo.com
+enterprise office video 
+Video

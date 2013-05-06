@@ -1,0 +1,7 @@
+Idea tracking and brainstorming service
+Wridea
+The service logs ideas and provides tools for organizing, discussing, and refining them. Possible uses include brainstorming, document development, and online collaboration. Users can create a record for an idea under development, then give access to others for review, commentary, and refinement of initial concepts.
+
+API methods support retrieval of pages and idea records created under a user account, along with management functions like adding, updating, and deleting. Methods also allow creation and management of categories for organizing idea and page records.
+brainstorm office social 
+Social

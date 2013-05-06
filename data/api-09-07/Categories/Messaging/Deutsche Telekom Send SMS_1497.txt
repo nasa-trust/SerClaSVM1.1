@@ -1,0 +1,10 @@
+cell 1
+germany 2
+message 1
+messaging 3
+mobile 1
+phone 1
+send 3
+short 2
+sm 3
+telephony 1

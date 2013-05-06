@@ -1,0 +1,5 @@
+Trading and Market Data Service
+LMAX Exchange Trading
+LMAX Exchange is a trading and automated trading platform. The LMAX Exchange Trading API gives users direct market access for all LMAX instruments, fast trade execution(90% of trades are executed in less than 10ms), secure trading,a technical support team, risk-free demo environment, and access to up to 20 levels of current and historical market depth. LMAX Exchange provides Java and .NET client libraries and the FIX library is available on request. 
+analytics Data financial stocks trading 
+Financial

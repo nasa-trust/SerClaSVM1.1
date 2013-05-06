@@ -1,0 +1,5 @@
+Cloud-based video hosting service
+Kadoo
+Kadoo Backstage?s cloud-specific, open source APIs give developers the ability to create web and mobile apps and services. The APIs create cross-cloud compatibility by speaking to all services. Kadoo is a cloud-based video hosting service that gives users access to all applications and web services from any device. Developers can use the APIs to give apps, mobile, and web services access to Kadoo&#039;s file, user, and billing clouds. The API uses RESTful protocol.
+cloud video 
+Video

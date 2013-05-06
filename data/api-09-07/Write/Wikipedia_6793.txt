@@ -1,0 +1,7 @@
+Online collaborative encyclopedia
+Wikipedia
+The unofficial Wikipedia API. Because Wikipedia is built using MediaWiki, which in turn supports an API, Wikipedia does as well. This provides developers code-level access to the entire Wikipedia reference. The goal of this API is to provide direct, high-level access to the data contained in the MediaWiki databases. Client programs can use the API to login, get data, and post changes. The API supports thin web-based JavaScript clients, such as Navigation popups or LiveRC, end-user applications (such as vandal fighter), and can be accessed by another web site (tool server&#039;s utilities).
+
+The API uses RESTful calls and supports a wide variety of formats including XML, JSON, PHP, YAML and others.
+reference wiki 
+Reference

@@ -1,0 +1,5 @@
+Social networking support service
+Aalto social interface
+The service creates a platform for social media applications serving the user base in the Otaniemi area of Finland and the Aalto University. Part of the university's OtaSizzle project, the service provides functions like user profiles, groups, and SMS/texting along with other social messaging channels. The API gives application-level access to the functionality of the network's own interface plus capacity for adding new applications.
+social finland messaging sms
+Social

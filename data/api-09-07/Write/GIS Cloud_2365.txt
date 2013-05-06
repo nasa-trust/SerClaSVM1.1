@@ -1,0 +1,7 @@
+Geospatial data cloud hosting & map creation service
+GIS Cloud
+GIS Cloud is a service that allows users to host, manage, and access their geospatial data in the cloud. GIS Cloud also allows for creation, editing, and publishing of maps from the geospatial data.
+
+The GIS Cloud API allows developers to access and integrate the data and functionality of GIS Cloud into other applications. Some example API methods include creating maps, editing maps, deleting maps, creating and listing layers, and listing features.
+cloud database display gis mapping viewer 
+Mapping

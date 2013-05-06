@@ -1,0 +1,5 @@
+Taxi booking service
+Taxi Magic
+Taxi Magic is the first nationwide free online taxi booking service that is directly integrated with taxi dispatch systems. It allows users to book taxis from a mobile phone or the Web, track the arrival of their taxi, charge the ride to a credit card, expense the trip with an e-receipt. Taxi Magic Developers get access to a simple HTTP API that accepts a pickup address, time, cell phone number, and a request to book a taxi. Full documentation is available upon registration.
+booking deadpool taxi travel 
+Travel

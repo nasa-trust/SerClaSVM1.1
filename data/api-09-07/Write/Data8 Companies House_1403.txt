@@ -1,0 +1,7 @@
+UK company search service
+Data8 Companies House
+Data8 is the UK&#039;s premier data solutions provider with a range of data cleansing, postcode lookup and data validation services to ultimately improve the way you communicate with your customers.
+
+The Companies House API allows users to search for companies by either name, address or postcode and reveal full details about specific companies. The API uses SOAP calls and responses are formatted in XML.
+business reference search uk 
+Reference

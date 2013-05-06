@@ -1,0 +1,5 @@
+EpiDoc encoded document information extraction service
+APPELLO
+The APPELLO API was developed to connect to sets of EpiDoc encoded documents and to extract information from them. EpiDoc is a set of guidelines for the structured markup of epigraphic documents in TEI XML. This API is provided by the Centre for the Study of Ancient Documents and The British Museum. It can be accessed using REST calls in XML format.
+documents museum tools 
+Tools

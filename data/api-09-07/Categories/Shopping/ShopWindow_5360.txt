@@ -1,0 +1,15 @@
+channel 1
+compare 1
+comparison 1
+environment 1
+integrate 1
+million 1
+offering 1
+over 1
+partner 1
+product 1
+retailer 1
+sale 1
+search 1
+shopping 5
+shopwindow 4

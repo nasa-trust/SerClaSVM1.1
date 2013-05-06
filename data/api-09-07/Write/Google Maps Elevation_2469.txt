@@ -1,0 +1,7 @@
+Get elevation data for any location
+Google Maps Elevation
+The Google Elevation web service provides you a simple interface to query locations on the earth for elevation data. Additionally, you may request sampled elevation data along paths, allowing you to calculate elevation changes along routes. 
+
+The Elevation service provides elevation data for all locations on the surface of the earth, including depth locations on the ocean floor (which return negative values). In those cases where Google does not possess exact elevation measurements at the precise location you request, the service will interpolate and return an averaged value using the four nearest locations.
+Elevation mapping 
+Mapping

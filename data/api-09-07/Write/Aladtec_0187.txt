@@ -1,0 +1,7 @@
+Employee scheduling and workforce management software
+Aladtec
+Aladtec provides online employee scheduling and workforce management software. Their EMS Manager is used by ambulance services to manage availability and shift sign-ups. The FIRE Manager is used by fire departments to help with shift rotations and maintaining certifications. Zanager is used by organizations such as nursing homes and dispatch centers to organize employee scheduling.
+
+The Aladtec API allows developers to integrate any of the software services with their own applications. The API exposes the functionality of the software suite and allows the data to be pulled into a third party application. The API uses HTTP calls and responses are formatted in XML.
+management office scheduling 
+Office

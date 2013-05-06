@@ -1,0 +1,5 @@
+Automated Trading Service
+ForexYard
+ForexYard is an online brokerage providing to services to traders around the world. The ForexYard API enables users to build automated trading into third-party systems. Possibly trading actions include: trade requests, stop-loss, take-profit, entry orders, access to past trading, historical data requests, and charting.  The use the API, users must agree to the API disclosure and maintain sufficient funds in trading accounts. 
+analytics feeds financial stocks trading 
+Financial

@@ -1,0 +1,7 @@
+Prototype creation and development platform
+Sen.se
+Sen.se is an online platform that is open and free for users to develop, create, and try out devices, applications, and prototypes. Sen.se also has testing capabilities for users to test their products and ideas.
+
+The Sen.se API allows developers to access and integrate the functionality of Sen.se with other applications and to create new applications. Some example API methods include managing user information, creating and managing events, and retrieving device and event information.
+programming prototype tools 
+Tools

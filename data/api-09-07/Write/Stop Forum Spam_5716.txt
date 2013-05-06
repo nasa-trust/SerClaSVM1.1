@@ -1,0 +1,5 @@
+Database of online forum spammers
+Stop Forum Spam
+Stop Forum Spam is a database of online forum spammers. The API allows users to query the database to determine if a spammer is trying to register to their site. Users can also add to the database. It uses a RESTful interface and responses are formatted in XML.
+internet social spam 
+Internet

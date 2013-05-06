@@ -1,0 +1,5 @@
+Phish fan site
+Phish.Net
+Phish.Net is a fan-created and run website for fans of the musical group Phish. The site &quot;serves to compile, preserve, and protect encyclopedic information about Phish and their music.&quot; A public API is available, as well as a protected API requiring an API key. 
+band database fansite music phish 
+Music

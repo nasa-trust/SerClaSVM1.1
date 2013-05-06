@@ -1,0 +1,5 @@
+Data digitization service
+Captricity
+Captricity is a data management service. It allows users to digitally capture data from paper documents. Users can scan or photograph paper documents with tons of handwritten information, such as hand-completed surveys, and submit those images to the Captricity site. Captricity will then produce accurate digital renderings of the information. The Captricity API exposes the image submission and data return functionality. It is currently in beta and developers must request access via a sign up form on Captricity???s Developer API page. 
+Data digitization documents image tools 
+Tools

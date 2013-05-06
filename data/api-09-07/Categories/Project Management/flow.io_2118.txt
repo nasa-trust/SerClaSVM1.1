@@ -1,0 +1,12 @@
+create 1
+delete 1
+editing 1
+format 1
+lean 2
+management 3
+member 1
+project 5
+rest 1
+software 1
+task 1
+true 1

@@ -1,0 +1,5 @@
+Game development analytics
+Playtomic Data Exporting
+Playtomic is a player performance tracking service for game developers. It provides and platform that analyzes players??? performances in online games. Intelligence reports on users??? performances can then be used improve game play. It is also scalable to different sizes and aspects of games. They provide a RESTful API for developers to import JSON or XML-formatted analytical data directly into their own apps and dashboards. 
+analytics games 
+Games

@@ -1,0 +1,10 @@
+accomplishment 2
+earn 1
+goal 1
+network 2
+point 1
+reward 1
+setting 1
+share 1
+sharing 1
+social 4

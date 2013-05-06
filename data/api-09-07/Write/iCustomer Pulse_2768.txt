@@ -1,0 +1,5 @@
+Customer satisfaction survey 
+iCustomer Pulse
+iCustomer Pulse makes it easy for you to create and send satisfaction surveys, called Pulses, to your customers. The iCustomer Pulse API allows your company to automate the sending of the pulse so that a person doesn&#039;t have to log into your iCustomer Pulse account and manually send the pulse. Sending a pulse through the iCustomer Pulse API is as simple as sending a JSON formatted message via a HTTP Post request to the service.
+analytics customer-service deadpool enterprise surveys 
+Enterprise

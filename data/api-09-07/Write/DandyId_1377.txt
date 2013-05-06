@@ -1,0 +1,5 @@
+Social graph management services
+DandyId
+From their site: Manage your social graph once. Return a list of a services associated with a specific user. Great if you want to learn more about a particular user's other online services (e.g. twitter, digg, del.icio.us, flickr, etc.). Lookup is done via email address, so integration with your existing users is a snap (provided they opt-in to dandyId -- we don't return anything without the user's permission).
+social 
+Social

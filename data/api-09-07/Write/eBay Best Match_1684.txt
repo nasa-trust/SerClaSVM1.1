@@ -1,0 +1,7 @@
+eBay search ranking analysis service
+eBay Best Match
+eBay&#039;s Best Match API enables developers to understand various factors affecting their eBay search ranking when sorted by Best Match. Developers can write applications that help sellers understand their item rank for a given key word, identify factors that impact their listing performance score as well as allow them to analyze their business at a category level.
+
+This API uses SOAP, allowing registered developers to generate custom XML responses for their sites, services, and applications.
+analytics business ranking sales search 
+Search

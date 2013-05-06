@@ -1,0 +1,17 @@
+authentication 2
+call 1
+client 1
+cloud 5
+computing 1
+format 1
+identity 2
+keystone 1
+obtain 1
+open 1
+platform 1
+private 1
+public 1
+response 1
+source 1
+storage 2
+token 1

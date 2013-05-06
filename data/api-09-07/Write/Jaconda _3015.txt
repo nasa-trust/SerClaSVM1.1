@@ -1,0 +1,5 @@
+Instant Messaging Service
+Jaconda 
+Jaconda is a tool to make team chats simple. It can be used from the web or a number of IM services. Jaconda also provides easy access to all your data via an XML and JSON-based, RESTful API. The API allows developers to easily manage the Jaconda services in their own applications.  
+chat im social 
+Social

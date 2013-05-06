@@ -1,0 +1,5 @@
+Domain Name WHOIS Service 
+Netcetera
+Netcetera is a leading Web Hosting service provider in Europe, with customers in over 60 countries worldwide. The Netcetera Domain Name API checks whether a domain name is available to register or not. The API uses HTTP calls and responses are formatted in JSON.
+hosting internet whois 
+Internet

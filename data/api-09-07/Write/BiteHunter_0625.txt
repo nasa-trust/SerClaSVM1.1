@@ -1,0 +1,5 @@
+Dining Deals Search Service
+BiteHunter
+BiteHunter is a service that offers a real time stream of dining deals and offers in the US (right now , NYC , SF and Chicago  - soon the entire US). BiteHunter allows users to search for deals by types of food offered near a given location or to sign up to receive daily deals. BiteHunter also offers an API for developers who want to integrate BiteHunter into their own applications and websites. 
+coupons local shopping 
+Shopping

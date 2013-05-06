@@ -1,0 +1,5 @@
+Mass transit and walking directions
+HopStop
+From their site: HopStop is your city transit guide. We provide door-to-door subway and bus directions and maps for New York City. You can also search for places to eat, drink, sleep and see in the City Guide. Use the API to integrate mass-transit and walking directions into your own website.
+bus mapping places subway transit 
+Transportation

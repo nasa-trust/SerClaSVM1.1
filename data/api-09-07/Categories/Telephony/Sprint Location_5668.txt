@@ -1,0 +1,16 @@
+account 1
+cache 1
+determine 1
+device 1
+framework 1
+gps 1
+large 1
+location 5
+mapping 1
+minutes 1
+mobile 2
+opt 1
+part 1
+return 1
+sprint 3
+telephony 2

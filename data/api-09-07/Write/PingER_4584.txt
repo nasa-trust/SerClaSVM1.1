@@ -1,0 +1,5 @@
+Internet performance monitoring project
+PingER
+PingER (Ping End-to-end Reporting) is a project for monitoring the end-to-end performance of Internet links. It was originally used by the High Energy Physics community. However, it is now focused on measuring the Digital Divide from an Internet Performance viewpoint. PingER uses the ubiquitous ping facility to gather measurements on internet speed for over 700 sites in over 160 countries. Data is gathered using the HTTP GET method. New participants for the PingER project are actively being sought.
+internet monitoring 
+Internet

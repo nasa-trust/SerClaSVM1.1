@@ -1,0 +1,7 @@
+Securities markets information service
+Millistream Market Data
+The service provides data for transaction and price quotes from major financial and securities markets with emphasis on serving customers in Nordic markets, especially Scandinavia and northern Europe. It aggregates information from a wide range of securities exchanges worldwide, including NYSE and NASDAQ in the United States, European regional markets, and national markets across Europe. The data is streamed through a number of distribution channels, including an API.
+
+API methods support retrieval of security price quotes in real-time or delayed, with end-of-day summaries of open, close, highest, and lowest price plus transaction volume. Methods also provide access to background information about security issuers, news about actions taken by companies, and historical data for reference needs.
+finance quotes scandinavia stocks 
+Financial

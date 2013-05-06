@@ -1,0 +1,5 @@
+Voice as a service
+Acapela
+Acapela is a Voice as a Service provider. The service offers text to speech solutions to give voice to content in up to 25 languages and up to 50 voices. The Acapela API lets developers integrate speech into their application and control the voice generation using features such as parameters, settings and effects. Documentation is not publicly available. 
+speech Voice tools
+Tools

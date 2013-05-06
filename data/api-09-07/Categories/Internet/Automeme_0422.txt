@@ -1,0 +1,14 @@
+add 1
+automate 2
+call 1
+churn 1
+demand 1
+format 1
+fun 1
+generator 2
+html 1
+internet 2
+meme 3
+nonsense 1
+out 1
+response 1

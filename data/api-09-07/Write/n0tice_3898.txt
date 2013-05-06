@@ -1,0 +1,5 @@
+Public notice board
+n0tice
+n0tice.com is a public notice board. It offers APIs for pulling and adding data to news reports, events and offers. The APIs use RESTful calls and responses are formatted in XML, JSON, RSS and KML.
+news 
+News

@@ -1,0 +1,5 @@
+Enterprise project management service
+Visma Severa
+Visma Severa is an enterprise project management service. It allows users to manage individual projects from sales to billing as well as their entire project portfolio. Visma Severa provides integrated CRM, project management, resourcing, time tracking, and invoicing services. This software-as-a-service can be integrated with other systems and accessed via SOAP API.
+enterprise project-management 
+Enterprise

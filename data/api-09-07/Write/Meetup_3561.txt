@@ -1,0 +1,5 @@
+Social events service
+Meetup
+From their site: The Meetup API allows developers to use the Topics, Groups and Events hosted and created on Meetup.com in their own applications and mashups. Any Meetup.com member can request an API key. The API is currently read only -- actions like RSVP&#039;ing, joining groups or posting messages aren&#039;t supported yet.
+events social 
+Social

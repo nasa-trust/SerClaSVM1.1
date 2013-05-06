@@ -1,0 +1,7 @@
+Water quality data service
+NWQMC Water Quality Portal
+The National Water Quality Monitoring Council (NWQMC) provides the Water Quality Portal web service to provide users with programmatic access to the large quantities of water quality data in various national databases.
+
+Queries are constructed and submitted through the addition of REST-like parameters to one of two base URL&#039;s. Location can be searched by latitude and longitude with radius, coordinate boxing, state, county, and country. Specific site ID&#039;s can be used to target an individual station, and searches can be made by other criteria such as site type, organization, and date.
+environment government tools water 
+Tools

@@ -1,0 +1,7 @@
+Family tree service
+AppleTree
+AppleTree is a web application for creating family trees. AppleTree also features a &quot;world&quot; family tree that all users can add to. Users can also upload and share photos on their family tree, as well as creating events to share on their family tree.
+
+The AppleTree API allows developers to access and integrate the data and functionality of AppleTree with other applications and to create new applications. Some example API methods include searching for people, returning profile information about people, and searching and uploading photos.
+family genealogy 
+Other

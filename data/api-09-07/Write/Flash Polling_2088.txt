@@ -1,0 +1,5 @@
+Online survey and questionnaire service
+Flash Polling
+The service provides single-question survey functionality, including creating questionnaires, logging answers, and reporting results for analysis. Each poll consists of a single question displayed on a web page or distributed by SMS text message or Twitter. Respondents can answer on the web, via text reply, or with a phone call. Comments are logged and made available for download and analysis.
+polls questions survey utility 
+Utility

@@ -1,0 +1,7 @@
+Affiliate marketing network
+Belboon
+Belboon is an Affiliate Marketing Network based in Europe. They offer solutions for multi-channel online and mobile performance advertising.
+
+The belboon APIs allow user to automate their affiliate network via their own web sites or applications. The APIs offer a wide range of functionality including the ability to create price comparisons, product search tools, dynamic product advertising material, access all the information from their own Publisher Account, list affiliate programs, individual partnership programs with specific criteria or search specific advertising. The APIs use SOAP protocol and responses are formatted in XML and CSV.
+advertising affiliate marketing 
+Advertising

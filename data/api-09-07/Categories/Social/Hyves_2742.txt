@@ -1,0 +1,15 @@
+album 1
+blog 4
+comment 1
+create 2
+europe 1
+event 1
+friend 1
+gadget 1
+get 6
+invitation 1
+network 1
+post 3
+social 4
+tip 1
+view 2

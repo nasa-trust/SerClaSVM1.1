@@ -1,0 +1,5 @@
+Article and journal search and aggregator
+ODP Search
+ODP is a Chinese site that provides search and aggregation of top journals and articles for a variety of subjects. The search API allows users to display site search results into their site or application, or mixed with other data to develop their own unique applications. The RESTful API returns results in XML format. The site and documentation is in Chinese.
+china news 
+News

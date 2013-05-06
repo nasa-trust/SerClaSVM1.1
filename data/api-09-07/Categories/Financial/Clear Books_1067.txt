@@ -1,0 +1,12 @@
+accounting 3
+book 3
+business 1
+clear 3
+communication 1
+finance 2
+out 1
+party 1
+pass 1
+small 1
+system 2
+third 1

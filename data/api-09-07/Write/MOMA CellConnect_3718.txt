@@ -1,0 +1,7 @@
+Mobile internet site creation platform
+MOMA CellConnect
+MoMA is the provider of the CellSeries Mobile Ability Platform; a mobile Internet site creation tool that uses a drag and drop interface to allow for rapid creation of mobile Internet sites. A number of features are available for designers to integrate including form fields to capture consumer profile data for list building and delivering mobile content downloads and video streaming. Also included are click-to-call, store locator and maps, viral mobile greeting cards, automated ad serving and more.
+
+The CellConnect API is a mobile connectivity tool that allows for integration with outside business software and systems. The API can be used to send data to customer relationship management software packages for reports on SMS subscription groups, facilitate opt-in to campaigns from a website with confirmation, manage SMS groups, retrieve content from outside websites, and mobile content can be uploaded in bulk to the CellMate content management system. For couponing campaigns, redemption code numbers can be uploaded in bulk, as can phone numbers. Public documentation for the API is not available.
+internet mobile website 
+Internet

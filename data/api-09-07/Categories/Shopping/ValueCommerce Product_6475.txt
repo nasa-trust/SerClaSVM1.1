@@ -1,0 +1,16 @@
+affiliate 2
+agency 1
+aggregate 1
+datum 1
+format 1
+hundred 1
+japan 2
+japanese 1
+marketing 2
+merchant 1
+product 3
+protocol 1
+response 1
+search 1
+shopping 3
+top 1

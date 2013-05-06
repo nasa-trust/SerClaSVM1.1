@@ -1,0 +1,5 @@
+Real-time activity stream service
+RIPL
+RIPL opens up real-time activity streams between friends and learns from the response patterns to filter out unwanted content. This means everyone gets a steady stream of content they???ll enjoy from people they know. Use the API to RIPL-ize your own site.
+realtime social 
+Social

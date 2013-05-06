@@ -1,0 +1,17 @@
+amazon 5
+capability 1
+capacity 1
+cloud 2
+code 1
+cost 1
+exist 1
+full 1
+give 1
+operate 1
+scale 1
+set 1
+thus 1
+today 1
+tool 1
+up 1
+work 1

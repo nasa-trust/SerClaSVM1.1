@@ -1,0 +1,5 @@
+e-procurement and expense management service
+Coupa
+Coupa???s open APIs can be used to directly integrate with virtually any system to automate the complete end-to-end procurement process. The APIs can be used for reference data and transactions. Coupa is the leading provider of cloud spend management (CSM) solutions that help companies control their indirect spending. Public documentation of the APIs is not available.
+business enterprise 
+Enterprise

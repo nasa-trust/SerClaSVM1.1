@@ -1,0 +1,16 @@
+alert 3
+alerting 1
+build 1
+business 1
+custom 1
+customer 1
+email 3
+gateway 1
+messaging 3
+mobile 1
+phone 1
+response 1
+send 1
+sm 3
+system 1
+voice 3

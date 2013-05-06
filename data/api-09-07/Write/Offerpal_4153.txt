@@ -1,0 +1,7 @@
+Virtual currency monetization service
+Offerpal
+Offerpal Media is the leader in virtual currency monetization for online games, virtual worlds and social networks. The company???s turnkey payment platform gives consumers the opportunity to earn or buy virtual currency by completing targeted advertising offers or by purchasing it through direct, global payment options.
+
+Offerpal has issued more than 750 billion virtual points to over 150 million consumers across 2,000 publishers and 190 countries since its launch in 2007. The service is embeddable as an I-Frame or XML/JSON feed. No public documentation is available.
+finance payment virtual 
+Financial

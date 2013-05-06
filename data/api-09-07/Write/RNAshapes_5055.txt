@@ -1,0 +1,7 @@
+RNA shape prediction service
+RNAshapes
+Given an RNA sequence, RNAshapes can help determine its probable shape. RNAshapes computes a small set of representative structures of different shapes as well as accumulated shape probabilities. It also offers comparative predictions of consensus structures.
+
+RNAshapes is available as a web console, a downloadable program, and a SOAP API.
+biology genetics science 
+Science

@@ -1,0 +1,5 @@
+Mapping services
+Microsoft Bing Maps
+Bing Maps API and Interactive SDK features an AJAX Map Control. Use BM to build maps which can include routes and traffic info. Gives developers the ability to code the controls, shapes, and layers of the maps, and can summon the birds-eye, 3D, and aerial imagery. For commercial applications Bing Maps Web Services is a set of programmable SOAP services that allow users to integrate maps and imagery, driving directions, and other location features into a Web application.
+display mapping places viewer 
+Mapping

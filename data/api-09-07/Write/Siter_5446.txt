@@ -1,0 +1,7 @@
+Domain dialing service
+Siter
+Siter is a service that allows users to make phone calls based on domain names rather than phone numbers. Users assign phone numbers to their domain name that other people can call. Siter offers web and mobile applications.
+
+The Siter API allows developers to access the functionality of Siter. The API method allows users to add site names, domain names, and email addresses related to their phone number. Documentation available as a downloadable pdf.
+domains internet telephony 
+Telephony

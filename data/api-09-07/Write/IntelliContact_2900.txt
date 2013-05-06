@@ -1,0 +1,5 @@
+Email marketing service
+IntelliContact
+From their site: IntelliContact allows businesses, non-profit organizations, and associations to easily create, send, and track email newsletters, surveys, blogs, autoresponders, and RSS feeds. The IntelliContact API enables advanced users to create applications and plugins that easily and safely interact with IntelliContact. Using the API, an application can perform services in IntelliContact on behalf of any user that has authorized it to do so.
+email 
+Email

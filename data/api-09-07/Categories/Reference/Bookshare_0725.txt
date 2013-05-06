@@ -1,0 +1,14 @@
+aim 1
+blindness 1
+book 3
+create 1
+disability 4
+learning 1
+library 1
+own 1
+periodical 1
+print 2
+reader 2
+reference 2
+who 1
+wish 1

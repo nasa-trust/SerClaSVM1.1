@@ -1,0 +1,5 @@
+Feed aggregator services
+Feedoor
+From their site: Feedoor is the ultimate feed service where you can add many items, create and merge many feeds from external sources with different feed formats (RSS, ATOM, RDF) in one single feed. You can also customize the look and the feel of your feed the way you want.
+blog rss 
+Feeds

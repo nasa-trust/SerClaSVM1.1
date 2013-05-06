@@ -1,0 +1,7 @@
+Social Media Referral Software
+Ambassador
+Ambassador is a service that allows companies and brands to reward their customers for promoting products and services to their social networks. 
+
+The Ambassador API allows developers to integrate Ambassador into sites and applications. Some example API methods include listing events, accessing ambassadors account information, creating rewards, and adding discounts and deals.
+advertising ambassador-rewards customer-referrals referral-marketing social-marketing social-media-marketing 
+Social

@@ -1,0 +1,5 @@
+Beta program invitation and management service
+Prefinery
+Prefinery is a beta program invitation and management service for web apps and desktop software. The Prefinery API is implemented as XML over HTTP using all four verbs (GET/POST/PUT/DELETE). Every resource, like Beta or Tester has their own URL and are manipulated in isolation. The API follows the REST principles as much as possible.
+other utility 
+Other

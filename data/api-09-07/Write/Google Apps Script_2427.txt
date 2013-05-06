@@ -1,0 +1,7 @@
+Automation service for Google products
+Google Apps Script
+Google Apps Script is an automation API that lets developers use JavaScript to interact with many of Google&#039;s products, including Calendar, Docs and Contacts. Using the API, developers can automate tasks or otherwise improve their own experience or that of other users while using Google products. For example, a developer might take a Google spreadsheet and add buttons and other interface components to improve means of gathering user input for calculations. Apps Scripts can also create new pages on Google Sites, send emails triggered by specific spreadsheet data and more.
+
+In addition to accessing Google products, the Apps Scripts also can access utility services, such as an XML parser and SOAP call creator.
+google tools 
+Tools

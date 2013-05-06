@@ -1,0 +1,14 @@
+ai 1
+battle 4
+belt 2
+bot 1
+build 1
+calculator 1
+client 1
+create 1
+custom 3
+game 4
+map 1
+orion 2
+top 1
+universe 1

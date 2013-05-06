@@ -1,0 +1,5 @@
+U.K. population information service
+MySociety Gaze
+The Gaze API collects location information from users without using maps or postcodes. Instead the API uses place names to help identify locations, alternate locations and more. Users can use the API to search over 2.2 million places and 3 million names and supply additional contextual information to disambiguate common place names. The API uses RESTful calls and responses are formatted in CSV.
+geolocation mapping population 
+Mapping

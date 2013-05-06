@@ -1,0 +1,6 @@
+Options price quotes service
+XigniteRealTimeOptions
+The RealTimeOptions web service provides real-time price quotes for U.S. and international exchange traded options including equity, index and currency. Data provided by the service includes full information about securities, quotes and expirations. The API uses REST and SOAP calls and responses are formatted in XML.
+
+financial stocks 
+Financial

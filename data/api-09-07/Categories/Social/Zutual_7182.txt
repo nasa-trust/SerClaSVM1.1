@@ -1,0 +1,10 @@
+advance 1
+calculate 1
+common 1
+comparison 1
+intelligence 1
+one 1
+platform 1
+social 2
+twitter 3
+two 1

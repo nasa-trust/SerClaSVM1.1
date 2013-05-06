@@ -1,0 +1,5 @@
+Video game trading services
+Goozex
+Members of the Goozex community trade video games and earn points doing it. Use the Goozex API to access the users who are selling and buying, the point value of games, top 10 games, and other data in Goozex&#039;s system.
+games 
+Games

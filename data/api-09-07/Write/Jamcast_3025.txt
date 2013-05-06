@@ -1,0 +1,7 @@
+Music streaming service
+Jamcast
+Jamcast is a music streaming service. Jamcast streams digital media to DLNA compatible devices and applications, such as iTunes and Spotify. 
+
+The Jamcast API allows developers to access and integrate the functionality of Jamcast with other applications and to create new applications. Some example API methods include managing playlists, uploading music, and managing user information.
+media music Player streaming 
+Music

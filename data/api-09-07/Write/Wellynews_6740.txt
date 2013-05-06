@@ -1,0 +1,5 @@
+Wellington New Zealand news search
+Wellynews
+The Wellynews API provides RSS and JSON interfaces to a collection of local news items aggregated from community groups in Wellington, New Zealand.
+news newzealand 
+News

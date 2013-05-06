@@ -1,0 +1,7 @@
+Time tracking service
+Timr
+Timr is an online time tracking application. Timr offers tracking for working time, project time, mileage, and GPS position. In addition the application provides analysis and reporting features.
+
+The timr API allows developer to integrate timr&#039;s functionality into existing systems. The API lets users create tasks in timr automatically when new orders are created in their ERP, assign tasks to a user if that user was assigned to a project in their project management system, and transfer time tracking records created in timr back into their ERP system.Tasks and task-assignments can be set automatically. Created time entries can be assumed by timr. The API uses SOAP protocol and responses are formatted in XML. Full documentation is available for customers.
+office project-management time tracking 
+Office

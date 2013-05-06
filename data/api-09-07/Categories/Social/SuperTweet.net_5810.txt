@@ -1,0 +1,13 @@
+advantage 1
+authentication 1
+complexity 1
+cost 1
+means 1
+security 1
+simple 1
+social 2
+standard 1
+take 1
+technology 1
+tweet 1
+twitter 3

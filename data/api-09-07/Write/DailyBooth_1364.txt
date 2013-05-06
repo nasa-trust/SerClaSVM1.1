@@ -1,0 +1,5 @@
+Social photo sharing service
+DailyBooth
+DailyBooth is a social service allowing users to connect in real-time through the use of pictures and status updates. The API provides programmatic access to the service and allows developers to integrate the service into their own applications. The API uses RESTful protocol and responses are formatted in JSON.
+photo social 
+Photos

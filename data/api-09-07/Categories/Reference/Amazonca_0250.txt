@@ -1,0 +1,17 @@
+call 1
+comment 1
+format 1
+functionality 1
+give 1
+given 1
+image 1
+item 1
+locating 1
+maintain 1
+method 1
+product 2
+reference 2
+response 1
+search 2
+shopping 1
+utility 1

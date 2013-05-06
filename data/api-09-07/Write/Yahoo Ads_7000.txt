@@ -1,0 +1,5 @@
+Online ad management
+Yahoo Ads
+From their site: Advertiser Web Services enables advertisers to develop software which interacts directly with Yahoo! Search Marketing campaign management systems. Advertisers can use XML based transactions to perform many of the features that are available through our account access user interface.be adapted to efficiently manage Yahoo! Search Marketing accounts, listings, bids, and reports. 
+advertising 
+Advertising

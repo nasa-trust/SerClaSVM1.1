@@ -1,0 +1,5 @@
+Paid parking location service
+BestParking
+The BestParking API provides developers with off-street parking data (garages and lots open to the public) in 18 cities and 79 airports in the United States and Canada. Name, address, phone number, entrance, attributes (e.g., indoor vs. outdoor), and a rate calculator are included. Additional cities are coming soon. Visit Bing.com/Maps &gt; &quot;Parking Finder&quot; link in left panel to see our API in action. Documentation is not publicly available.
+canada parking places travel usa 
+Travel

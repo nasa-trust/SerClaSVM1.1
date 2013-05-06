@@ -1,0 +1,7 @@
+Customized communication service
+Sailthru
+The service manages email communications with customers based on analysis of their behavior and activities within a system. It also coordinates messaging via email, SMS text message, website content, and other channels, for customized messaging. Each recipient receives a message specifically tailored to their patterns of interaction with the sender. Options for use include transaction confirmation messages, blast promotional messaging campaigns, and similar customer contact activities.
+
+API methods support sending customized email to individual recipients, scheduling and delivering blast email or SMS campaigns, and managing subscriptions, contact preferences, and opt-out requests. Methods also handle backend processing such as status reporting for current communication activities and customer address book imports and exports.
+email monitoring sms tracking 
+Email

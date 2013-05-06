@@ -1,0 +1,7 @@
+Australian postal service
+Australia Post
+The service provides postal delivery to locations in Australia. Integrations are available to review and specify delivery options, calculate postage cost, and complete payment for delivered purchases.
+
+API methods support listing and specification for available delivery services, based on the sender and recipient location with address validation, delivery date and time, and other specifications. Methods also support calculation of shipping cost based on options chosen. The SecurePay API manages collection of funds for purchases and payment to the sender.
+Australia postal shipping 
+Shipping

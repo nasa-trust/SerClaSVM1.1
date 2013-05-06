@@ -1,0 +1,5 @@
+Online business collaboration service
+Banckle
+Banckle.com is a collaboration website that delivers cloud-computing solutions to enterprises on a global scale. Banckle Apps Suite is accompanied with a set of APIs that lets developers create new applications by interacting with single or multiple Banckle Apps and borrow some of its features. Currently APIs are available for the Live Chat, Online Meeting and File Sharing apps. The API deals with CRUD (Create, Read, Update, and Delete) operations for resource management. It uses RESTful protocol and responses are formatted in XML or JSON.
+business cloud sbweb social 
+Social

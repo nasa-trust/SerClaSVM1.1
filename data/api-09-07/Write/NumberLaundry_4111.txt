@@ -1,0 +1,5 @@
+Phone Number Information Service
+NumberLaundry
+The NumberLaundry website is a service provided by whatcheer.com that provides useful information about phone numbers that are submitted. The API uses REST calls and returns JSON. The submitted phone number will be returned &quot;clean&quot;  with no dashes or spaces between numbers, with a country icon, and a Twilio calling rate. The API is available free of charge. 
+charges prices reference telephony 
+Telephony

@@ -1,0 +1,5 @@
+Blog tags repository services
+Tagatum
+Use the Tagatum API to find associated tags from the blogosphere. Conduct a search to get a list of tags that contain your submitted word. Return tags that are associated with the tag that you pass in. Get a list of the most heavily used tag pairs. The tag repository that you search is one that Tagatum created and updates using spiders to scan all blog posts. It is a simple project intended to create associations among blog post tags and among words and phrases.
+blog deadpool tagging 
+Tagging

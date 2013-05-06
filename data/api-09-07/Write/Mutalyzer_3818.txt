@@ -1,0 +1,5 @@
+Checks variant sequence nomenclature for correctness
+Mutalyzer
+Mutalyzer provides a suite of services that check variant sequence nomenclature according to the guidelines of the Human Genome Variation Society. These services allow users to assess the correctness of sequence variant descriptions, or to generate valid descriptions of their own. Batch checkers are also available for assessing multiple sequence descriptions. These services can be accessed programmatically via SOAP calls.
+bioinformatics genetics science semantic 
+Science

@@ -1,0 +1,5 @@
+Hotel reservation service
+TripAuthority
+XML API from Alliance Reservations Network for hotel availability, rate details, bookings, and cancellations. The API provides tools for an experienced developer to implement the back end for a hotel reservation booking engine: integration with static content and search interface, availability request with rate information (including multiple currency display), request for detailed information, reservation request, and canceling a reservation.
+booking hotel reservations travel 
+Travel

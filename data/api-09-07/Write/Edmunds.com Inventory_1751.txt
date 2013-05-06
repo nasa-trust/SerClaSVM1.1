@@ -1,0 +1,7 @@
+Specific automobile information via VIN
+Edmunds.com Inventory
+Edmunds has been a publisher of new and used automotive pricing guides to assist automobile buyers since 1966. In addition to pricing information, Edmunds.com includes car reviews; vehicle maintenance guidance and resources; tips and advice on buying/selling vehicles, insurance, fuel economy, and more; and user forums. 
+
+The Edmunds.com Inventory API is a RESTful API that gives access to the Edmunds.com vehicle database via Vehicle Identification Number (VIN). Provide a VIN and specific vehicle information (for vehicles in the Edmunds.com database) will be returned in JSON format.
+auto reference vin 
+Reference

@@ -1,0 +1,5 @@
+Virtual server hosting services
+FlexiScale
+From their site: Control your FlexiScale servers using a standard SOAP API. FlexiScale gives you Virtual Private Servers (VPS). Your server belongs to you alone. It gives you the privacy of a dedicated or co-located server. Use the API to list and manipulate your servers, firewalls, jobs, network interfaces, operating system images available, and more.
+deadpool internet 
+Internet

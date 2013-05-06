@@ -1,0 +1,13 @@
+add 1
+badge 1
+building 1
+currency 1
+game 3
+good 1
+level 1
+like 1
+loyalty 1
+mechanics 2
+payment 1
+point 1
+program 1

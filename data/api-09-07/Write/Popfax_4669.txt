@@ -1,0 +1,5 @@
+Internet fax service
+Popfax
+The Popfax Machine-to-Machine API supports SM, voice mail, fax sending and receiving functions for registered end users, moreover it offers a super user set of functions enabling third party integrators to administrate a group of end users accounts. The Popfax API uses SOAP protocol and responses are formatted in XML. For documentation, see links on right side of page. 
+email fax internet software 
+Fax

@@ -1,0 +1,7 @@
+Email hosting/archiving & filesharing service
+LuxSci
+Lux Scientiae (LuxSci) is a secure web & email hosting service. Provides secure, premium email including bulk email and filesharing/hosting. 
+
+LuxSci&#039;s API allows developers to write applications which can perform account administration tasks such as updating, creating, and querying users. 
+email filesharing hosting internet 
+Email

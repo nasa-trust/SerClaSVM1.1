@@ -1,0 +1,9 @@
+automate 1
+create 1
+email 5
+list 2
+maintain 1
+marketing 3
+sending 1
+subscriber 1
+synchronize 1

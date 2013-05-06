@@ -1,0 +1,7 @@
+Online sports betting exchange
+TradeSports
+From their site:   TradeSports.com is a person-to-person trading &quot;Exchange&quot;. It allows you to trade in the most innovative, transparent and exciting way on financial, sporting, current events, entertainment and many similar events. TradeSports members trade directly with each other, bypassing the middle-man.
+
+When you trade on TradeSports you are pitting your wits against other members of TradeSports. TradeSports provides the platform whereby members can trade between themselves without paying a Sportsbook margin or vig. The winning member will receive the profits, the losing member pays the loss. TEN&#039;s API is constructed to allow eligible members interface their own trading application or even an excel program directly with the exchange. This interface was designed specifically to facilitate both high and low volume automated and non-automated trading and is being successfully used by both market makers and active traders on the exchange. 
+gambling sports 
+Other

@@ -1,0 +1,7 @@
+Shopping cart service
+Pinnacle Cart
+Pinnacle Cart is a shopping cart service that can either be installed on your own server or hosted for a monthly fee. The Pinnacle Cart API provides read-only access to a number of functions which return data within the Pinnacle Cart system. You can retrieve customer count, individual customers, inventory and information on orders. There are also product-related functions to return data about products, as well as the categories used to organize them.
+
+The service supports both true SOAP and a SOAP-like RESTful protocols (focused on remote procedure calls rather than resources). For the latter protocol, Pinnacle Cart supports both XML and JSON.
+shopping 
+Shopping

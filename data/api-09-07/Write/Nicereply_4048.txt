@@ -1,0 +1,5 @@
+Email customer service platform
+Nicereply
+Nicereply is an email rating system that lets customers decide the quality of the service. Using a unique URL at the end of emails, Nicereply helps you see how your customers think you are doing. The Nicereply API provides access to the ratings, so you can see how the company--or a particular customer service representative--is being rated over a period of time.
+communication helpdesk 
+Email

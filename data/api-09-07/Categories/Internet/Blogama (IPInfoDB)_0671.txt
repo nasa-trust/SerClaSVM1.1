@@ -1,0 +1,14 @@
+city 1
+datum 2
+duplication 1
+internet 2
+ip 3
+level 1
+load 1
+million 1
+own 1
+place 1
+record 1
+reduce 1
+still 1
+streamline 1

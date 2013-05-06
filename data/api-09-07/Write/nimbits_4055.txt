@@ -1,0 +1,5 @@
+Cloud based data sharing service
+nimbits
+Nimbits is an open source process data historian for Google App Engine. It provides data logging, calculations and M2M communication for sensors and devices such as Arduino. It can be used to record and share data points on the cloud and lets users record their changing numeric, text based, GPS, json or xml values into them. The API lets users access the public server to push and pull their data from. The API also provides access to a chart image service, which can generate PNG format images of user data. The API uses HTTP calls and responses are formatted in JSON or TXT.
+cloud Data internet sharing 
+Internet

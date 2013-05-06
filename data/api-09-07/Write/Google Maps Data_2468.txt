@@ -1,0 +1,5 @@
+Service to store, update and view geodata
+Google Maps Data
+The Google Maps Data API allows client applications to view, store and update map data in the form of Google Data API feeds using a data model of features (placemarks, lines and shapes) and maps (collections of features). Since it uses this familiar model, this new API makes it easy to build geo applications for specific activities like planning and sharing trips, collaboratively mapping hiking trails, or saving a list of favorite restaurants
+deadpool mapping 
+Mapping

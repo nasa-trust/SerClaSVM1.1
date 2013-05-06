@@ -1,0 +1,7 @@
+Send physical postal mail via a webservice/website
+DocMail
+Docmail itself is a web based physical mail service. Users transmit an electronic document and mailing list to Docmail, where it is printed and mailed as a real post. The Docmail API lets developers integrate the Hybrid Mail service into their own systems and workflows.
+
+Docmail API v2 allows users to: send physical Letters, postcards, greeting cards and business cards via an API call. In addition users can manage and add stored mailings, documents, stationary and addresses stored in their account. Create and manage accounts and users. Access new designer types to allow creation and mailing of customized Postcards and greeting cards. Send large mailings in a matter of a seconds. The API uses SOAP protocol and responses are formatted in XML.
+mail postcards utility 
+Utility

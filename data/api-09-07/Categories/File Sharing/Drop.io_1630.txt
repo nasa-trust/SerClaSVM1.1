@@ -1,0 +1,14 @@
+content 3
+drop 1
+file 1
+format 1
+input 1
+medium 1
+private 1
+share 1
+sharing 4
+simple 1
+sort 1
+storage 1
+switchboard 1
+want 1

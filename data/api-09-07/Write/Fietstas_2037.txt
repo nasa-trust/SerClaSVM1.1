@@ -1,0 +1,7 @@
+Document and text processing service
+Fietstas
+The service provides text processing to extract document contents and conduct semantic analysis to identify word clouds and language used, identify named entities (NEs) mentioned, and apply automatic annotations. The analysis algorithm incorporates feedback over time to improve results and system output. XSL-T stylesheets allow control of visualizations of analytical output.
+
+API methods support document upload either as plain text in the request or as a document file, along with update and delete functions to manage existing documents. Methods also support analysis to break down document text into words and specific named entities, either within a single document or across a document set. The API can generate a word cloud, applying rules for stop words (those to be omitted form the cloud output) and stemming (combining variants of a single word form). 
+documents reference text 
+Reference

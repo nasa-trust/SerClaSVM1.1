@@ -1,0 +1,15 @@
+amazon 2
+call 1
+crop 6
+document 1
+entire 1
+file 2
+format 1
+kindle 3
+maximum 1
+page 1
+readability 1
+response 1
+single 1
+tool 3
+upload 1

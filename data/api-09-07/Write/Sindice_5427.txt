@@ -1,0 +1,5 @@
+Semantic data search and extraction service
+Sindice
+The Sindice API provides programmatic access to its semantic search capabilities. It is based on the OpenSearch spec. Over 10 billion pieces of data can already be searched within 100 million web pages with embedded RDF and Microformats. For example you can build on the API and find RDF with a certain "foaf:name" value.
+database search semantic 
+Search

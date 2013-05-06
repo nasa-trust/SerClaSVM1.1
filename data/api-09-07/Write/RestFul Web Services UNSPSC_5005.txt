@@ -1,0 +1,5 @@
+eCommerce product classification code reference
+RestFul Web Services UNSPSC
+UNSPSC is the acronym for the United Nations Standard Products and Services Code, a coding system to classify both products and services for use throughout the global eCommerce marketplace. The RestFul Web Services UNSPSC API allows users to look up these codes using either REST or SOAP calls.
+ecommerce economy government reference 
+Government

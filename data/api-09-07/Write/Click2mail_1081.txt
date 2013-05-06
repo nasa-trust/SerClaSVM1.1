@@ -1,0 +1,5 @@
+web-based email service
+Click2mail
+Click2Mail Webservices allows users to write their own programs to interface with the Click2Mail system. This is particularly handy for automating your direct mailing workflow or adding direct mail functionality to an existing website or program. Our Webservices can help you reduce your operations cost by off loading the expensive and time consuming task of printing, folding and mailing your direct marketing or transactional mailings.
+email office
+Email

@@ -1,0 +1,17 @@
+agriculture 1
+career 1
+education 1
+find 1
+government 2
+industry 1
+job 5
+list 1
+public 1
+retrain 1
+retrieve 1
+search 1
+sector 1
+seeker 1
+uk 5
+whole 1
+work 1

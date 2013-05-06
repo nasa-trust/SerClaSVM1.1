@@ -1,0 +1,7 @@
+Real-time traffic application
+Beat the Traffic
+Beat the Traffic by Triangle Software is web and mobile application that provides live traffic information on road maps in over 130 metropolitan areas. Beat the Traffic uses real-time data from multiple sources, including the US Department of Transportation.
+
+The Beat the Traffic API allows developers to access and integrate the functionality and data of Beat the Traffic with other applications and to create new applications. Some example API methods include accessing and retrieving speed data, route information, and images from traffic cameras for integration into other applications. Public documentation is not available; interested developers should sign up here: http://www.trianglesoftware.com/?page_id=95
+auto traffic transportation 
+Transportation

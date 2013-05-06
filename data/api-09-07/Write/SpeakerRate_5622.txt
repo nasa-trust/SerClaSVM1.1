@@ -1,0 +1,7 @@
+Event online community service
+SpeakerRate
+SpeakerRate is an online service for event organizers, attendees, and speakers. It allows event organizers to search for event speakers, attendees to get more information and provide feedback on events and speakers, and speakers to receive feedback from attendees and organizers.
+
+The SpeakerRate API allows developers to access SpeakerRate data. Data can be retrieved on SpeakerRate&#039;s speakers, events, talks, and series. The API is intended for non-commercial purposes, but those looking to use it for commercial purposes can contact SpeakerRate.
+event polls social 
+Events

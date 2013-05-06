@@ -1,0 +1,5 @@
+Geodata retrieval service
+DesertHail Geodata Service
+The DesertHail Geodata Service API allows users to retrieve elevations (in meters) in a grid, line, or point as defined by latitude and longitude coordinates. Users can also retrieve the distance (in kilometers) between two coordinates. The API uses SOAP protocol and responses are formatted in XML.
+geodata geography 
+Mapping

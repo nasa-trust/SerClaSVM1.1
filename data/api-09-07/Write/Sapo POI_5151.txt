@@ -1,0 +1,7 @@
+Location data service
+Sapo POI
+SAPO is a Portuguese Internet service provider whose main web site acts as a web portal featuring a directory of Portuguese sites. SAPO Services provides a large suite of web services and applications to developers worldwide.
+
+The POI APIs give developers access to a database of places within Portugal. Each place is geo-referenced with detailed information at a national level. The APIs filter this data by either region or category. They use SOAP protocol and responses are formatted in XML.
+location places reference 
+Reference

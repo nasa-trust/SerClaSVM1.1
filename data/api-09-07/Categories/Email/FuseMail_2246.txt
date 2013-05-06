@@ -1,0 +1,13 @@
+account 2
+administer 1
+business 1
+call 1
+campaign 1
+company 1
+create 1
+delete 1
+edit 1
+email 6
+host 3
+http 2
+solution 1

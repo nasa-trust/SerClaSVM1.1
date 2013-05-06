@@ -1,0 +1,7 @@
+Inventory management service
+Fishbowl
+Fishbowl is an inventory management tool for Quickbooks users. By integrating Fishbowl with Quickbooks, users can manage their inventory, monitor the manufacturing process, and track their goods. 
+
+The Fishbowl API allows developers to access and integrate Fishbowl functionality into Quickbooks and other applications. Some example API methods include listing inventories, accessing invoices and purchase receipts, managing orders, and tracking inventory. 
+accounting enterprise Inventory 
+Enterprise

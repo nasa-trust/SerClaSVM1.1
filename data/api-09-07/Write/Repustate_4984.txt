@@ -1,0 +1,5 @@
+Social media content analysis platform
+Repustate
+Repustate&#039;s API lets developers create their own tools to monitor social networks and blogs for keywords or phrases, by exposing a natural language and sentiment extraction API. Why pay others for brand monitoring services, when you can build your own using Repustate.
+social tools 
+Social

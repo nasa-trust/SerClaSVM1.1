@@ -1,0 +1,7 @@
+Mobile cloud hosting service
+Aepona
+Aepona is a service that brings mobile data and intelligence to the cloud. Aepona also offers mobile payment hosting and solutions, as well as billing tools. Other Aepona products include monetization platforms for web and mobile application providers. 
+
+The Aepona API allows developers to access and integrate the functionality of Aepona into other applications and services. Some example API methods include accessing customer information, finding people on networks, and initiating mobile payment and billing services. Public documentation is not available; interested developers should register for API access here: http://developer.aepona.com/.
+cloud hosting mobile payment 
+Payment

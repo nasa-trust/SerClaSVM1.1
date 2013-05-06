@@ -1,0 +1,5 @@
+Send bitcoins via SMS or e-mail
+Coinapult
+Coinapult is a service for sending bitcoins to designated recipients via SMS or e-mail. Bitcoins are an experimental new digital currency that enable instant payments, using peer-to-peer technology to operate with no central authority. Coinapult&#039;s services can be accessed on their website via web console or programmatically via HTTP POST calls. However, unlike payloads initiated on the website, Coinapult API calls carry a 1% fee.
+canada financial messaging sms usa 
+Financial

@@ -1,0 +1,5 @@
+Quotes generator
+Datanibble
+Use the Datanibble service to get quotes either on-demand or updated nightly at midnight. This is a simple quotes service. You can display a quote on your site so that the pages have frequently changing content, which can help with site visitors and search bots. To use the service, you must have access to PHP cgi scripts and SSI on your hosting server.
+fun quotations Random reference 
+Reference

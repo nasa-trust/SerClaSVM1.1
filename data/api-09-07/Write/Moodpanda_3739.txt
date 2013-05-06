@@ -1,0 +1,7 @@
+Mood tracking service
+Moodpanda
+MoodPanda is a mood tracking service. Users can rate their happiness, and optionally add a brief comment on what???s influencing their mood. MoodPanda supports a community where users can share their moods. An individual&#039;s mood posts are then organized into a mood diary which can be viewed in different ways.
+
+The MoodPanda API exposes some of the data on the site. This data includes average global mood, user data, comments on mood ratings and more. The API uses RESTful calls and responses are formatted in XML or CSV.
+mood sentiment social tracking 
+Social

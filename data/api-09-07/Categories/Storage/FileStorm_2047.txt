@@ -1,0 +1,15 @@
+account 2
+basic 1
+create 2
+file 5
+free 1
+host 3
+info 1
+key 1
+must 1
+obtain 1
+premium 1
+require 1
+retrieve 1
+storage 2
+upload 2

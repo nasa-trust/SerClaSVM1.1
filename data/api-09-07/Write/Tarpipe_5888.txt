@@ -1,0 +1,5 @@
+Lifestreaming services
+Tarpipe
+Use the Tarpipe API to manage your social presence on sites such as twitter, Jaiku, Pownce and FriendFeed. You can share content, automate postings, view your activity backlog, and create workflows that you can trigger by e-mail, instant messages, or third-party apps. Use the API to see what an OAuth ID is subscribed to, start a workflow, get information about a user, get info about an existing workflow, get activity information for activities within a workflow, and get information about supported services.
+microblogging social 
+Social

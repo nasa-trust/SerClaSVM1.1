@@ -1,0 +1,16 @@
+basic 1
+channel 1
+content 1
+datum 1
+display 1
+free 1
+hotel 2
+integrate 1
+item 1
+method 1
+news 7
+retrieve 1
+search 1
+software 1
+specific 1
+travel 2

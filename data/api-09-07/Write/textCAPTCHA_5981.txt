@@ -1,0 +1,7 @@
+Text-based captcha service
+textCAPTCHA
+The service implements captcha to prevent bots and automated scripts from submitting forms and using other website resources, typically for the purpose of posting spam messages. Unlike services using distorted images, textCAPTCHA posts random, text-based questions, such as easy arithmetic problems or logic puzzles, which users must correctly solve to proceed. Bots unable to interpret the meaning of the text are prevented from continuing.
+
+API methods support requests for questions and MD5 hashes of any permitted answers.
+captcha security 
+Security

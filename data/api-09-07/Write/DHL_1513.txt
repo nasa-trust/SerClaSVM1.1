@@ -1,0 +1,5 @@
+Package shipping services
+DHL
+From their site: TrackIT helps you easily integrate the DHL shipment tracking system, while allowing you to control the user interface and experience. You can integrate DHL tracking into your internal customer service application or external order processing system. This allows you to offer online tracking to your customers, reducing calls to your customer service operation. Using XML-formatted data, TrackIT enables you to request and receive the: Detailed status and tracking history of a DHL shipment. Delivery signature(JPEG image) and the date and time of delivery.
+deadpool shipping 
+Shipping

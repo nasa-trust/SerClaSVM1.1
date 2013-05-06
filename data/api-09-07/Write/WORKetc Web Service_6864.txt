@@ -1,0 +1,5 @@
+Small business management software suite
+WORKetc Web Service
+WORKEtc is a hosted small business management software suite that includes an online CRM, and software for project management, billing, help desk and document management. The SOAP API allows users to enable remote webservice access in WORKetc, create a new Visual Studio project and add a web reference. Responses are formatted in XML.
+billing CRM enterprise project-management sbweb 
+Enterprise

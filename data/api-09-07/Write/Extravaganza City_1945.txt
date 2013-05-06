@@ -1,0 +1,5 @@
+Group buying service
+Extravaganza City
+ExtravaganzaCity is a group buying business that caters especially to Latinos through their website and a mobile platform. Cities they serve range from the greater New York-New Jersey area to Albuquerque, Miami, and San Juan. They offer deals in many categories, including health and fitness, photography, and entertainment. Users buy deals from merchants through Extravaganza City, and redeem their purchases with emailed vouchers or on their mobile devices. They offer a RESTful API for developers to integrate the site???s entire functionality with third party apps or websites. The API returns XML and JSON formatted data. 
+coupons ecommerce shopping social 
+Shopping

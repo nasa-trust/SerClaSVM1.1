@@ -1,0 +1,5 @@
+Authentication services
+MyPW Authentication
+Use the MyPW API to quickly integrate hardware-based authentication into your Internet-connected applications. MyPW is a service that authenticates MyPW Tokens. For example, use its auth anywhere that MyPW has been enabled to avoid the problem that password tokens can only be used at one location. Thus, MyPW could become the only password token you will need. Also, MyPW works with Radius Authentication.
+authentication security 
+Security

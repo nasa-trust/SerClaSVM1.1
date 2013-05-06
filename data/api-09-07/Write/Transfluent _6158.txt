@@ -1,0 +1,5 @@
+Language translation service 
+Transfluent 
+Transfluent provides language translation solutions. It is designed for businesses and other organizations to communicate with a multilingual audience. Transfluent employs native, professional translators and offers near real-time returns. Transfluent offers an API for integrating translation requests and retrieval with backend software. Developers can feed it phrases and language codes to specify what translations they want. It is RESTful and returns JSON. 
+language tools Translation 
+Tools

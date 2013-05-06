@@ -1,0 +1,5 @@
+Internet-based queuing service
+Amazon Queue Service
+Amazon Simple Queue Service (Amazon SQS) offers a reliable, highly scalable, hosted queue for storing messages as they travel between computers. By using Amazon SQS, developers can simply move data between distributed components of their applications that perform different tasks, without losing messages or requiring each component to be always available.
+infrastructure queuing 
+Other

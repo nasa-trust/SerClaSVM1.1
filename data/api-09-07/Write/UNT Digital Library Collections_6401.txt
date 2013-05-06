@@ -1,0 +1,5 @@
+University library search 
+UNT Digital Library Collections
+The UNT Digital Library is created and maintained by the University of North Texas Libraries&#039; Digital Projects Unit. The library includes imaging, archival storage of electronic files, digital preservation, and metadata development. UNT offers an API that grants access to the content within their library. The API offers several utilities designed for different search functionality. Utilities range from &#039;thumbnail&#039; based searching  to &#039;identifier&#039; searches. 
+college education research 
+Education

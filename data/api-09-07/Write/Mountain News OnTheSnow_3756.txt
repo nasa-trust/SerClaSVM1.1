@@ -1,0 +1,9 @@
+Sking and winter sports information service
+Mountain News OnTheSnow
+The service provides frequently updated reports of snow conditions, including new snowfall and related weather events, for ski resorts worldwide. It also provides information about resort facilities and activities useful for winter sports enthusiasts and vacation travel planners.
+
+API methods support specification of a location or region to receive listings of ski resorts nearby and retrieval of existing and new snow reported by those facilities. Methods also support retrieval of resort profiles, photos and images, and special deals or promotions offered.
+
+
+skiing travel weather 
+Travel

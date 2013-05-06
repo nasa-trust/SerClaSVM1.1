@@ -1,0 +1,7 @@
+Code review tool
+Fog Creek Kiln
+The provider offers a complete read/write API for interacting with Mercurial repositories hosted by Kiln. The API gives developers nearly complete programatic access to their Kiln account and all of the assets there. The API uses RESTful calls and responses are formatted in JSON.
+
+Kiln is a source control and peer review tool built upon the DVCS Mercurial and integrated with the bug tracker FogBugz. It provides a complete distributed version control system with branching and merging, large binary file support, a code review system, detailed code search, and webhooks.
+programming tools 
+Tools

@@ -1,0 +1,11 @@
+accounting 4
+banks 1
+connection 1
+finance 1
+format 1
+interface 1
+payment 1
+product 1
+response 1
+software 2
+system 1

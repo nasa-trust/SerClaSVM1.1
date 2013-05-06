@@ -1,0 +1,7 @@
+Illinois government data
+Data.Illinois.Gov
+Data.Illinois.Gov is the web portal to datasets for the State of Illinois. Datasets for a variety of categories can be accessed through the API including economics, public health, transportation, and more.
+
+Data.Illinois.Gov uses the Socrata Open Data API, which supports a RESTful protocol and returns responses in a variety of formats, including JSON and XML.
+government Illinois 
+Government

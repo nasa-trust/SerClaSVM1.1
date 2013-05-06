@@ -1,0 +1,17 @@
+academic 1
+book 1
+carolina 1
+catalog 3
+datum 1
+education 1
+interface 1
+library 2
+native 1
+north 1
+outside 1
+query 1
+reference 2
+state 1
+support 1
+university 1
+variety 1

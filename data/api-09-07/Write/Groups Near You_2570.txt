@@ -1,0 +1,5 @@
+Local groups search service
+Groups Near You
+The GroupsNearYou API helps you to find local email lists, discussion forums, or any other kind of local online community. You can search the database by UK or USA zip code and also by longitude and latitude. Use these feeds to access the Groups Near You data programmatically. Then use desktop GIS tools, such as mapufacture, Google Maps, or Yahoo Pipes to build new apps.
+deadpool local search social 
+Social

@@ -1,0 +1,7 @@
+Content marketing service
+Compendium
+Compendium is a content marketing platform that allows marketers to capture and create content original content that can then be branded for distribution to any marketing channel. The platform offers features such as automatic categorization, topic suggestions, social integration and the ability to capture customer stories.  
+
+The Compendium API allows developers to integrate with Compendium&#039;s corporate blogging application. The API uses RESTful calls and responses are formatted in JSON.
+blogging content marketing media-management 
+Media Management

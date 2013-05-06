@@ -1,0 +1,5 @@
+Wifi positioning services
+Skyhook Wireless
+From their site: The Skyhook Wi-Fi Positioning System APIs let you quickly location-enable your application, service or device and reach an addressable market of over 100 million Wi-Fi enabled laptops, devices and PDAs. Using open standards and a simple web services format, it can generally be implemented in less than a day, making WPS a simple and easy to use location positioning technology.
+location mapping wifi 
+Other

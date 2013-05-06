@@ -1,0 +1,12 @@
+Event promotion service
+Wots-On
+Wots-On is a free promotional service for Australian events. The Wots-On API allows users to access the database of event information to display within their website or application. With the Developer API users can interface directly with the Wots-On database and allow their site visitors or application users to:
+
+    * View upcoming events by location, location+category
+    * Search for events by keyword
+    * View a list of Locations with upcoming events 
+
+All basic event information is shown. including: Event titles, Basic event descriptions, Event dates, Event locations, Event categories, Thumbnail images, and a URL to event information page at wots-on.info. The API uses RESTful calls and responses are formatted in XML.
+
+Australia concerts events 
+Events

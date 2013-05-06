@@ -1,0 +1,5 @@
+API marketplace
+Mashape
+The Mashape API can be used to interact with Mashape and authorize client request to a user&#039;s own API. More methods will be added in the next releases to give users more control on the APIs that they distribute on Mashape. This API validates any request made to an API method distributed on Mashape. It uses HTTP and responses are in JSON.
+Apis deadpool seciurity 
+Security

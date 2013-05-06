@@ -1,0 +1,5 @@
+Custom CD/DVD ordering service
+SwiftCD
+SwiftCD manufactures on-demand, custom CDs and DVDs and ships them worldwide. CDs/DVDs can contain software, music, catalogs, etc. SwiftCD&#039;s SOAP API provides a way of transmitting orders of products from SwiftCD. The API allows users to submit orders and check the status of those orders.
+shopping 
+Shopping

@@ -1,0 +1,5 @@
+Portal service
+Microsoft start.com
+Both start.com and live.com support Gadgets. See [[http://gallery.live.com/devcenter.aspx Windows Live Gallery]]. Gadgets are based on JavaScript and DHTML using the Microsoft [[http://www.asp.net/ajax/ framework]].
+widgets 
+Widgets

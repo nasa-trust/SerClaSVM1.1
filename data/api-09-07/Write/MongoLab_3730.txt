@@ -1,0 +1,7 @@
+Hosted MongoDB database
+MongoLab
+MongoLab is a cloud-hosted MongoDB instance. MongoDB is an open source document-oriented database that is built to scale well. The MongoLab API provides developers with access to their hosted MongoDBs from within their applications. The API allows developers to store and query data, as well as update and delete data.
+
+The service is free for storing/accessing up to 240 MB of data. Larger databases start at $10 per month.
+database OpenSource 
+Database

@@ -1,0 +1,14 @@
+advertising 2
+contact 1
+documentation 1
+functionality 1
+image 5
+integrate 1
+interest 1
+meaning 1
+offering 1
+opportunity 1
+photo 2
+public 1
+scan 1
+text 3

@@ -1,0 +1,7 @@
+Productivity and time-tracking service
+Worksnaps
+The service provides task management and time-tracking functions to improve process management and activity reporting. It allows remote monitoring of task completion via shared screen images and logs of actions measurable against time schedules and objectives. The system generates reports of monitored activities, either undertaken within the service itself or performed by other applications integrated to log their actions in the service.  
+
+API methods support listing and updating pre-defined projects, definition of tasks and assignment to specific users, and management of user accounts including activity breakdowns over time. In addition to automated tracking, methods support manual time entry as well as generation of reports against tracking data.
+collaboration enterprise project-management 
+Project Management

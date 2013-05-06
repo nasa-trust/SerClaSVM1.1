@@ -1,0 +1,5 @@
+Website publishing tool
+Squarespace
+Squarespace offers a fully hosted software platform for creating and maintaining a website, blog, or portfolio. It uses a WYSIWYG editor and templates that let users create and edit the look and functionality of their web sites. The Squarespace XML-RPC API lets users post to Squarespace using a third party application.
+blog internet webdesign 
+Internet

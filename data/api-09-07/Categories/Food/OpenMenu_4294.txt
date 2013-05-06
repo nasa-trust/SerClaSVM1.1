@@ -1,0 +1,17 @@
+centralize 1
+food 2
+format 1
+internet 1
+maintain 1
+menu 5
+over 1
+public 1
+restaurant 4
+share 1
+sharing 1
+single 2
+standardize 1
+store 2
+structure 1
+update 1
+variety 1

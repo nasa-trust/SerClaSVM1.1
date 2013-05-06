@@ -1,0 +1,5 @@
+Create Maps From Public and Personal Georeference Information
+ikiMap
+IkiMap is a web service that allows users to create, organize, classify and ultimately share personal and public georeference information over the the web. The ikiMap is a set of several maps that visualize all the information at one time, basically representing multiple maps into a more graphical single map. The ikiMap API allows developers to integrate ikiMap maps, channels, user services and search services into their application. The API can be accessed through REST web service applications and responses can be formatted in JSON or XML.
+mapping reference search social 
+Mapping

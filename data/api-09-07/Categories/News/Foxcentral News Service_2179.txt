@@ -1,0 +1,14 @@
+announcement 1
+article 2
+authorize 1
+become 1
+community 2
+company 1
+contributor 1
+language 1
+news 8
+post 1
+product 1
+programming 1
+provider 1
+resource 1

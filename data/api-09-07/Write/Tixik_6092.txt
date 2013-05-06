@@ -1,0 +1,5 @@
+Famous places GPS services
+Tixik
+The Tixik.com API lets users retrieve information about famous places around the world. Tixik.com is the information website about interesting places all over the world. The information is supplied with on-line maps, pictures, and useful information and experience described by the travellers. Users can find a listing of famous places by providing the latitude and longitude of their current location. Search simply by GPS position. The result is GPS, place name, description, image, and backlink to Tixik.com (for more information). The API uses RESTful protocol and responses are formatted in XML.
+mapping places reference travel 
+Reference

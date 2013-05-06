@@ -1,0 +1,13 @@
+combination 1
+create 2
+fetch 1
+font 7
+functionality 1
+internet 2
+kit 1
+library 3
+metadata 1
+own 1
+publish 1
+standard 1
+subscription 1

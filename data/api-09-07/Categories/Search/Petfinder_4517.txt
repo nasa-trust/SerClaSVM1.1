@@ -1,0 +1,11 @@
+adoption 1
+animal 1
+breed 2
+create 1
+own 1
+pet 4
+query 1
+search 5
+shelter 2
+specific 1
+up 1

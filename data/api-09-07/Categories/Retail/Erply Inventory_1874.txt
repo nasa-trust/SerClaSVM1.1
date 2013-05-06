@@ -1,0 +1,17 @@
+commerce 1
+customer 2
+datum 1
+editing 1
+example 1
+functionality 1
+inventory 7
+management 1
+method 1
+po 1
+point 1
+product 1
+retail 4
+sale 1
+sales 3
+shopping 1
+software 1

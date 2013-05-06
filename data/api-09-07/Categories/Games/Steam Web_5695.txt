@@ -1,0 +1,17 @@
+condenser 1
+datum 2
+fortress 1
+game 5
+language 2
+library 1
+own 1
+pack 1
+play 1
+player 1
+ranking 1
+request 1
+retrieval 1
+return 1
+steam 3
+submit 1
+team 1

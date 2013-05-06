@@ -1,0 +1,7 @@
+Library catalog and services
+Cambridge University Library 
+Cambridge University Library is a system of libraries that supports teaching and research at the University of Cambridge. The Library provides a suite of APIs to access and interact with the library catalog and other online services. These APIs include catalogue data, ejournal holdings information, DSpace institutional repository, circulation services, and more.
+
+The APIs are RESTful and return responses in XML and JSON formats. 
+catalog database library reference 
+Reference

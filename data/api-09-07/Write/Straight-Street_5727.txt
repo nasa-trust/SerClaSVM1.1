@@ -1,0 +1,5 @@
+Icon database search service
+Straight-Street
+This is a RESTful API for the straight-street.com symbol set. It allows programs to search and access symbols, just as users can using the interactive gallery web page.
+graphics icon utility 
+Other

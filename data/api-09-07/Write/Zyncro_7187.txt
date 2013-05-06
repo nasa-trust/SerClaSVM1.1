@@ -1,0 +1,5 @@
+Enterprise social networking service
+Zyncro
+Zyncro is an enterprise social networking service that provides features for microblogging, filesharing, task management, and more. Customizable group structures allow Zyncro to accommodate the departmental structure of any organization. This service was designed to allow integration with other systems such as social networks, corporate systems, and the cloud.
+enterprise file-sharing microblogging social 
+Enterprise

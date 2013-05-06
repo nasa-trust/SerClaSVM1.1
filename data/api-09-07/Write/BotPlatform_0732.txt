@@ -1,0 +1,5 @@
+Development platform for IM robots
+BotPlatform
+The BotPlatform API is a RESTful service for service provider to manage resources. With the API, users can add, retrieve,modify and delete resources from within their code. These resources may have previously been uploaded on the BotPlatform website. BotPlatform is the exclusive certified platform of Windows Live Messenger (MSN) robots, with more than 70,000 individual developers all over the world. BotPlatform is an instant messenger bot builder and interactive promotion application for online marketing.
+chat robot 
+Chat

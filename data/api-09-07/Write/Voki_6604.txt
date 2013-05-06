@@ -1,0 +1,5 @@
+Speaking avatars services
+Voki
+From their site: The Voki Partner Program allows community and publisher sites to enable their end users to create interactive, personalized speaking avatars and publish them to your site seamlessly. Free Partners can integrate avatars with our secure API; Premium Partners can get deep customization, viral features and advertising opportunities. Use the API to integrate and control avatars within any web environment or application.
+social 
+Social

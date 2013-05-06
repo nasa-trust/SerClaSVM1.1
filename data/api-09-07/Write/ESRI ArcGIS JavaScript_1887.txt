@@ -1,0 +1,5 @@
+Mapping services
+ESRI ArcGIS JavaScript
+From their site: The ArcGIS JavaScript API is a lightweight way to embed your GIS maps and tasks in Web applications. For example, you can: Display an interactive map of your own data; execute a GIS model on the server and display the results; display your data on an ArcGIS Online base map; search for features or attributes in your GIS data and display the results; and search for addresses and display the results. To deploy applications built with this API, you just need to have an ArcGIS Server available that you can access through a URL. ESRI has provided several sample servers that you can use as you practice writing JavaScript applications.
+display gis mapping viewer 
+Mapping

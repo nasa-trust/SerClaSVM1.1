@@ -1,0 +1,17 @@
+agency 1
+bulk 1
+business 1
+customer 2
+email 3
+employee 1
+feature 1
+mail 1
+mailer 1
+mass 1
+personalize 1
+potential 1
+rich 1
+send 1
+sophisticate 1
+track 1
+vendor 1

@@ -1,0 +1,5 @@
+Social site login service
+StesCodes Social Login
+StesCodes is a web solution provider. As part of their portfolio of services, StesCodes offers several APIs. The StesCodes Social Login provides the ability to login the user in clicks. It&#039;s functionality includes getting an access token and an authentication URL as well as getting information on the user trying to login. The API uses HTTP calls and responses are formatted in XML and JSON.
+login social 
+Social

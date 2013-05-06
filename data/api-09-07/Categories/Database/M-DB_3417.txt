@@ -1,0 +1,16 @@
+address 1
+alternative 1
+amazon 1
+behave 1
+being 1
+db 2
+difference 1
+direct 1
+domain 1
+ip 1
+plug 1
+request 1
+response 1
+rest 2
+return 1
+same 1

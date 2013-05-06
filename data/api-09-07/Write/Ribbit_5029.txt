@@ -1,0 +1,5 @@
+Flash based VoIP service
+Ribbit
+The Ribbit Phone Component will give Rich internet application developers the ability to make and receive calls, record/send and receive voicemail, as well as add and manage contacts.
+flash telephony Voice VoIP 
+Telephony

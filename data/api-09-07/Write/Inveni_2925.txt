@@ -1,0 +1,7 @@
+Movie and TV show recommendation service
+Inveni
+Inveni is a movie and TV show recommendation service. Inveni uses both an algorithm and recommendations from user&#039;s friends to recommend new movies and TV shows based on a user&#039;s taste profile. Inveni also integrates with Netflix.
+
+Inveni has an API that is available to business partners, but public documentation and information is not available. Those interested should email bizdev@inveni.com to learn more.
+entertainment movies netflix recommendations social television 
+Entertainment

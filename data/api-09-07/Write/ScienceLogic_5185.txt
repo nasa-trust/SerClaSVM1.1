@@ -1,0 +1,7 @@
+IT operations management service
+ScienceLogic
+ScienceLogic is a platform designed to support corporate IT operations. It discovers, monitors, and manages infrastructure and applications without the need for multiple tools and vendors. ScienceLogic enables the monitoring of resources located in the cloud, or in data centers anywhere in the world, all from one place.
+
+Developers can customize and automate data center and private cloud monitoring using ScienceLogic&#039;s REST-based API. The API also allows automated monitoring provisioning and data integration with third-party web applications, such as billing systems and customer portals.
+enterprise management monitoring 
+Enterprise

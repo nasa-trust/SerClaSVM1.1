@@ -1,0 +1,5 @@
+Cloud hosting services
+Rackspace Cloud Load Balancers
+The Rackspace Cloud Load Balancers let users automatically deploy and scale an on-demand load balancing solution. With the API, users can define name, protocol, port, algorithm, and which servers in which regions need load balancing. The API uses RESTful calls and responses are formatted in XML JSON and ATOM. 
+cloud hosting internet 
+Internet

@@ -1,0 +1,10 @@
+blog 1
+day 2
+details 2
+get 4
+last 2
+rate 2
+rating 3
+social 2
+specific 1
+uk 1

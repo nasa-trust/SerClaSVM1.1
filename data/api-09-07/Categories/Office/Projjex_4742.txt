@@ -1,0 +1,17 @@
+calendar 2
+client 1
+complete 1
+give 1
+independent 1
+language 2
+management 3
+office 2
+personal 1
+platform 1
+programming 1
+project 4
+script 1
+software 1
+system 1
+tracking 2
+workflow 1

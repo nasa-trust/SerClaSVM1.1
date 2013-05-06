@@ -1,0 +1,7 @@
+Utah public transit information service
+RideUTA
+The service provides real-time information about status and scheduling within the Utah Transit Authority systems. Information covers multiple transit options, including buses and commuter trains. Its data structure is an implementation of the SIRI (Service Interface for Real Time Information) standard for consistency with other providers of similar data.
+
+API methods support monitoring of a specific vehicle, either bus or train, or monitoring service along a specified route or at a particular stop. Methods also can provide the closest transit stop to a location specified as latitude and longitude.
+bus scheduling transportation 
+Transportation

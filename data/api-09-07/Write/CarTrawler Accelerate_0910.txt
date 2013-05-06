@@ -1,0 +1,5 @@
+Car rental service
+CarTrawler Accelerate
+CarTrawler&#039;s solutions suite, known as Accelerate, is the leading car rental distribution system for direct connection to leading and independent suppliers. Customers can choose from a database of car rental suppliers (over 550 car rental suppliers in 175 countries, in 25,000 city and airport locations in 29 languages and multiple currencies). The car rental content can be integrated into the customer&#039;s website via the OTA (Open Travel Alliance) XML API. This enables customers to maintain brand identity. Public documentation is not available.
+cars rental transportation 
+Transportation

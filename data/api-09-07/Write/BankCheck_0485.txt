@@ -1,0 +1,5 @@
+Online bank account validation
+BankCheck
+Mosaic BankCheck API is an application programming interface that uses a SOAP interface and allows you to use reliable, on-demand UK sort code and bank account information in your enterprise-wide systems, commercial software and web applications.
+enterprise finance 
+Financial

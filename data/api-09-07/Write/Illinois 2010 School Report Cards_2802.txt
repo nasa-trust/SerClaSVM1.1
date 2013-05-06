@@ -1,0 +1,9 @@
+Illinois public school grade reporting service
+Illinois 2010 School Report Cards
+The Illinois 2010 school report cards API allows users receive detailed data about public schools and school districts by appending the string &quot;.json&quot; to any Chicago Tribune school webpage. 
+
+The response of this call will be a dictionary of data for that school, gathered from the Illinois State Board of Education&#039;s yearly reports. The API will also return lists of schools for a given district, city, or county. Additionally, the API provides limited support for searching by school name or latitude/longitude pair.
+
+Note: The API has been updated for the 2011 scores.
+education Illinois 
+Education

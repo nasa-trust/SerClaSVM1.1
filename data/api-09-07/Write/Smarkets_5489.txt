@@ -1,0 +1,5 @@
+Social prediction market
+Smarkets
+The Smartkets API allows users to get live prices for any of our political markets in either JSON or XML. Smartkets is a prediction market that provied a social way to bet on sport, TV shows and politics. Smarkets is filled with fans setting their own odds and betting against each other. The API gives users access to the Smartkets data. Full documentation is not available. 
+gambling social 
+Other

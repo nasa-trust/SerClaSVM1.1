@@ -1,0 +1,7 @@
+Stock photography provider
+FeaturePics 
+FeaturePics is a stock photography site that offers stock photography and images for sale and download.
+
+The FeaturePics API allows developers to access the image collection, with both an image search API and an e-Commerce API. With the image search API, users can search for images, show most recent images, and access image details. The e-Commerce API allows for image purchasing, in addition to image search and detail retrieval.
+photo stockphoto 
+Photos

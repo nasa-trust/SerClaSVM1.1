@@ -1,0 +1,7 @@
+Rating application
+Jotly
+Jotly is an application that allows users to rate everything. Users of Jotly can rate photos, places, and view other Jotly users that are nearby with a map view. Originally, Jotly was a parody of all of the rating apps out there, but then they actually developed the application.
+
+The Jotly API allows developers to access and integrate the functionality of Jotly with other applications and to create other applications. Some example API methods include retrieving user information, signing up for Jotly, and accessing lists of &quot;Jots.&quot;
+local photo ratings recommendations social 
+Social

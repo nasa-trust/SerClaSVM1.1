@@ -1,0 +1,7 @@
+MInority employment, and business opportunity service
+OppsPlace
+The service provides job-seeking and networking resources targeted to members of minority groups and minority-owned businesses looking for expanded opportunities working with U.S. corporations. It aggregates rich content like advice columns and background information with employment listings and request for bid announcements. 
+
+API methods support direct creation and editing of job postings by corporate affiliates. Methods also support additions and updates to contract opportunities listed. Request data can specify job title and description, location, industry, functional category, compensation range, travel requirements, language skills required, and extensive additional detail. 
+employment jobs networking 
+Job Search

@@ -1,0 +1,5 @@
+Semantic analysis for user tags
+Bueda
+The Bueda API increases the value of social media and user generated content. Bueda combines user-generated tags, existing ontologies, and semantic analysis in order to provide publishers with actionable information that can be used for content categorization, targeted advertising, content recommendation and search engine optimization. Via Bueda&#039;s API, a UGC website can have access to this technology for tag disambiguation and cleanup. The API uses RESTful protocol and responses are formatted in JSON. It is currently in private beta.
+deadpool semantic social 
+Social

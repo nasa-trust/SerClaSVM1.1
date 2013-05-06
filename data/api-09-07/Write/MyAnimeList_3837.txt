@@ -1,0 +1,5 @@
+Anime collection referene list
+MyAnimeList
+MyAnimeList.net is an anime and manga community that introduces visitors to people, anime, manga, and helps them organize their collections. The API lets users interact with the site&#039;s data programatically. Functionality includes site search, anime and manga listing, and account verification. The API uses RESTful calls and responses are formatted in XML.
+anime collection database organization social 
+Database

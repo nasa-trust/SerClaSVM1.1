@@ -1,0 +1,5 @@
+Grocery item and supermarket information service
+Supermarket
+The Supermarket API by AisleFinder allows developers to access and integrate information of supermarkets into other applications and services. Currently, the Supermarket API supports information from   Whole Foods, Trader Joes, Safeway, Costco, and Wal-Mart in the US. Example API methods include searching and retrieving information by states and cities, returning stores by name, zip code, and city and state, and searching and retrieving grocery items and information on the times.
+food Grocery shopping 
+Food

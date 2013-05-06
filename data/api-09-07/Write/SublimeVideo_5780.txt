@@ -1,0 +1,7 @@
+HTML5 video player service
+SublimeVideo
+SublimeVideo is an HTML5 video player service. SublimeVideo is compatible with a variety of browsers and mobile platforms. Users can manage their video content and integrate video content into other sites.
+
+The SublimeVideo API allows developers to access and integrate SublimeVideo&#039;s functionality into other applications. Some example API methods include playing video, stopping video, loading video, resizing video, and restoring video.
+content html5 mobile Player video 
+Video

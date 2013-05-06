@@ -1,0 +1,7 @@
+Online hotel and accommodation search and booking service
+Hotelston
+The service provides search and reservation booking for travel accommodations. It offers access to hotel room reservations, but also condos, villas, and apartments for short-term rental, depending on the destination. Services include identifying properties by date and location, booking reservations, and canceling previous bookings.
+
+API methods support submission of a location with check-in and check-out dates. Returned data include available properties, specifications, and rates with additional functionality to reserve accommodations. Methods also support reservation look-up, review, and modification or cancellation.
+hotel reservations travel 
+Travel

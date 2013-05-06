@@ -1,0 +1,12 @@
+enterprise 2
+fleet 1
+giving 1
+job 1
+management 1
+mobile 1
+pc 1
+real 2
+reporting 1
+secure 1
+status 1
+vehicle 1

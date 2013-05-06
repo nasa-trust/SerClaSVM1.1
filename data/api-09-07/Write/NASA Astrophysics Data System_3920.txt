@@ -1,0 +1,14 @@
+Astronomy and physics data service
+NASA Astrophysics Data System
+The SAO/NASA Astrophysics Data System (ADS), operated by the Smithsonian Astrophysical Observatory (SAO), is a Digital Library portal for researchers in Astronomy and Physics.The ADS maintains three bibliographic databases containing more than 9.6 million records: Astronomy and Astrophysics, Physics, and arXiv e-prints.
+
+The ADS maintains a list of links to relevant resources for each of the bibliographic records in its database. These resources include:
+
+* Location of the fulltext article via DOI and/or OpenURL links
+* List of works referenced in the original article (references), given in the form of either a list of ADS records or as a link to the publisher???s reference list
+* List of works that cite the record in question (citations or ???forward links???), given in the form of a list of records that ADS was able successfully identify
+* Readership statistics and co-readership-based user recommendations
+
+The ADS also maintains an archive of the historical content of all the astronomical publications. The archive consists of 500,000 articles covering more than 3.5 million scanned pages. Each page has been OCRed and are searchable through the ADS fulltext query search form. The API gives users access to the ADS archive via RESTful calls.
+astronomy physics reference research science 
+Reference

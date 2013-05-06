@@ -1,0 +1,7 @@
+Get Social Data for Email Contacts
+Rainmaker
+Rainmaker is a service that allows users to enhance their Google Contacts by retrieving public social information about their contacts. Not only does Rainmaker enhance Google Contacts, it also allows users to manage their contacts from the Rainmaker interface; any changes made to contacts in Rainmaker will be reflected in the user&#039;s Google Contacts. 
+
+Rainmaker also has a RESTful API that developers can use to integrate Rainmaker into their own creations. The API takes an email address as a parameter and returns available public data about the address, including social profile data, in JSON or XML format.
+demographics email identity search social 
+Social

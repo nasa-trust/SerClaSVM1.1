@@ -1,0 +1,7 @@
+Portland (Oregon) City Council voting service
+PDXCouncilConnect
+PDXCouncilConnect is a service of the Portland, Oregon, eGovPDX group. The city technology department makes the API available to access city council agenda and voting information. The PDXCouncilConnect API provides developers access to agenda, session, and item information. The data includes the location and time, as well as bureaus affected. When a vote occurs, the API also will return voting information.
+
+This government API has a RESTful interface and provides data as JSON.
+government oregon portland 
+Government

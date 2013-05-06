@@ -1,0 +1,5 @@
+Social analytics service
+PeopleBrowsr Kredentials
+PeopleBrowsr is a social analytics service specializing in the measure of social influence. The Kredentials API returns rich data on any @name, including their most frequently used words and hashtags, top communities, connections and most frequently mentioned people. The API uses RESTful calls and responses are formatted in JSON.
+influence social 
+Social

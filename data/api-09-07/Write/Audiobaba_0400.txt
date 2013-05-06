@@ -1,0 +1,5 @@
+Music search and recommendation engine
+Audiobaba
+Audiobaba is a search engine for music. The search engine allows users to search for and discover new music based on acoustic similarities of other artists and songs. Users can also bookmark music to keep track of those artists and tracks they like.
+music search bookmarks
+Music

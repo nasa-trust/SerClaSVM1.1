@@ -1,0 +1,9 @@
+Census data based on IP address
+InfoChimps IP Intelligence Demographics
+InfoChimps is a data marketplace where publishers and owners of datasets can charge for their usage.
+
+The IP Census API provides two calls for users; one to obtain demographic information on site visitors based on their IP address and the other to obtain latitude/longitude coordinates or zip code. The data is independently verified to be 99% accurate at country level, and 95% accurate at the city level worldwide. 
+ 
+The API uses RESTful protocol and responses are formatted in JSON or JSONP.
+demographics geolocation IP reference 
+Reference

@@ -1,0 +1,5 @@
+Online subject learning platform
+Memrise
+Memrise is a subject-learning platform. The site offers academically and professionally crafted learning modules based on brain and memorization science. Users can easily learn a multitude of subjects from the names of constellations to Mandarin using the modules and picture charts. The Memrise API exposes several information accession functionalities about modules and users. It is a RESTful API that returns JSON-encoded results.
+education learning school 
+Education

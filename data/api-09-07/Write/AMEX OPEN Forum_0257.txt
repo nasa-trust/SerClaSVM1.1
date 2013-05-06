@@ -1,0 +1,7 @@
+Access small business content
+AMEX OPEN Forum
+AMEX OPEN Forum is a community of business owners built around the American Express card. OPEN Forum is an online community to exchange insights, get advice from experts and build connections to help small businesses.
+
+The OPEN Forum API allows developers to build applications that offer functionality such as the ability to search for and retrieve details about the most recent, most viewed, most commented, and most shared articles and videos in the OPEN Forum archive. It uses RESTful calls and responses are formatted in XML.
+community finance social 
+Financial

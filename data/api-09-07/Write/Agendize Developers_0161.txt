@@ -1,0 +1,7 @@
+Business conversion tools platform
+Agendize Developers
+Agendize provides conversion tools that help businesses convert web visitors into leads and clients, and track everything along the way. These tools include Click-to-Call, Send to Phone (by SMS), Live Chat, Online Scheduling and more. The Agendize APIs allow customization of these tools and retrieval of all reporting data. 
+
+With the Agendize Interface API, users can personalize any Agendize dialog box programmatically without having to log into their account. It uses JavaScript calls and lets users configure UI options such as background and border colors, titles, text and services offered on the page.
+canada enterprise messaging sms telephony usa 
+Enterprise

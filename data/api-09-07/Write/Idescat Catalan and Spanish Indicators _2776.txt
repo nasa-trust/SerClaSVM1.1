@@ -1,0 +1,7 @@
+Economic indicator service
+Idescat Catalan and Spanish Indicators 
+The Statistical Institute of Catalonia produces official statistics in the fields of the economy, demography and society. Idescat exposes some of its data via a collection of REST APIs. Idescat&#039;s APIs offer methods for third-party programs to be able to obtain information from the Statistical Institute of Catalonia and integrate it in other services.
+
+The Indicators of the day service provides basic information on a selection of short-term and structural indicators for the Catalan economy. Responses can be returned in XML, JSON and PHP formats.
+Catalonia finance government reference spain statistics 
+Financial

@@ -1,0 +1,7 @@
+UK online payment service
+Web-Merchant
+The U.K. service processes payments by credit card and debit card for puchases online. It emphasizes large-volume processing with integration documentation and available live technical support. Applications can implement via service-hosted secure payment page or API integration.
+
+API methods support secure submission of buyer and payment card information, with return of pre-authorization status. Methods can complete payment and support transaction confirmation messaging.
+payment shopping uk 
+Payment

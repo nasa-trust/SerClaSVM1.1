@@ -1,0 +1,12 @@
+android 1
+contact 1
+details 1
+documentation 1
+exist 1
+full 1
+integrate 1
+location 5
+meter 1
+positioning 1
+provider 1
+telephony 2

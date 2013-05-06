@@ -1,0 +1,13 @@
+create 2
+image 2
+interface 1
+medium 1
+photo 1
+quick 1
+safe 1
+share 2
+sharing 1
+social 1
+talk 1
+twitter 4
+way 1

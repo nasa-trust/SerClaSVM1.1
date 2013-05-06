@@ -1,0 +1,5 @@
+Online Music Distribution Database
+IODA Open
+IODA is an online music distribution service for independent artists. IODA has a large database of artists, albums, and songs available through their website and retail partners. The data is also available through the IODA RESTful API. Users and developers can create their own applications around the information in IODA&#039;s extensive database. The API is currently still in Beta, and is subject to change.
+music search 
+Music

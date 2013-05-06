@@ -1,0 +1,5 @@
+Online storage provider
+iFile.it
+The iFile.it service is a simple online storage solution. The site provides several upload options and responds to new uploads with a short link and a secret deletion link. The iFile.it API provides access to the major functionality of the iFile.it service. Applications using the iFile.it API can upload files, edit descriptions and get information about files, folders and user accounts.
+storage 
+Storage

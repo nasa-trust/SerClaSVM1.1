@@ -1,0 +1,5 @@
+Term recognition and tagging service
+NBIC Peregrine
+Peregrine is an indexing engine, a piece of software that can be used to recognize concepts in human-readable text based on a database of known terms. It can recognize multi-word terms as well as single-word terms. If terms can represent multiple concepts, Peregrine will attempt to disambiguate them. Peregrine&#039;s functions are available as a REST-based API.
+semantic tools 
+Tools

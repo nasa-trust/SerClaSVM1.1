@@ -1,0 +1,5 @@
+Video encoding service
+Sorenson 360
+Sorenson 360 provides video transcoding, cloud storage and much more via its Sorenson 360 API. The service helps developers add the highest quality video to their websites, web applications, and mobile applications. The API provides many methods to organize content, such as assets, folders and groups. Perhaps its biggest use is as a video encoding service, converting from uploaded formats to a consistent format the developer requires, including HTML5, Flash, Silverlight, or QuickTime.
+Encoding video 
+Video

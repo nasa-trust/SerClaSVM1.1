@@ -1,0 +1,7 @@
+University of Michigan building information
+University of Michigan Buildings
+The University of Michigan, a state university in Ann Arbor, Michigan, offers a variety of APIs that allow developers to access and integrate various data from the University of Michigan with other applications and to create new applications.
+
+The University of Michigan APIs include UM&#039;s building information. The API returns buildings by name, ID, and neighboring buildings on the University of Michigan&#039;s campus. Interested developers should sign up here for more information: http://developer.it.umich.edu/node/8.
+campus education michigan reference university 
+Education

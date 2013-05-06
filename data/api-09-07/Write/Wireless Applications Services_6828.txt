@@ -1,0 +1,5 @@
+RF engineering consulting services
+Wireless Applications Services
+Wireless Applications Services provides RF engineering consulting services for the national and international wireless telecommunications industry. The API allows users to integrate telecom analysis and design software functions with their applications. It allows developers to perform telecom infrastructure analysis within their site. Areas of analysis include: designing RF with eCoverage (propagation), telecom structures/towers (Powersearch), microwave paths (eMwave), radio spectrum ownership and demographic information and more. It uses RESTful calls and responses are formatted in XML and JSON.
+analysis demographics telephony utility 
+Telephony

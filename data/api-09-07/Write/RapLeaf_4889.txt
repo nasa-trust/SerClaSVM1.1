@@ -1,0 +1,9 @@
+Enable Personalization for Consumers
+RapLeaf
+The personalization API provides a simple interface to rich data about consumers.  Developers use the data provided by the API to create more personalized experiences for consumers.
+
+Query with an email address and get Age, Gender, and Location for free, unlimited access.
+
+Use this information to recommend better content, deliver more relevant email messages, and understand your best customers through analytics.
+Data json people personalization RapLeaf sbweb 
+Email

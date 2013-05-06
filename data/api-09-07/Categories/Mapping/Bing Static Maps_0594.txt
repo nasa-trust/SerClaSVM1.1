@@ -1,0 +1,16 @@
+ability 1
+creation 1
+display 2
+format 1
+get 1
+imagery 2
+map 6
+mapping 2
+metadata 1
+place 1
+protocol 1
+response 1
+rest 1
+route 1
+soap 1
+static 5

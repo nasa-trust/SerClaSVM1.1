@@ -1,0 +1,5 @@
+Website thumbnail generation service
+PagePeeker
+PagePeeker provides thumbnail generation services that can create screenshots of web sites. The PagePeeker API allows users to fetch website thumbnails server side, or embed thumbnails in their web pages. Functionality includes letting users know if a thumbnail is ready for display and embedding an image URL on a web site. The API uses RESTful calls and responses are formatted in JSON.
+internet screenshots thumbnails tools 
+Tools

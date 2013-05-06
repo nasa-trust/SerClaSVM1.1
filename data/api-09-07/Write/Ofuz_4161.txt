@@ -1,0 +1,5 @@
+Customer management and invoicing service
+Ofuz
+Ofuz is an online service that supports the full business cycle. Organize business contacts, follow up on leads, collaborate on projects, track your time and send invoices. Ofuz is based on an open source project, but there is a hosted version that is free below five invoices per month. The Ofuz API provides access to adding, searching and organizing contacts, so that you can integrate Ofuz CRM functionality into your workflow.
+CRM enterprise invoicing 
+Enterprise

@@ -1,0 +1,5 @@
+European museum collection metadata
+Europeana OpenSearch
+Europeana enables people to explore the digital resources of Europe&#039;s museums, libraries, archives and audio-visual collections. The Europeana OpenSearch API allows users to develop applications that can search and display Europeana collections metadata and previews. Europeana has aggregated metadata from about 1500 data providers. Most of these providers give access to Europeana via a national or thematic aggregator. In Europeana the metadata can be accessed in the form of about 360 different datasets. Search parameters include keyword, phrase, and field. The API uses RESTful calls with responses formatted in RSS and JSON.
+museums opensearch reference search 
+Education

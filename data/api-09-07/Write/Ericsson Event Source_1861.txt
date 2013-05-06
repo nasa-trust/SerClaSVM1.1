@@ -1,0 +1,5 @@
+Tool for Recieving Push Notifications/Events from a Server
+Ericsson Event Source
+Ericsson Labs Event Source API is a JavaScript library that developers can embed in their websites to enable the use of the W3C EventSource API on browsers without native support for the W3C API. With the Event Source Enabler initiated on the website, a server or server script can send push notifications to the website in the form of DOM events.
+deadpool internet realtime telephony tools 
+Internet

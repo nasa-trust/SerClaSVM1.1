@@ -1,0 +1,7 @@
+Medicare information and datasets
+Data.Medicare.Gov
+Data.Medicare.Gov provides access to information about and datasets regarding nursing homes, dialysis facilities, home health agencies, comparing hospitals, and more. 
+
+Data.Medicare.Gov uses the Socrata Open Data API, providing access to datasets with a RESTful protocol. 
+datasets government health medicare 
+Medical

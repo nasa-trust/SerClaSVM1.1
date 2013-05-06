@@ -1,0 +1,5 @@
+Micro-array data preprocessing service
+MARAN
+MARAN is a web application for preprocessing micro-array data. It uses a generic ANOVA model for normalizing the measurements with respect to several sources of variation in the experiment. Users can integrate the MARAN tool with their own applications using MARAN&#039;S SOAP-based API.
+science 
+Science

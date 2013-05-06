@@ -1,0 +1,5 @@
+Instant messaging chat service
+AOL Instant Messenger
+A plugin is a piece of code that adds features and functionality into the AIM client. For example, a plugin could be developed that displays AIM Fight scores for an entire Buddy List feature. Or, you could link &quot;away messages&quot; to your favorite music program. The AIM SDK is a client SDK that allows for creation of custom AIM clients, bots, and plugins for the AIM Triton client. It is currently availble for the Windows platform, Macintosh and Linux versions are planned for the near future.
+chat deadpool im p2p presence VoIP 
+Chat

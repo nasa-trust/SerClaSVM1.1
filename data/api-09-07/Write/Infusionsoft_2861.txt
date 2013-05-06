@@ -1,0 +1,5 @@
+Online marketing automation service
+Infusionsoft
+Infusionsoft is an online software program that automates marketing, sales, and customer management processes. The Infusionsoft API allows users to integrate existing tools and apps into Infusionsoft using a secure data connection. With it, users can pass data between multiple instances of Infusionsoft, query data from an outside database and pass order data into Infusionsoft from another shopping cart. The API uses XML-RPC protocol.
+enterprise marketing sales sbweb 
+Enterprise

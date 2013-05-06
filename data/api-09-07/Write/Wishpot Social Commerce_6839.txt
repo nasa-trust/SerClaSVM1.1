@@ -1,0 +1,7 @@
+Social eCommerce platform
+Wishpot Social Commerce
+Wishpot is a social shopping service that lets users save and share things they find in stores or online. The items are then organized using online lists or registries that can be shared with others.
+
+The Wishpot Social Commerce framework enables developers to build social, mobile and web commerce applications. Users can build marketplaces, specific mobile shops, dedicated apps, and more. Cart and checkout scenarios are supported through PayPal. The API uses RESTful calls and responses are formatted in XML.
+ecommerce marketplace mobile shopping social 
+Shopping

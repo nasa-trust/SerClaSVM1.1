@@ -1,0 +1,5 @@
+Cloud-based RDF store
+Dydra
+Dydra is a cloud-based RDF store, a database-as-a-service. Users can import their data and a SPARQL endpoint will be made available for their application to use. Users can perform most account functions on Dydra.com via a standard REST API. Some of the functionality includes: read and update account information; create a repository; download a repository in various RDF formats. Responses are formatted in XML and JSON.
+cloud database semantic 
+Database

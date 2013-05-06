@@ -1,0 +1,5 @@
+Payment verification service
+PoxPay
+PoxPay is a payment service that uses voice biometric technology to identify and authorize purchases. With PoxPay users aren&#039;t required to enter a password, instead using their voice and phone as their password. Developers can integrate PoxPay&#039;s authentication features into their applications and services using the RESTful API. Users must contact the company to obtain documentation.
+deadpool payment security verification 
+Payment

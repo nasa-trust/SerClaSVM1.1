@@ -1,0 +1,11 @@
+Worldcat Registry access
+Worldcat Registry
+The OCLC is a nonprofit computer library service and research organization which maintains WorldCat, a global network of library content. The Registry API gives developer-level access to information in the Worldcat Registry. With the API users can accomplish the following:
+
+* Search for basic information about institutions and consortia based on a variety of infromation in their WorldCat Registry Profile
+* Retrieve detailed information about a single institution or consortium, based on Institution ID or OCLC Symbol
+* Retrieve OpenURL resolver information based on Instution ID, OCLC Symbol, or IP address
+
+The API uses REST and SRU protocol and responses are formatted in XML and HTML.
+education library registry search 
+Education

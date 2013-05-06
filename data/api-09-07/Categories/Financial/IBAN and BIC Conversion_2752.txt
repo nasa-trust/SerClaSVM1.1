@@ -1,0 +1,15 @@
+account 2
+bank 2
+banking 1
+belgium 2
+calculate 2
+calculation 1
+code 2
+conversion 1
+european 1
+finance 2
+numbers 1
+protocol 1
+soap 1
+validate 1
+validation 1

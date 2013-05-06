@@ -1,0 +1,13 @@
+audio 1
+bite 1
+demand 1
+encode 1
+encoding 2
+format 1
+much 1
+output 1
+rate 1
+sample 1
+specify 1
+tool 1
+video 5

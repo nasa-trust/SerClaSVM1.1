@@ -1,0 +1,5 @@
+Musical artist information service
+idiomag
+The Idiomag API lets you access articles, photos, videos, images and play lists from the Idiomag archives. You can also access the Idiomag music recommendation engine.
+media music photo video 
+Music

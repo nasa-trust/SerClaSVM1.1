@@ -1,0 +1,5 @@
+SSL reseller platform
+GeoCerts Reseller
+GeoTrust is a security company that sells SSL certificates, GeoCerts, for websites. The company also has a reseller program so that affiliates can provide the GeoCerts to their customers and receive commission from any sales. The GeoCerts Reseller API provides free access for resellers to develop their own SSL storefronts. Documentation for the REST API is available upon request.
+internet security 
+Internet

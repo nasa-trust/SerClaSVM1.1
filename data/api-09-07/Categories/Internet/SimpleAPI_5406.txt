@@ -1,0 +1,8 @@
+create 1
+creation 1
+image 2
+internet 2
+japan 1
+japanese 1
+photo 1
+thumbnail 2

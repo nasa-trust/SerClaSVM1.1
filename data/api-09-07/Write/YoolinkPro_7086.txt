@@ -1,0 +1,8 @@
+Corporate social networking platform
+YoolinkPro
+YoolinkPro is a corporate social network. It is a productivity software that fosters collaboration and communication between members of a company. It&#039;s a SaaS solution, which exists in different versions depending on the size of your company. Features include activity stream, directory, groups, profile page, and secured access and data for a corporate environment. 
+
+YoolinkPro API is designed for developers who wants to interconnect YoolinkPro with their own applications, or create new application relying on their YoolinkPro account.
+Before starting developing a YoolinkPro third-party application, an administrator of the YoolinkPro account should ask YoolinkPro to enable the YoolinkPro API support for his account.
+blogging enterprise sbweb social 
+Enterprise

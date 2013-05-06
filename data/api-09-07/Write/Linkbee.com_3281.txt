@@ -1,0 +1,6 @@
+Create Short Links and Cash Links
+Linkbee.com
+Linkbee.com is a service that allows users to create simple short links or cash links (cash links will have either an advertisement before the person clicking the link is taken to the target page, or the target page will display a banner advertisement). Users can also get statistics on their links.
+Linkbee.com also provides a simple API for users, with the same functionality of the Linbee.com website; there are methods for creating short links, cash links, and viewing link statistics. Authentication is required only for creating cash links and viewing hits for each link. Authentication is not required for creating simple short links.
+advertising internet url-shortener utility 
+Internet

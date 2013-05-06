@@ -1,0 +1,5 @@
+Social Q&A website
+Quetter
+Quetter is a website where users can both submit questions to be answered and answer questions asked by other users within the community. Quetter provides an API that can be used to integrate Quetter services into another application. Methods exposed allow users to get the newest questions, get answers by question and user and get all genres. It uses RESTful calls and responses are formatted in XML and JSON.
+answers social Twitter 
+Answers

@@ -1,0 +1,12 @@
+audio 1
+being 1
+download 1
+host 2
+manage 1
+management 2
+medium 8
+photo 1
+statistics 2
+store 1
+upload 2
+video 1

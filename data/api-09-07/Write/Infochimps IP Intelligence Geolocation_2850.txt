@@ -1,0 +1,9 @@
+Data mining tool
+Infochimps IP Intelligence Geolocation
+InfoChimps is a data marketplace where publishers and owners of datasets can charge for their usage.
+
+Digital Element is the premier supplier for IP geolocation data. Their data is used by a number of large internet companies, including Ask.com, AOL, and CNN.com. Their data has been independently verified to be 99% accurate at country level, and 95% accurate at the city level worldwide. 
+
+The API uses RESTful protocol and responses are formatted in JSON or JSONP.
+Data internet 
+Internet

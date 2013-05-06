@@ -1,0 +1,5 @@
+Advertising platform
+Yahoo APT
+APT from Yahoo allows developers to interact with the Yahoo advertising platform and ad exchange-based technology. The system is meant to allow advertisers, publishers, ad networks and agencies to buy and sell advertising in a single environment. With the API, developers can build applications that integrate with API to take advantage of the platform&#039;s functionality. This functionality includes creating and managing ads and creatives; adding and managing sites; retrieving geographical targeting, behavioral targeting, colocation information, and creating and managing accounts and reports; creating and managing ad groups and orders. The API uses SOAP calls and responses are formatted in XML.
+advertising 
+Advertising

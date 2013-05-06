@@ -1,0 +1,9 @@
+Full-text search service
+IndexDen
+IndexDen is a hosted full-text search database. Developers can offload to IndexDen&#039;s search-as-a-service for real-time searches. The service is IndexTank-compatible and is tuned for full-text searches.
+
+Developers can provide advanced searching, such as scoring functions, snippet highlighting, fuzzy and faceted search. In addition to performing searches, the API can also be used to add documents to the index, tune scoring functions and implement category search (such as item type).
+
+The API returns serialized JSON and has client libraries for Python, PHP, Ruby and Java.
+fulltext indextank internet realtime search 
+Search

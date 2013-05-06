@@ -1,0 +1,9 @@
+SMS messaging service
+ProTexting SMS
+ProTexting SMS is a SMS messaging company offering text message marketing solutions for small and medium sized businesses. Some of their services include keywords, analytics and reporting, QR codes, and mobile surveys.
+
+The ProTexting SMS API allows users programmatic access to some of the services provided by a ProTexting SMS account, including sending and receiving SMS messages, getting message details (including carrier, message ID number, and delivery status), and checking or reserving keywords.
+
+The ProTexting SMS API operates over HTTP and responds via XML or plain-text response codes. SSL is supported by this API, which requires an account with service and purchased account credits for most method calls.
+messaging mobile sms usa 
+Messaging

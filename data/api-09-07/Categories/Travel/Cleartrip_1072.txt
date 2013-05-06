@@ -1,0 +1,15 @@
+amaze 1
+booking 3
+cool 1
+desktop 1
+geek 1
+integrate 1
+make 2
+mobile 1
+relate 1
+result 1
+search 1
+simple 1
+technology 1
+travel 5
+try 1

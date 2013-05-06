@@ -1,0 +1,5 @@
+On demand printing service
+Mimeo
+Mimeo provides an online, on-demand document printing and distribution service.The Mimeo API lets developers integrate production and commerce capabilities with their applications and sites. With the API users can Add Users, Submit Files, Manage Create Documents, Place Orders, Make Payment and more. The API uses RESTful protocol and responses are formatted in XML and JSON
+documents office printing 
+Office

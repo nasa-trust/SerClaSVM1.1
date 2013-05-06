@@ -1,0 +1,5 @@
+eCommerce platform
+Group Commerce
+Group Commerce is an e-commerce platform that offers turn-key group buying solutions. The API provide functionality necessary for developers to communicate with the Group Commerce core platform. Functionality is currently split into two main parts. The first lets users perform complex tasks such as automating promotional emails, creating offer widgets, powering a mobile web application, or creating a fully-functional daily deal site that is hosted entirely within their own environment. The other gives developers an endpoint used by merchants to check their offers, mark vouchers as redeemed, and perform data collection on their customers. The API uses RESTful calls and responses are formatted in XML and JSON. An API key is required, developers should email apidocs@groupcommerce.com for access.
+deals ecommerce retail shopping 
+Retail

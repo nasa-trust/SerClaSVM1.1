@@ -1,0 +1,7 @@
+Barcode and QR code generation service
+RACO Barcode
+The service accepts parameters as input and returns barcode images encoding data from the request. The request can specify image symbology from a list of five 1D options and five 2D options, including Aztec and QR code. Output format choices include gif, jpg, png, and eps, with varying DPI resolution. 
+
+The API accepts specification of symbology, barcode units, bar width and height, the data to encode, and other parameters such as whether or not to display the data below the barcode image.  
+barcode utility 
+Utility

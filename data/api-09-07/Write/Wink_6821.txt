@@ -1,0 +1,5 @@
+Social search service
+Wink
+From their site: The Wink AJAX People Search API allows you to access Wink data to build out your own applications on your own site with JavaScript. You can embed a simple search box and display results on your own site or use it to create killer, innovative applications. Mashups, practical, and professional applications are all welcome.
+deadpool search social 
+Search

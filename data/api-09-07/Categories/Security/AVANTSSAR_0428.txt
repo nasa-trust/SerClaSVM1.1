@@ -1,0 +1,16 @@
+architecture 5
+automate 1
+component 2
+composition 1
+entail 1
+expose 1
+integration 1
+issue 1
+orient 4
+position 1
+secure 1
+security 5
+trust 2
+validate 2
+validation 2
+variety 1

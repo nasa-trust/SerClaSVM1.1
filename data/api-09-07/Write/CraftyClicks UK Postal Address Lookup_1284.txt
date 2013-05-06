@@ -1,0 +1,5 @@
+UK postcode lookup service
+CraftyClicks UK Postal Address Lookup
+The CraftyClciks web service gives access to the Royal Mail Postal Address File (PAF). The RESTful API takes a UK post code as input and returns a list of matching addresses. Responses are in XML format. The trial is free, but subscription is needed to use on a live system.
+address postal postcode uk 
+Reference

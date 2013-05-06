@@ -1,0 +1,5 @@
+Semantic text extraction service
+Extractiv
+Extractiv is a service which automatically converts unstructured text into structured semantic data.  It combines an extremely fast web crawler with powerful natural language processing technology. Extractiv has two APIs; the On-Demand platform allows a user to upload their own documents or URLs to be processed one-at-a-time and the Crawling platform lets users create crawling jobs to crawl the web and process its content. Both APIs use RESTful protocol and responses can be formatted in XML and JSON.
+analytics extraction internet semantic text 
+Internet

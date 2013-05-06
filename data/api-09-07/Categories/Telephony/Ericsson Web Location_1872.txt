@@ -1,0 +1,15 @@
+active 1
+datum 1
+details 1
+give 1
+lab 1
+location 5
+may 1
+must 1
+need 1
+passive 1
+positioning 1
+telephony 2
+tell 1
+way 1
+why 1

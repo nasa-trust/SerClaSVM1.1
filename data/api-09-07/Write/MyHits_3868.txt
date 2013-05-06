@@ -1,0 +1,5 @@
+Protein domain database
+MyHits
+MyHits is a free database devoted to protein domains. It is also a collection of tools for investigating the relationships between protein sequences and the motifs described on them. Motifs are defined by a heterogeneous collection of predictors, including regular expressions, generalized profiles, and hidden Markov models. Much of MyHits&#039; data and functions are available via SOAP API.
+bioinformatics database science 
+Science

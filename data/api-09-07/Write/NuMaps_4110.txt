@@ -1,0 +1,7 @@
+Map based information
+NuMaps
+From the website: &quot;The NuMaps mapping service (Nuserv) API encapsulates an OGC1 compliant Web Map Service (WMS) and enhances it with numaps own request extensions. These requests and associated responses can form the basis for encapsulating Numaps DemographicDrapes into your own mapping applications.
+ 
+Underlying the Nuserv service are OGC compliant Cubeserv servers, from Cubewerx Inc. The ???nuserv.cfm??? web service simply acts as a secure gateway (proxy) to these services.&quot;
+demographics mapping 
+Mapping

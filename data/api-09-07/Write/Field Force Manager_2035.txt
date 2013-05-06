@@ -1,0 +1,7 @@
+Mobile workforce tracking and management service
+Field Force Manager
+The service provides tracking and oversight tools for mobile workers. It helps with measurement and management of remote employees to ensure effective mobile service. It integrates with third-party systems to exchange information about staff locations and activities, with reporting intervals from 5 minutes to once per day or week.
+
+API methods support worker account management, including location, status, and activities underway. Location can be tracked by worker report or automated GPS reporting. Methods support highly details route and timing reports, with recording of navigation milestones passed and stop times. Methods also support time management and reporting, with job assignments, completion time estimates, and timecard functions for payroll.
+employment enterprise mobile tracking 
+Enterprise

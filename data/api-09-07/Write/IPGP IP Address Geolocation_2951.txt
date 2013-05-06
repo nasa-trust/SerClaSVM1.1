@@ -1,0 +1,5 @@
+IP address lookup service
+IPGP IP Address Geolocation
+IPGP is a site that lets users lookup the location of their site&#039;s visitors based on their IP addresses. It combines with Google Maps to provide geolocation services. The API gives developers access to the full functionality of the service. With the API users can get country, city, ISP and organization. Full documentation is not publicly available. The API return format is XML.
+address geolocation internet IP lookup tools 
+Tools

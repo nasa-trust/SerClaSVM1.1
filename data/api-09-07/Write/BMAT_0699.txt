@@ -1,0 +1,5 @@
+Music search and recommendation service
+BMAT
+BMAT music recommendation engine which provides a simplified version of BMATs music analysis and processing services. Ella provides unlimited search, discovery and personalization options leveraging metadata based on context, content and user generated data.
+music recommendations 
+Music

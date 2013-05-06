@@ -1,0 +1,7 @@
+Online learning platforms
+Knewton
+Knewton is an online learning platform. Their Adaptive Learning Platform allows for standard education content customization for individual students. They offer courses for standardized tests such as SAT, GMAT, and LSAT.
+
+The Knewton API allows developers to access and integrate Knewton&#039;s functionality and data for other applications. Public documentation is not available; interested developers should sign up here http://www.knewton.com/signup/ for access.
+courses education GMAT learning LSAT sat 
+Education

@@ -1,0 +1,5 @@
+Transit Information for Eastern Pennsylvania 
+SEPTA 
+SEPTA is the South-Eastern Pennsylvania Transport Authority. It provides an API that lets users access information from its system. This information includes route and schedule information, as well as real-time bus and train locations, for the SEPTA transit system. The API uses RESTful calls and responses can be formatted in JSON, KLM and GTFS. 
+opendata Pennsylvania transportation 
+Transportation

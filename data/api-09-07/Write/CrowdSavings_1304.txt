@@ -1,0 +1,5 @@
+Access to shopping deals
+CrowdSavings
+The CrowdSavings API gives developers access to the flash deal/daily deal site. The API features a RESTful interface and returns data in the JSON and XML formats.
+shopping 
+Shopping

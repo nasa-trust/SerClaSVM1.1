@@ -1,0 +1,5 @@
+CRM services
+Upsales
+Upsales is a web based CRM that lets users keep track of clients and contacts, manage their sales team and analyze important KPIs in real-time. Upsales provides an API for accessing and manipulating the data in Upsales CRM. With the API developers can integrate business applications with Upsales CRM. Functionality includes accessing and mass importing data, create, add, change and delete clients, contacts, projects, orders, opportunities, activities, appointments, products and users. The API uses SOAP protocol and responses are in XML.
+CRM customer deadpool enterprise 
+Enterprise

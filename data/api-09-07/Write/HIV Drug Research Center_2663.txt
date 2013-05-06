@@ -1,0 +1,5 @@
+Drug susceptibility prediction services for mutated HIV
+HIV Drug Research Center
+The HIV Drug Research Center provides a pair of APIs for predicting the susceptibility of mutated HIV to a variety of drugs. One API predicts the susceptibility of mutations in HIV protease to amprenavir, atazanavir, indinavir, lopinavir, nelfinavir, ritonavir, and saquinanvir. The other predicts the susceptibility of mutations in HIV reverse transcriptase to lamivudine, abacavir, zidovudine, stavudine, zalcitabine, didanosine, emtricitabine, and tenofovir. These APIs are available to users via REST and XMPP. 
+medical aids
+Medical

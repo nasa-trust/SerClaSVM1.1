@@ -1,0 +1,5 @@
+Web solution for photographers
+PhotoShelter
+Online photo sharing site PhotoShelter is a paid web and portfolio hosting site for professional photographers and serious amateurs. The PhotoShelter API v1.1 allows programmers to integrate other applications with PhotoShelter through the use of remote calls. For example, it would be possible to develop a &quot;plug-in&quot; to an image editing program to export files to PhotoShelter directly.
+photo 
+Photos

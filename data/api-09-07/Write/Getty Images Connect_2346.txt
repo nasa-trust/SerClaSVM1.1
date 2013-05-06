@@ -1,0 +1,5 @@
+Licensed photography platform
+Getty Images Connect
+Getty Images is a major provider of stock and entertainment photography. Getty sells licenses for photo usage, including royalty-free photos (which still have an initial fee). The Getty Images Connect API allows developers to search photos, authenticate Getty Images users, access photos owned by the authenticated user and retrieve download authorizations.
+photo stock 
+Photos

@@ -1,0 +1,5 @@
+URL shortening service
+durl.us
+From their site: The durl.us API enables the integration of durl.us url shortening directly into your custom application. The durl.us API provides a simple interface that you can query with results being returned in XML.
+deadpool internet 
+Internet

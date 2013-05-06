@@ -1,0 +1,7 @@
+Social analytics platform
+Social Report
+Social Report is an analytics solution for tracking social networks, websites, blogs, and short links. Social reports allows users to get reports about membership, demographics, interests, geography, education, employment, and a variety of other factors surrounding the characteristics of a user&#039;s online social presence.
+
+The API allows users to create and manage projects within their Social Report account, add or remove other accounts to their projects, register customers to their account, and run reports. This is a REST-based API that returns all data in JSON. API access is dependent on subscription to one of the top two Social Report payment plans.
+analytics reports social 
+Social

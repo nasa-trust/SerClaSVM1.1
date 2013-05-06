@@ -1,0 +1,7 @@
+SMS messaging service
+Ericsson SMS Send and Receive
+SMS Send & Receive lets you send and receive SMS messages using a simple REST-like web API. With your personal API key you get 1000 free SMS messages that you can send using the API, as well as a keyword for receiving SMS messages sent to your service. 
+
+Update 8/29/11: Unfortunately the SMS Send & Receive API is still down. Due to problems in one of the modules we have been forced to bring the service down for an extended service break.
+Global messaging sms sweden telephony uk 
+Messaging

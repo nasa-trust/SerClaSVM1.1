@@ -1,0 +1,5 @@
+Web site parsing tool
+Some Murrays Website Summaries
+Some Murrays is a service developers can use to parse the content of web sites in any way they need. This web service is used to extract text from, and parse, websites. It uses RESTful calls and responses can be formatted in XML, JSON, TXT and HTML.
+extraction internet semantic tools 
+Tools

@@ -1,0 +1,5 @@
+Name and location mapping service
+Unlock
+Unlock places is a digital gazetteer service. Given a place name, it will return a geographic location and a suggested type for the place. Look up a name with a simple HTTP GET request. Get back the results in HTML, XML / KML format (for viewing in a mapping client), in GeoJSON (for use in a Javascript based web application), GeoRSS or plain-text. Searches for names can be limited to a particular space, or filtered by the type of feature.
+geolocation mapping places uk 
+Search

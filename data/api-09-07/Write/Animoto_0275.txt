@@ -1,0 +1,6 @@
+Video creation platform
+Animoto
+The Quickstart API enables the creation of Animoto video projects with content provided by partner websites and applications. With the Quickstart API, partners can send users to Animoto to create a new video, and specify images,video clips,and an audio track to be included in the new video.
+
+editing video 
+Video

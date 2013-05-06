@@ -1,0 +1,12 @@
+anything 1
+current 1
+day 1
+embed 1
+focus 1
+management 3
+office 1
+own 1
+shift 1
+simple 1
+task 5
+tool 3

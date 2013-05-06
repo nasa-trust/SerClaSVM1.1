@@ -1,0 +1,7 @@
+Web performance monitoring service
+SmartBear AlertSite
+SmartBear&#039;s AlertSite suite is a website monitoring service that will record performance metrics from your API&#039;s, email, and FTP servers, as well as internal, external, and mobile websites. AlertSite also features customizable reporting, allowing you to tailor performance monitoring reports to your needs.
+
+The AlertSite API exposes features for managing devices, checking device statuses, and generating reports. This REST-based API returns data in XML, and requires an account with service for access.
+Apis internet monitoring website 
+Internet

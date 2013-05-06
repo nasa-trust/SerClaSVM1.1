@@ -1,0 +1,17 @@
+alternative 1
+analysis 1
+create 1
+explorer 3
+good 1
+grasp 1
+index 1
+internet 2
+link 2
+looking 1
+page 1
+query 1
+traffic 1
+understand 1
+usage 1
+who 1
+yahoo 4

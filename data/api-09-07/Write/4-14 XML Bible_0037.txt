@@ -1,0 +1,7 @@
+Christian bible verse service
+4:14 XML Bible
+The service provides text from Christian scripture as specified in submitted requests. It complements similar biblical verse service by providing translations in multiple languages and versions of the scripture. King James versions are the default, but requests can choose from 53 others based on different Greek and Hebrew texts. The database of nearly 2.5 million verses includes text in many languages.
+
+API methods support submission of a request with a bibilical passage citation. Requests may also specify a language and text version. Returned data provide up to 500 matching verses.
+bible quotations reference 
+Reference

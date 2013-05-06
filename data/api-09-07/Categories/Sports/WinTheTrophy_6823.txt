@@ -1,0 +1,10 @@
+bet 2
+datum 1
+feature 1
+format 1
+gambling 1
+give 1
+making 1
+protocol 1
+return 1
+sport 4

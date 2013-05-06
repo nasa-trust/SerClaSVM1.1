@@ -1,0 +1,5 @@
+Fundraising tools
+Dropcash
+From their site: There are many ways to interact with the Dropcash system without connecting to it directly with a browser. The official Dropcash API is currently being worked on, however a few people have taken advantage of our XML feed to build their own language and platform specific plugins. 
+charity 
+Other

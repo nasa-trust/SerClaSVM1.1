@@ -1,0 +1,5 @@
+Text translation service
+Google AJAX Language
+With the AJAX Language API, you can translate and detect the language of blocks of text within a webpage using only Javascript.  The language API is designed to be simple and easy to use to translate and detect languages on the fly when offline translations are not available.
+language Translation 
+Utility

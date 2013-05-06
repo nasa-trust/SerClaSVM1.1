@@ -1,0 +1,8 @@
+availability 1
+connection 1
+file 2
+given 1
+monitor 1
+sharing 1
+statistics 3
+torrent 1

@@ -1,0 +1,7 @@
+Bulk SMS Alert Delivery Service
+Telenor SMS Alert
+The Telenor SMS Alert API is a SOAP-based API consisting of four different parts: the Alert API, Area API, Status API, International Alert API, and Admin API subsections.
+
+From Whitepaper: &quot;SMS Alert can be used for population alert (disasters etc), corporate usage to send messages to employees within a specified area or country or in relation to content/marketing services. SMS Alert is a service for the transmission of MT SM to GSM/3G terminals within a specified area. SMS Alert is limited to Telenor subscribers and MS roaming in Telenors Norwegian GSM/3G Network.&quot;
+sms telephony 
+Telephony

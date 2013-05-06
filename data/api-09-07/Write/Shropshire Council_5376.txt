@@ -1,0 +1,5 @@
+UK government portal
+Shropshire Council
+The Shropshire Council website is the online portal for the Shropshire Council government. Access information about births, carbon emissions reduction, elected representatives, grants, local libraries, facts and figures, and much more. An API provides access to some services with plans to increase access to more in the future.  
+government uk unitary-authority 
+Government

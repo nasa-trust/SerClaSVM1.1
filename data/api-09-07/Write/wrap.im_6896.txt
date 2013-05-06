@@ -1,0 +1,5 @@
+Anonymous linking library
+wrap.im
+Hide referrers and link anonymously to another site. JavaScript library inserts wrap.im link, so that there&#039;s an intermediary step before going to the site. Produce anonymous links, which prevent the original site from appearing as a referrer in the logfiles of the referred page.
+deadpool internet privacy SEO 
+Internet

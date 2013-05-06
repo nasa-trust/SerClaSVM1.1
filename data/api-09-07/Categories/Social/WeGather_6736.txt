@@ -1,0 +1,15 @@
+church 3
+datum 2
+documentation 1
+event 1
+integrate 1
+manage 1
+network 2
+party 1
+private 1
+religion 1
+social 4
+software 1
+store 2
+third 1
+volunteer 1

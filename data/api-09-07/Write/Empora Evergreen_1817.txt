@@ -1,0 +1,7 @@
+UK fashion search service
+Empora Evergreen
+Fashion search API that returns clothes and accessories data based on search parameters including price, brand, color, and title/description. Developers can earn revenue when people click through to the original retailer&#039;s site.
+
+The API includes Empora&#039;s image analysis technology which makes colours in the product image searchable, either using named colours or RGB hex codes.
+color Fashion search 
+Search

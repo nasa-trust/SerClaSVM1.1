@@ -1,0 +1,5 @@
+Writing content marketplace and publishing platform
+WriterAccess
+WriterAccess is a marketplace for writers and publishers to connect. As a content marketing platform, it allows businesses the opportunity to employee expert writers efficiently and remotely. Writers have profiles describing their expertise that businesses can browse. Content editors can also be hired. The WriterAccess API exposes integration functionality for developers to build one-click publishing features. It also exposes account management and communication functionality. 
+jobs media-management publishing writing 
+Media Management

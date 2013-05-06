@@ -1,0 +1,17 @@
+authentication 1
+book 1
+call 1
+devices 1
+internet 2
+kindle 4
+manner 1
+one 2
+page 4
+party 1
+processing 1
+read 1
+same 1
+send 3
+sending 1
+third 1
+two 1

@@ -1,0 +1,5 @@
+Windows SDK for Windows Live sign-in authentication
+Windows Live ID Client SDK
+From their site: The Windows Live ID Client 1.0 SDK provides a managed API for Windows Live sign-in authentication. Included in the release is a sample application with its source code, so that you can build your own client applications. he Windows Live ID service uses the same functionality as Messenger to cache the user name and/or password for use in subsequent user sign ins. Gain hundreds of millions of potential users of your application.
+authentication security windows 
+Security

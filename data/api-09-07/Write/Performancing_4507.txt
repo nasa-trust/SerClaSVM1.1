@@ -1,0 +1,5 @@
+Blog management
+Performancing
+NOTE: As of January 2007, this service is no longer available [[http://performancing.com/node/5583 Announcement]]. From their site: The API allows programmers to retrieve metrics data and graph images for use in their own software, blogs and websites. With the API you can access any of the information that is displayed in the standard Metrics user interface. You could use this to show a visitor count in your blog, or interesting stats for several blogs in a private intranet dashboard, for example. 
+blog deadpool 
+Blogging

@@ -1,0 +1,9 @@
+Cancer and biomedical data standards service
+National Cancer Institue caDSR
+The National Cancer Institute (NCI), a sub agency of the National Institute of Health (NIH), offers the Cancer Data Standards Registry and Repository (caDSR) API to provide users with programmatic access to a database of Common Data Elements (CDE&#039;s) created by the NCI to manage biomedical data.
+
+The caDSR contains Unified Markup Language (UML) models representing information domains developed by collaborating research partners, and submitted to the database. The semantics of the data elements in these models are extracted and transformed into administered components of the database, while the resulting collection of related CDE&#039;s are classified as part of the model and made visible as a collection.
+
+This free API operates over REST and returns data via XML and HTML.
+cancer Data medical standards 
+Medical

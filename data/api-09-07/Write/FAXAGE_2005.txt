@@ -1,0 +1,5 @@
+Internet based fax service
+FAXAGE
+FAXAGE offers API-based fax sending and receiving, automated number provisioning, and call-detail record collection. The FAXAGE Internet Fax API allows for the FAXAGE service to be used as a fax back end, integrated into user systems or software. The API can be used to fax-enable ERP and other back-office systems that need the capability to fax. It can also be used to create a white label fax service. It also provides call detail record gathering for accounting or downstream billing and allows for automated fax number provisioning. The API uses RESTful calls and responses are formatted in XML.
+fax 
+Fax

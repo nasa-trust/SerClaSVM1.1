@@ -1,0 +1,7 @@
+Canadian postage and mailing service
+Canada Post
+The service provides delivery services from Canada Post that can be integrated with e-commerce and retailing applications serving Canadian customers. In addition to basic shipping of purchases, it allows online stores to incorporate rate discovery and package tracking. Applications can specify a number of shipping options to customize delivery services.
+
+API methods support specification of shipping location and delivery address, determination of shipping charges, and completion of documentation to send a package through Canada Post delivery services. Methods also support specification of available shipping options and package tracking while en route.
+ecommerce government mail postal shipping 
+Shipping

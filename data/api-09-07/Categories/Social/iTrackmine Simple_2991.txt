@@ -1,0 +1,15 @@
+book 1
+collection 3
+datum 2
+feed 1
+format 1
+interface 1
+make 1
+movie 1
+music 1
+proprietary 1
+pull 1
+sharing 1
+simple 2
+social 2
+text 1

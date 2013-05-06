@@ -1,0 +1,5 @@
+Online gaming portal
+Shtoss
+Shtoss is an online gaming portal. Their API lets users integrate Shtoss games into their existing site. Users can setup games&#039; page and upload own CSS. Documentation is not available.
+deadpool games 
+Games

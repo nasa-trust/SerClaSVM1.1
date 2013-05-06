@@ -1,0 +1,5 @@
+Mobile application analytics service
+Medialets Medialytics 
+Medialytics Application Management API allows for programmatic and bulk registration of iPhone, Blackberry and Android apps into Medialets&#039; Medialytics platform. Medialets is a creative ad network and analytics provider for native mobile applications, primarily focused on the Apple iPhone. Medialytics is a tool that enables you to gain deep insights into how your users interact with your apps. Public documentation of the API is not available on the site.
+analytics mobile 
+Advertising

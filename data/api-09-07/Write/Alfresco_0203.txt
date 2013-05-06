@@ -1,0 +1,5 @@
+Enterprise content platform
+Alfresco
+Alfresco is an enterprise content platform for storing and sharing important documents such as strategic plans, customer profiles, sales presentations, invoices, and contracts. It also features social tools that let people within a company share and discover content the same way they do with social media. Alfresco can operate as a cloud-based system, accessible even from mobile devices. It readily integrates with MS Office, Apple iWork, Adobe Creative Suite, Google Docs, and more. Many of Alfresco&#039;s features are accessible programmatically using REST and JavaScript APIs.
+cloud content enterprise 
+Enterprise

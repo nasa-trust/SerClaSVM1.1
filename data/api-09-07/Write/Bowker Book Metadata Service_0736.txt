@@ -1,0 +1,7 @@
+Book descriptive metadata service
+Bowker Book Metadata Service
+The service provides descriptive information about books and other media resources maintained by the publisher of Books in Print, a comprehensive listing of currently available publications. Data include bibliographic description (author, title, ISBN, publication date, etc.) as well as cover image, published reviews, table of contents, and publisher&#039;s price.
+
+API methods accept search criteria as author or contributor name, title, ISBN, UPC, and a range of other identifying values. Methods then return data specified in the request for matching resources, including bibliographic description, availability status, binding type, intended market or audience, etc.
+books deadpool shopping 
+Shopping

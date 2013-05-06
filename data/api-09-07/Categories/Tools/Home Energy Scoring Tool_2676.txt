@@ -1,0 +1,17 @@
+asset 1
+condition 1
+department 1
+develop 1
+energy 7
+generate 1
+home 5
+measurement 1
+occupancy 1
+party 1
+rating 1
+scores 1
+scoring 2
+standardize 1
+third 1
+tool 5
+usage 2

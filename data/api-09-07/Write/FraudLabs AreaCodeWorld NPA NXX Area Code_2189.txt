@@ -1,0 +1,5 @@
+Geographical location service
+FraudLabs AreaCodeWorld NPA NXX Area Code
+The AreaCodeWorld NPA NXX Area Code Web Service is a hosted, programmable XML Web Service that provides you geographical and other important information in North America including the United States, Canada and most of the Caribbean through NPA and NXX search. The AreaCodeWorld NPA NXX Area Code Web Service returns information such as state, city, LATA, latitude, longitude, time zone and etc. FraudLabs develops, markets and supports a scoring system online for online credit card transactions. The API uses SOAP protocol and responses are formatted in XML. Complete documentation is not publicly available.
+location reference security 
+Reference

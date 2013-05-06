@@ -1,0 +1,7 @@
+Trip tracking and recording application
+HipGeo
+HipGeo is an application that allows users to automatically track and record where they go and how they get there via the location-aware HipGeo platform. Other features of the HipGeo application include sharing locations with friends and families, adding and sharing photos, and sharing records of trips.
+
+The HipGeo API allows developers to access and integration the data and functionality of HipGeo with other applications and to build other applications. Some example API methods include posting and receiving journal entries and records of trips, searching by locations and times, and accessing information about media and photos contained in the records.
+mapping photo sharing social travel trip 
+Travel

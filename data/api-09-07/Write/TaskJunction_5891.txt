@@ -1,0 +1,7 @@
+Free online project management service
+TaskJunction
+The service provides online tools for project management and tracking of activities. It aims to provide core functions familiar from commercial project management tools through an online toolbox for managing task and event data. Tools include task creation with start date, end date, duration, dependencies, and assignments to project team members. Tools include reporting and charting through both web and mobile interfaces (limited to the Android OS).
+
+API methods support creating, listing, and updating projects and tasks within projects. Methods for managing tasks include monitoring and updating status, setting task priorities, and assigning tasks to project team members.
+project-management scheduling 
+Project Management

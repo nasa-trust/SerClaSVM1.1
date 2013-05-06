@@ -1,0 +1,9 @@
+Bike sharing network information service
+CityBikes
+CityBikes is an application that provides bike sharing networks information in numerous countries. Users can search by location to find bike sharing networks, locations, and information.
+
+The CityBikes API allows developers to access and integrate the CityBikes data and functionality for integration with other applications. API methods include searching and retrieving bike sharing network information and IDs.
+
+
+bike transportation 
+Transportation

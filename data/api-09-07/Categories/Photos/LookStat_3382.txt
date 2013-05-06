@@ -1,0 +1,15 @@
+call 1
+datum 1
+earnings 1
+four 1
+image 2
+integrate 1
+logging 1
+metadata 1
+photo 3
+photographer 3
+processing 1
+retrieve 3
+solution 1
+submission 1
+upload 2

@@ -1,0 +1,7 @@
+Earthquake prediction service
+OpenHazards GetEarthquakeProbability
+The service gathers data from multiple sensor networks and public reports to generate forecasts of earthquake and seismic hazards. It does not aim to predict specific events but rather to generate probabilistic forecasts of risk based on event probability and likely damage, should those events occur. Its goal is to aid in preparation for natural catastrophes that can be anticipated.
+
+API methods support submission of a location for which to generate a forecast along with a radius around that point, a timeframe, and a magnitude threshold. The service returns a forecast of the hazard that an earthquake above the stated threshold will occur within the radius around the stated location within the timeframe specified.
+earthquakes forecast science 
+Science

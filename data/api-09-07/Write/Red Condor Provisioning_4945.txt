@@ -1,0 +1,5 @@
+Message Assurance Gateway Administration and Configuration Tool
+Red Condor Provisioning
+The Red Condor Provisioning API is a REST-based XML API that helps administrators of the Red Condor Message Assurance Gateway appliance automate configuration and maintenance of their system settings. It provides a scripting mechanism to batch perform such basic tasks as creating and deleting accounts, domains, and mailboxes, and customizing their properties. Some methods of this API require data to be transmitted in XML form, others can be used through simple HTTP requests.
+email tools 
+Tools

@@ -1,0 +1,16 @@
+bike 2
+cater 1
+cycle 1
+cycling 1
+cyclist 3
+design 1
+journey 1
+need 1
+plan 1
+planner 1
+planning 1
+route 2
+sport 2
+system 1
+tool 1
+uk 2

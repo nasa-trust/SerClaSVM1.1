@@ -1,0 +1,5 @@
+Invoice management service
+billFLO Seller
+billFLO is a cash-flow management tool for small business. billFLO seller API allows Accounting and Invoicing Applications to generate billFLO invoices. Basically, the API accepts XML-formatted data and returns billFLO invoices. The billFLO Invoice is returned in the form of a string in an XML response. The requesting application then provides the billFLO file to the user via email or as a download.
+accounting finance invoicing sbweb 
+Financial

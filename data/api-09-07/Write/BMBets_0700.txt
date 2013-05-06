@@ -1,0 +1,5 @@
+Sports gambling service
+BMBets
+eOddsmaker helps bettors to find the best betting odds on their bets by processing and comparing odds from the most popular bookmakers. eOddsmaker also provides users with the tools that help punters bet with data from Sure Bets or Value Bets. eOddsmaker provides sport betting odds compilation and analysis services using the Oddsmaker engine, which simulates the probabilistic model of a sport event, assess probabilities and turn them into the betting odds. The engine supports offline and real-time (live odds) betting odds generation and analysis. The API uses SOAP protocol and responses are formatted in XML.
+gambling games sports 
+Sports

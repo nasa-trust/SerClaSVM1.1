@@ -1,0 +1,11 @@
+bureau 1
+census 1
+country 2
+datum 1
+human 1
+politics 1
+population 6
+refer 1
+return 1
+soap 1
+world 4

@@ -1,0 +1,10 @@
+Account information service
+LogMeIn Rescue
+LogMeIn Rescue provides solutions for remote control, file sharing, systems management, data backup, business collaboration, and on-demand customer support of PCs, servers, Macintosh computers, smartphones, and other connected devices.
+
+The LogMeIn Rescue API allows you to get account information 
+in real time, control sessions, and manage users.
+
+
+customer-service 
+Other

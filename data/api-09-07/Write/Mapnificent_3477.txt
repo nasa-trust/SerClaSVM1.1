@@ -1,0 +1,7 @@
+Public transportation map service
+Mapnificent
+Mapnificent is a website that shows users the area you can travel to using public transportation for cities in the US and around the world.
+
+The Mapnificent API allows users to access Mapnificent&#039;s functionality to use with Google Map applications. The Magnificient API offers static functions, object functions, UI layer functions, and distance functions. Some example API methods include adding objects to maps, adding distances, and adding times for distances. 
+googlemaps mapping transit travel 
+Transportation

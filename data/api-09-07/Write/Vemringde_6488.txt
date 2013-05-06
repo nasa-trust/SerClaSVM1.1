@@ -1,0 +1,5 @@
+Telephone spammer database
+Vemringde
+Vemringde is a service that lists phone numbers from unwanted callers. With the vemringde.se API, users can search for information about issues in the database and use it in their own applications. An example use would be to help to block sales calls on an IP phone or mobile phone. The API consists of two parts, the List API lists the most common numbers on vemringde.se. The Search API provides information about any number in the database, it works much like a normal number lookup. The API uses RESTful calls and responses are formatted in XML, JSON, Text and Vcard.
+spam sweden telephony 
+Telephony

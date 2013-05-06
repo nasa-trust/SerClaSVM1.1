@@ -1,0 +1,5 @@
+Biomedical database
+ChemBank
+ChemBank is a database that stores information on hundreds of thousands of small molecules and on hundreds of biomedically relevant assays. The ChemBank API allows users to download all the project, assay, plate, and well measurement data within ChemBank. Substructure and similarity search services are also provided.
+biology chemistry medical science 
+Medical

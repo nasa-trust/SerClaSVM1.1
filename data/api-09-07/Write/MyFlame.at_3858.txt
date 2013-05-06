@@ -1,0 +1,7 @@
+Fractal flame sharing service
+MyFlame.at
+The service allows creators of fractal flames to share their works. It works with flames created in the Apophysis fractal flame editor or a compatible application. Data distributed by the service includes parameters for displaying and rendering shared fractals.
+
+API methods support submitting the fractal flame data to the service database, as well as lookup, retrieval, and parsing data packages. Methods also support applying descriptive data and browsing submitted fractal flames by owner, descriptive tags, and other criteria.
+art entertainment fractal social 
+Entertainment

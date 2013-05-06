@@ -1,0 +1,7 @@
+Text analysis and categorization tool
+AlchemyAPI Text Categorization
+AlchemyAPI provides content owners and web developers with a rich suite of content analysis and meta-data annotation tools. Expose the semantic richness hidden in any content, using named entity extraction, phrase / term extraction, document categorization, language detection, structured content scraping, and more.
+
+This RESTful content analysis API categorizes any text or webpage by topic (news, sports, etc.). It employs machine learning and sophisticated natural language processing. Extracted meta-data may be returned in XML, JSON, RDF, and Microformats rel-tag formats.
+semantic tools 
+Tools

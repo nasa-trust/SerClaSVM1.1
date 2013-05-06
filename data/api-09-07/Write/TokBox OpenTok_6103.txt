@@ -1,0 +1,5 @@
+Multi party video chat
+TokBox OpenTok
+OpenTok is a free set of APIs from TokBox that enables websites to weave live, group video communication into their online experience. TokBox is a web application that allows users to make multi-party video chat calls over the Internet without a download. With OpenTok users can: control size, layout and movement of video streams; stream to multiple pages and sites at once; create both &quot;viewer&quot; and &quot;participant&quot; roles; scale to large gatherings.  The API uses RESTful protocol with responses formatted in XML.
+chat video 
+Chat

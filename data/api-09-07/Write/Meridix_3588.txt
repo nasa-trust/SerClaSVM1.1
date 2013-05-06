@@ -1,0 +1,7 @@
+Sports webcasting service
+Meridix
+Meridix is a service that lets users webcast their own sports and events with live audio and video. The webcasts have the ability to launch game trackers and live scores. When an event is completed, users can send automatic text or email alerts.
+
+The Meridix API allows users to retrieve data from any of their Meridix accounts for use in their web sites or applications. This includes live data from from webcasts, scores, news, photos, polls, and other content. It uses RESTful calls and responses are formatted in XML.
+sports video 
+Sports

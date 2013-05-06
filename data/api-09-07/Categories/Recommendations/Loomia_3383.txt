@@ -1,0 +1,8 @@
+contact 1
+details 1
+documentation 1
+medium 1
+note 1
+provider 1
+recommendation 3
+shopping 1

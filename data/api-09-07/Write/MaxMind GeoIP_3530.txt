@@ -1,0 +1,5 @@
+IP address lookup services
+MaxMind GeoIP
+From their site: MaxMind GeoIP is a collection of APIs for looking up the location of an IP address. It includes support for lookup of country, region, city, latitude, and longitude. We offer both GeoIP and Credit Card Fraud Detection web services. There are no databases or software to install.
+geolocation internet IP 
+Internet

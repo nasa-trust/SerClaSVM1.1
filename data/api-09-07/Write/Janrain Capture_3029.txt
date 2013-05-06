@@ -1,0 +1,7 @@
+User data collection and storage service
+Janrain Capture
+Janrain Capture is a service that collects and stores user data from social networking sites when they register on websites with their existing social networking accounts. 
+
+The Janrain Capture API allows developers to access the data and functionality of Capture for integration with other applications. Some example API methods include adding clients, managing user information, and deleting and adding users.
+analytics Data enterprise marketing social 
+Enterprise

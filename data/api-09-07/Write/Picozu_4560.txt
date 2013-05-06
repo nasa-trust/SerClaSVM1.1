@@ -1,0 +1,7 @@
+Photo and drawing editing and retouching application
+Picozu
+Picozu is an application for photo and drawing editing and retouching. Some editing and retouching features that Picozu supports include brushing, filtering, texture rendering, and batch processing. 
+
+The Picozu API allows developers to access the functionality of Picozu for integration with other applications. Some example API methods include editing photos, retouching drawings, and saving and sharing the files edited or created.
+art editing photo 
+Photos

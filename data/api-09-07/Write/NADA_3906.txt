@@ -1,0 +1,7 @@
+Used car values lookup service
+NADA
+The National Automobile Dealers Association (NADA) Values service is the most complete source of information about used vehicles. NADA Values provides weekly auction values, monthly trade-in, loan and retail values for any used vehicle and commercial truck.
+
+The API lets developers access NADA Values in real-time and integrate them into thier own applications. Data that can be access includes auction values, trade in values, loan values, retail values, and looking up vehicles by VIN or make/model. The API uses SOAP protocol and responses are formatted in XML.
+auto lookup reference retail vehicle 
+Reference

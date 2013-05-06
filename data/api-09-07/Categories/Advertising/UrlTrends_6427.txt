@@ -1,0 +1,16 @@
+advertising 2
+datum 1
+engine 2
+finding 1
+give 1
+given 1
+link 1
+measure 1
+metrics 1
+optimization 2
+research 1
+search 5
+terms 1
+tool 2
+tracking 1
+url 1

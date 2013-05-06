@@ -1,0 +1,10 @@
+capability 2
+embed 1
+external 1
+free 1
+recognition 4
+speech 6
+text 2
+tool 1
+tt 1
+utility 1

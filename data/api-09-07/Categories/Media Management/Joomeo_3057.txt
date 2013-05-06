@@ -1,0 +1,17 @@
+album 1
+content 2
+create 1
+discretion 1
+interface 1
+management 2
+medium 4
+organize 1
+own 1
+personal 1
+photo 1
+picture 1
+share 1
+sharing 1
+storage 1
+upload 2
+video 1

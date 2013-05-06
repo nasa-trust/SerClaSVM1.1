@@ -1,0 +1,5 @@
+Museum collection resesarch and reference service
+Open Context
+Open Context is a free, open access resource for the electronic publication of primary field research from archaeology, museum collections, and other field science datasets. Open Context provides a simple RESTful web service to get content expressed in XHTML (for human use in browsers), the supported Atom Syndication Format (plus GeoRSS extensions), JSON (Javascript Object Notation), and KML (the format used by GoogleEarth). The Atom-based web services provide a set of query options to request items from a collection. 
+museums reference research 
+Education

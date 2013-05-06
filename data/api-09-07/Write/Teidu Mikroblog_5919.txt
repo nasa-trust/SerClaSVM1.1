@@ -1,0 +1,6 @@
+Micro Blogging Service
+Teidu Mikroblog
+Teidu is a micro blogging service that provides a simple API for developers who want to access Teidu Mikroblog&#039;s data from their own websites and applications. The Teidu Mikroblog API is a RESTful API, with more formats (SOAP, XML-RPC, and Javascript) 
+coming soon. 
+blogging microblogging 
+Blogging

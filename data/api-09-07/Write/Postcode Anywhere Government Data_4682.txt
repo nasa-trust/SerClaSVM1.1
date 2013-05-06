@@ -1,0 +1,9 @@
+UK government data service
+Postcode Anywhere Government Data
+Postcode Anywhere is an information-as-a-service provider offering over 250 separate web services covering a broad range of business efficiency tools for address and data capture, validation and cleansing to geo-coding, mapping, and route planning and optimization.
+
+The Government Data API combines Royal Mail Postzon data with a range of parliamentary demographics, including constituency information. It allows users to search across the whole of the UK to find out information across Local Authorities, wards, districts, counties and government office areas.
+
+The API uses a number of protocols including REST, SOAP and XML-RPC. Responses can be formatted in XML, JSON, CSV, HTML and PDF.
+government uk 
+Government

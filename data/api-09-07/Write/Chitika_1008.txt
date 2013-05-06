@@ -1,0 +1,5 @@
+Website Monetization Service
+Chitika
+Chitika is a user targeting ad network. It provides services to developers to enhance the revenue capacity of websites and applications. The Chitika API is REST based and returns only JSON. It allows users to add a Chitika map to websites which includes ad pins, or add phone numbers to ads that generate revenue based a per call basis not a per click basis. An API key is required for use. 
+advertising analytics mobile monetization 
+Advertising

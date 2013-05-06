@@ -1,0 +1,5 @@
+Feed caching service
+Feedcache
+From their site: Tucows Feedcache is Quality of Service for RSS. It is designed to make syndication formats more available and more predictable for developers. Tucows Feedcache: Developer Edition provides a web services interface to a user-populated cache of RSS feeds that developers can use and implement in their applications. Tucows initially developed Feedcache for internal use only, but really didn&#039;t see any good reason why such an excellent service should be kept under wraps. 
+blog 
+Music

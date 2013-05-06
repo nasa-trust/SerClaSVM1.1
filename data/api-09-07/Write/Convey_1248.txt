@@ -1,0 +1,5 @@
+Social media sentiment analysis service
+Convey
+Converseon is a social media analytics and strategy firm. One of their products is the Convey API that features sentiment analysis along with many other social intelligence features. It utilizes natural language processing, statistical modeling and machine learning techniques to return content-specific annotations. Supported annotations include: sentiment (polarity), emotion, intensity, spam and relevance. With the API, analysis can be conducted that includes searching, querying and relevancy, custom annotations, and continual training. It uses RESTful calls and responses are formatted in JSON.
+analytics emotion language NLP sentiment text 
+Social

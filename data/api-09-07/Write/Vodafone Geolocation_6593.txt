@@ -1,0 +1,5 @@
+Mobile geolocation widget
+Vodafone Geolocation
+The Geolocation API from Vodafone is part of a suite of JavaScript-based widget APIs that provide mobile web applications access to the underlying hardware. The Geolocation API provides access to the device&#039;s location, likely using GPS, cell towers or WiFi.
+geolocation gps mobile telephony 
+Telephony

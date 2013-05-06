@@ -1,0 +1,8 @@
+consumer 1
+create 1
+devices 1
+encode 1
+encoding 2
+mobile 2
+platform 1
+video 5

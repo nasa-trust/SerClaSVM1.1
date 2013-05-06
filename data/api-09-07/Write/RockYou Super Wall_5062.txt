@@ -1,0 +1,5 @@
+Platform for content sharing within Facebook
+RockYou Super Wall
+Note: RockYou gives minimal details on this API. Email developers@rockyou.com for details.
+deadpool social 
+Social

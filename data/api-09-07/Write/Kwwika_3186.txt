@@ -1,0 +1,5 @@
+Real-time push notifications and messaging service
+Kwwika
+Kwwika is a real-time push notification, messaging and data distribution service that lets you instantly push information to, and receive information from, any device connected to the Internet. Kwwika works with any web-enabled device - from a desktop computer to a refrigerator, a smartphone to a games console, a satelite to a television.
+realtime push javascript silverlight
+Internet

@@ -1,0 +1,6 @@
+Zip code lookup service
+ZIP Codes
+The ZIP Codes API from STANDS4 uses REST calls to enable you to get the US location behind the zip code in XML format. 
+
+address mapping postal reference 
+Reference

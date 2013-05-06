@@ -1,0 +1,7 @@
+Online project management and issue tracking
+Lighthouse
+Lighthouse is a service for collaborative projects. For small teams to a studio of 50, Lighthouse will help you keep track of your project development with ease.&quot; The Lighthouse API gives developers the tools to integrate their services to other sites and applications.
+
+Use the Lighthouse API to integrate your issue tracking tickets with Google Calendar or other applications. Access your tickets, milestones, projects, messages, and more.
+collaboration enterprise project-management tools 
+Project Management

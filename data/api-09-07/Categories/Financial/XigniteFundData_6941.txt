@@ -1,0 +1,16 @@
+asset 1
+classification 1
+detail 1
+enterprise 1
+example 1
+expense 1
+fact 2
+finance 3
+fund 3
+loads 1
+money 1
+performance 3
+ratio 1
+registration 1
+size 1
+statement 1

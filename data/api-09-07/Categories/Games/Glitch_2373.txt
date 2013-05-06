@@ -1,0 +1,12 @@
+call 1
+date 1
+expand 1
+extend 1
+format 1
+game 5
+glitch 3
+location 1
+player 1
+response 1
+skill 1
+times 1

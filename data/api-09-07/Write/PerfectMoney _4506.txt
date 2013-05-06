@@ -1,0 +1,5 @@
+Secure Payment Service
+PerfectMoney 
+PerfectMoney offers a secure money transfer service from p2p and from b2b. The PerfectMoney API allows users to interact with the PerfectMoney service programmatically using the REST protocol. The API allows users to check account history, balance, exchange rates, and e-voucher listings of the user&#039;s account. It also enables active uses such as spending calls and e-Voucher creation. 
+exchange money payment privacy trading transfer 
+Payment

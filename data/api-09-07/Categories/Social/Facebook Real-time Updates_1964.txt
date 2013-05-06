@@ -1,0 +1,11 @@
+create 1
+datum 1
+object 1
+page 1
+permission 1
+real 4
+respond 1
+social 2
+subscribe 1
+subscription 1
+update 4

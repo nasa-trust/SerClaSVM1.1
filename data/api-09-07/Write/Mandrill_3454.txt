@@ -1,0 +1,5 @@
+Email and email template service
+Mandrill
+Mandrill is an email application and email template service hosted by MailChimp. The Mandrill API allows developers to access and integrate the functionality of Mandrill with other applications and to create new applications. Some example API methods include managing account and user information, retrieving and sending messages, and sending templates.
+email templates 
+Email

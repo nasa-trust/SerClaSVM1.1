@@ -1,0 +1,11 @@
+US political data aggregated from multiple sources
+Drumbone
+From the site: &quot;Drumbone is a RESTful JSON API over data about legislators, bills, and roll call votes. Unlike the Sunlight Labs Congress API, all data is taken from existing APIs and data sources (especially GovTrack); there is no original data here.
+
+The name &quot;Drumbone&quot; is taken from the name of an instrument created from PVC pipes whose length can be adjusted as needed to create various sounds and music. Accordingly, the purpose of Drumbone is to pipe in data from disparate sources, and redistribute it in the simplest and most flexible format possible.
+
+Drumbone is designed to serve thin clients, and applications where bandwidth is at a premium. It was originally built to serve a mobile app, the Congress Android app), and a widget service, Sunlight&#039;s Politiwidgets. The idea is to give you all the information you need to fill in a user interface in one HTTP call. It is not meant to serve as a bulk data repository. Drumbone uses GovTrack for that, and so should you.
+
+Drumbone is written in Ruby, with the Sinatra framework, and uses MongoDB for data storage. The code for this service is available on Github.&quot;
+government 
+Government

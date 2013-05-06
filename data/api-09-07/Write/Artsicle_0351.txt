@@ -1,0 +1,7 @@
+Art discovery and rental service
+Artsicle
+Artsicle is a website that allows users to discover art and rent original art to display in their homes. Users take a short quiz to begin finding art they like.
+
+The Artsicle API allows developers to access data from Artsicle. The API methods supported are retrieving a list of all products in the database, images of products, information on the product, and a list of all artists included in the database.
+art deadpool rent 
+Other

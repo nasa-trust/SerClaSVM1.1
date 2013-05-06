@@ -1,0 +1,5 @@
+Web-to-Post service for sending letters
+PostalMethods
+PostalMethods provides a postal gateway service (SaaS) for sending letters and postcards. Use our flexible and well documented SOAP interface to send mail directly from your business applications. PostalMethods print, fold, insert, seal, stamp and ship your letter by snail mail. Suitable for businesses of every size. Offers lifetime free trial and high level free support for developers and users.
+enterprise letter mail office personalization postal 
+Messaging

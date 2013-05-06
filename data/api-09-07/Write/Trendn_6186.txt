@@ -1,0 +1,5 @@
+Web content aggregation and ranking service
+Trendn
+Trendn aggregates the most viral and socially-shared content on the web. This is done by assigning a ranking that is based on social engagement. Modes of engagement include sharing with friends, bookmarking an article, commenting on a blog post or clicking a link to read a news item. The API returns the content with the highest score for a given category passed in by the user. It uses HTTP calls and responses are formatted in JSON.
+aggregator deadpool social 
+Social

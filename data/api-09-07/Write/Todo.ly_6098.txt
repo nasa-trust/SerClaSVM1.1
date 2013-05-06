@@ -1,0 +1,8 @@
+To do list service
+Todo.ly
+The service provides online task management and to-do listing functions, with specification of task definitions, due dates, and reminders. Tasks can be arranged hierarchically, so subtasks link to a larger task of which they are part. Task displays and other functions can be filtered to select only particular subsets of those set up for a user.
+
+API methods support basic CRUD (create, retrieve, update, delete) functions to populate and modify to-do list items. Items can be described by task name, text description, start date and due date, priority, parent item (if any), etc. Methods also support filtering item lists based on item type, content, parent-child relationships, and other characteristics. 
+
+goals pim scheduling tasks todo 
+PIM

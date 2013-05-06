@@ -1,0 +1,5 @@
+Simple poll service
+Poll Everywhere
+Poll Everywhere provides &quot;instant audience feedback,&quot; no matter where you are. Create a poll and users can respond using a web browser, Twitter, or an SMS text message. The Poll Everywhere API provides access to just about everything except creating polls: retrieve a list of polls, get poll metadata (such as multiple choice), vote in the poll and access individual poll responses. The service is free for 30 responses, then plans start at $15 per month.
+polls utility 
+Utility

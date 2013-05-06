@@ -1,0 +1,6 @@
+Ecwid Store Information Lookup
+Ecwid Product
+Ecwid is an E-commerce solution, providing shopping carts and services for online stores. Ecwid also provides a RESTful API (only active for paid accounts) that allows developers to integrate some of Ecwid&#039;s services into other applications or websites. For users or developers who want to create applications for Ecwid but don&#039;t want to get a paid account, Ecwid provides a test store id (1003) to pass as a parameter, or contact Ecwid and they will provide access to an API test server.
+
+shopping 
+Shopping

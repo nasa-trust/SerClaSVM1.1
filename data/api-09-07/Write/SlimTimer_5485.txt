@@ -1,0 +1,6 @@
+Personal task timer
+SlimTimer
+From thier site: From the SLIMTIMER you can create tasks and even share them with your coworkers and those you report to. Time your work: Open the SLIMTIMER and click on a task to start the clock and click again when you're finished. If you've completed the task click the checkbox to mark it off. Close the browser when you're done.
+
+utility 
+Utility

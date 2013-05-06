@@ -1,0 +1,7 @@
+Email analytics service
+SendGrid Event
+SendGrid&#039;s cloud-based email helps keep emails out of spam folders, provides a cloud service that scales with email demands, and provides email analytics to track opens and clicks.
+
+The Event API uses hooks to send real-time notifications of email events such as click, open, bounce, delivered, dropped, spam report, etc. to a specified URL. It can be integrated with the SMTP API for notifications on other custom parameters used on an email campaign. The information collected on the log server can then be pulled and manipulated by the user. Data can also be received via HTTP POST for each event or a batch of events in JSON format.
+analytics email webhooks 
+Email

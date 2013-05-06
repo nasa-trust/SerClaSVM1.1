@@ -1,0 +1,5 @@
+Video advertising platform and network
+Brightroll
+BrightRoll is a video delivery platform and network. Its solutions are designed for advertisers and publishers to streamline their content delivery means. For advertisers, BrightRoll offers analytical tools and an extensive network of publishers to work with. Publishers can use the network to leverage their position with high-volume content creators. BrightRoll offers an API that exposes integrative functions. It is a RESTful API that can return XML or JSON-encoded data.
+advertising video 
+Video

@@ -1,0 +1,5 @@
+Australian business directory search service
+Sensis Business Search
+The Sensis Business Search API provides business listings from Yellow Pages and White Pages Australia. Third party digital developers, entrepreneurs and publishers can use the API to add business search functionality on their websites, mobile-sites and applications. The API provides access to a fully maintained and comprehensive collection of Australian local business listings, sourced from the Yellow Pages and White Pages Directories. The API uses RESTful calls and responses are formatted in JSON.
+Australia directory local places reference search 
+Reference

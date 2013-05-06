@@ -1,0 +1,5 @@
+Mobile video sharing
+Qik
+The Qik Platform Application Programming Interface enables anyone to integrate or build web, desktop, phone applications to take advantage of Qik&#039;s mobile video sharing platform. 
+mobile video 
+Video

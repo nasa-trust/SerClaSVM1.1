@@ -1,0 +1,7 @@
+Domain revenue generation service
+Fabulous
+Fabulous specializes in generating revenue through pay per click (PPC) links from the traffic that domains receive. The Fabulous.com API provides a tool to perform a limited set of features currently available via the Fabulous.com client admin suite. 
+
+It is intended for use by customers that want to make bulk changes to their account on an automated or semi-automated basis through their own software. As such, the API has been designed to support all the features of the client interface that are likely to be used in bulk situations. The Fabulous.com API allows users to perform a number of tasks, including: Register Domains, Renew Domains, Transfer Domains, Check Domain Availability, Manage your Domain Portfolio, Get Domain Info, Generate Revenue Reports, Unlock domains and set Auth codes, Set Nameservers, Push Domains. It uses RESTful calls and responses are formatted in XML.
+advertising 
+Advertising

@@ -1,0 +1,5 @@
+US Weather forecasts by city
+InnerGears Weather by City
+From their site: This Web service returns a detailed weather report of current conditions for any given city in the world. Simply enter a city name and instantly receive the city, state, country, today?s weather (e.g. sun rise, sun set, humidity, pressure, wind, etc.). Data is provided by the National Weather Service, a division of NOAA.
+deadpool weather 
+Weather

@@ -1,0 +1,5 @@
+Real-time measurement accumulates service
+MetriDyne
+MetriDyne is a database containing real-time measurements accumulates. For example, the Sevier River Water Users Association in Central Utah uses MetriDyne to collect and disseminate up-to-the-minute canal, river and reservoir information. The MetriDyne API allows authorized parties to query the MetriDyne database for data and metadata. The service provides categories, stations, sensors, intervals and webcams.
+reference science 
+Reference

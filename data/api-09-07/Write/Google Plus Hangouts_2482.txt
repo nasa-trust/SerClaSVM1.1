@@ -1,0 +1,5 @@
+Video chat
+Google Plus Hangouts
+Google+ Hangouts is a feature of Google Plus that lets users video chat in the same room as their friends while on the web. The Google+ Hangouts JavaScript API allows users to develop collaborative apps that run inside of a Google+ Hangout. Hangout apps are like normal web apps, but with the addition of the rich, real-time functionality provided by the Hangouts APIs. Apps have the ability to control aspects of the user interface, synchronize data between hangout participants, list hangout participants and respond to various events in the hangout. 
+chat social video 
+Chat

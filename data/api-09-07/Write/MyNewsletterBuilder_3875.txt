@@ -1,0 +1,7 @@
+Email marketing and delivery service
+MyNewsletterBuilder
+MyNewsletterBuilder delivers email marketing services for companies and individuals. Among the free services they offer are image hosting, multimedia streaming, online newsletter publishing, surveys, tracking tools, and data archiving. 
+    
+MyNewsletterBuilder&#039;s API gives users the ability to integrate all of the available services with their existing systems. Users can transfer data to and from their CRM, CMS, shopping carts, custom databases, and more. The API exposes functionality such as accessing and manipulating information about campaigns, generating lists of campaigns, getting base information and html or text content, accessing detailed campaign reports and more. The API uses RESTful or XML-RPC protocol and responses are formatted in XML, JSON and serialized PHP.
+email marketing 
+Email

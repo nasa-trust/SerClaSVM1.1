@@ -1,0 +1,7 @@
+Number reference service
+Numbers
+The Numbers API is a site to explore facts about numbers. Enter a number and receive a random fact, such as &quot;15 is the number of days in each of the 24 cycles of the Chinese calendar.&quot; In addition to viewing them on the site, the Numbers API is expected to be used programmatically. Send a request to the API and it returns a plain text string. Add a callback and that string is wrapped in a JSONP callback function.
+
+In addition to simple number facts, the site also allows developers to specify math facts about numbers, as well as &quot;on this date&quot; type of functionality.
+Math Random reference 
+Reference

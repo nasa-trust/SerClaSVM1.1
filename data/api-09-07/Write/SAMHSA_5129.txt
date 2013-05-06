@@ -1,0 +1,7 @@
+Substance abuse and mental health services
+SAMHSA
+The Substance Abuse and Mental Health Services Administration (SAMHSA) is a branch of the U.S. Department of Health and Human Services aimed at making substance abuse and mental health information and services more accessible, and more effectively translating research in these areas into the public health care system. SAMHSA provides datasets to the public via their Information Tools and use of online social media.
+
+SAMHSA uses the Socrata Open Data API to give developers access to some of their data. 
+government mental-health services substance-abuse 
+Government

@@ -1,0 +1,9 @@
+Mobile content service
+Orange Mobeasy Platform
+The Orange Instant Mobeasy Platform API optimizes user experience by allowing you to deliver custom mobile-friendly web pages to any mobile device. 
+
+The Mobeasy Platform transforms web pages, making them suitable for the destination device. Using the platform, developers can publish mobile-friendly web pages and adapt them to the intended mobile device, dynamically adapt the content of the pages, including pictures, and re-direct non-mobile users to the equivalent desktop version of the web page.
+
+Useful given the wide range of devices which are presently available on the mobile handset market.
+internet mobile telephony 
+Internet

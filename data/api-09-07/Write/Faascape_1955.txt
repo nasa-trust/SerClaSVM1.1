@@ -1,0 +1,5 @@
+API marketplace
+Faascape
+Faascape is a market place for applications in Saas and web services. The Faascape API is a suite of services offering access to the best features of other API suppliers. The suite includes API services for email, fax, phone, SMS, subscription management and data storage. The APIs use RESTful calls and responses are formatted in JSON. The site is in French.
+Apis marketplace saas services 
+Internet

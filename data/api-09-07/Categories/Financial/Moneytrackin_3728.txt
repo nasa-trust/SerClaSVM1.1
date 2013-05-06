@@ -1,0 +1,16 @@
+budget 1
+clear 1
+effort 1
+expense 2
+finance 3
+free 1
+income 1
+intend 1
+management 1
+simple 1
+situation 1
+thus 1
+tool 1
+track 1
+tracking 1
+view 1

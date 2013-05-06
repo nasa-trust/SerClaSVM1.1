@@ -1,0 +1,7 @@
+Job search tools
+JobGizmo
+JobGizmo is a service that offers job search tools. Users can bookmark their job searches, keep all of the information related to job searches in one place, and access it on both the web and a mobile application.
+
+The JobGizmo API allows developers to access information and the functionality from JobGizmo to create other applications. Some example API methods include adding users, editing user information, add and edit jobs, add and edit interview information, and manage contact information.
+employment jobs search 
+Job Search

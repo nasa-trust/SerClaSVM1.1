@@ -1,0 +1,5 @@
+Chinese postal code lookup service
+Chinese PostalCodeSearch
+This API lets users get the postal code of the matched city by specifying country name, city name and the matching mode of city name. The RESTful API only returns top 10 records containing a list of city names and their postal codes in XML format if not according to exact matching. 
+china postcode reference 
+Reference

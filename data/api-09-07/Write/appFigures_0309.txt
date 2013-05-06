@@ -1,0 +1,5 @@
+Sales Reporting and Analytics for iTunes Apps
+appFigures
+appFigures is a reporting platform for iPhone developers that automatically downloads and visualizes iTunes Connect sales data with App Store reviews and ranks for all of their apps. Developers can get detailed reports daily by email, view hourly rankings, and get translated reviews. The appFigures API allows for another way to interact with reports and account data. The API is available to all appFigures members, regardless of plan type. 
+analytics iPhone mobile money tools 
+Tools

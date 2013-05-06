@@ -1,0 +1,5 @@
+Currency exchange rates
+Xurrency
+Use the Xurrency API to obtain exchange rates. Use the data as an input in your app or let your app&#039;s users query the exchange rate. Use the SOAP option, the RSS option, or edit a URL to get currency conversion information.
+finance 
+Financial

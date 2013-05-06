@@ -1,0 +1,7 @@
+City of Toronto budget data service
+Toronto Budget Data
+Canadian development and design company Uproot, in conjunction with the City of Toronto, has developed a REST-based API for accessing and retrieving Toronto&#039;s budget data. Using this web service, anyone can take advantage of methods that expose the functionality to query a database containing Toronto&#039;s operational and capital budget data.
+
+Users can slice and dice the data as they please - operational data can be queried by department or expenditure/revenue types, while capital budget data can be looked up holistically or by any one of the 44 wards of Toronto. Additionally, there is a Toronto Wards KML Overlay for Google Maps that can be incorporated into applications or mashups. This API returns data in XML and JSON, and is available to use freely for any means.
+budget canada government Toronto 
+Government

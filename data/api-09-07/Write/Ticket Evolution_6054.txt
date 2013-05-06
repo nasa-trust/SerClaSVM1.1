@@ -1,0 +1,5 @@
+Secondary ticket sales software
+Ticket Evolution
+Ticket Evolution provides software solutions that enable ticket brokers to manage and sell tickets in the secondary ticket industry. Ticket Evolution has a RESTful API that lets users sell tickets from within their own website. Documentation is not available.
+events shopping tickets 
+Events

@@ -1,0 +1,5 @@
+Codebits Conference Information Tools
+Codebits
+The Codebits API allows developers and users to look up information about the SAPO Codebits event and look up information about users/speakers and talks at the event. The API can be called through HTTP GET and POST commands, and the requests return JSON or XML formatted responses. 
+eventsdeadpool 
+Events

@@ -1,0 +1,7 @@
+Hungarian zip code look-up service
+C6 Huzip
+The C6 Huzip API allows users to search for the zip code of any Hungarian city, or of a specific place or street. This service references the official code list issued by the Hungarian Post Co. Ltd. The C6 Huzip API is free, but users must apply for a license key.
+
+The site and all documentation is provided in Hungarian.
+address geo hungary location tools 
+Tools

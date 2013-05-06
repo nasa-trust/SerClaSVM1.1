@@ -1,0 +1,5 @@
+Geographic data and mapping service
+Infochimps Geo
+The Geo API suite includes mqueryultiple APIs that allow users to access millions of geographic data points that have been organized using one consistent, unified schema. Users can query by Latitude/Longitude/Radius, Bounding Box, QuadKey, or any valid return key (Wikipedia Page ID, FourSquare Venue ID). The APIs pull data from at least a dozen sources including Wikipedia, Foursquare, Zillow, American Community Survey and more. It uses RESTful calls and responses are formatted in JSON.
+display geo mapping places wiki 
+Mapping

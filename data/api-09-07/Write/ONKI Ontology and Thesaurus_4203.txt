@@ -1,0 +1,7 @@
+Finnish library thesaurus and ontology service
+ONKI Ontology and Thesaurus
+The service compiles concept ontologies, vocabularies, and thesauri from Finnish and international sources to aid cost-effective publishing on the Semantic Web. Such reference resources enable implementation of conceptual models and verbal taxonomies within a domain. Machine-processable statements of relations between concepts allow applications to present data from multiple sources in appropriate semantic context for user understanding.
+
+API methods support retrieval of ontology listings matching a search query term, providing a hierarchy of concepts including the term and others related semantically to it. Methods allow retrieval of related terms, terms with similar but narrower meaning, terms with similar but broader meaning, and groups of interrelated terms.
+finland reference taxonomy 
+Reference

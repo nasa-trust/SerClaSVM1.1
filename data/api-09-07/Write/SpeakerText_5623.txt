@@ -1,0 +1,7 @@
+Online transcription service
+SpeakerText
+SpeakerText is an online transcription service that provides transcription services for video and audio content. When the audio and video content is transcribed into text, it can be searched and shared.
+
+The SpeakerText API allows users to access SpeakerText functionality in other applications. The two API methods are posting content for transcription and retrieving the text transcript.
+audio tools Transcription video 
+Tools

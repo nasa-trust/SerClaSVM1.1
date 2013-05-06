@@ -1,0 +1,5 @@
+Website and tool monitoring platform
+LogicMonitor
+LogicMonitor is a monitoring service for all manner of web-based tools and products. Its dashboard can provide a simplified view of multiple IT troubleshooting operations with automated analysis and alert functions. Businesses can use it to make sure their websites, servers, apps, and more are operating smoothly and predict malfunctions before they disrupt normal operations. The LogicMonitor API exposes various information gathering and stack management functionalities. It allows developers to scale their monitoring operations with to their companies??? needs, as well as to download analytical data directly into their backend software.
+internet monitoring tools 
+Internet

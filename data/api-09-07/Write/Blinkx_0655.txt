@@ -1,0 +1,5 @@
+Video search service
+Blinkx
+NOTE: No public docs until you register. Use the blinkx search capabilities on your site. The blinkx repository is vast and has speech-to-text and visual analysis features.
+search video 
+Video

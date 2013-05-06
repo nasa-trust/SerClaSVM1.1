@@ -1,0 +1,9 @@
+Mobile device push notification service
+OpenMarket Push Notifications
+The service generates push notifications to mobile devices running under Apple, Android, and BlackBerry operating systems. It triggers messaging functions for applications registered with the OS providers to notify customers and others of events and activity related to their accounts. 
+
+API methods support creating and registering new push notification applications or updating existing ones to send messages either to individual devices or to groups of devices. Methods support distribution of messages and processing of receipts indicating message completion status. Separate methods are available for the three device OS options.
+
+
+messaging mobile notification push 
+Messaging

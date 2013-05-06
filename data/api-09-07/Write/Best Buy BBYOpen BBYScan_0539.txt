@@ -1,0 +1,7 @@
+eCommerce shopping services
+Best Buy BBYOpen BBYScan
+BBYOpen is Best Buy???s effort to open their sets of data. The data made available includes items being sold, company knowledge and services offered  in an effort to encourage developers to build relevant apps. BBYOpen offers new sources of data, access to BETA APIs, promotion of apps built using BBYOpen APIs, tools to help get started, and incentive models to reward developer work.
+
+The BBYScan API provides usage data on who is scanning QR codes, as well as when, where, and what is being scanned within Best Buy stores. The API uses RESTful calls and responses are formatted in XML,JSON and JSONP. Currently used to power internal Best Buy applications. In private beta with external developers.
+barcode qr shopping 
+Shopping

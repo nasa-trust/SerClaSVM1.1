@@ -1,0 +1,15 @@
+advisor 2
+business 1
+client 1
+company 1
+consultant 1
+details 1
+finance 5
+focus 1
+independent 1
+investing 1
+manage 1
+money 2
+platform 1
+second 1
+stocks 1

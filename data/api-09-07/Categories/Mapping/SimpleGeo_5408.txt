@@ -1,0 +1,7 @@
+create 1
+display 1
+location 3
+make 1
+mapping 2
+platform 1
+viewer 1

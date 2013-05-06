@@ -1,0 +1,13 @@
+american 1
+bible 4
+book 1
+chapter 1
+edition 1
+entire 1
+holy 1
+lookup 2
+make 1
+religion 1
+soap 1
+standard 1
+verse 1

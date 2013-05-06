@@ -1,0 +1,5 @@
+Search engine optimization services
+Wordpot
+The Wordpot.com API provides functions for generating keywords based on a search word or domain name. It will tell you the number of searches being done for a word on the Internet and provide suggestions on similar words. The API provides direct access to the Wordpot database so you can use Wordpot keyword data in your app.
+advertising search SEO tools utility 
+Internet

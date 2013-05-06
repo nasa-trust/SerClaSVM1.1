@@ -1,0 +1,5 @@
+Seismic hazard estimating service
+Vs30 map server
+Part of The National Seismic Hazard Mapping Project, this USGS map-based service supports online seismic analysis. Uses topographic slope as a proxy for average shear-velocity to estimate predictions of seismic site conditions across a region, including ground-motions following a global earthquake. Helps to predict earthquake hazards for a general location based on local conditions.
+earthquakes mapping visualization 
+Mapping

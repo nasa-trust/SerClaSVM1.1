@@ -1,0 +1,5 @@
+Presentation customization service
+SlideShare Player
+SlideShare is a platform for anyone to store, present and share their presentations. Users upload Powerpoint, Keynote or other presentation files to be converted into the Flash-based SlideShare viewer. With the SlideShare Player API, developers can write JavaScript to interact directly with the player. For example, developers can advance slides based on interaction outside the player, or time and pause the slides to a video playing alongside the SlideShare viewer.
+enterprise office 
+Office

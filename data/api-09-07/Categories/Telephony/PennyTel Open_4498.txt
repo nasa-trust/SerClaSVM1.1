@@ -1,0 +1,16 @@
+ani 1
+australia 3
+callback 1
+email 1
+fax 1
+mobile 2
+numbers 1
+open 1
+option 1
+phone 1
+provider 1
+share 1
+sm 2
+telephony 2
+voice 1
+voicemail 1

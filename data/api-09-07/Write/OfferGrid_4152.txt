@@ -1,0 +1,7 @@
+Deal distribution service
+OfferGrid
+OfferGrid.com is a location aware distribution network for deals. OfferGrid.com offers a platform for deal suppliers to connect with retailers and publishers. 
+
+The OfferGrid.com API allows developers to access the functionality of OfferGrid.com for integration with other applications and sites. Public documentation is not available; interested developers should sign up on the website or contact business@offergrid.com.
+coupons deals group india location places 
+Shopping

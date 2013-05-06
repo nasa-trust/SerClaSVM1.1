@@ -1,0 +1,9 @@
+artist 1
+build 1
+contain 1
+growing 1
+label 1
+music 3
+recording 1
+release 1
+submit 1

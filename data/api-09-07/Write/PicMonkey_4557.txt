@@ -1,0 +1,5 @@
+Online photo editing service
+PicMonkey
+PicMonkey is an online photo editing service from the makers of Picnik. The current API uses Picnik endpoints and is designed to be compatible with the Picnik API to help existing Picnik API partners. Functionality includes using PicMonkey to upload, edit and save user images. Public documentation is not currently available but interested developers should contact the provider at talk@picmonkey.com. 
+editing photo tools 
+Photos

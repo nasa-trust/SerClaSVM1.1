@@ -1,0 +1,5 @@
+Online email marketing service
+GraphicMail
+GraphicMail specializes in creating, distributing and managing email marketing campaigns. The GraphicMail API is a way for you to interact your customer database, CRM, CMS, or e-commerce shopping cart with your GraphicMail data. 
+email marketing 
+Email

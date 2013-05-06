@@ -1,0 +1,17 @@
+analysis 1
+business 3
+community 1
+documentation 1
+finding 1
+given 1
+local 4
+management 2
+monitor 1
+place 1
+presence 1
+recommendation 1
+reputation 3
+request 1
+review 2
+search 4
+sentiment 2

@@ -1,0 +1,5 @@
+Mobile Phone Status Service
+Telenor Status Push
+The Telenor SOAP-based Status Push API is one of the APIs related to the Telenor Service Gateway. The Status Push API allows developers to create applications that can see the status, busy or free, of mobile phones belonging to a network (business/corporation).
+mobile telephony 
+Telephony

@@ -1,0 +1,16 @@
+accept 1
+code 1
+embed 2
+format 1
+integrate 1
+ready 1
+record 1
+recorder 2
+recording 2
+response 1
+server 1
+snippet 1
+tool 1
+update 1
+video 5
+webcam 2

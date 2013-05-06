@@ -1,0 +1,5 @@
+Product feedback and discussion service
+QualityCentral
+QualityCentral provides a public method for dealing with issues regarding Embarcadero&#039;s products and services. Embarcadero Developer Network members can create bug reports and feature requests, view other members&#039; reports, and comment and vote on the reports most important to them. The QualityCentral API allows users to access all of these functions remotely using SOAP calls.
+customer-service enterprise 
+Enterprise

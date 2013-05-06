@@ -1,0 +1,5 @@
+New Zealand tourism information service
+Tourism New Zealand
+Tourism New Zealand???s website contains inspiring, up-to-date travel information about destinations, attractions, activities, and accommodations in New Zealand. The API makes the site&#039;s data available to users. This data includes accommodation listings, activity listings, transport listings, tour and sightseeing listings, travel seller listings and more. Interested developers should contact the provider for more information. 
+newzealand reference Tourism travel 
+Travel

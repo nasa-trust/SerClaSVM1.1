@@ -1,0 +1,16 @@
+character 3
+communicate 2
+discovery 1
+enjoy 1
+game 5
+get 2
+helix 2
+identity 1
+live 1
+one 1
+return 1
+server 1
+so 1
+steam 1
+twitter 1
+who 1

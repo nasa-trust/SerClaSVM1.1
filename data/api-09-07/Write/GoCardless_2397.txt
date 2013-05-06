@@ -1,0 +1,5 @@
+Online payments gateway
+GoCardless
+GoCardless is a service that lets users accept online payments. Users can get paid directly from their customers??? bank accounts without the need for a merchant account and without credit card fees. The API gives developers access to the same functionality as the service. With the API users can create subscriptions, pre authorizations and bills. In addition they can read existing resources and create bills under an existing pre authorization. The API uses RESTful calls and responses are formatted in JSON.
+ecommerce payment retail 
+Payment

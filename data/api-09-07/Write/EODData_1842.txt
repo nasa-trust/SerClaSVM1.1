@@ -1,0 +1,5 @@
+Stock market historical data
+EODData
+EODData is a provider of quality market data including stock quotes and historical charting data. Users can download up to 20 years worth of data, across a wide range of markets. Daily updates contain end of day quotes and intraday 1-minute bars. Platinum level partners can use the API which gives access to site data. This data includes exchange lists, symbol lists, historical data, splits, and more. In addition, the API lets developers create new users, setup usernames/passwords and give them access to specific exchanges. It uses SOAP protocol and responses are formatted in XML.
+financial market stocks 
+Financial

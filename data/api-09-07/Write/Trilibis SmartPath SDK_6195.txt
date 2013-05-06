@@ -1,0 +1,6 @@
+Mobile Publishing Platform SDK
+Trilibis SmartPath SDK
+The Trilibis SmartPath is a scalable cloud-based mobile publishing platform. Combining device detection and rendering technolog with UI building tools, the SmartPath SDK enables developers to create mobile web sites optimized for a variety of different mobile devices. The SDK itself supports both SOAP and REST protocol API&#039;s with its own back-end API integration while also supporting XML and JSON data formats. The development environment is java-based. 
+
+backend mobile telephony 
+Backend

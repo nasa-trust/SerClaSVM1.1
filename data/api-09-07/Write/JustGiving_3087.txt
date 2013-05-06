@@ -1,0 +1,9 @@
+Online charity fundraising tool
+JustGiving
+JustGiving&#039;s fundraising technology allows you to create a fundraising page and donate online. It focuses exclusively on charity donations and provides mobile and social media features.
+
+With JustGiving API, you can automatically create fundraising pages for your users, enable people to update their fundraising pages, display donation data (and other data) from fundraising pages, create accounts, retrieve the status of a donation, and query and share the search of 8,000 + charities registered on JustGiving.
+
+To enable you to create an application using the API you will need to sign up for a Application ID. Sign up at https://apimanagement.justgiving.com/signup
+charity donation payment 
+Payment

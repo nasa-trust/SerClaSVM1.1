@@ -1,0 +1,7 @@
+Private website creation service
+Totspot 
+Totspot is a service that allows parents to make private websites for their children and share the website with friends and family. The private websites allow for video and photo sharing, sharing milestones in the child&#039;s life, and other content related to their child&#039;s life.
+
+The Totspot API provides a way for developers to build applications and other functions on top of the Totspot website. Examples of data the API can call include timelines, photos, videos, and user information.
+deadpool family photo social video 
+Social

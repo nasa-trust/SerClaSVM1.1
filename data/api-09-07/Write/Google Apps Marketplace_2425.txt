@@ -1,0 +1,7 @@
+Integrate Google billing services with applications
+Google Apps Marketplace
+The Google Apps Marketplace billing and licensing APIs enable Marketplace applications to integrate with Google&#039;s billing services, providing customers with a consistent billing experience and centralized management of the billing for their web applications. 
+
+With the Marketplace billing and licensing APIs, users can: associate an application with a Google Checkout account to receive payments, turn some application extensions on or off to create different editions of a product, give buyers the choice of a variety of differently-priced subscription levels and more. The API uses RESTful protocol and responses are formatted in JSON.
+billing deadpool payment subscription 
+Payment

@@ -1,0 +1,5 @@
+Scottish business event information service
+Scottish Enterprise Events
+Scottish Enterprise offers business advice and support for Scotland&#039;s businesses in order to stimulate economic growth and improve the business environment. They also offer grants, loans, and equity investment to businesses looking to grow, develop, and export. Scottish Enterprise hosts frequent talks and workshops on business-related topics. The Scottish Enterprise Events API can be used to retrieve, create, or update event information.
+business enterprise events scotland 
+Events

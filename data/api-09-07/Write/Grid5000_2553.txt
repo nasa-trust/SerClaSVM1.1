@@ -1,0 +1,19 @@
+Computer science research group
+Grid5000
+Grid&#039;5000 is a scientific instrument for the study of large scale parallel and distributed systems. The suite of APIs was designed to ease scripting and provide better access to the grid functionalities. A description of the APIs follows:
+
+Metrology API: Provides the key metrics of the Grid&#039;5000 nodes: memory, cpu usage, bytes in, bytes out.
+
+Jobs API: Allows users to submit jobs on a Grid&#039;5000 site.
+
+Monitoring API: Provides the status of the Grid&#039;5000 nodes.
+
+Reference API: Provides the reference data of Grid&#039;5000 such as the list of sites, clusters, nodes, environment.
+
+Deployments API: Allows users to deploy a specific environment on Grid&#039;5000 nodes.
+
+Users API: Offers functionalities to manage Grid&#039;5000 user accounts.
+
+The API uses RESTful calls and responses are formatted in XML, JSON, PDF and HTML. Full documentation requires registration.
+research science 
+Other

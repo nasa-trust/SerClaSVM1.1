@@ -1,0 +1,5 @@
+Fungi genomics database and analysis service
+e-Fungi
+e-Fungi provides a database that integrates data on multiple fungal genomes, including 23 fungi and 2 oomycetes. It does so in such a way as to facilitate the systematic comparative study of those genomes, allowing less well understood species to be studied with reference to model organisms with more fully explored functional characteristics. It also offers information and search methods to help researchers conduct studies on the pathogenicity (the ability to cause disease in an animal or plant host) and evolution of fungal organisms.
+bioinformatics database genetics science 
+Science

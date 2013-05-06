@@ -1,0 +1,5 @@
+Drug Price Comparison Service
+GoodRx
+GoodRX.com provides price comparisons of prescription drugs, sourcing data from 70,000 pharmacies. The site offers both a Low Price API and a Price Comparison API. The GoodRX APIs uses HTTP calls to provide clients with the ability to get the latest pricing data on over 6,000 prescription medications. The service requires an API Key.
+comparison drugs shopping 
+Shopping

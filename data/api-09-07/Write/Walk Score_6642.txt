@@ -1,0 +1,5 @@
+Real estate walk score service
+Walk Score
+Walk Score calculates the walkability of an address based on the distance from a house to nearby amenities. The Walk Score API uses a RESTful interface and returns the Walk Score for any latitude and longitude in the U.S. in XML or JSON format.
+address location mapping realestate 
+Real Estate

@@ -1,0 +1,7 @@
+DNA sequence data repository service
+Biofab Data Access
+The service provides access to a repository of data collections documenting annotated parts, which are DNA sequences with a single known biological function. Datasets support local research while also promoting consistency across researchers. Datasets are or will be in compliance with the Synthetic Biology Open Language (SBOL) standard.
+
+API methods support retrieval of raw data listing annotated parts, as well as collections encompassing subsets of the total repository. Methods also allow retrieval of DNA sequence constructs and construct designs.
+biology deadpool medical research science 
+Science

@@ -1,0 +1,9 @@
+engine 1
+estate 2
+listing 1
+property 3
+real 2
+search 2
+spain 2
+uk 3
+vertical 1

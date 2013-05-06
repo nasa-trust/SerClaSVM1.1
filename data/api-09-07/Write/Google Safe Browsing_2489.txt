@@ -1,0 +1,5 @@
+Security service to verify URLs
+Google Safe Browsing
+From their site: The Safe Browsing API is an experimental API that enables client applications to check URLs against Google&#039;s constantly updated blacklists of suspected phishing and malware pages. Your client application can use the API to download an encrypted table for local, client-side lookups of URLs that you would like to check.
+security spam 
+Security

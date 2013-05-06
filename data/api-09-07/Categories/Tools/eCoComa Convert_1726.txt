@@ -1,0 +1,14 @@
+character 2
+chinese 2
+code 1
+conversion 2
+convert 6
+form 1
+may 2
+simplify 1
+style 1
+text 5
+tool 2
+type 1
+unix 1
+variety 1

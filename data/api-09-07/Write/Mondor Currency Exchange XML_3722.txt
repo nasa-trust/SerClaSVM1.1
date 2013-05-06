@@ -1,0 +1,7 @@
+Currency exchange rate conversion service
+Mondor Currency Exchange XML
+The service converts money amounts between different national currencies based on current exchange rates, updated every 20 minutes based on foreign exchange market transactions. Applications can use the service to display prices in multiple currencies and to book transactions at the right prices, as determined by international exchange rates. Users see accurate prices in the currencies they use, allowing easy comparison of purchasing options. 
+
+API methods support submission of an input value, specifying the currency in which it is denominated and the currency of the desired output value. The service converts the input value based on the current exchange rate between the two currencies and returns the correct output value.
+conversion currency financial 
+Financial

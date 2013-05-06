@@ -1,0 +1,7 @@
+Geolocation and place service
+Waytag
+Waytag is a geolocation service. Waytag allows users to create a &quot;waytag&quot; with the address and GPS coordinates for letting people know where they should meet. Individuals and businesses can create Waytags, and users can also search for Waytags.
+
+The Waytag API allows developers to access and integrate the functionality of Waytag with other applications and to create new applications. Public documentation is not available; interested developers should register here http://devzone.waytag.com for API access.
+geolocation gps mapping places social 
+Mapping

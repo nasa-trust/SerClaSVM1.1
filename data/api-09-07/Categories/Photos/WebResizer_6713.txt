@@ -1,0 +1,7 @@
+editing 1
+editor 2
+embed 1
+image 3
+photo 2
+tool 1
+widget 1

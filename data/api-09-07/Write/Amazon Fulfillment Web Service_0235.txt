@@ -1,0 +1,5 @@
+eCommerce fullfillment service
+Amazon Fulfillment Web Service
+Amazon Fulfillment Web Service (Amazon FWS) allows merchants to access Amazon.com&#039;s world-class fulfillment capabilities through a simple web services interface. Merchants can programmatically send order information to Amazon with instructions to physically fulfill customer orders on their behalf. 
+shopping 
+Shopping

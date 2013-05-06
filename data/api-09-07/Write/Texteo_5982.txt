@@ -1,0 +1,8 @@
+SMS text messaging service
+Texteo
+The service provides outbound and inbound SMS text messaging for integration with customer service applications and others requiring rapid basic communications. It generates messages in response to specific application events with ability to specify recipient and message, timing and frequency of messages, data formatting with variations for international markets, and related parameters. 
+
+API methods support designation of content of SMS text messages to be generated with links to application events that trigger those events. Methods enable designation of message recipient and data formatting to meet needs of the market where it will be delivered as well as the timing of messaging, including ability to schedule messages for later delivery. Methods also allow specification of response handling, including routing of incoming texts and overall reporting guidelines.
+Specification of response handling 
+france messaging sms telephony usa 
+Messaging

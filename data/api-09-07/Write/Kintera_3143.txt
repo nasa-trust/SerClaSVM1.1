@@ -1,0 +1,5 @@
+Fundraising and donor management
+Kintera
+Kintera Sphere software as a service technology platform and social CRM (Constituent Relationship Management) system enables organizations to quickly and easily reach more people, raise more money and run more efficiently. The API enables you to extend Kintera Sphere???s capabilities to build custom Kintera Connect Applications.
+nonprofit 
+Other

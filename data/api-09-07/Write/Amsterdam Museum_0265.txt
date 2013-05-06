@@ -1,0 +1,5 @@
+Museum collection online
+Amsterdam Museum
+The Amsterdam Museum is a museum of the history of the city of Amsterdam, Netherlands. The museum uses AdLib Information Systems for its online collections, which expose a number of photos, paintings, images of objects, and more. AdLib also provides an API which can be used to access this collection. The API is RESTful and returns responses in XML and JSON, as well as offering image retrieval. 
+amsterdam art collections deadpool museums 
+Education

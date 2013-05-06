@@ -1,0 +1,5 @@
+Shopping cart software
+AmeriCommerce
+AmeriCommerce is a hosted shopping cart software. It lets users manage multiple storefronts from a single admin console. Users can manage track what is happening across multiple sites or just a single site. It also lets users integrate their cart into larger ERP and accounting systems. AmeriCommerce exposes their entire platform via an XML API. With it users can update inventory remotely or from suppliers, automate the adding of products, customers and orders and more. Full documentation is not publicly available.
+ecommerce shopping 
+Shopping

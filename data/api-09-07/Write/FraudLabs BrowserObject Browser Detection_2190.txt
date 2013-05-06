@@ -1,0 +1,5 @@
+Browser information detection service
+FraudLabs BrowserObject Browser Detection
+The BrowserObject Browser Detection Web Service is a hosted, programmable XML Web Service that allows instant detection of online visitor&#039;s Web Browser information. FraudLabs develops, markets and supports a scoring system online for online credit card transactions. Users can provide BrowserObject with their visitor&#039;s Web Browser User Agent String and Browser Object Browser Detection Web Service will analyze and return the Web Browser information. The API uses SOAP protocol and responses are formatted in XML.
+internet security 
+Internet

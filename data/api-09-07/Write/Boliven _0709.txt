@@ -1,0 +1,7 @@
+Online repository of medical device information 
+Boliven 
+Boliven is an online repository that users can search to find information on medical devices and technology. Information included about medical devices include patents, publications, companies, clinical trials, and news releases for purposes of research and development, business development, and intellectual property issues.
+
+The Boliven API allows developers to access and integrate the functionality of Boliven with other applications and to create other applications. Some example API methods include searching and retrieving patent data, accessing publications and resources, and listing medical devices.
+medical patent reference 
+Medical

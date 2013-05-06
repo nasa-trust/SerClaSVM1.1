@@ -1,0 +1,13 @@
+association 1
+call 1
+datum 2
+forecast 1
+format 1
+index 1
+integrate 1
+japan 2
+pollen 1
+response 1
+umbrella 1
+uv 1
+weather 6

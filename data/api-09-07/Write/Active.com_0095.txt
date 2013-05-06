@@ -1,0 +1,5 @@
+Active lifestyle community database
+Active.com
+The Active.com API provides read-only access to data produced by systems within The Active Network. This includes things like running events, tennis tournaments, triathlons, high school sports ranking data, and campground availability data for 97% of the US and Canada&#039;s national and state/provincial parks. Several sites, including livestrong.com and ESPN, are active consumers of the API. All of the Active.com APIs are read-only and return public data.  As a result, no security measures (SSL, Oauth) are required. The API uses RESTful protocol and responses are formatted in XML.
+sports 
+Sports

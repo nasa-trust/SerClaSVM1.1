@@ -1,0 +1,5 @@
+Semantic Web subject identity resolution service
+Subj3ct
+Subj3ct is a new registry and clearinghouse service for Semantic Web subject identifiers. Subj3ct provides users with the capability to enable their web applications to define and exchange subject definitions. The Subj3ct API allows for users to access its online service for storing subject identifiers, identifier equivalences and links to resources on the web that contain more information about a subject.
+semantic 
+Other

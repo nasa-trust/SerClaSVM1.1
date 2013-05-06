@@ -1,0 +1,7 @@
+Online prayer service
+Prayer Planet
+Prayer Planet is an online community of people worldwide who commit to praying for each other&#039;s prayer lists. Users can create and share their prayer lists with the Prayer Planet community for constant prayer. Users can access Prayer Planet via mobile devices, IM, and on the web.
+
+The Prayer Planet API allows users to retrieve the most recent messages on Prayer Planet, access direct messages, retrieve user information, and add friends from Prayer Planet.
+religion social 
+Social

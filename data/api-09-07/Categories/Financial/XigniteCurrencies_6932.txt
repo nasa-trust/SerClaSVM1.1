@@ -1,0 +1,13 @@
+convert 1
+cross 1
+currency 6
+dollar 1
+enterprise 1
+exchange 2
+finance 2
+get 1
+integrate 1
+money 1
+rates 3
+real 3
+vice 1

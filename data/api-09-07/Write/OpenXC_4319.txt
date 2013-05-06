@@ -1,0 +1,7 @@
+Automobile performance information retrieval service
+OpenXC
+The service enables an Android smartphone to communicate with an installed hardware module to read performance measures from a car&#039;s internal control functions. Reports of the data can be integrated with Android applications to allow monitoring of the car&#039;s functioning. The operating data can also be integrated with other connected services. 
+
+API methods support communication with the hardware module, retrieval of data it collects, and management of reporting functions.
+auto mobile transportation 
+Transportation

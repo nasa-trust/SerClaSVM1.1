@@ -1,0 +1,5 @@
+Phone Number Verification Service
+Phoneify
+Phoneify is a service that provides Javascript widgets and an API for real-time phone verification of your customers & users. Verification is handled in several steps: a user enteres a phone number and receives a passcode, they receive a phone call/text later and must enter the correct passcode, if the passcode is correct the user is verified. Javascript Hooks can be used to immediately trigger events on the verification or failure of verification of a user (Since Javascript occurs client side, this method is discouraged due to security concerns; Direct API calls should be used instead).
+deadpool phone telephony verification 
+Telephony

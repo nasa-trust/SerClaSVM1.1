@@ -1,0 +1,5 @@
+Location based campaign creation and search
+Geotoko
+Geotoko is a platform that allows brands, businesses and agencies to create their own branded location-based promotions (e.g. sweepstakes, contests, give-aways) and to simultaneously publish them on multiple location-based services like foursquare, gowalla, facebook places, yelp, twitter etc. An API key is required for use. Users can search by location(latitude, longitude and radius) or by foursquare and gowalla IDs. This API (beta) provides access to Geotoko campaign data via HTTP requests and returns all data in JSON format. 
+advertising location 
+Advertising

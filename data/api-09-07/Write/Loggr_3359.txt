@@ -1,0 +1,7 @@
+Web application analytics service
+Loggr
+Loggr is a service that provides web application analytics. Loggr includes event logging, analytics, and notifications. The analytics and information are completely searchable for users.
+
+The Loggr API allows developers to access and integrate Loggr functionality and data into other applications. Some example API methods include searching and listing event logs, listing and creating events, listing and creating alerts, and listing and creating bookmarks of events.
+analysis analytics tools web-apps 
+Tools

@@ -1,0 +1,5 @@
+Web authentication service
+DuoFactor
+DuoFactor is a two-factor authentication product that creates a virtual network of partner businesses (their websites, or their software applications) and produces a pool of users who can access each of this network&#039;s nodes seamlessly. DuoFactor possesses a data repository that can be accessed by a set of RESTful web service methods or functions. The API can be used to integrate the service with web sites. Functionality includes login, getting user info and pairing users with their device.
+authentication internet security 
+Security

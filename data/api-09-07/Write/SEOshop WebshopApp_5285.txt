@@ -1,0 +1,5 @@
+Search engine optimized webshop service
+SEOshop WebshopApp
+SEOshop is a search engine optimized webshop service designed to take advantage of all legal SEO techniques. The WebshopApp enables developers to work with and customize their SEOshop. The WebshopApp API provides programmatic access to important store data such as orders, products, customers, categories, shipments, and brands, allowing them to be retrieved and modified as required.
+ecommerce retail SEO 
+Retail

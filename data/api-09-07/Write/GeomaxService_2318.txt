@@ -1,0 +1,5 @@
+Naturalis data retrieval service
+GeomaxService
+GeomaxService is a SOAP-based API for retrieving Naturalis-related information. Naturalis is the Netherlands Centre for Biodiversity. The GeomaxService API claims to retrieve taxonomy, chronology, and geology data related to Naturalis finds. This API is poorly documented and does not appear to be affiliated with Naturalis.
+biology geology science 
+Science

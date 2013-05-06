@@ -1,0 +1,12 @@
+bulk 3
+format 1
+gateway 1
+message 1
+messaging 3
+protocol 1
+response 1
+send 1
+sending 1
+sm 6
+soap 1
+telephony 1

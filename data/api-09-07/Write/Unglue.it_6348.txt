@@ -1,0 +1,5 @@
+Digital content relicensing service
+Unglue.it
+Unglue.It is a service, currently in alpha, that gives individuals and institutions a place to join together to free ebooks and other types of digital content by paying rights holders to relicense their works under Creative Commons licenses. Among other things this allows out of print books to be made available for consumption in a free and legal manner. Via the web site, users can discover books, add them to a personal wishlist, comment and share. Additionally users can pledge to support a campaign to fund relicensing of works. The API makes some of the data from the site available for developers to integrate into their applications. Full documentation for the REST/JSON API is available upon registration.
+books ebook publishing 
+Other

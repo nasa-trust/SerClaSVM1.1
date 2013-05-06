@@ -1,0 +1,16 @@
+choice 1
+forecast 1
+free 1
+get 1
+language 1
+live 2
+marine 5
+method 2
+programmer 1
+programming 1
+rest 2
+sail 1
+sailing 1
+surfing 1
+today 1
+weather 8

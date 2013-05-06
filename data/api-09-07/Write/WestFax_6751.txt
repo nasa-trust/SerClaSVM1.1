@@ -1,0 +1,7 @@
+Online faxing service
+WestFax
+The service accepts content input and generates fax messages either individually to specified numbers or broadcast to a list of numbers. It allows integration of faxing capability within applications as a user contact option. 
+
+API methods support submission of fax content, preview of the formatted fax, and sending the fax, either one at a time or as a broadcast. Methods also report status of sent faxes, either successful or unsuccessful.
+fax office 
+Fax

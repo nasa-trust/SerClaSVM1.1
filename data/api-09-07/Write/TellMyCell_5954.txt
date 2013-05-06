@@ -1,0 +1,7 @@
+SMS Messaging Service
+TellMyCell
+TellMyCell&#039;s enterprise-class SMS gateway is powerful enough to meet your organization&#039;s most demanding needs. Easy API integration to shared short code or your own dedicated short code.
+
+Two APIs are available, a REST API and a legacy HTTP API
+enterprise messaging sms telephony usa 
+Messaging

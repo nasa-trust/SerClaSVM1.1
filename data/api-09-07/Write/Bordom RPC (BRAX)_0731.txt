@@ -1,0 +1,7 @@
+Crowd-sourced strange news service
+Bordom RPC (BRAX)
+The service aggregates blog posts and other online content to generate a stream of curiosities, memes, strange news, and trivia. It aims to summarize and extend MetaWeblogAPI, BloggerAPI, MovableTypeAPI, and others by allowing users to rate content and delivering the most popular. 
+
+Methods provide summaries of content items grouped by channel. Data returned for each item include subject tags and ratings, along with user comments and favorites. The API also supports adding new items and updating existing ones.
+blogging news 
+Blogging

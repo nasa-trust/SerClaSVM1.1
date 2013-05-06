@@ -1,0 +1,5 @@
+Color palette generator
+Pictaculous
+Pictaculous is a color palette generator service from MailChimps. Users can upload PNG, GIF, or JPG image files and Pictaculous will analyze their colors to return a fitting scheme. Pictaculous&#039;s services can also be accessed from a mobile device. Their API accepts binary file data from the acceptable image format types and returns a JSON encoded hex of recommended colors as well as a URL of the received image. 
+color image tools 
+Tools

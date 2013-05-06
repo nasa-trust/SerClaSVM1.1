@@ -1,0 +1,5 @@
+Photo sharing and storage service
+Bums.se
+Bums.se is a Swedish site that lets users share photo albums with their friends. The API lets users retrieve and post information to the service. Functionality exposed includes creating and downloading albums, downloading and posting images, retrieving events and more. The API uses SOAP protocol and responses are formatted in XML. The site and documentation are in Swedish.
+photo social storage sweden 
+Photos

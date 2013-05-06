@@ -1,0 +1,2 @@
+game 3
+search 1

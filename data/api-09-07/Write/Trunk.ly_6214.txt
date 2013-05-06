@@ -1,0 +1,5 @@
+Bookmarking service based on social link sharing
+Trunk.ly
+By connecting into your social networks, Trunk.ly monitors and collects the links that you find interesting across the social web. More importantly, it indexes the web pages these links point to and builds a personal search engine, so you never have to tag or describe a link again, you just search and Trunk.ly will find it again for you. You can integrate with Trunk.ly using the API, which is currently in beta. It doesn&#039;t yet cover the full functionality of the main site, but it does provide enough functionality to extract and display links as well as add them directly.
+bookmarks 
+Bookmarks

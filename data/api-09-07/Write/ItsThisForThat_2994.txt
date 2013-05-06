@@ -1,0 +1,5 @@
+Random startup idea generator
+ItsThisForThat
+ItsThisForThat is a fun site that randomly generates ideas for startups. The API lets users integrate the service with their own applications. It uses RESTful calls and responses are formatted in JSON and TXT. 
+fun Random startups
+Other

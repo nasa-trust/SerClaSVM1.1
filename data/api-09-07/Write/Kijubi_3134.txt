@@ -1,0 +1,7 @@
+Activity marketplace service
+Kijubi
+Kijubi is a experience marketplace dedicated to aggregating and organizing things to do all over the US. Kijubi&#039;s search engine stores information on activities on the water, in the air, or on the ground from family fun to sightseeing to adrenaline and exotic adventures.
+
+Kijubi&#039;s API program enables developers to access Kijubi information in real-time, such as business listing info, overall business rating, and recent review excerpts and integrate them into their web site or mobile application. The API enables users to search for reviews by business type, neighborhood or geographical boundary as well as for a specific individual business. The API uses RESTful calls and responses are formatted in JSON and serialized PHP.
+activities adventure events fun travel 
+Travel

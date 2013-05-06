@@ -1,0 +1,5 @@
+Protein regulatory sequence accessibility analysis
+EMBL Structure Filter
+The EMBL Structure Filter API is useful for evaluating the locations of candidate short regulatory sequences in proteins which need to be accessible to interact with their ligand domains. To do so, it calculates an accessibility score, secondary structure score, and total score for each match of a regular expression in the query sequence provided by the user.
+bioinformatics science 
+Science

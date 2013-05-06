@@ -1,0 +1,7 @@
+Web-based application integration service
+M5 Connect
+M5 is a cloud-based enterprise-class phone systems company. The company replaces both the phone system and the telco provider providing customers with one invoice for all services.
+
+The API supports cloud and premise based applications. The API integrates business applications for M5 phone systems. It allows the developers to control or manage the phone systems from a remote location. The phone systems can be from third-party vendors.
+applications cloud telephony 
+Telephony

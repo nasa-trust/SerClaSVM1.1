@@ -1,0 +1,7 @@
+Marijuana dispensaries online communtiy
+Colorado Marijuana Dispensaries
+Colorado Marijuana Dispensaries is an online platform where users can share stories and rank them, as well as find other stories and topics that are interesting to them. Colorado Marijuana Dispensaries is powered by coRank, a ranking site platform.
+
+The Colorado Marijuana Dispensaries API allows developers to access and integrate data from the Colorado Marijuana Dispensaries coRank site. Some example API methods include searching for and retrieving stories and items, user profile information, and site categories. 
+colorado marijuana medicine 
+Other

@@ -1,0 +1,5 @@
+Email marketing campaign tracking service
+Murrion Software Track Email Opens
+Murrion Software specializes in developing smart web applications using PHP/Codeigniter & mySQL. The &#039;track_opens&#039; API will generate a unique image to place in your email marketing campaign to track user opens. Both unique and total user opens can be tracked. The API uses RESTful calls and responses are formatted in JSON.
+analytics email marketing 
+Email

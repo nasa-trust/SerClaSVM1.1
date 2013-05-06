@@ -1,0 +1,7 @@
+Solar images and data
+Virtual Solar Observatory
+The Virtual Solar Observatory (VSO) combines access to observations of the Sun, including images. Data files are included from all NASA solar-observing missions, as well as ground-based observatories. Searches can be conducted using instrument names, data type (e.g. &quot;magnetogram&quot;), time intervals, spectral range, event, and more.
+
+The API uses the SOAP protocol.
+astronomy government science 
+Science

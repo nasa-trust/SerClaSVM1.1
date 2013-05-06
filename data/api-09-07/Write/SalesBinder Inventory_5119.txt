@@ -1,0 +1,5 @@
+Inventory management platform
+SalesBinder Inventory
+SalesBinder is a cloud-based inventory management platform, empowering businesses of all sizes to improve data organization for inventory, customers, sales leads, estimates, and invoices. The SalesBinder API provides a RESTful interface for customers looking integrate their applications with the SalesBinder inventory management features.
+CRM enterprise Inventory invoices 
+Enterprise

@@ -1,0 +1,5 @@
+Library catalog and services
+NCSU Libraries CatalogWS
+The NCSU Libraries is a system of libraries supporting the community of North Carolina State University (NCSU). A RESTful API is provided, giving access to the Libraries&#039; catalog. Responses are returned in XML, RSS, and OpenSearch formats. 
+catalog database library reference 
+Reference

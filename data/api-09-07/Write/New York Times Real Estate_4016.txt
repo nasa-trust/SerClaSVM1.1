@@ -1,0 +1,5 @@
+Real estate listings and sale prices
+New York Times Real Estate
+With the New York Times Real Estate API, you can get percentiles and counts for real estate listings and sales in New York City. The API offers aggregate data divided into two sets: listings and actual sale prices. You can get the number (?counts?) of listings and sales per ZIP code, neighborhood and borough, for various building types and date ranges. You can also get percentile prices for listings and sales per ZIP code, neighborhood and borough, again for various building types and time periods. 
+money realestate 
+Real Estate

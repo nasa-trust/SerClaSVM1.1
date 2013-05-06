@@ -1,0 +1,7 @@
+Business entity data
+MyAvoxData
+MyAvoxData (MAD) is a service that provides access to business entity data including registered address, industry classifications, and immediate and ultimate parent. 
+
+The MAD API allows business entity information to be called via HTTP and responses are formatted in HTML, JSON, or as plain text.
+deadpool mapping places reference 
+Mapping

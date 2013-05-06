@@ -1,0 +1,7 @@
+Mobile phone product search service
+Mobile Phone Megastore
+Your application can use the Mobile Phone Megastore API to search for mobile phones. Partners and other developers can then publish this information on their websites.
+
+The main benefits of the mobile phone API Web Service is that you can access just the data you require without downloading the entire product database. This allows you to easily publish the data on your website needing to separately process the XML.
+mobile search shopping 
+Shopping

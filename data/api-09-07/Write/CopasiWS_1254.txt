@@ -1,0 +1,5 @@
+Biochemical system simulation service
+CopasiWS
+CopasiWS is a suite of APIs based on COPASI software for simulating biochemical systems. In addition to converting and validating files for use, users can find the steady state of a dynamic system or determine a system&#039;s trajectory. One API quantifies the effects of reaction rates on chemical concentrations, while others calculate the sensitivities of biochemical models and their responses to parameter changes. All CopasiWS APIs make use of the SOAP protocol.
+bioinformatics science 
+Science

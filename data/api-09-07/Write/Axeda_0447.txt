@@ -1,0 +1,5 @@
+Machine to machine application platform
+Axeda
+The Scripto API connects the Axeda Custom Object scripting engine, and a Web Service client. Using Scripto, users can code a script in the Groovy language, using the Axeda SDK and potentially mashing up results from other systems, all within the platform, and expose the script to an external consumer via a single, REST-based Web Service operation. The Axeda Platform enables users to build enterprise M2M applications for connected products, both wired and wireless. API responses can be formatted in XML, JSON or CSV.
+enterprise m2m wireless 
+Enterprise

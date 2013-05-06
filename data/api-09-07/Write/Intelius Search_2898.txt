@@ -1,0 +1,5 @@
+Public records database search
+Intelius Search
+Intelius is a predictive information commerce company. Clients may order background checks, criminal records, and more to assess the risks of potential relationships. Their Search API provides functionality for programmatic queries to their database. Developers may use it for apps and sites that provide services similar to Intelius. The API uses SOAP and WSDL.
+address database reference 
+Reference

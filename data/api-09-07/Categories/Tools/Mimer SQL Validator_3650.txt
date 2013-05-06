@@ -1,0 +1,14 @@
+call 1
+committee 1
+datum 1
+format 1
+mimer 2
+programmer 1
+public 1
+soap 1
+standard 2
+statement 3
+store 1
+tool 2
+validate 1
+validation 1

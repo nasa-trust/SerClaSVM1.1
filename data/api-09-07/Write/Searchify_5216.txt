@@ -1,0 +1,9 @@
+Hosted full-text search service
+Searchify
+Searchify is a hosted search engine that lets users add full-text search to their application, without configuring and hosting their own search infrastructure. Searchify allows users to tune their search results ranking using custom scoring functions. 
+
+Searchify also acts a drop-in replacement for existing IndexTank users.
+
+The REST API defines methods to manage indexes (create and delete), operate on them (add and delete documents, functions, etc), perform searches, etc. It uses HTTP and responses are formatted in JSON.
+fulltext indextank realtime search 
+Search

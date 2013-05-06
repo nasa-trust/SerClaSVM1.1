@@ -1,0 +1,7 @@
+Astronomy and physics data service
+Space Physics Interactive Data Resource
+The service provides access to historical data, images, and descriptive metadata about solar terrestrial physics. It is intended to enable generation of space environment models and forecasts describing solar flares and events plus other features of weather in space via unified web-based access to a distributed database network and Java middle-ware servers.
+
+API methods support retrieval of data and metadata, specified by format and date range. Methods also support image plotting with specification of parameters like image width and height, scale and data labels, colors, date range of data to plot, etc. 
+astronomy physics science weather 
+Science

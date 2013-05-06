@@ -1,0 +1,14 @@
+ad 1
+advertising 6
+datum 1
+example 1
+functionality 1
+generate 1
+integrate 1
+manage 2
+marketplace 1
+method 1
+mobile 4
+publisher 1
+revenue 1
+template 1

@@ -1,0 +1,5 @@
+Database of social entrepreneurs
+Social Entrepreneur
+The Social Entrepreneur API is an open database of information about social entrepreneurs who have won fellowships and awards from social enterprise funders. The tool allows users to find social entrepreneurs based on keyword, location, and more.
+social startups 
+Social

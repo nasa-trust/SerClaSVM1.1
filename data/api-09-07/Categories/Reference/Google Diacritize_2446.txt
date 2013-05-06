@@ -1,0 +1,16 @@
+aid 1
+arabic 1
+back 1
+google 2
+language 2
+marks 2
+native 1
+pronunciation 2
+reference 2
+same 1
+send 2
+speaker 1
+string 1
+support 1
+text 2
+tool 1

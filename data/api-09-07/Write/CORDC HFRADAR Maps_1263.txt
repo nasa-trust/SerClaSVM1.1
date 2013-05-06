@@ -1,0 +1,7 @@
+High-frequency radar imaging service
+CORDC HFRADAR Maps
+The service provides access to data for high-frequency radar (HFRADAR) vectors to be incorporated with mapping applications based on the Google Maps API. Data come from buoy sensors maintained by the U.S. National Oceanic and Atmospheric Administration (NOAA). The service provides access to input from this network, formatted to display on Google Maps.
+
+API methods support specification of location and time frame, along with many other variables relevant to displaying the data as map images. Specifications provide control of image zoom, opacity, and color scale, for example. Resulting images show conditions detected by weather radar at a wide range of resolutions for coastal locations monitored by NOAA.
+mapping science weather 
+Weather

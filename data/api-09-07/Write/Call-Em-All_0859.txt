@@ -1,0 +1,5 @@
+Automated phone calling system 
+Call-Em-All
+Call-em-all is a website that allows users to place automated phone calls or send texts. Call-Em-All offers the ability for developers to integrate the service into their applications. Access to the API is offered only for approved applications. The API uses SOAP protocol and responses are formatted in XML.
+messaging telephony 
+Telephony

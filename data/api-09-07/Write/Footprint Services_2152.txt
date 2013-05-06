@@ -1,0 +1,5 @@
+Astronomy observation database and visualization service
+Footprint Services
+Footprint Services provides users with the ability to search for the coverage of a specific astronomical survey, to find all observations referring to specific objects, to create formal descriptions of their own obser??vations, and to calculate the exact area of over??lapping fields. Users can also visualize the sky coverage of multiple surveys from different angles and in various projections. The Footprint Services can be accessed and controlled through their SOAP API.
+astronomy science visualization 
+Science

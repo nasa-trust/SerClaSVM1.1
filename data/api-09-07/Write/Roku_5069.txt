@@ -1,0 +1,7 @@
+Digital media streaming service
+Roku
+The service streams video from affiliated providers via wireless or wired network connections to television sets and other video display devices. Applications can establish public or private channels, paid or free of charge, to provide media content to end-user devices. The provider&#039;s SDK supports creation of code that, when uploaded to the service, will retrieve and display media resources.
+
+API methods support detection of device models, authentication of end users and account management, control of user interactions with the platform, and grouping of categories, episodes, etc. with navigation to desired content. Methods also support handling of media resources, including specification of playback formats and streaming from designated sources. 
+media movies television video 
+Media Search

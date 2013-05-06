@@ -1,0 +1,5 @@
+Online project management and issue tracking
+Lighthouse- dupe
+Lighthouse is a service for collaborative projects. For small teams to a studio of 50, Lighthouse will help you keep track of your project development with ease.&quot; The Lighthouse API gives developers the tools to integrate their services to other sites and applications.
+collaboration enterprise project-management tools 
+Project Management

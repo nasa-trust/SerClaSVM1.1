@@ -1,0 +1,12 @@
+Tamper evident and digital evidence ready data
+Kinamik Data Integrity 
+Kinamik&#039;s API enables tamper evidence to digital data in real-time.
+
+The API allows developers to create strong cryptographic digital signatures on granular data records as they are received ensuring data cannot be interested, modified or deleted without it being detectable.   
+
+The API handles any type of binary data including but not limited to audit log data, IMs, emails, files, digital audio and/or video surveillance feeds.  It pin points to any changed data whilst providing assurances of the rest of the data??s trustworthiness and ensuring its digital evidence readiness.  
+
+Public documentation is not available; interested developers should contact info@kinamik.com.
+
+authentication Data digital integrity security 
+Security

@@ -1,0 +1,5 @@
+Protein to nucleic acid back-translation service
+EMBOSS Backtranseq
+The EMBOSS Backtranseq API reads a protein sequence input by the user and then outputs the nucleic acid sequence that is most likely to have produced it. To determine the nucleic acid sequence, the API implements a codon usage table which gives the frequency of use of each codon for each amino acid. It then selects the most frequently occurring codon for each amino acid to be used in the output sequence. The API is available in both RESTful and SOAP forms and responses are formatted in XML.
+genetics science 
+Science

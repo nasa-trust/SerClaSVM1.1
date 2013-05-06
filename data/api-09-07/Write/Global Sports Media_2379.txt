@@ -1,0 +1,9 @@
+Worldwide sports information service
+Global Sports Media
+The service provides information for sporting events worldwide. With an emphasis on soccer, information also covers American football, baseball, basketball, ice hockey, golf, cricket, tennis, motor sports, and more. In addition to game scores and statistics, available are news and videos as well as betting odds.
+
+Methods support retrieval of results for games/matches, scoring updates for games/matches in progress, team and player information. Data for past seasons also can be retrieved.
+
+
+baseball football golf racing soccer sports 
+Sports

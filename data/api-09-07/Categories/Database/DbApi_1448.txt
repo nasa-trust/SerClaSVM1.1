@@ -1,0 +1,17 @@
+call 1
+collaborator 1
+credentials 1
+db 2
+execute 2
+format 1
+functionality 1
+http 1
+interface 1
+manage 1
+management 2
+query 5
+response 1
+sharing 1
+store 1
+template 1
+variable 1

@@ -1,0 +1,7 @@
+SPARQL query processing and translation service
+SPIN RDF
+The service provides application-level access to the provider&#039;s SPARQLMotion engine, which connects processing steps in sequence where one step generates output that becomes input to the next. Processing steps build queries in the SPARQL language to generate RDF graphs encoding data passed from step to step. Queries also perform actions to process result sets, construct RDF triples and modify RDF data sources.
+
+API methods support conversion between SPARQL query strings to SPIN (SPARQL Inferencing Format) RDF encoding, using either format as input and generating the other format.
+semantic utility 
+Utility

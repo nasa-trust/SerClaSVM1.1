@@ -1,0 +1,5 @@
+Software usage community service
+Wakoopa
+From their site: Wakoopa tracks what kind of software or games you use, and lets you create your own software profile. Use the Wakoopa API to access some of your data via XML. The following data is available: your most used software; your most recently used software; latest versions of your software; comments on your profile; reviews you&#039;ve written; your contacts on Wakoopa; and teams you are a member of.
+deadpool games social 
+Social

@@ -1,0 +1,12 @@
+dictionary 1
+feature 2
+internet 1
+number 1
+office 6
+program 1
+register 1
+research 6
+resource 1
+search 2
+soap 1
+thesaurus 1

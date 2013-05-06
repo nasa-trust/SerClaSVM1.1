@@ -1,0 +1,14 @@
+address 1
+city 1
+country 1
+day 1
+domain 1
+format 1
+internet 3
+ip 3
+like 1
+names 1
+pe 1
+provider 1
+query 1
+response 1

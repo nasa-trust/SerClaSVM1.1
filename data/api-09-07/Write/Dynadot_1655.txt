@@ -1,0 +1,5 @@
+Internet domain name lookup and registration services
+Dynadot
+The Dynadot API allows you to search for and register domain names programmatically. The API is only available to accounts that qualify for bulk pricing. For the Search feature, submit a URL and get a response of Yes or No about whether the domain is available. For the Register command, submit the domain name to register plus a duration, and then get a result of success or failure and an expiration date in unix time. You can also delete a domain that is still in the grace period.
+internet 
+Internet

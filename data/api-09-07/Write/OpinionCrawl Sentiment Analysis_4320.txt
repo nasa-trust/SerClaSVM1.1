@@ -1,0 +1,9 @@
+Web sentiment analysis
+OpinionCrawl Sentiment Analysis
+The OpinionCrawl Sentiment API allows client applications to assess sentiment on a Web page or a piece of text such as a blog comment. The API is deployed in a computing cloud.
+
+OpinionCrawl.com is an example of a site using the API. It allows visitors to assess Web sentiment on a subject - a person, an event, a company or product. Users can enter a subject and get a sentiment assessment of it. For each topic a pie chart expressing current real-time sentiment, a list of the latest news headlines, a few recent thumbnail images, and a tag cloud of key semantic concepts that the public associates with the subject are returned. Semantic Engines LLC develops products in the fields of information search and retrieval, text mining, semantic analysis, sentiment analysis, and contextual advertising.
+
+Users should contact the developers to inquire about a trial of the API. Public documentation is available on the API page.
+internet semantic sentiment 
+Internet

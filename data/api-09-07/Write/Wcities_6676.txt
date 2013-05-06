@@ -1,0 +1,5 @@
+Travel guide and information service
+Wcities
+Wcities provides up-to-date guides, information and local events for cities and travel destinations around the globe. Wcities offers an API that lets users query the site data and extract the desired XML files at any time. This allows for data on demand and can also be integrated with user web pages and other products. Real time APIs are available for the City Guide, Event Guide, and Movie Guide products. Full documentation is not publicly available.
+reference travel 
+Travel

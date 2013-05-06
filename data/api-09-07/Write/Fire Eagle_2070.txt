@@ -1,0 +1,5 @@
+Geo location sharing service
+Fire Eagle
+Note: This is in private beta as of March 2008. From their site: Fire Eagle is the secure and stylish way to share your location with sites and services online while giving you unprecedented control over your data and privacy. We&#039;re here to make the whole web respond to your location and help you to discover more about the world around you.
+location social 
+Social

@@ -1,0 +1,9 @@
+Customer engagement and loyalty promotion service
+LoyaltyToolkit
+The service provides discount coupons, product samples, surveys, and other tools to promote customer engagement and loyalty. Applications can integrate local customer databases with the service to track contents, premiums and promotions delivered, and redemption and other engagement behaviors by customers. 
+
+API methods support tracking of customers, customization of customer messaging, and related functions.
+
+
+customer loyalty marketing shopping 
+Shopping

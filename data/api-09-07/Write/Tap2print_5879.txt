@@ -1,0 +1,5 @@
+Photo apps monetization service
+Tap2print
+Tap2print is a service that lets developers connect their photo apps to a worldwide print and delivery network. Tap2print can be used to order photo products such as photo accordions, greeting cards, magnets and puzzles. The Tap2print API lets developers add an &quot;Order Print&quot; button to their app screen and connect to the service programmatically. The REST API supports all available platforms. Full documentation is not publicly available but is made available to platform developers on a case-by-case basis. 
+photo printing retail 
+Photos

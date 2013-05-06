@@ -1,0 +1,15 @@
+beacon 2
+client 1
+doe 1
+incorporate 1
+infrastructure 2
+message 1
+need 1
+poll 1
+push 3
+real 2
+send 1
+snippet 1
+so 1
+tool 2
+update 1

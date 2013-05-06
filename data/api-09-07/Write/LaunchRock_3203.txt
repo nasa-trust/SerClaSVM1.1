@@ -1,0 +1,5 @@
+Viral marketing for startups
+LaunchRock
+LaunchRock helps startups design attractive coming-soon webpages and social media campaigns. They also provide user management services and UX analytics for startups&#039; launch sites. Through their API, developers can access data culled from those sites, such as, user activity, traffic, and sharing. Their API servers are RESTful and respond in JSON. 
+advertising marketing social 
+Social

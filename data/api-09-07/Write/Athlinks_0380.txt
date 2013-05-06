@@ -1,0 +1,5 @@
+Endurance athlete race results service
+Athlinks
+The service compiles results of endurance races for access by the athletes themselves and others interested in the outcomes. It accumulates race completion times and other results by competitor and provides complete listings along with athlete profiles and social networking functions for interaction between them.
+entertainment sports athletes racing social
+Sports

@@ -1,0 +1,7 @@
+Multimedia messaging service
+Orange MMS
+The service pushes text, photos, other images, or videos to mobile phones in France via MMS technology. Also allows a receiving service to accept MMS messages from France and return a response. 
+
+API methods support either send or receive actions, including a subject line, accompanying text, and image file. The message can be assigned keywords and routed to a web application, email address, or both.
+media messaging MMS 
+Messaging

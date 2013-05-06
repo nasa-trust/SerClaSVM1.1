@@ -1,0 +1,7 @@
+Project management platform 
+Bunker App
+Bunker App is a project management platform designed specifically for freelancers. Freelancers can manage their various projects, create and send invoices to their clients, and organize all information related to their projects. 
+
+The Bunker App API allows developers to access the functionality of Bunker for integration with other services and applications. Some example API methods include searching and retrieving projects and project information, accessing client information, and creating invoices. 
+freelance invoicing project-management 
+Project Management

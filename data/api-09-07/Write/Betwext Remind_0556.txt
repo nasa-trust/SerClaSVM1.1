@@ -1,0 +1,9 @@
+SMS reminder service
+Betwext Remind
+Betwext is a SMS messaging company that provides users with a variety of SMS related features and services. 
+
+In addition to their Broadcast suite, which provides features for managing SMS campaigns, Betwext also provides their Remind service, which allows users to set up reminders via SMS. After setting a reminder, Betwext Remind will send a text back to you at the time you specify, complete with a personalized reminder message.
+
+Betwext Remind operates via REST, returning data in XML or JSON. There is are no charges for this free service, though users must register for an API Key and API Token for access.
+Global messaging reminder sms 
+Messaging

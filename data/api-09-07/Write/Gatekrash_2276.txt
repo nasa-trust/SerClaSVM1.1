@@ -1,0 +1,7 @@
+UK event listings service
+Gatekrash
+Gatekrash aggregates event listings in the UK by searching other websites. Gatekrash then collects the listings and provides filter and sort options. Events are grouped geographically, by venue or by other similarity.
+
+The Gatekrash API provides a RESTful interface to the Gatekrash event database. The API is currently free to use, with no rate limiting or authentication required, though considered to be in &quot;perpetual beta.&quot;
+events uk 
+Events

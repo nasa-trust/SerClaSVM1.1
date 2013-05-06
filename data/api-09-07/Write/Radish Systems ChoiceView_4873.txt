@@ -1,0 +1,5 @@
+Real time phone apps
+Radish Systems ChoiceView
+Radish Systems is the maker of ChoiceView a service that allows businesses to share visual information in real-time during smartphone conversations. The service  has the capability to send pictures, graphics, or text to users&#039; smartphones while they talk. With the ChoiceView API, developers can create a fully functional visual IVR and integrate it with live assistance or existing IVRs. The API is available in RESTful format, full documentation is not publicly available. 
+mobile realtime telephony 
+Telephony

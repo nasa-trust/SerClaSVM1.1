@@ -1,0 +1,7 @@
+Middle Eastern geocoding, mapping, and routing service
+FSO NAC
+The service converts address and location information into standardized National Area Codes (NACs). It generates mapping and routing data by NAC, and handles geocoding and reverse geocoding. 
+
+API methods support submission specifying a single location or parameters of an area. The API returns the appropriate National Area Code (NAC) for the location. Geocoding and reverse geocoding methods provide highly detailed information about features of a location or area within 24 developed countries, and less detail for other areas. Mapping and routing methods return specifications for displaying the location in standard mapping formats.
+geocoding mapping route 
+Mapping

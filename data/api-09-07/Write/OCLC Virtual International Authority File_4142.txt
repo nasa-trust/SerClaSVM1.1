@@ -1,0 +1,5 @@
+Library authority file service
+OCLC Virtual International Authority File
+The Virtual International Authority File is a project from the OCLC Office of Research which brings together authority data on accepted forms of author names and work titles from 16 different authority files in 14 libraries worldwide. The web service provides a way to search and retrieve authority records providing authoritative versions of author names, subject headings, and resource titles in a variety of formats.
+library metadata tagging 
+Tagging

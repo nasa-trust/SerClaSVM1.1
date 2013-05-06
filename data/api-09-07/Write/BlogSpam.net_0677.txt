@@ -1,0 +1,5 @@
+Detection for Blog & Forum SPAM
+BlogSpam.net
+BlogSpam.net is a real-time SPAM detection service for forum and blog comments. The service can identify many common types of SPAM and block comments containing SPAM. The BlogSpam API is an open source XML-RPC API that can be used to interface with any forum or blog service.
+blogging security social spam 
+Security

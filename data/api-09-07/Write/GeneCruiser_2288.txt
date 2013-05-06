@@ -1,0 +1,5 @@
+Genomic information database
+GeneCruiser
+GeneCruiser provides a single point of access to genomic information freely available from multiple public data sources. With GeneCruiser, users can find variations in genes or find the gene to which a variation is linked. Users can also convert genes to Affymetrix probe identifiers and use those identifiers to retrieve requested information. The GeneCruiser API allows users to access the GeneCruiser functionality from within their own applications.
+medical science 
+Medical

@@ -1,0 +1,5 @@
+Bible verse look-up service
+RestFul Web Services Bible
+The RestFul Web Services Bible API provides verse details for either the American Standard Version of the Bible or the King James Version of the Bible. This service can be accessed using either SOAP or REST calls in XML format. Both protocols issue calls to WSDL endpoints.
+bible reference religion 
+Reference

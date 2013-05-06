@@ -1,0 +1,17 @@
+browser 1
+content 3
+example 1
+functionality 1
+integrate 2
+loading 1
+manage 1
+method 1
+mobile 2
+platform 1
+player 3
+playing 1
+resize 1
+restore 1
+stopping 1
+variety 1
+video 11

@@ -1,0 +1,5 @@
+Forward and Reverse Geocoding Service
+EdisonAve Geocoder
+Provides both forward and reverse geocoding on a per-use cost. The service turns a latitude/longitude pair into a meaningful address or place name. An address or name can also be turned into coordinates.
+geocoding reverse-geocoding 
+Mapping

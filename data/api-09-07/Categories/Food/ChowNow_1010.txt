@@ -1,0 +1,17 @@
+create 2
+customer 1
+documentation 1
+food 4
+functionality 1
+here 1
+http 1
+integrate 1
+interest 1
+manage 1
+mobile 3
+order 2
+own 1
+public 1
+restaurant 4
+sign 1
+up 1

@@ -1,0 +1,17 @@
+category 1
+city 1
+embed 1
+event 8
+identifier 1
+latitude 1
+link 1
+local 1
+location 1
+longitude 1
+map 1
+mapping 1
+place 1
+response 1
+return 1
+search 2
+so 1

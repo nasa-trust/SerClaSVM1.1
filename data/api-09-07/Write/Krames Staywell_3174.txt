@@ -1,0 +1,7 @@
+Health information service
+Krames Staywell
+The service provides management of health information for defined populations such as employees of a company. It is intended to promote health and reduce medical costs and health care spending. Reductions in lost-time illness can also increase productivity. Available content includes news articles, background information documents, and streaming video on health-related topics.
+
+API methods support submission of content requests by topic organized within a hierarchical tree structure or by free-text search. Methods also allow content search and retrieval by descriptor from the Medical Subject Headings (MeSH) taxonomy. 
+health media medical 
+Medical

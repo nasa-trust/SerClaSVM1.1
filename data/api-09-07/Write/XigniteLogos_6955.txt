@@ -1,0 +1,5 @@
+Company logo service
+XigniteLogos
+This web service provides company logos for around 70% of companies listed on NASDAQ, NYSE, and AMEX.
+enterprise logos stocks 
+Financial

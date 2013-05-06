@@ -1,0 +1,5 @@
+Product listing service
+Google Shopping Content
+Google allows merchants to list their products for web searchers to be able to access on Google or via the Google Shopping Search API. The Google Shopping Content API helps merchants and those whose clients are merchants manage their product data programmatically. Using the API, developers can post new items, edit existing items, or delete items, so that your current inventory remains searchable.
+shopping 
+Shopping

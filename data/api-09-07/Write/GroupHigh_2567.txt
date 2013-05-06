@@ -1,0 +1,7 @@
+Blog Search and Meta Data
+GroupHigh
+GroupHigh is a blog outreach service for brands and companies to find relevant blogs and bloggers to reach out and promote their products and services to, as well as access blog content.
+
+The GroupHigh API allows developers to access and integrate the functionality of GroupHigh with other applications. Some example API methods include incorporating blog content into sites, searching blogs, and accessing blog metadata. Public documentation is not available; interested developers should sign up here: http://www.grouphigh.com/products/blog-search-api/ to find out more.
+blogs blogsearch search social 
+Blog Search

@@ -1,0 +1,9 @@
+SMS Text Messaging Service
+Orange SMS
+The Orange Instant SMS API is a service offered by Orange.  
+
+The Orange Instant SMS API could be used in any scenarios in which you need to send or receive text messages.
+
+Use this API to create your very own SMS application on the web and communicate with your end-user via SMS directly from your application.
+advertising france Global messaging sms telephony 
+Messaging

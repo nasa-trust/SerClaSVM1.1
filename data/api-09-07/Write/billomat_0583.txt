@@ -1,0 +1,5 @@
+Online billing service
+billomat
+Billomat is a web based billing service. It allows users to create offers and invoices and manage customers. The billomat API uses a RESTful interface that allows access to the data in a user&#039;s Billomat account. Developers can integrate online orders and desktop applications with their Billomat account. Responses are in XML or JSON format. The site and documentation is in German.
+billing enterprise germany invoicing 
+Financial

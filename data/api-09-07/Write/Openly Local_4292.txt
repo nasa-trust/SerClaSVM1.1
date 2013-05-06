@@ -1,0 +1,5 @@
+Government information tracking service
+Openly Local
+Openly Local is a project to develop an open and unified way of accessing Local Government information in the UK. Openly Local uses a REST based API that allows users to access information such as a list of local authorities, list of council members and forthcoming meetings. Data can be be returned as XML, JSON or RDFa.
+government semantic uk 
+Government

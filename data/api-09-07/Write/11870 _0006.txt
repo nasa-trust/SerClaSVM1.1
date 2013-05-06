@@ -1,0 +1,9 @@
+Spanish bookmarking and directory service
+11870 
+Spanish-language service headquartered in Madrid provides bookmarking and networking directory functions. Entries may include customer reviews and suggestions. 
+
+API methods support search against a bookmark list, updating site listings, user data and check-ins, activity streams, and related functions. Also handles associated special deal offers and multimedia display elements.
+
+
+bookmarks directory search spain Spanish 
+Search

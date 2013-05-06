@@ -1,0 +1,5 @@
+Java-related blog agreggation service
+java.blogs
+Java.blogs is a group aggregation site for blogs that regularly discuss Java technology. Users can easily sign up and add their own blog to the site&#039;s feed. The java.blogs API allows users to search the website and to notify java.blogs that their blog has updated using XML-RPC calls.
+blogging code programming 
+Blogging

@@ -1,0 +1,9 @@
+achieve 1
+commons 2
+content 1
+describe 1
+image 1
+photo 3
+precision 1
+search 3
+vocabulary 1

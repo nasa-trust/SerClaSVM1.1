@@ -1,0 +1,7 @@
+Email encryption services
+Sendinc REST
+Sendinc offers web based email encryption services. With Sendinc users can compose and send encrypted email messages using their own email address. Recipients can then view messages by clicking on a link in a secure email sent to them and logging in with their own Sendinc account. 
+
+Sendinc???s API provides a simple way to integrate secure email into web and software applications. The Sendinc REST API enables developers to easily interact with the Sendinc service via third-party applications. The API uses RESTful calls and responses are formatted in XML and JSON.
+email encryption security 
+Email

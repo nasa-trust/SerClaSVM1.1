@@ -1,0 +1,5 @@
+Music sharing service
+Musicplayr
+Musicplayr is a bookmarking app for users??? favorite music from around the Internet. The app allows users to compile playlists of links to websites like SoundCloud, YouTube, and Vimeo. Users can either copy and paste links into their playlists, or add them via a bookmarklet while browsing the web. They can also follow other users??? playlists and activity. The API exposes some of data stored within the service. This data includes user profiles, track lists, and timelines. It uses RESTful calls and responses are formatted in XML, JSON, and PHP.
+music organization sharing 
+Music

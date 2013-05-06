@@ -1,0 +1,17 @@
+Web form creation software
+PerfectForms
+PerfectForms is a software application for creating and deploying web-based solutions to manage workflow and streamline collaborative processes. It uses a drag and drop interface that allows users to build web forms. PerfectForms API allows third party applications to pass data into PerfectForms or extract data from it. They can query and modify account-wide data programmatically and invisibly. The most common uses for the API are:
+
+* creating a new form instance and populating fields with data
+* updating existing form fields
+* deleting a form instance
+* reading data from an existing form instance.
+
+PerfectForms has three different API types:
+* Account API - Query and modify account-wide data. 
+* Form API - Query and modify form-specific data. Each published form has a dedicated service to read data from and write data to PerfectForms form instances.
+* Portal API - Query user-specific data such as lists of viewable forms or pending notifications. This enables developers to create their own web portal where users can log in and view forms, reports and notifications.
+
+The API uses SOAP protocol and responses are formatted in XML.
+forms office 
+Office

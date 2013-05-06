@@ -1,0 +1,5 @@
+Email and URL validation tool
+ArchiDev Validator
+ArchiDev Validator is a simple API that lets users validate both email addresses and URLs. This free API uses HTTP calls and responses are formatted in JSON. Sample code is provided in Java, Ruby, Python, PHP and Objective-C.
+email tools validation 
+Tools

@@ -1,0 +1,5 @@
+Social search and recommendation service
+Heystaks
+HeyStaks is a social search service that plugs in to Google, Bing, and Yahoo! to bring users more relevant results as they search. These results can be recommended to future searchers with similar queries, leading to a more personalized Web search experience. With the HeyStaks API, developers can integrate these community-curated stores of relevant pages into their applications and websites. The API allows developers to allow their users to contribute pages to staks and build their own stores of search knowledge, which can be distributed across the HeyStaks app ecosystem. Exposed functionality includes returning a User&#039;s information, returning the list of Staks that a User is a member of, and returning a User&#039;s list of buddies. The API uses RESTful calls and responses are formatted in XML and JSON.
+recommendation search social 
+Search

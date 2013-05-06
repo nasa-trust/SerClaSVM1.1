@@ -1,0 +1,5 @@
+Word document to PDF file conversion service
+ConvertAPI Word2PDF
+Word2PDF lets developers create a PDF file of a Word document. The ConvertAPI Word2PDF API is a pay-per-credit API. Developers can manipulate many different settings: orientation, page size, margins, cover pages, and more can be set with the Word2PDF API. Pricing begins at $15 for 1,000 calls. 
+conversion doc pdf tools 
+Tools

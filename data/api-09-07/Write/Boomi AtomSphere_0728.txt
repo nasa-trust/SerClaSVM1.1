@@ -1,0 +1,5 @@
+Application integration platform
+Boomi AtomSphere
+Boomi is a provider of on-demand integration technology. It&#039;s AtomSphere product is a Platform as a Service that lets users connect applications in the cloud with applications on-premise in any combination. With the service, users can build, deploy and manage connections directly from the web. The AtomSphere API adds programmatic access to functionality that is otherwise accessed through the service interface. Functionality includes deployment and execution of processes, generating widgets, listing widgets and more. The API uses both REST and SOAP and responses are formatted in XML.
+applications cloud internet 
+Internet

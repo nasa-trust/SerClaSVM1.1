@@ -1,0 +1,5 @@
+Multimedia platform
+Lipfeed.com
+Lipfeed.com is a multimedia website with media in the form of written words, games and videos. Users can read articles/blogs by authors, play flash games, and search and watch videos from major video sharing websites advertising media such as ?Youtube, Blip.tv, Vimeo and Livevideo? at the same time without having to press the back button. The Lipfeed.com API enables users to create delete and edit advertisements from their own website. The API uses RESTful protocol and responses are formatted in XML. 
+advertising social video 
+Advertising

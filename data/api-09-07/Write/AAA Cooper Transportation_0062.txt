@@ -1,0 +1,5 @@
+Trucking and shipping services
+AAA Cooper Transportation
+AAA Cooper Transportation (ACT) is a trucking firm serving 12 southeastern states and Puerto Rico plus the industrial areas of Chicago, Cincinnati, Louisville and Minneapolis. ACT has 81 terminals in the Southeast to allow customers to receive next day and two day service between points. ACT offers a suite of SOAP APIs that allows developers to access transit data. The services are described below:
+trucking shipping
+Shipping

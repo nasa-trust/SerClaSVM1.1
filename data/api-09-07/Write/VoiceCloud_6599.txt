@@ -1,0 +1,7 @@
+Cloud based voice services
+VoiceCloud
+VoiceCloud is a leading cloud based voice services provider. The VoiceCloud technology converts user voicemails to text and delivers them via email and/or text message. The VoiceCloud API exposes the functionality of the platform for developers to use in their own applications. With the API users can send audio in mp3 or wav format to the service and receive text back. The API uses RESTful calls and responses are formatted in XML.
+
+
+cloud conversion text tools Voice 
+Tools

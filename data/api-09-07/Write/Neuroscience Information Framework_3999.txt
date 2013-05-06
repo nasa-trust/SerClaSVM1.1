@@ -1,0 +1,5 @@
+Neuroscience resource inventory
+Neuroscience Information Framework
+The Neuroscience Information Framework (NIF) is a dynamic inventory of web-based neuroscience data, materials, and tools. A unique feature of the NIF is its ability to issue direct queries against multiple databases simultaneously. Its methodology allows it to retrieve content that is largely hidden from traditional search engines. The NIF allows users to search for resources that match a given keyword or concept via REST-based APIs.
+medical science 
+Science

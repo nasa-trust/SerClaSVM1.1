@@ -1,0 +1,5 @@
+Spelling correction service
+WebLib PolySpell
+WebLib offers web search and knowledge discovery tools. Their solutions are used by healthcare organizations, universities, libraries and research organizations. PolySpell is a spelling correction system incorporating an English language spell checker, medical spell checker, scientific spell checker and a web spell checker. The service can be accessed via a web service API, full documentation is not publicly available.
+spelling tools 
+Tools

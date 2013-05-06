@@ -1,0 +1,10 @@
+Email marketing service
+Sendloop
+Sendloop is an email marketing and list management service designed for small businesses. Key features include integration with major services and platforms, analysis and reporting, and a full featured API for developers.
+
+The Sendloop API makes integration of Sendloop with third party applications and websites possible. With the help of Sendloop API, you can get your data from Sendloop without visiting the Sendloop user interface.
+You can gather your data from Sendloop API, populate and use it in your own systems. There are endless possibilities about things you can do with the Sendloop API. You can develop a desktop application, mobile application, websites, etc.
+
+
+email marketing sbweb 
+Email

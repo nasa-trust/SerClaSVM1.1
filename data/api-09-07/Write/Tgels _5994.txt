@@ -1,0 +1,7 @@
+White-label airfare search and comparison service
+Tgels 
+The service searches across multiple flight booking sites and aggregates (gels) published information about special travel deals. It generates listings of flight options and last-minute airfare deals, with related information on package deals, hotel prices, etc. 
+
+API methods support listings of flight options, as well as creating and deleting flight deal packages. Requests specify originating and destination airports, date range, and other parameters. Returned data include matching combinations from multiple airlines.
+airlines reservations search travel 
+Travel

@@ -1,0 +1,5 @@
+U.S. campaign finance data
+New York Times Campaign Finance
+The New York Times Campaign Finance API lets you retrieve contribution and expenditure data from United States Federal Election Commission filings. The NY Times team have taken public campaign finance data and created a useful data set that answers the most frequently asked campaign finance questions.
+finance government news politics reference 
+Government

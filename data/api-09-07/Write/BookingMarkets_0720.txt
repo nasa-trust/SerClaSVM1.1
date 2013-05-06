@@ -1,0 +1,7 @@
+Travel web site platform
+BookingMarkets
+BookingMarkets provides users with a travel site or a network of contacts, a platform to build, launch, and monetize a white-labeled marketplace of hotels, hostels, b&bs, or vacation rentals. Clients make commissions on all bookings they receive in their marketplace and other marketplaces of the BookingMarkets network.
+
+The BookingMarkets APIs allow a user application to interact with the sites powered by BookingMarkets. An application can provide many custom interfaces, functionalities, and specialized operations across any device. The API can be used in conjunction with the referral program to earn commissions on the bookings made by referred users. The API uses RESTful calls and responses are formatted in XML and JSON.
+internet travel 
+Travel

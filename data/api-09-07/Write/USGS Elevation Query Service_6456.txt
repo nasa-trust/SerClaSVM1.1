@@ -1,0 +1,5 @@
+Determine elevation based on latitude and longitude
+USGS Elevation Query Service
+From the US Geological Survey: The Elevation Query Web Service returns the elevation in feet or meters for a specific latitude/longitude point from the USGS Seamless Elevation data sets hosted at USGS/EROS. The elevation values returned default to the best-available (highest resolution) data source available at the specified point. Alternately, this service may return the value from a specified data source, or from all data sources. If unable to find data at the requested point, this services returns an extremely large, negative value. 
+geography geotagging government location mapping 
+Mapping

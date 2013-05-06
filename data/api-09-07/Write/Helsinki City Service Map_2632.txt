@@ -1,0 +1,5 @@
+City services maps
+Helsinki City Service Map
+The Helsinki City Service Map API provides service points (schools, daycare places, etc.) for the city of Helsinki, Finland. Service points include: education; health services; social and family services; culture and leisure; technical services and city environment; financial, planning, and administrative services; Rescue Department services; State services; and tourism & events. A RESTful API is available to access this data in JSON and XML formats.
+finland government mapping 
+Mapping

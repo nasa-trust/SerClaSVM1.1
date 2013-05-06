@@ -1,0 +1,11 @@
+Search marketing preference services
+Data8 Preference Services
+Data8 is the UK&#039;s premier data solutions provider with a range of data cleansing, postcode lookup and data validation services to ultimately improve the way businesses communicate with their customers.
+
+Data8 offers a suite of services that can be used to search the various preference services made available by the Direct MArketing Association (DMA). The Telephone Preference Service (TPS) Web Service checks in real-time if a number is registered with the TPS, allowing users to screen against the TPS just moments before placing a call.
+
+The Corporate Telephone Preference Service (CTPS) Web Service checks in real-time if a number is registered with the CTPS; this is necessary when placing an unsolicited sales call into a company.
+
+We also have a Mailing Preference Service (MPS) web service that checks in real-time if a person is registered with the MPS, allowing users to screen against the MPS just moments before printing a mailing. All services use SOAP protocol and responses are formatted in XML.
+marketing phone telephony uk 
+Telephony

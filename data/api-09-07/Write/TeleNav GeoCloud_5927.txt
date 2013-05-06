@@ -1,0 +1,7 @@
+Location based service integration
+TeleNav GeoCloud
+The TeleNav GeoCloud API provides a RESTful interface to the TeleNav Cloud for Location Based Services including geocoding, maps, routing, local search and TeleNav Client integration.
+
+Developers can integrate TeleNav GeoCloud using RESTful calls, SOAP, or JavaScript, and responses will be returned in XML or JSON accordingly. 
+geocoding location mapping 
+Mapping

@@ -1,0 +1,10 @@
+daily 1
+datum 1
+deal 3
+feature 1
+flash 1
+format 1
+give 1
+interface 1
+return 1
+shopping 3

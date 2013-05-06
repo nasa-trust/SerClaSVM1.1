@@ -1,0 +1,5 @@
+French online classifieds service
+VenteParfaite
+VenteParfaite is a free classifieds site that allows sellers to sell at the best prices. VenteParfaite has established a public API allowing users to search the database and publish ads. The API can be used to create web applications, software or mobile phone. The API uses a RESTful interface and responses can be formatted in either XML, JSON or Plist. The site and documentation are in French.
+classifieds deadpool france shopping 
+Shopping

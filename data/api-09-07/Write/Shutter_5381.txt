@@ -1,0 +1,5 @@
+Photo and video sharing service
+Shutter
+The Shutter is a free web service to enjoy photos and videos and share them on Twitter. Development is done by volunteers. An API is included that allows users to upload videos and images to Shutter from their web site or applications. The API uses RESTful calls and responses are formatted in XML and JSON. The site and documentation are in Japanese.
+japan photo sharing social video 
+Photos

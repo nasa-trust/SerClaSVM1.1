@@ -1,0 +1,5 @@
+Workforce optimization and management software
+ADI Time
+ADI Time offers a suite of workforce optimization and management software. The suite includes software for scheduling, time cards, absence management, payroll, compliance and more. The ADI Time API lets users access their organization&#039;s time and attendance data. With the API, developers can customize and extend their ADI solution to their own specifications. The API uses HTTP and SOAP calls and responses are formatted in XML.
+management office Optimization 
+Office

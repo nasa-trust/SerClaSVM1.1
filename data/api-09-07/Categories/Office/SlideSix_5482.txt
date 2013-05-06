@@ -1,0 +1,14 @@
+audio 1
+create 1
+direct 1
+import 1
+material 1
+message 1
+multimedia 1
+narrate 1
+office 2
+personalize 1
+presentation 5
+sharing 2
+slide 1
+video 1

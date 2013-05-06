@@ -1,0 +1,9 @@
+Server log management service
+Papertrail
+Papertrail provides hosted log management for servers, apps, and cloud services. Papertrail helps detect, resolve, and avoid infrastructure problems using log messages.
+
+The Papertrail search API lets developers integrate realtime log access and log search into their apps.
+
+API consumers can make HTTP requests to Papertrail to search for or see (tail) recent syslog and app log messages. Responses are formatted in JSON. Apps can also receive push notifications with new events using HTTP callbacks (webhooks).
+internet logging monitoring webhooks 
+Internet

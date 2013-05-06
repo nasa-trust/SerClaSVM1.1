@@ -1,0 +1,5 @@
+Russian social network
+Odnoklassniki
+Odnoklassniki is a Russian social network to reconnect with friends and play games. The Odnoklassniki API provides developers with the ability to include their applications within the frame of the site. The applications, with authentication, have access to user data and friend lists. The service also includes JavaScript and ActionScript APIs to access basic features like invites and notifications.
+russia social 
+Social

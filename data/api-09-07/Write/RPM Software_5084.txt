@@ -1,0 +1,5 @@
+Process management software
+RPM Software
+RPM Software develops and delivers enterprise class commission and channel management solutions for the telecommunications industry. The API is used to integrate RPM with other systems. With the API developers can pull information on users, accounts, customers and more. The API uses RESTful calls and responses are formatted in JSON.
+CRM enterprise 
+Enterprise

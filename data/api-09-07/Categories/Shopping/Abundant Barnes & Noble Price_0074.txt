@@ -1,0 +1,14 @@
+barn 3
+book 5
+cost 1
+determine 1
+dollar 1
+given 2
+noble 3
+price 3
+purchase 1
+retail 1
+retrieval 1
+return 1
+shopping 2
+value 1

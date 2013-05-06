@@ -1,0 +1,5 @@
+Population search
+Idescat
+The Population search API provides information on the population by sex for any territorial entity in Catalonia. It features a RESTful interface and returns data in XML, JSON, PHP, or TXT.
+Catalonia demographics search spain 
+Search

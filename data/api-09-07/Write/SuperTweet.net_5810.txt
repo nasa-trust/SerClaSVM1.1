@@ -1,0 +1,5 @@
+Access to Twitter API without OAuth
+SuperTweet.net
+The SuperTweet.net API provides a means to take advantage of Twitter&#039;s OAuth authentication technology without the cost and complexity of OAuth in your simple tweeting applications.
+security social standards Twitter 
+Social

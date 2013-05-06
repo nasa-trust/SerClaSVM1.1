@@ -1,0 +1,5 @@
+Patent search service
+Google Patent Search
+This API uses the Google Patent Search service and gives you the ability to search over 7 million patents. The API returns a collection of GpatentResult objects. Each result object contains information about a patent - including - title of the patent, snippet style description, application filing date, patent status, patent number, patent assignees, thumbnail image URL for the patent, etc.
+deadpool law search 
+Search

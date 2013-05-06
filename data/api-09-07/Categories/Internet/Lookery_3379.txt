@@ -1,0 +1,12 @@
+advertising 2
+aim 1
+datum 1
+demographic 1
+describe 1
+display 1
+internet 2
+network 1
+now 1
+profile 1
+target 2
+webpage 1

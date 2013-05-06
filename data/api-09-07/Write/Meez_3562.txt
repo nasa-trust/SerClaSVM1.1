@@ -1,0 +1,5 @@
+Avatar retrieval service
+Meez
+From their site: Want to integrate sophisticated avatars into your web-site? Or create an avatar-based widget? The Meez API allows you to retrieve our avatar images by inputting a Meez username. Through the API, you can access everything from simple headshots to animated bodyshots. We offer seven different image options, covering a variety of sizes and formats.
+games social widgets 
+Social

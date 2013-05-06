@@ -1,0 +1,5 @@
+South African social media platform for automotive enthusiasts
+Slipstream SA
+Slipstream SA is a South African social network. It aims to connect car lovers and automotive fanatics all around South Africa in one website. As an online automotive community users can create profiles with customized information and images. The site allows users to friend each other or business pages. Posts and conversations appear in a Facebook-like feed. Slipstream SA provides an API for developers to create apps that interact with the social media. Interested developers must register their apps to receive an app ID. The API is RESTful and returns JSON-encoded data.
+auto cars social southafrica 
+Social

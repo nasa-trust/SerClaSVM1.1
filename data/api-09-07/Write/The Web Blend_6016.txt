@@ -1,0 +1,7 @@
+Technology, design, and development news online community
+The Web Blend
+The Web Blend is an online community platform for designers, developers, and technology enthusiasts. The Web Blend community allows users and members to share relevant news. The Web Blend also posts relevant stories to the feed.
+
+The Web Blend API allows developers to access and integrate the functionality of Web Blend with other applications and to create new applications. Some example API methods include returning the latest 10 posts, retrieving details about a post, and returning top users and information about users.
+bookmarks community news technology 
+News

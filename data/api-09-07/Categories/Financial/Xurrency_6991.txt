@@ -1,0 +1,15 @@
+conversion 1
+currency 2
+datum 1
+edit 1
+exchange 3
+finance 2
+get 1
+input 1
+obtain 1
+option 2
+query 1
+rate 1
+rates 2
+soap 1
+url 1

@@ -1,0 +1,5 @@
+Barcode decoding and creation services
+Snappr.net
+The Snappr.net API allows decoding of 1D and 2D barcodes. In addition you can create 2D Barcodes via REST. Add barcode and 2D code features to your site, app, or service.
+deadpool utility 
+Utility

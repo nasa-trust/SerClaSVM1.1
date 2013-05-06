@@ -1,0 +1,20 @@
+Comparison shopping engine
+PriceGrabber
+By using the PriceGrabber XML API, you gain instant access to millions of products and offers, PriceGrabber???s categories/taxonomy, but also (depending on the level of API access that you receive), access to product full descriptions and specs, user and merchant reviews, coupons and rebates, and much more.
+
+The PriceGrabber XML API is a REST-based API, which means that you will programmatically get access to the PriceGrabber catalog simply by sending requests over HTTP following a specific syntax, similarly to how a browser retrieves a web page from a website. You will receive responses from the API in an XML format. XML is a standard that allows programs to describe data independently from the language or platform a site or application is running on.
+
+Because using a REST API requires some basic programming knowledge, including understanding of the HTTP protocol and parsing of XML documents, you will need to possess these skills or request help from someone who does to be able to integrate PriceGrabber data into your site or application.
+
+XML API Access:
+
+You first and foremost need to request access to our API. You will be given a partner ID (pid) and special key that you will use to access the API.  You will initially be asked to send your API requests to a development server where you will be able to test the XML API and start building your application. 
+
+Please note that this test environment is not meant to support a large amount of XML API requests. You should never attempt any type of performance or load tests, nor should you drive high levels of traffic to it. If you have specific requirements regarding the service levels of our XML API, please check with your account manager to see what options are available.
+
+Once you are satisfied with your implementation, one of our experts will review your integration and provide feedback, suggestions or request changes to make sure that your website or application is using the API correctly and as optimally as possible. Upon completion of this review, you will be granted access to our production environment and will change your API request domain.
+
+Getting information from our XML API is simple as calling the ???search_xml.php???? URL and passing a series of parameters that are detailed in the next section. Each parameter is separated from the previous one by a ???&??? sign and each parameter works as a name=value pair. Parameters have different meanings and purposes that will allow you to flexibly search products, offers or other content within the PriceGrabber catalog.
+
+comparison deadpool shopping 
+Shopping

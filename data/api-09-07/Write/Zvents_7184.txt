@@ -1,0 +1,5 @@
+Local events search and community
+Zvents
+From their site: The Zvents Developer API provides programmatic access to objects stored in Zvents. These objects include events, venues, groups, users and tags. The API currently supports a REST interface meaning that all interaction with the API is performed over the HTTP protocol. All API calls support a number of output formats including XML, RSS and JSON. 
+events local 
+Events

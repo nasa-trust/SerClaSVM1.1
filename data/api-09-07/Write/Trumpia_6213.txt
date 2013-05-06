@@ -1,0 +1,5 @@
+Web-based marketing service
+Trumpia
+Trumpia provides multimedia-marketing solutions. Clients can employ Trumpia to manage their marketing campaigns though SMS, email, voice broadcasts, and social media. They can reach a wide range of audience to support a wide range of industries, from real estate to academia and education. They provide a RESTful API that exposes most of the data retrieval functionality and message posting. It provides XML responses. 
+Australia email marketing messaging mobile sms 
+Messaging

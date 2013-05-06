@@ -1,0 +1,16 @@
+ability 1
+call 1
+chosen 1
+create 1
+datum 2
+expose 1
+feed 1
+format 2
+functionality 1
+internet 1
+parse 6
+response 1
+return 1
+synthetic 2
+technology 1
+template 1

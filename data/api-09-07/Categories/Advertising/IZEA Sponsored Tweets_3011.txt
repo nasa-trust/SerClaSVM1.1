@@ -1,0 +1,14 @@
+advertising 4
+behalf 1
+behind 1
+company 2
+independent 1
+interest 1
+pay 1
+platform 1
+sell 2
+send 1
+sponsor 3
+tweet 6
+twitter 4
+willing 1

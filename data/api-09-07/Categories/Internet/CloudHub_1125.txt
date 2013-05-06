@@ -1,0 +1,17 @@
+change 1
+create 1
+delete 1
+deploy 1
+development 2
+feature 1
+host 1
+internet 2
+log 1
+management 1
+platform 2
+property 1
+regard 1
+rest 1
+retrieve 1
+statistics 1
+version 1

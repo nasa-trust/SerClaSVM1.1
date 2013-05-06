@@ -1,0 +1,13 @@
+artist 1
+buy 1
+buyer 1
+graphics 2
+illustration 2
+image 2
+marketplace 2
+photo 3
+photography 2
+search 1
+sell 1
+share 1
+stock 3

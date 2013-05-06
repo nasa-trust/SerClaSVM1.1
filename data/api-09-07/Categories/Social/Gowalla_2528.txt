@@ -1,0 +1,16 @@
+datum 1
+integration 1
+interact 1
+location 3
+make 1
+mapping 1
+mobile 2
+network 2
+one 1
+party 1
+place 1
+platform 1
+social 4
+third 1
+tool 1
+way 1

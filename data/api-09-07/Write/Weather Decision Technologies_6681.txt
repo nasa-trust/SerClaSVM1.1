@@ -1,0 +1,5 @@
+Weather content provider
+Weather Decision Technologies
+Weather Decision Technologies is a provider of weather content including science weather detection, nowcasting, and forecasting. WDT&#039;s clients include most of the United States&#039; leading weather services and interactive media outlets, as well as governmental, industrial and military weather customers from all over the world. WDT&#039;s iMap weather maps are the leading web and mobile solutions for local media. WDT supplies many raw meteorological data products to customers all over the World. These feeds are transmitted using a variety of methods, including proprietary satellite uplinks and the Internet. Documentation is not publicly available.
+feeds forecast weather 
+Weather

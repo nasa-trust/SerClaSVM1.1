@@ -1,0 +1,7 @@
+Contact information add-on for email
+Rapportive
+Rapportive is an add-on for email that shows users information about their contacts. Rapportive displays information such as Facebook, Twitter, and LinkedIn accounts, location, and workplace of email contacts.
+
+The Rapportive Raplet API enables you to embed your data in the Rapportive sidebar.
+contacts CRM email social 
+Email

@@ -1,0 +1,7 @@
+Web application building service
+ServerCyde
+ServerCyde is a service that allows users to build web application features without server configuration. Some features included with ServerCyde service are data storage, social network authentication, real-time messaging in applications, and email functionality.
+
+The ServerCyde API allows developers to access the functionality of ServerCyde for integration with other applications. Some example API methods include publishing websites, pushing out emails and broadcasts, building contact forms, and creating email templates.
+database email programming social storage 
+Social

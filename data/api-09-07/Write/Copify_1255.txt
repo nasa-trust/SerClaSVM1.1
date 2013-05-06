@@ -1,0 +1,5 @@
+Online copywriting agency
+Copify
+Copify is an online copywriting service, connecting customers to their vetted network of independent copywriters. The service streamlines the relationship between customer and copywriter, allowing customers to easily send a job to an individual copywriter, or to post it to be picked up. The Copify API aims to allow simple control over the offered services. In particular the API allows users to integrate the four primary job processes into their own applications: create, read, update, and delete. 
+jobs utility writing 
+Utility

@@ -1,0 +1,5 @@
+URL shortening service
+tr.im
+Use the tr.im API to create tr.im URLs outside of the standard website forms. With tr.im on the main site, you can tr.im it and tweet it to Twitter in the same action. Also on the main site, after you log in, you can view all your tr.im URLs since the time that you signed up. With the API, you can shorten URLS, submit a custom URL that you prefer to an auto-generated URL, insert tag words to the URL, submit usernames and passwords to attach to the generated URL, and get a list of the domain names currently configured as domain name shortening services that tr.im will not allow to be in the destination URL.
+deadpool internet utility 
+Internet

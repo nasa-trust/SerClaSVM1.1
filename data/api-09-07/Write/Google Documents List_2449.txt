@@ -1,0 +1,5 @@
+Document management services
+Google Documents List
+From their site: The Google Documents List data API allows client applications to upload documents to Google Documents and list them in the form of Google data API (&quot;GData&quot;) feeds. Your client application can request a list of a user&#039;s documents, and query the content in an existing document.
+enterprise office 
+Office

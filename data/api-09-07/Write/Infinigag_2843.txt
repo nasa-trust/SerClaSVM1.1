@@ -1,0 +1,5 @@
+Meme and photo sharing platform
+Infinigag
+Infinigag is a meme hosting service. It provides a public feed where users can share humorous captioned images with each other. The feed essentially captures images from 9gag.com???s frontpage feed. The frontpage is an extensible feed that users can scroll down it almost infinitely. Infinigag provides an API that exposes the feed to developers. It returns JSON-formatted data.
+entertainment feeds image meme photo sharing 
+Entertainment

@@ -1,0 +1,5 @@
+Astronomical catalog querying service
+OpenSkyQuery SkyPortal
+OpenSkyQuery is a service that allows users to compare astronomical catalogs in order to find positional cross-matches. These matches can be subject to any other conditions or constraints the user wishes to define based on the data in the catalogs. The primary interface utilizes SQL, the Structured Query Language, with a few extensions specialized for astronomical data. The OpenSkyQuery SkyPortal API makes these functions available programmatically via SOAP calls.
+astronomy catalog science 
+Science

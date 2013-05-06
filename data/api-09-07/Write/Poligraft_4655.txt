@@ -1,0 +1,5 @@
+Political Entity Extraction Service
+Poligraft
+Feed in a news article, blog post or press release, and Poligraft will present you with an enhanced view of the interconnections between the people, organizations and relationships described in the piece.
+extraction government money politics 
+Government

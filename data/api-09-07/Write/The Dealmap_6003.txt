@@ -1,0 +1,5 @@
+Local deals
+The Dealmap
+The Dealmap API allows users to develop applications that integrate and interact with the Dealmap Platform. The Dealmap API let&#039;s users add functionality to their applications such as search, add and consume local deals. It offers a comprehensive local deal database. The API features a RESTful interface and returns data in JSON or XML.
+aggregator coupons deadpool places shopping usa 
+Shopping

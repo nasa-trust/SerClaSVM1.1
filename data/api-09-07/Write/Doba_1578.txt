@@ -1,0 +1,7 @@
+eCommerce service
+Doba
+Doba Enterprise is a platform geared for medium to large internet retailers. It is designed to help streamline tasks related to loading products into online stores, managing inventory in stores and processing customer orders. 
+
+The Doba API allows developers to utilize the Doba supply chain platform programmatically within their applications. The API includes functions to create users, search or browse the Doba product catalog, obtain detailed product information, lookup shipping and handling charges, submit orders, fund orders, and obtain shipment information for orders when they ship. Certified Integrated Partners can create new product offerings and services as well as get special buy rates if Doba is bundled into an integrated product solution. Documentation is not publicly available.
+enterprise shipping 
+Enterprise

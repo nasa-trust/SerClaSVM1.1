@@ -1,0 +1,7 @@
+Chemical entity imaging service
+Molinspiration 
+The service provides tools for cheminformatics such as generating images of molecules and modeling, processing, and manipulating molecular properties and structures. It works with SMILES notation to allow SDfile conversions and generate representations of molecules and fragments. The service can screen results based on molecular fragments and predict biological activity of compounds represented. 
+
+API methods support submission of compounds in SMILES chemical notation. Returned data include molecular characteristics needed to fully characterize and modify the compound specified in the request.
+chemistry image science 
+Science

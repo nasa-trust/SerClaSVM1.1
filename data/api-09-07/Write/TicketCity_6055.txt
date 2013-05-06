@@ -1,0 +1,7 @@
+Event ticketing service
+TicketCity
+TicketCity is a service that both buys and sells tickets for events including sports, theater and concerts. It offers tickets to over 75,000 events in over 28 countries and includes a marketplace of ticket brokers and individual sellers.
+
+The TicketCity API allows affiliates and partners to integrate events and ticket inventory into their website or application. API methods allow users to retrieve data pertaining to: cities, states/provinces, countries, venues, performers, upcoming events and tickets available for sale. The web service also provides the ability to add tickets to a shopping cart. The API uses SOAP protocol and responses are formatted in XML.
+events tickets 
+Events

@@ -1,0 +1,7 @@
+Space physics instrument data
+NASA Coordinated Data Analysis System (CDAS)
+The Coordinated Data Analysis System (CDAS) supports the plotting of data variables from multiples instruments produced by multiple space physics investigations. Any data that has been produced in Common Data Format (CDF) with the ISTP/IACG Guidelines is accessible. CDAS is a service of NASA/GSFC Space Physics Data Facility (SPDF). There are about 600+ data variables from Geotail, Wind, Interball, Polar, SOHO, ancilliary spacecraft and ground-based investigations accessible in the publicly available database.
+
+The CDAS Web Services API allows developers to access CDAS data services.  
+Data database government spaceweather 
+Science

@@ -1,0 +1,5 @@
+Digital asset management system
+Razuna
+The Razuna API lets developers integrate Razuna into their custom solutions. Razuna is an open source digital asset management system. The API uses both REST and SOAP protocol and responses are formatted in XML.
+storage 
+Storage

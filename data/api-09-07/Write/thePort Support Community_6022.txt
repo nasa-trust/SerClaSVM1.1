@@ -1,0 +1,7 @@
+Online community interaction service
+thePort Support Community
+thePort is a social media company that specializes in infusing elements of its social applications into an organization&#039;s existing systems and processes. Solutions provided by the port include their social-oriented CRM (Customer Relationship Management) platform and CMS (Content Management System).
+
+This API allows remote and programmatic access to various aspects of thePort&#039;s support community. This RESTful API operates over HTTPS, responds in XML or JSON, and requires one of two different API keys to access various methods.
+CRM customer-service office social support 
+Social

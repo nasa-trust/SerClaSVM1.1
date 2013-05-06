@@ -1,0 +1,15 @@
+enterprise 1
+exist 1
+free 1
+functionality 1
+get 1
+give 1
+integration 1
+level 1
+messaging 5
+sm 4
+start 1
+telephony 1
+text 2
+usa 1
+writing 1

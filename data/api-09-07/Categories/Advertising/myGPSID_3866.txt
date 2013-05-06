@@ -1,0 +1,5 @@
+ad 1
+advertising 3
+location 1
+target 1
+visitor 1

@@ -1,0 +1,5 @@
+Mobile payments service
+Centili
+Centili is a cloud based mobile payments service. Consumers can use Centili to charge their purchases of online products to their phone bill. The Centili API gives partners the ability to control and customize their payment process. The API can be used by independent developers, B2B Partners, commercial cloud solutions and vertical market specialists. API documentation is not publicly available but can be access to registered partners.
+cloud mobile payment telephony 
+Payment

@@ -1,0 +1,7 @@
+Online credit card payment service
+PaymentVision Pay
+The service processes online payments, either one-time or recurring charges by credit card, debit card, or ACH charge against buyer bank account. It provides real-time authorization for payments processed. A token-based system for scheduled payments prevents the need to store card numbers or bank account data, maintaining PCI security compliance and preventing liability through data loss. 
+
+API methods support completing one-time, same-day payments as well as scheduling recurring payments for time-based contracts. Methods also allow verification of bank account information and user update of payment account information.
+billing ecommerce payment shopping 
+Payment

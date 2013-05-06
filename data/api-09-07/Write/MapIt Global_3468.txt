@@ -1,0 +1,7 @@
+Global jurisdiction mapping service
+MapIt Global
+The service defines political or administrative authority in effect for specified global locations. It builds on functionality of OpenStreetMap and the U.K. Ordnance Survey along with other accumulated information about location specifications, including postal codes and geographic information systems. 
+
+API methods support definition of political jurisdiction boundaries for a particular point, specified by latitude and longitude or some other systems. Methods also provide jurisdiction for a specified area or multiple areas or related areas, such as subjurisdictions like a city within a county.
+geolocation mapping 
+Mapping

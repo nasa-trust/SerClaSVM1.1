@@ -1,0 +1,5 @@
+Seismic travel time calculation service
+TauP
+TauP is a seismic travel time calculator. In addition, it can calculate derivative information such as ray paths through the earth, as well as pierce and turning points. It handles many types of velocity models and can calculate times for virtually any seismic phase with a phase parser. TauP is available for download, or it can be accessed programmatically via SOAP API.
+earhquakes science 
+Science

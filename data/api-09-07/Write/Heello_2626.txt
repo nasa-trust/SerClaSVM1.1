@@ -1,0 +1,5 @@
+Microblogging service
+Heello
+Heello is a social microblogging service that allows users to share what they&#039;re doing with short text posts called Pings. Users may also include a photo or video, or share their current location with Pings. The Heello API allows users to create, delete, or retrieve Pings, as well as to retrieve information about users or individual Pings.
+microblogging sms social 
+Social

@@ -1,0 +1,7 @@
+Website monitoring service
+Monitro
+Monitro is a website monitoring service. Users can monitor up to three sites for free, and then subscribe to monitor more sites. Monitro will let users know if and when their sites monitored go down.
+
+Monitro&#039;s API is in beta stage, and is asking for developers to let them know if they would like to access the API. Interested developers should email support@monitro.net for access. Some example API methods include adding, deleting, and editing URLs to be monitored, turning on and off monitoring services, and accessing account information.
+monitoring website 
+Internet

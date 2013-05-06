@@ -1,0 +1,5 @@
+Online learning management platform
+WizIQ Virtual Classroom
+WizIQ offers a rich set of intuitive tools for online teaching including virtual classroom, student recruitment tools, and payment collection mechanisms. Developers can use the WizIQ API to integrate WizIQ with their website, CMS or Learning Management System. Functionality exposed by the API includes conducting live classes to multiple users, taking attendance, uploading and managing content and more. The API uses RESTful calls and responses are formatted in XML.
+courses education elearning training 
+Education

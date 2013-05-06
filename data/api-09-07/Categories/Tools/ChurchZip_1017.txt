@@ -1,0 +1,16 @@
+christian 1
+church 4
+city 1
+code 1
+desire 1
+interface 1
+kilometer 1
+locator 2
+may 1
+mile 1
+radius 1
+religion 1
+search 2
+select 1
+soap 1
+tool 2

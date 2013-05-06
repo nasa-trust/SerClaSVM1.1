@@ -1,0 +1,5 @@
+Language translation service
+MyMemory
+MyMemory is the world&#039;s largest Translation Memory created by collecting TMs from the European Union, United Nations and aligning the best domain specific multilingual websites. MyMemory gives users access to a large number of translations from professional translators, LSPs, customers and multilingual web content. It uses a matching algorithm to provide the best translations available for a given source text. The MyMemory API lets developers search and insert translations into MyMemory. It uses both HTTP and SOAP protocols and responses are formatted in XML and JSON.
+language Translation 
+Tools

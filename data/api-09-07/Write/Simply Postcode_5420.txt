@@ -1,0 +1,5 @@
+Postcode and address lookup service
+Simply Postcode
+Simply Postcode is software for finding postcode addresses. The software can be used to provide postcode look up functionality within web checkout or sign up pages. Postcodes can be found using geo data, users can calculate the distance between two postcodes, nearest stores can be looked up for a given postcode. Developers can access this functionality with the API. The API is available as REST and SOAP and responses can be formatted as XML and JSON.
+address postcode reference 
+Reference

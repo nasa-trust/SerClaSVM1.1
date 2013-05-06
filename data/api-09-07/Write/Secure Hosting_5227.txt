@@ -1,0 +1,5 @@
+Secure online payment service
+Secure Hosting
+Secure Hosting offers a method by which businesses can receive secure online credit/debit card payments from their customers. The Secure Hosting API allows users to integrate the payment system directly with their sites, meaning that customers no longer have to transfer over to the Secure Hosting domain to make payments. This gives the user more control over the payment system.
+creditcard deadpool payment security 
+Payment

@@ -1,0 +1,7 @@
+Consumer recommendation service
+Twake
+twake is a cloud-based consumer recommendation service. twake connects anonymous data about consumers, products, and services based on what users view, buy, and like.
+
+The twake API allows developers to access and integrate the functionality of twake with other applications and to create new applications. Some example API methods include retrieving links and items, retrieving information about links, and creating and editing links.
+advertising consumer marketing recommendations 
+Recommendations

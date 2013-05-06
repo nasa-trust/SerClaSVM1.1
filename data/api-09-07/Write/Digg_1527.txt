@@ -1,0 +1,7 @@
+Community driven news links and ratings
+Digg
+From their site: The Digg Application Programming Interface (API) has been created to let users and partners interact programmatically with Digg. Digg is a place for people to discover and share content from anywhere on the web. From the largest sties to the smallest blogs, Digg surfaces the best stuff as voted on by users. The API returns Digg data in a form that can be integrated into an application or a web site. The API is available to everyone free of charge, but its use is subject to acceptance of the API License Agreement.
+
+Make most of the data on Digg.com available through the API. Currently, you can use the API to request very specific information about news stories, images and videos submitted to Digg, digging activity, comments, and users. The API accepts REST-like requests and offers several response types: XML, JSON, and Javascript. In addition, a Digg sponsored PEAR module is available for PHP as well other open-source toolkits.
+bookmarks deadpool news 
+News

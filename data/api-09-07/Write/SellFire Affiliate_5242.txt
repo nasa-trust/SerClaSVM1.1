@@ -1,0 +1,7 @@
+Affiliate marketing web site creation
+SellFire Affiliate
+SellFire lets users create an affiliate marketing website though an online website builder. Users can integrate their sites with affiliate networks and affiliate datafeeds.
+
+The SellFire Data API gives developers the ability to  create a dynamic, searchable affiliate web site. The API gives users access to the data feed of 1362 merchants from 6 affiliate networks. This gives affiliates the ability to search for and add more than 27 million products on their web site. The API can be used to build product review sites, comparison shopping engines, and daily deal web sites. The API uses HTTP calls and responses are in JSON.
+affiliate datafeed shopping 
+Shopping

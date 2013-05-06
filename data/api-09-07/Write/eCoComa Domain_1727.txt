@@ -1,0 +1,5 @@
+Domain name information service
+eCoComa Domain
+The eCoComa Domain API allows users to retrieve information about a specific host from the Internet Domain Name System (DNS) or to find sites that are hosted by a specific IP address. Another function provides access to the whois service to check domain name availability or to find out who owns a particular domain name.
+domain internet lookup 
+Internet

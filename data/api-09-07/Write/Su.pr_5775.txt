@@ -1,0 +1,5 @@
+StumbleUpon URL utility
+Su.pr
+StumbleUpon is website discovery app and Su.pr is its link shortening tool. The Su.pr API provides functionality for URL shortening, expansion, and posting to authorized services, such as Facebook. The API also includes a parameter to switch versions of the API without interrupting production code. It is a RESTful API and returns JSON and XML responses. 
+social tools url-shortener utility 
+Tools

@@ -1,0 +1,7 @@
+Text Analysis Tool
+Saplo Text Analysis
+From website: Saplo is a Swedish company based on high profile academic research on semantic technologies. Saplo develops methods and technologies for automatic text analysis that mimic how humans read and evaluate text.
+
+Saplo API is a text analytics API that aims to provide an easy to use API for advanced text analysis. The API is JSON-RPC based and works over HTTP. The API is free to use for non-commercial applications with some limitations (mainly for capacity issues).
+categorization semantic tagging text tools 
+Tools

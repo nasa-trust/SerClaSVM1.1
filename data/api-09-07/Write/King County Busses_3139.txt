@@ -1,0 +1,5 @@
+Transit tracking service
+King County Busses
+The King County Busses API is a research project from the University of Washington. The service provides up-to-the-minute information about busses in the Seattle area (King County). Data from the service comes from three sources: MyBus application, BusView location service and highway loop sensors from the department of transportation.
+seattle transit travel washington 
+Transportation

@@ -1,0 +1,5 @@
+URL shortener
+JumboTweet
+JumboTweet offers a URL shortening service. Users can programatically obtain a shortened URL by making an HTTP GET and passing the URL through to the service.
+Twitter url-shortener 
+Internet

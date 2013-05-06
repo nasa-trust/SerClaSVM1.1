@@ -1,0 +1,5 @@
+Business instant messaging software
+LiveChat
+LiveChat is a live chat software to enable sales representatives to contact customers on the website. With LiveChat API users can log-in and manipulate their license using third-party software. Users can return a list of operators, get a list of chat transcripts and more. It uses RESTful protocol and responses are formatted in JSON.
+chat realtime sbweb 
+Chat

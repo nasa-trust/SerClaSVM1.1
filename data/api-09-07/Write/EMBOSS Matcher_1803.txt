@@ -1,0 +1,5 @@
+Local pairwise sequence alignment service
+EMBOSS Matcher
+EMBOSS Matcher is a program for performing local pairwise sequence alignments on DNA or protein sequences. It employs the Waterman-Eggert local alignment algorithm to identify local similarities in the two input protein or nucleotide sequences. The European Bioinformatics Institute makes this service available as an API via SOAP or REST protocols.
+bioinformatics genetics science 
+Science

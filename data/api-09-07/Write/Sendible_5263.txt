@@ -1,0 +1,9 @@
+Social Media Management Service 
+Sendible
+    Sendible is a web service that lets users engage with customers through social media messaging on multiple channels. 
+
+    The Sendible API is a RESTful service lets developers write applications that can make use of Sendible&#039;s messaging technology. Developers can create apps that can send and track email, SMS, and social media messages across multiple platforms. Developers can also access Sendible&#039;s analytic tools to view the effectiveness of their social media marketing. 
+
+
+analyze blog email messaging sms track 
+Messaging

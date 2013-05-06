@@ -1,0 +1,5 @@
+Project tracking and tasks
+Vitalist
+Use the Vitalist API to get, add, edit, and delete all your actions, projects, contacts, and contexts. You can also get information and settings for your user account. David Allen&#039;s Getting Things Done (GTD) methodology is built in, so you can track your lists online in the GTD format with no extra work. Vitalist also has mobile capabilities for management of actions (to-do items in a list).
+events pim project-management tasks 
+Project Management

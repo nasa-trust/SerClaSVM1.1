@@ -1,0 +1,16 @@
+aside 1
+bank 2
+banking 2
+code 3
+documentation 1
+finance 2
+format 1
+german 4
+germany 1
+little 1
+lookup 3
+main 1
+protocol 1
+response 1
+simple 1
+soap 1

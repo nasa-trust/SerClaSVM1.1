@@ -1,0 +1,7 @@
+New Zealand domain name lookup service
+SimpleName
+The service checks submitted New Zealand (.nz) domain names against registry databases and returns registered or unregistered status and registration expiration. Information is provided free of charge for limited requests, or an API key will be provided for fee-based access at higher volumes with priority access.
+
+API methods accept strings for New Zealand domain names, up to 25 per request, and return registration status. 
+DNS domain internet newzealand utility 
+Utility

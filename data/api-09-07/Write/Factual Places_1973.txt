@@ -1,0 +1,5 @@
+Open Data for sharing and reference tools
+Factual Places
+Factual provides a platform for developers to share, mash, and build applications on open data. The Places API is used for place specific requirements. Functionality includes letting users translate between Factual IDs, third party IDs, and URLs that represent the same entity across the internet. Users can also find URLs that mention entities in the Factual places database. The API uses RESTful calls and responses are formatted in JSON.
+database location mapping places reference 
+Mapping

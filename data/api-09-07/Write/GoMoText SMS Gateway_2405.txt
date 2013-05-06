@@ -1,0 +1,7 @@
+SMS mobile marketing service
+GoMoText SMS Gateway
+GOMOTEXT provides client???s access to a SMS Gateway. The SMS messages can be sent or received in real time. The gateway can be accessed through an HTTP API or SOAP Web Service. Developers and Clients can develop their own application for integrating SMS capabilities into their existing applications. The incoming SMS text messages can be forwarded to user servers using HTTP POST or GET. The system will forward messages that are sent to users to the server or application for further processing. 
+
+Coverage: global (200 countries 1-way sms, 100 countries 2-way sms)
+enterprise Global messaging sms telephony 
+Messaging

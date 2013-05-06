@@ -1,0 +1,5 @@
+Map rendering service
+MapRendererService
+MapRendererService is a SOAP-based API for rendering maps. Map rendering is the process of taking raw geospatial data and generating a visual map from it. The API can be used to retrieve map information, legends, and feature information. It also supports map geometry conversions. This API is poorly documented.
+mapping 
+Mapping

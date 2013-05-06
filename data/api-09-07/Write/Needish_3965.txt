@@ -1,0 +1,5 @@
+Price quote service
+Needish
+Needish is a service that lets you post what you need and receive help and price quotes from businesses and people around you. Based out of Santiago, Chile.
+recommendations 
+Recommendations

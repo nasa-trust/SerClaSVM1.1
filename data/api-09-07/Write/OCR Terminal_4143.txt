@@ -1,0 +1,5 @@
+Online optical character recognition service
+OCR Terminal
+This API has been created to let users and partners interact programmatically with OCR Terminal. OCR Terminal is an online OCR (optical character recognition) service that allows you to convert PDF to Word, JPEG to Word and scanned images into editable documents. A HTTP based API for OCR - it allows developers to upload scanned images(JPEG, TIFF etc) or PDFs and convert them to editable document formats (like DOC, RTF, TXT) or searchable PDFs. Full documentation is available by request.
+conversion ocr tools 
+Tools

@@ -1,0 +1,6 @@
+Business loyalty solutions
+ClientRocket
+ClientRocket is a business loyalty management service. They provide business a suite of tools to build and maintain loyalty and rewards programs. Items in this suite include gift cards, marketing by email or coupons, program enrollment forms for websites, and more. Their RESTful API exposes functionality to the loyalty platform for integration with POS systems, and mobile and marketing communications apps. It returns XML formatted data.
+
+enterprise loyalty marketing 
+Enterprise

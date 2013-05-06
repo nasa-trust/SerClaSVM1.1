@@ -1,0 +1,17 @@
+aztec 1
+bar 2
+code 4
+datum 1
+following 1
+format 1
+generate 1
+image 1
+interleave 1
+matrix 1
+one 1
+soap 1
+stream 1
+support 1
+symbology 1
+tiff 1
+utility 2

@@ -1,0 +1,5 @@
+Interface with online marketplace
+Bonanzle
+Bonanzle is an online marketplace with 2.5 million items available for sale with 100,000 registered users. Bonapitit is a RESTful API that allows developers to write their own applications that interface directly with Bonanzle. Potential uses of Bonapitit could include: Writing a desktop application that allows users to post or edit their items from their computer; Writing a Facebook plugin that grabs all of the items from a user&#039;s friends and displays them in a user&#039;s profile; Integrating the Bonanzle inventory into a flash plugin that displays items into blogs or user websites.
+shopping 
+Shopping

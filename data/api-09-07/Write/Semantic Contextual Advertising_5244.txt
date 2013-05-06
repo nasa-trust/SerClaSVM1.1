@@ -1,0 +1,5 @@
+Contextual ad matching
+Semantic Contextual Advertising
+Semantic Engines Contextual Advertising API identifies best matching advertising categories for a Web page. The API is deployed in a computing cloud and can be integrated with a client&#039;s taxonomy of ad categories. Semantic Engines LLC develops products in the fields of information search and retrieval, text mining, semantic analysis, sentiment analysis, and contextual advertising. The API gives businesses an affordable high-quality contextual ad matching option for use in their applications. Contextual Advertising API features include: analyzing the content of a page on the fly and matching it to the relevant advertising category; extraction of key concepts from a page or document. It uses both RESTful and SOAP protocols. Detailed API documentation is available upon request. 
+advertising semantic 
+Advertising

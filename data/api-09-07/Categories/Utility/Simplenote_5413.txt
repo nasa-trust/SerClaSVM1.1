@@ -1,0 +1,15 @@
+augment 1
+build 1
+datum 1
+functionality 1
+idea 1
+item 1
+list 1
+make 1
+management 1
+mobile 1
+note 1
+personal 2
+store 1
+utility 2
+way 1

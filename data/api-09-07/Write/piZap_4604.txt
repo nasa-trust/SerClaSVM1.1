@@ -1,0 +1,7 @@
+Online photo editing service
+piZap
+piZap is a free online photo editor. Some features included in piZap are photo effects, stickers to put onto photos, and shape cut-outs that users can apply to their photos.
+
+The piZap API allows users to integrate the piZap editor into other websites. With the API, visitors to those websites can edit pictures stored on the website, or from their own computer and then save their piZap images back to the website. Public documentation is unavailable; those interested need to fill out a form to get access to the API.
+editing effects photo 
+Photos

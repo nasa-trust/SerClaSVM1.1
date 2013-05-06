@@ -1,0 +1,5 @@
+Online information manager
+Backpack
+Backpack is a web-based personal information manager small business. The application supports user-created pages  and a calendar. Features of the user-created pages include to-do lists, inline photo galleries, notes and file attachments, and page sharing. Features of the calendar include support for iCalendar, email/SMS reminders, color-coding of calendars, and iCalendar sharing.
+office project-management 
+Office

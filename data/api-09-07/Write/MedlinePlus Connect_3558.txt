@@ -1,0 +1,5 @@
+Health information service
+MedlinePlus Connect
+MedlinePlus brings users information about diseases, conditions, and wellness issues. The MedlinePlus Connect API lets electronic health record (EHR) systems use standard clinical vocabularies to bring users health information from MedlinePlus.gov. The API can make requests based on diagnosis codes, medication codes, and lab tests. The API uses RESTful calls and responses are formatted in XML.
+health medical records 
+Medical

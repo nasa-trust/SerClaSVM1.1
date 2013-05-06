@@ -1,0 +1,7 @@
+Photo sharing service
+Yandex Fotok
+Yandex is the largest search engine in Russia and develops a number of Internet-based services and products. Yandex offers owners of websites and blogs tools with which they can apply the functional services of Yandex in their projects. The site and documentation are in Russian. 
+
+The Yandex Fotok API is a tool designed for allowing software and services to interact with the Yandeks.Fotkah photo service.Using the API Yandeks.Fotok users can develop a programs that can: upload photos to the service Yandex.Fotki, create and edit albums, move photos between albums, change the settings to access photos, notify on new photo and more. The API uses RESTful protocol and responses are formatted in XML and ATOM.
+photo russia social 
+Photos

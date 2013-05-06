@@ -1,0 +1,7 @@
+Online payment service
+RedFin Network
+The service provides processing of payments via credit cards, debit cards, and automated clearinghouse (ACH) collection on checks. It provides pre-authorization and final payment for online applications in each payment option. Additional payment options include EBT and gift cards. The service can also handle refunds, transaction updates, and related corrections to posted payments.
+
+API methods support submission of a pre-authorization or payment request specifying merchant, customer, card number or bank information, and transaction amount. Methods also allow updating merchant account information and summaries of transactions for a merchant. Methods support scheduling of recurring payments for subscription transactions.
+payment shopping 
+Payment

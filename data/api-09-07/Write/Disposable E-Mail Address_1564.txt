@@ -1,0 +1,5 @@
+Trash mail service
+Disposable E-Mail Address
+The Trash Mail is a Trash Mail Service with a Template based Web GUI and an ATOM and XML based REST API. With the API developers can integrate the Trash mail service in other applications. Documentation is in German.
+disposable email spam 
+Email

@@ -1,0 +1,7 @@
+Social media analytics service
+Viralheat
+Viralheat Pipeline is a REST API that returns the raw mentions, statistics, trends and all the data from hundreds of viral video destination sites, Twitter, and millions of blogs and websites in XML.
+
+Viralheat is a social measurement platform designed to be simple to use. Built from the ground up to be timely and efficient, Viralheat allows users to easily comprehend social media.
+analytics social statistics 
+Social

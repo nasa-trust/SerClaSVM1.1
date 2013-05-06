@@ -1,0 +1,7 @@
+File hosting and sharing service
+Crocko
+Crocko is a file hosting service. Users can upload, organize, and share their files with Crocko. Users can also download their own files, as well as files that are shared with them.
+
+The Crocko API allows users to access Easy-share&#039;s functionality to upload files, get file details, move files into folders, get a link to a file, and access account details. 
+file-sharing storage 
+File Sharing

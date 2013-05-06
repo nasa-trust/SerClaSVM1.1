@@ -1,0 +1,5 @@
+Multiple sequence alignment service
+EBI T-Coffee
+T-Coffee (Tree-based Consistency Objective Function For alignmEnt Evaluation) is a program that performs multiple sequence alignments on DNA, RNA, and protein sequences. The program&#039;s most unique characteristic is that it allows users to combine its results with those obtained from different alignment programs. It can then provide output based on the similarities between those results. The T-Coffee API provided by the European Bioinformatics Institute makes these functions available through SOAP and REST protocols.
+bioinformatics genetics science 
+Science

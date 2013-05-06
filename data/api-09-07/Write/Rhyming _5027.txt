@@ -1,0 +1,5 @@
+Rhyming dictionary
+Rhyming 
+An HTML scraper of rhymezone. Users can enter words and rhyming words are returned. Formats range from JSON, XML, and an HTML table. No sign-up requirements or developer keys required. Get the rhyme you are looking for.
+deadpool Dictionary reference rhyming 
+Dictionary

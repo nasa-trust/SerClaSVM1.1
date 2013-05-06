@@ -1,0 +1,5 @@
+Online advertising management services
+AdSpeed
+Use the AdSpeed API to access your zones, ads, campaigns, and reports programmatically from AdSpeed, if you are an existing client, or there is also an option for Web developers to access the AdSpeed platform and send the app to AdSpeed to showcase it. AdSpeed is an ad management solution where you enter your ads into the system and then AdSpeed serves the ads, tracks impressions, clicks, revenues, conversions, and shows real-time stats.
+advertising enterprise marketing 
+Advertising

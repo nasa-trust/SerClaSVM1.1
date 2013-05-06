@@ -1,0 +1,5 @@
+Web development resource portal
+ActPHP
+ACTPHP.COM LAMP is a web portal for web development centering on LAMP. The site offers a variety of learning resources categorized by Open source products, LAMP platform technologies, WEB front-end development and Website optimization SEO.The API allows users to create secure encrypted passwords and also check it against existing passwords. The API uses RESTful calls and responses are formatted in JSON.
+deadpool education programming security 
+Security

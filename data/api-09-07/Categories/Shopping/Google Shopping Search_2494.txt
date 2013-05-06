@@ -1,0 +1,13 @@
+comparison 1
+create 2
+datum 1
+deliver 1
+discovery 1
+google 2
+optimize 1
+product 5
+result 1
+search 6
+shopping 4
+simplify 1
+tool 1

@@ -1,0 +1,14 @@
+add 1
+call 1
+comparison 4
+consumer 3
+create 1
+format 1
+functionality 1
+grid 2
+list 3
+notebook 3
+product 7
+response 1
+shopping 2
+take 1

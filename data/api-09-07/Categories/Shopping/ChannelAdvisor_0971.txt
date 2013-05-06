@@ -1,0 +1,12 @@
+ad 1
+cart 1
+commerce 1
+inventory 1
+listing 1
+marketplace 1
+order 1
+platform 1
+shipping 1
+shopping 2
+solution 1
+storage 1

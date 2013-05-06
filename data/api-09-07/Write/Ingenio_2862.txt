@@ -1,0 +1,7 @@
+Pay-per-call advertising and outreach service
+Ingenio
+The service provides phone-based access to expert advice and referral services. It allows those with questions and concerns to contact someone with expertise in the subject matter for information and advice. It also provides an advertising and outreach venue by which service providers can interact with potential customers for their services.
+
+API methods support creation and updating of provider listings, including phone number for access, specialty topics, price per call, etc. Other APIs provide for controlling agency accounts, recorded audio, and tracking of contacts through the system.
+advertising phone telephony 
+Advertising

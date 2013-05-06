@@ -1,0 +1,16 @@
+ability 1
+analyze 1
+cloud 1
+collect 1
+coordinate 1
+datum 1
+full 1
+gps 1
+integrate 1
+location 1
+mobile 3
+platform 1
+positioning 6
+registration 1
+tool 2
+work 1

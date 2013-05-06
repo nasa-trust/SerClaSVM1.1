@@ -1,0 +1,7 @@
+Health and drug information portal
+Aetna CarePass
+CarePass by Aetna is an online portal that allows users to access health data, provider data, medicine information, and more health information.
+
+The CarePass API allows developers to access and integrate the functionality and data from CarePass with other applications and to create new applications. Some example API methods include retrieving claim information, searching and retrieving FDA and drug information, and accessing medicine pricing. 
+drugs health Insurance medical 
+Medical

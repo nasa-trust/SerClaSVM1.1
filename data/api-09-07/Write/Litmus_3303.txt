@@ -1,0 +1,6 @@
+Cross-browser compatibility testing
+Litmus
+NOTE: registration required to view the api.
+From their site: Litmus shows you precisely how your designs will be seen by your customers. See screenshots of your web pages in dozens of different browsers within seconds. Web page testing, email testing, and bug tracking lets you see exactly where the compatibility issues are. We deliver screenshots of your web sites and email newsletters in seconds across all popular platforms. Use the full API for both our email and web site testing services. 
+qa sbweb utility 
+Other

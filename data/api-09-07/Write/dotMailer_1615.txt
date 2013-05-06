@@ -1,0 +1,7 @@
+Online marketing service integration
+dotMailer
+dotMailer is email marketing software for targeted, online, direct, mass, and bulk email marketing services including email newsletters.
+
+The dotMailer SOAP API allows developers to integrate dotMailer services with their CRM system, marketing database, or website. The purpose of this API is to allow subscribers to automate any of the interactions they might have between the dotMailer system, and their backend. A wide range of features are exposed in this API to allow developers to fit the service to their needs.
+advertising marketing 
+Advertising

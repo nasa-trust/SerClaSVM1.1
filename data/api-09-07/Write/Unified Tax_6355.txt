@@ -1,0 +1,5 @@
+Sales tax lookup service
+Unified Tax
+Unified Tax is a simple service that lets users look up the necessary sales-tax rate and regulations for a given location in the United States. Users can enter their address and get back sales tax rate as well as a link for the current regulations. The service can also provides address normalization by retrieving the canonical address from the data supplied. The API provides access to this functionality for integration into a third party application. It uses RESTful calls and responses are formatted in JSON.
+financial reference tax 
+Reference

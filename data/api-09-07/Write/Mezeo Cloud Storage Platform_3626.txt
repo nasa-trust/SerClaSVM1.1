@@ -1,0 +1,5 @@
+Cloud Storage Platform
+Mezeo Cloud Storage Platform
+Mezeo?s Cloud Storage Platform exposes storage with a RESTful API that allows developers to store, organize, share and publish content as well as supporting rich meta-data. Mezeo Cloud Storage Platform is a software platform for the deployment of cloud storage. The platform includes Web services APIs, and is storage agnostic. The API uses RESTful architecture and responses are formatted in XML or JSON.
+storage 
+Storage

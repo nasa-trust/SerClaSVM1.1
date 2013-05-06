@@ -1,0 +1,7 @@
+Advertising media buying and selling service
+MediaEquals
+MediaEquals is a service that buys, sells, and trades advertising media on various platforms, including online media. MediaEquals represents both media owners and advertising agencies for their media selling and buying needs.
+
+The MediaEquals API allows developers to integrate MediaEquals functionality into other applications. Some of the features of the API allow users to import and export media plans and booking information, access reporting and monitoring information, and remotely access their MediaEquals account.
+advertising media 
+Advertising

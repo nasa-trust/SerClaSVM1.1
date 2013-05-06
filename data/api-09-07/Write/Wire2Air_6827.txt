@@ -1,0 +1,7 @@
+SMS messaging service
+Wire2Air
+Wire2Air provides a two-way SMS Gateway API, allowing users to programmatically send and receive SMS messages via HTTP. In addition to their Gateway web service, Wire2Air has also provides an API for bulk SMS messaging. Wire2Air supports long SMS, SMS mail merges, and flash SMS, as well as delivery reports. Their SMS services support industry standard SMS advertising techniques such as text-to-win and text surveys.
+
+This HTTP API uses CSV for bulk texts, and returns data as plain text. Wire2Air provides code to integrate their API with PHP, ASP, and C#.
+messaging mobile sms telephony usa 
+Messaging

@@ -1,0 +1,7 @@
+Time tracking and project management service
+Yast
+Yast is an online time and project tracking service. Features of Yast include tracking time and projects either individually or shared with others, making notes about time, creating timesheets, and reporting functions.
+
+The Yast API allows developers to access records stored in Yast. Some example API methods include integration with other applications, accessing reports on time, and retrieving project information. The API uses RESTful calls and responses are in XML.
+project-management sbweb time-tracking 
+Project Management

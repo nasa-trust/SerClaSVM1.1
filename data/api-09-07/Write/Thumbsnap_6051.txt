@@ -1,0 +1,5 @@
+Image hosting service 
+Thumbsnap
+Thumbsnap is a photo and image sharing service. It allows users to upload pictures from their computers to the Internet without changing their format. This gives users a URL to share their images with others. The Thumbsnap RESTful API provides developers access to their uploading functionality and responds with XML documentation of the uploaded image???s URL. For access to the API, developers should email Thumbsnap. 
+image photo social 
+Photos

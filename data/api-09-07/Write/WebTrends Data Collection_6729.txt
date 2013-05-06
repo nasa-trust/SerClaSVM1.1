@@ -1,0 +1,7 @@
+Web analytics data collection service
+WebTrends Data Collection
+WebTrends is an organization providing digital marketing solutions for companies looking to expand their Web presence in the social and mobile arenas, as well as on the Web. Their platform focuses on leveraging analytics and data collection to empower their clients to make informed decisions about their digital marketing endeavors.
+
+The WebTrends Data Collection API is designed to connect with user applications, functioning as a collection tool for analytics data and metrics. With this API, developers can programmatically create automated data collection tools that will post relevant data to the user&#039;s account in WebTrend&#039;s data collection server. This service can also be configured to identify end-users for a more finely grained data set that reflects individual user behavior.
+analytics internet marketing metrics 
+Internet

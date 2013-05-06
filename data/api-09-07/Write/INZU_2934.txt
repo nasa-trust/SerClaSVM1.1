@@ -1,0 +1,5 @@
+CMS for the music industry
+INZU
+The INZU API is designed to allow external websites and other servers to access an array of content from INZU.net through a series of data feeds and media references. The INZU API is an XML based data feed that allows users to retrieve text data and media for all the common CMS tasks including, news, events, links, personnel, galleries, video, store and more. With this, users can add content management features to their clients&#039; websites. INZU is set up for the special requirements of the music industry to make selling and promoting music online as straight forward as possible.
+cms feeds music 
+Media Management

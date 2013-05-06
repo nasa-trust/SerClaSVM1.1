@@ -1,0 +1,16 @@
+baas 1
+chat 1
+cloud 1
+content 1
+create 2
+example 1
+functionality 2
+host 1
+integrate 2
+location 2
+manage 2
+method 1
+mobile 4
+retrieve 1
+social 1
+solution 1

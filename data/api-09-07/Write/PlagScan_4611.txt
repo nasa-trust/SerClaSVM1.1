@@ -1,0 +1,5 @@
+Plagiarism detection service 
+PlagScan
+PlagScan is a plagiarism detection service for schools, universities, and businesses. Users begin by uploading text documents to their scanning service. PlagScan will check the content against an internal database and Internet sources. Users can also scan entire zipped directories at once. The RESTful PlagScan API exposes the essential content-comparing functionality for integration with other content-management systems. Users can submit and check files and receive XML-formatted data.
+Detection plagiarism search tools 
+Tools

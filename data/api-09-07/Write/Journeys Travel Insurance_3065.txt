@@ -1,0 +1,7 @@
+Travel insurance service
+Journeys Travel Insurance
+The UK service provides travel insurance, either directly or via resellers on commission. It offers add-on trip insurance to travel booking products, with automated rate quotes and completion of policy issuing and management. 
+
+API methods support submission of a quote request specifying travel dates, destination, and trip duration, along with issuance of a policy based on the quote. Methods also support retrieving information about a previously issued policy and cancellation of a policy.
+Insurance travel uk 
+Travel

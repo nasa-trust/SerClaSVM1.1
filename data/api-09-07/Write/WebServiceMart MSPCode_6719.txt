@@ -1,0 +1,5 @@
+MSP explanatory code information service
+WebServiceMart MSPCode
+The WebServiceMart MSPCode API allows users to retrieve Medical Services Plan (MSP) explanatory codes. The MSP insures medically-required services, laboratory services, and diagnostic procedures for residents of British Columbia. The code lists retrieved by this API can be filtered by the codes&#039; initial characters. The unfiltered list consists of 708 items.
+canada medical reference 
+Medical

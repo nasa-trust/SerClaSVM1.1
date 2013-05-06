@@ -1,0 +1,5 @@
+Find user location via IP address
+IP Location
+The IP Location API enables you to detect user location based on a user&#039;s IP address. By providing the API with an IP address and it returns the country that IP is registered to. Use it you customize your visitor experience, such as displaying content in a language which may be more native to the user. 
+geoip internet utility 
+Internet

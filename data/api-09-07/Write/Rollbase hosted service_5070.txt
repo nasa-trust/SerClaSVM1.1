@@ -1,0 +1,5 @@
+Platform for software as a service
+Rollbase hosted service
+Rollbase is a cloud platform for creation of software as a service (SaaS) business applications using point-and-click, drag-and-drop tools in a standard web-browser. Most applications can be built by business analysts and web developers without requiring a team of more advanced developers. 
+cloud office saas 
+Office

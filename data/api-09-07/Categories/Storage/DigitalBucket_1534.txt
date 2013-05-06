@@ -1,0 +1,5 @@
+datum 1
+interface 1
+retrieve 1
+storage 3
+store 1

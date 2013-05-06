@@ -1,0 +1,5 @@
+Social beer discovery app
+Untappd
+Untappd is a mobile web app that allows users to socially share with friends the beer they&#039;re currently enjoying, as well as where they&#039;re enjoying it. The Untappd API gives developers insight into the Untappd data and how to visualize to consumers. Currently the API is read-only and will require approval from the Untappd team prior to receiving access. API details cannot be accessed without logging into the site. Users can request further information at api@untappd.com. 
+beer food social 
+Food

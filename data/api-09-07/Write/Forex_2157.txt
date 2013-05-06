@@ -1,0 +1,5 @@
+Foreign exchange retail trading service
+Forex
+With FOREX.com retail traders have access to the global foreign exchange market. The Forex API allows users to develop fully automated trade execution applications. The API provides users with the ability to receive a real-time rate feed, submit trade requests, set and modify orders, and receive automated confirmations of trade activity. It uses SOAP protocol and responses are formatted in XML. Users must register for the API forum to access documentation.
+deadpool 
+Financial

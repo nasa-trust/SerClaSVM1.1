@@ -1,0 +1,7 @@
+Sales management and customer management platform
+OnePageCRM
+OnePageCRM is a sales management service and platform for small businesses. OnePageCRM allows users to manage their contacts and sales leads, create sales reports, and manage sales calendars and processes.
+
+The OnePageCRM API allows developers to access and integrate the functionality of OnePageCRM with other applications. Some example API methods include managing contacts and contact information, creating and editing contact notes, and listing and editing actions by contacts.
+advertising CRM enterprise marketing sales 
+Enterprise

@@ -1,0 +1,5 @@
+Online Survey Tools
+FluidSurveys
+FluidSurveys provides tools to easily create online surveys. Using the FluidSurveys&#039; API developers can build their own applications around FluidSurveys&#039; tools. The API contains methods to retrieve surveys and responses, create surveys, and even create new users. A language parameter can be provided that will translate the data being returned, and all data is returned in either xml or json format. 
+surveys tools 
+Tools

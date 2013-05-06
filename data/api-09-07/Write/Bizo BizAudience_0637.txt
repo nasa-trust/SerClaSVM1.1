@@ -1,0 +1,5 @@
+Internet business traget service
+Bizo BizAudience
+The Bizo BizAudience API provides real-time insight into the business audiences visiting your website. By querying the API, you will receive the anonymous business demographics of a user that is on your site - in real-time, while he or she is on the site.  This information, including industry, company size, job function and seniority information
+b2b business demographics 
+Other

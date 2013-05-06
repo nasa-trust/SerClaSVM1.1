@@ -1,0 +1,7 @@
+Deal targeting and loyalty program service
+Spotzot
+Spotzot is a deal targeting platform where brands and publishers can reach customers with deal offers and loyalty programs. Their campaign tools are customizable and offer reporting tools to assess how the marketing and advertising campaigns are working.
+
+The Spotzot API allows developers to access and integrate Spotzot deals and functionality with other applications. Some example API methods include searching and listing deals by location, merchant, and categories, listing top promotions by merchants, and displaying relevant deals based on customer information. Public documentation is not available; interested developers should contact Businesszot@spotzot.com for an API Key and access.
+advertising coupons marketing 
+Advertising

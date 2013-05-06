@@ -1,0 +1,5 @@
+Global SMS messaging
+BulkSMS
+BulkSMS offers bulk text messaging delivery to 200 countries worldwide via a simple HTTP API. Multiple routing and pricing options. The API is available in over 800 networks in over 200 countries. global (economy routing); global (standard routing); australia, austria, belgium, germany, ireland, italy, netherlands, spain, sweden, switzerland, uk (premium routing)
+Global messaging sms telephony 
+Messaging

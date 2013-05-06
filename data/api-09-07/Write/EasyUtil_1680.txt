@@ -1,0 +1,5 @@
+Recommendation service
+EasyUtil
+From their site: EasyUtil Recommendation web service provides a web API to make recommendations in the format of &quot;people who liked this item also liked those items&quot;.
+deadpool recommendations 
+Recommendations

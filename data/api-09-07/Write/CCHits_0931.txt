@@ -1,0 +1,9 @@
+Creative Commons Music Podcasts Service
+CCHits
+CCHits promots Creative Commons licensed music by highlighting the artists who make it and the people who play it. The CCHits API provides access to the site&#039;s collection of podcasts and supporting websites, the data driving the CCHits site.
+
+Simple JSON requests provide access to various querying options. Developers can search by artists and tracks. There is a writable option to add a track to a particular podcast show, as well.
+
+The API also has additional features for querying for information provided by HTTP status codes, as well as a set of functions meant to be called from shell scripts.
+music 
+Music

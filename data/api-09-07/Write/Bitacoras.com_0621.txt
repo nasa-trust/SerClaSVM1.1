@@ -1,0 +1,5 @@
+Spanish social blog network
+Bitacoras.com
+Bitacoras.com is the largest social network for bloggers that exists in Spanish with over 250,000 users. The system collects information from thousands of blogs and organizes, catalogs and distributes it in real-time becoming a tool for learning what is happening in the Hispanic blogosphere. The API uses a RESTful interface and responses are in XML, JSON, PHP, RSS formats. Documentation is in Spanish.
+blog social spain 
+Blogging

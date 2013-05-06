@@ -1,0 +1,10 @@
+aggregate 1
+album 1
+artist 1
+find 1
+music 6
+page 1
+play 1
+release 1
+set 1
+uk 1

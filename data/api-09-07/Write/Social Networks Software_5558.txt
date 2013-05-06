@@ -1,0 +1,7 @@
+Online software for social network creation
+Social Networks Software
+Social Networks Software is an online software that allows users to create and build their own social networks. The social networks can be customized for specific groups, companies, and languages. 
+
+The Social Networks Software API allows developers to access and integrate the functionality of Social Networks Software with other applications. Some example API methods include retrieving photos and videos, editing photo titles, and accessing user information. 
+social 
+Social

@@ -1,0 +1,5 @@
+Community driven reference service
+Yahoo Answers
+From their site: Tap into the collective knowledge of millions of Yahoo! users with the Yahoo! Answers Web Services APIs. Search for expert advice on any topic, from within your very own site. Watch for new questions in the Answers categories of your choice. Keep track of fresh content from your favorite Answers experts, and more.
+answers reference 
+Answers

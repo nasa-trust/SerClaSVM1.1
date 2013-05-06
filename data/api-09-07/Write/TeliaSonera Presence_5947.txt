@@ -1,0 +1,5 @@
+Presence information and status updating tool
+TeliaSonera Presence
+The RESTful Presence API allows users to post presence information (online, offline, unreachable) and microblog statuses(happy, joyful, keen, etc.) with contexts (such as &quot;facebook&quot;, &quot;workingon&quot; etc.) with a start- & endtime to be used in applications. Responses can be in XML and JSON format.
+deadpool social 
+Social

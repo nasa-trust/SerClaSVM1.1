@@ -1,0 +1,7 @@
+Online advertising tracking and reporting service
+MarketRuler
+ConversionRuler is an online advertising campaign tracking and reporting service. It can be used to track pay-per-click campaigns, email campaigns, banner advertising, affiliate/partner links, or any type of online traffic. ConversionRuler also extracts keywords automatically to see how people are reaching a site.
+
+The MarketRuler APIs include an XML-RPC API and the JavaScript-based Action API. The XML-RPC API provides programmatic methods for gathering site and report information, as well as for report creation, status-checking, and downloading. The Action API determines a user&#039;s identification with ConversionRuler and then notifies the server outside of the user&#039;s web session that a particular action took place. This API is useful for commerce applications which perform transaction processing off site.
+advertising analytics 
+Advertising

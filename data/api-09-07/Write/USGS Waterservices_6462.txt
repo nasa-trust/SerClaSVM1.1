@@ -1,0 +1,7 @@
+Water quality information service
+USGS Waterservices
+The service provides instantaneous, daily, and summary data for water supply and water quality. Data provided are collected from a network of U.S. Geological Service reporting stations and provided in aggregate or at a point in time. A notification system distributes alerts based on data collected.
+
+API methods support designation of reporting station location by state and county as well as location type. Results are defined by highly detailed characteristics such as watershed size and location, aquifer type, sampling methods, and well characteristics. 
+environment government 
+Government

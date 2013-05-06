@@ -1,0 +1,7 @@
+Automotive video and web content service
+AutoNetTV Relay Pipe
+The service provides content for automotive business websites and on-site displays. Available material includes videos on common repair procedures and general car-care tips, along with text, checklists, and other site enhancements. The service can be implemented on PHP or ASP platforms, with a standardized option for WordPress to be installed as a plug-in.
+
+API methods support retrieval of blog-style posts created by the business and articles made available through the service. Articles may include calls to embed video from the service. Methods also allow listing available articles and categories for organizing them, which supports construction of navigation menus.
+auto content internet video 
+Internet

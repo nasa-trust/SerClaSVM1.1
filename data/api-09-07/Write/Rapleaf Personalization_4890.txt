@@ -1,0 +1,6 @@
+Email personalization service
+Rapleaf Personalization
+Developers can use the Personalization API to recommend more relevant content, make emails more personal and learn about loyal users. Query with an email address using the simple, RESTful interface. The Personalization API is used to retrieve information about a person, identified by email hash or postal address. 
+
+personalization recommendation 
+Recommendations

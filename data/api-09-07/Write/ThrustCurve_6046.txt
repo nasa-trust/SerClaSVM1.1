@@ -1,0 +1,5 @@
+Model rocket motor data
+ThrustCurve
+ThrustCurve is an information resource for model rocket hobbyists. The website stores organized data and manufacturing specs on model rocket engines. Hobbyists can find updates, guides to supplies, simulation data, and more on the site. The site provides three APIs for developers: Search, Download, and Metadata. They are HTTP-based and provide XML responses. 
+hobbies reference search 
+Search

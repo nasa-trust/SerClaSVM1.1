@@ -1,0 +1,8 @@
+Sentiment analysis and analytics service
+Chatterbox
+Chatterbox Analytics is an analytics company that creates software to help companies engage with their customers through media such as Twitter and Facebook. The company applies analytics to their clients&#039; social data to determine who the core users are.
+
+The multilingual sentiment analysis API from Chatterbox classifies short texts as positive or negative. The system uses statistical models that can detect slang, common misspellings, emoticons, hashtags, etc. within short social messages. The API uses HTTP calls and responses are formatted in JSON.
+
+analytics enterprise sentiment social 
+Social

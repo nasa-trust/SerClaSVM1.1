@@ -1,0 +1,5 @@
+Login authentication service
+myOneLogin
+The myOneLogin API provides a SOAP web service for utilizing the myOneLogin service. After authentication or as part of single-sign-on from existing active session, myOneLogin can generate a SAML assertion that can be used by an application.
+internet security 
+Security

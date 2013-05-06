@@ -1,0 +1,10 @@
+date 1
+dating 6
+documentation 1
+establish 1
+go 1
+profile 1
+sector 1
+share 1
+single 1
+social 2

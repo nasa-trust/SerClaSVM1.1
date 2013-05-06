@@ -1,0 +1,12 @@
+account 1
+begin 1
+create 1
+email 8
+hooks 1
+message 2
+mx 1
+receive 2
+record 1
+send 1
+update 1
+yak 2

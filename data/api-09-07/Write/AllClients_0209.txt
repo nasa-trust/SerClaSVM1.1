@@ -1,0 +1,5 @@
+Web Based CRM and Marketing System
+AllClients
+The AllClients API allows users to interact with the AllClients database. AllClients is web based CRM software and online contact manager. Using the API, the user can login to AllClients from a 3rd party system, add accounts and interact with contacts. The API uses RESTful calls and responses are formatted in XML.
+contacts CRM enterprise 
+Enterprise

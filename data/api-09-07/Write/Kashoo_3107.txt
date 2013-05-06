@@ -1,0 +1,5 @@
+Online accounting software for small businesses
+Kashoo
+Kashoo was previously Clarity Accounting. The Kashoo API allows developers to interact with data stored in Clarity Accounting from their own software. Kashoo is online accounting software for small businesses. The API provides functionality such as getting a list of the user&#039;s businesses, get lists of invoices for the business, add new records and more. The API uses SOAP protocol and responses are formatted in XML or HTML.
+accounting finance sbweb 
+Financial

@@ -1,0 +1,5 @@
+Medical imaging informatics platform
+XNAT
+XNAT&#039;s API enables external applications to easily access XNAT-hosted data. XNAT is an open source imaging informatics platform designed to facilitate management and exploration of medical imaging and related data. The API uses RESTful protocol and responses are formatted in XML, JSON, CSV or HTML.
+medical science 
+Other

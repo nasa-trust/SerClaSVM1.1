@@ -1,0 +1,5 @@
+Independent journalism website
+Digest Report
+Digest Report is an independent journalism website to help aspiring, as well as experienced writers. The site enabled writers to expose their work to a wide audience and interact with readers. The Digest Report API currently provides access to retrieve stories by identifier, category or popularity. The service is currently in beta, but additional retrieval functions, as well as writable methods are planned.
+deadpool news 
+News

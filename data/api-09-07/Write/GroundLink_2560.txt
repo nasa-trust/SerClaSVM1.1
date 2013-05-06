@@ -1,0 +1,7 @@
+Ground transportation service
+GroundLink
+GroundLink is a platform that aggregates, manages, and executes ground transportation services. GroundLink works with consumers, travel agents, and travel and transportation providers to offer an engine where users can search for and book ground transportation.
+
+The GroundLink API allows developers to integrate and access GroundLink functionality and data into other applications. The three API methods are converting addresses to geocode, searching for transportation, and booking transportation. 
+location transportation travel 
+Transportation

@@ -1,0 +1,17 @@
+addition 1
+baseball 2
+basketball 1
+contain 1
+few 1
+football 1
+hockey 1
+news 1
+past 1
+player 2
+position 1
+salary 6
+sport 6
+team 1
+today 4
+usa 4
+years 1

@@ -1,0 +1,5 @@
+Instant photo sharing and storage service
+Burstn
+Burstn allows for 3rd party developers to utilize the service through a set of APIs. Burstn is a real-time image sharing platform that lets users capture, store and share their photos. Burstn consists of a mobile solution for smartphones and web service for storage and sharing. It is currently available on the iPhone and iPod Touch. The API uses RESTful protocol and responses are formatted in JSON.
+deadpool photo social 
+Photos

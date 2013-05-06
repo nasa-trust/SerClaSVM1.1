@@ -1,0 +1,5 @@
+Multiple sequence alignment service
+CBRC MAFFT
+CBRC MAFFT is a multiple sequence alignment program for amino acids and nucleotides. Users must input the sequences they wish to align in FASTA format. A number of advanced settings are available, including style of alignment (constrained by speed and the number of sequences), scoring matrix parameters, and the use of homologs. CBRC MAFFT&#039;s functions can be accessed programmatically via SOAP API.
+bioinformatics science 
+Science

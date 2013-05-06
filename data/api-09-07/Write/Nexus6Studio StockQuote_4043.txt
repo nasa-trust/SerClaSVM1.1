@@ -1,0 +1,5 @@
+Access to stock quotes
+Nexus6Studio StockQuote
+This API provides access to stock quotes with a 20 minute delay and is used as an educational reference by numerous organizations. Documentation is limited.
+deadpool finance stock 
+Financial

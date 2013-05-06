@@ -1,0 +1,5 @@
+Mobile location based content feed service
+Blipscape
+Blipscape provides free content based on the location of a device. It exposes a set of webservices that receive the latitude/longitude and sends back the content. The API is SOAP based and responses are formatted in XML. Currently this service works in New York and San Francisco.
+deadpool location mobile 
+Feeds

@@ -1,0 +1,16 @@
+accommodation 1
+booking 4
+business 1
+centralize 1
+enterprise 2
+event 1
+finance 1
+inventory 1
+manage 2
+management 1
+payment 2
+process 1
+professional 1
+rental 1
+reservation 1
+schedule 1

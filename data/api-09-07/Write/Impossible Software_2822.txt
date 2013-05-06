@@ -1,0 +1,5 @@
+Cloud-based video platform
+Impossible Software
+Impossible Software is a video advertising solutions provider. Their products allow advertisers and content producers to customize videos with cloud-based editing and delivery tools. With these web-based tools, clients can format and distribute their videos to target audiences efficiently. Impossible Software offers a RESTful media management API. The API exposes Impossible???s data uploading and exporting functionality, and returns JSON-formatted data. 
+media tools video 
+Media Management

@@ -1,0 +1,5 @@
+Transit tracking service for San Francisco, California
+BART
+Use the BART API to get real-time estimated arrival times for every station from the transit agency that serves metropolitan San Francisco, California, USA. When you use this API, you get an XML feed file that is updated every 60 seconds. Each record has the station name, station abbreviation, date and time, and numerous ETA elements. Each ETA element has a destination and can show the next three trains that will arrive at the station. BART stands for Bay Area Rapid Transit.
+government sfbay transit travel 
+Transportation

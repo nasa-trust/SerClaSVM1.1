@@ -1,0 +1,11 @@
+area 2
+define 2
+determine 1
+device 1
+gps 1
+inside 1
+operations 1
+outside 1
+sprint 2
+support 1
+telephony 2

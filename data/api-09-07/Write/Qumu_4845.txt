@@ -1,0 +1,5 @@
+Business video platform
+Qumu
+Qumu is a business video platform provider. Qumu&#039;s video platform lets businesses capture, manage, and distribute live and on-demand content. The Qumu Video Control Center gives businesses control over the entire video life cycle from acquiring video content, building and managing a library, delivering on-demand video and providing a secure portal for employees to view content. An API is available via an SDK that allows developers to access the platform&#039;s functionality and add it to iOS, Android platforms or desktop and web applications. Public documentation is not available.
+enterprise management video 
+Video

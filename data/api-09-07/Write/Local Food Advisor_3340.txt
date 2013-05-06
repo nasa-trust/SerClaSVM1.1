@@ -1,0 +1,5 @@
+UK food market search service
+Local Food Advisor
+The localfoodadvisor.com API allows users remote application access to the site&#039;s search service. localfoodadvisor.com is a UK local food website with over 160,000 visitors per month. It lists the top 4000 award winning producers, suppliers and Farmers Markets in the UK and Ireland. The SOAP, XML based API can be used to search by Food category, Organic, Animal Breed, Award, sales outlet, postcode etc. API will return description Latitude and Longitude.
+deadpool food shopping uk 
+Food

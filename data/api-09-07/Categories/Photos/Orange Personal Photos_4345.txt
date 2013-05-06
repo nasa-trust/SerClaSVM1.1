@@ -1,0 +1,14 @@
+add 1
+album 1
+customer 1
+france 1
+give 1
+mobile 2
+orange 2
+permission 1
+personal 2
+photo 8
+real 1
+sharing 1
+telephony 1
+view 1

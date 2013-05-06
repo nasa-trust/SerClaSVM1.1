@@ -1,0 +1,5 @@
+Real-time semantic bookmarking via Twitter
+hbookmark
+hbookmark is a way to archive and sort links via twitter. The purpose of the hbookmark API is to expose hbookmark&#039;s functionalities through HTTP-based GET requests. The API supports the following requests to retrieve and search bookmarks than have been tagged &quot;#bm&quot; on twitter: bookmarks, tagged, tags, search, bookmarkedby. Responses are formatted in JSON.
+bookmarks semantic Twitter 
+Bookmarks

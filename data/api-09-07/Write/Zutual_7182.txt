@@ -1,0 +1,5 @@
+Twitter user comparison service
+Zutual
+The Zutual API allows you programmatic access to the Zutual platform, which is a service that uses advanced artificial intelligence to calculate what any two twitter users have in common with one another.
+social Twitter 
+Social

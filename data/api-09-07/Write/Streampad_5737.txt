@@ -1,0 +1,5 @@
+Music streaming service
+Streampad
+The Streampad JavaScript API allows developers to control the Streampad player via JavaScript. Developers can play and queue songs, play and pause the player, receive events and perform other useful functions.
+music 
+Music

@@ -1,0 +1,5 @@
+IP geolocation service
+Blogama (IPInfoDB)
+IP geolocation API with streamlined data based on the MaxMind API. Blogama has reduced duplication and surprisingly has a database of only 1.2 million records that is still incredibly accurate to the city level. You can also load the data into your own database for speedier access.
+geolocation internet IP places 
+Internet

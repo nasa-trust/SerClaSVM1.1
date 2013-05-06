@@ -1,0 +1,5 @@
+Twitter file sharing service
+FileSocial
+FileSocial provides a way to share files on Twitter. You can upload any kind of file, from pictures to videos,PDFs or Power point. Share your files on Twitter easily, securely and completely free. You can integrate FileSocial into your own service, or create plug-ins, web applications, and interactive widgets. FileSocial???s easy-to-use API lets developers create their own applications based on FileSocial.
+deadpool p2p social Twitter 
+File Sharing

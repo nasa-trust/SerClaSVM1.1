@@ -1,0 +1,7 @@
+Academic publication information service
+NCSU Scholarly Publications Repository
+The service provides access to source citations and other metadata about publications logged in the repository. The library provides this machine-readable access to extend and connect the repository&#039;s information to formats other than those currently provided.
+
+The API supports submission of search queries as HTTP requests that specify CGI variables. Methods return a response in XML that other applications may transform or format as needed.
+journal metadata reference research search 
+Reference

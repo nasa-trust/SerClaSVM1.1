@@ -1,0 +1,5 @@
+Bot detection service
+BotScout
+BotScout is a service that helps fight automated web scripts, also known as &quot;bots&quot;. It tracks the names, IPs, and email addresses that bots use and then logs them for future comparison. BotScout API can be used to test forms when they&#039;re submitted on your site. To call more than 20 queries per day, you need to sign up for a free account/API key.
+internet security 
+Security

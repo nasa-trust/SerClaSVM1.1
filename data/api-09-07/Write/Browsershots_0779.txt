@@ -1,0 +1,5 @@
+Web site compatibility testing service
+Browsershots
+Broswershots is a free open-source application that lets web developers test their site&#039;s browser compatibility in one place. Developers submit their web address and a number of distributed computers open the web site in their browser. They take a screenshot of the site and upload it to the Browsershots servers for the developer to review. The API provides much of the functionality of the site including the ability to list active browsers, test authentication, list request status and more. It uses XML-RPC calls with responses formatted in XML.
+compatibility internet screenshot website 
+Internet

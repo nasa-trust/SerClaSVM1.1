@@ -1,0 +1,9 @@
+coverage 1
+integrate 1
+manage 1
+provision 1
+real 1
+resell 1
+so 1
+soap 1
+telephony 2

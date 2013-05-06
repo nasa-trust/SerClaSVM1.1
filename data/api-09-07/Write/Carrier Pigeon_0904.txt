@@ -1,0 +1,5 @@
+E-mail marketing service
+Carrier Pigeon
+Carrier Pigeon is an email marketing solution that enables users to create, deliver, and manage email campaigns via a simple user interface or API. Users may create and manage an unlimited number of subscriber lists, as well as retrieve campaign reports that include a comprehensive array of metrics. Carrier Pigeon is flexible with regards to e-mail design, allowing users to implement templates, bring in their own HTML code, or start from scratch with Carrier Pigeon&#039;s canvas HTML Word-like editor.
+advertising email marketing 
+Email

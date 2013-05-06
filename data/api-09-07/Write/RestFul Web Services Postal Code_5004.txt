@@ -1,0 +1,5 @@
+International postal code look-up service
+RestFul Web Services Postal Code
+The RestFul Web Services Postal Code API allows users to retrieve details for a given postal code. This service works with postal codes from a number of countries, including Australia, France, Germany, India, Ireland, Japan, New Zealand, Norway, Pakistan, South Africa, Switzerland, and the United Kingdom. This service can be accessed using REST or SOAP calls in XML format. Calls in either protocol are directed toward WSDL endpoints.
+address location reference 
+Reference

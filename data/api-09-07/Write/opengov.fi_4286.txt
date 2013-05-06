@@ -1,0 +1,8 @@
+Finland open government data
+opengov.fi
+opengov.fi provides open government data for Finland. The site works closely with suomi.fi, the Finnish government services portal, for formal data cataloging purposes. Available datasets include environmental and spatial services information; transportation; events; maps; and more. 
+
+opengov.fi is powered by CKAN (Comprehensive Knowledge Archive Network) and data is accessible through the RESTful CKAN API. 
+
+finland government 
+Government

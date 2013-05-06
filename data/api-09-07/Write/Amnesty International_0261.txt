@@ -1,0 +1,5 @@
+Database of censored sites and data
+Amnesty International
+From their site: Amnesty International is working with the OpenNet Initiative (ONI) to help raise awareness of internet censorship around the world. ts 11 country reports have documented the scope, scale and sophistication of numerous filtering regimes worldwide, and have helped verify the use of US commercial filtering technologies, such as Smartfilter and Websense that are used in some ways to underpin these regimes. Irrepressible.info features a powerful API which can be used to build custom applications using the same database of irrepressible content, currently used to to power our banners.
+advocacy deadpool politics 
+Other

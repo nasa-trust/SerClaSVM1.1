@@ -1,0 +1,16 @@
+assist 1
+content 1
+customer 1
+customize 1
+dating 1
+game 1
+good 1
+install 1
+monetization 1
+monetize 2
+payment 1
+publisher 1
+reward 1
+solution 1
+tool 2
+widget 1

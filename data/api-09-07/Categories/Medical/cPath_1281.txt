@@ -1,0 +1,8 @@
+analyze 1
+lookup 1
+medical 3
+pathway 1
+software 1
+store 1
+suite 1
+visualize 1

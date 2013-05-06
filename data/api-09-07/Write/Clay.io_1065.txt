@@ -1,0 +1,5 @@
+HTML5 Game Development
+Clay.io
+The Clay.io API allows developers to enhance their HTML5 games with features like leaderboards, achievements, data storage, payment processing, social integration and more. The emphasis of the API is its payment features, giving developers the option to require payment for game access or free game access. Clay.io offers a javascript installation and responses are formatted in JSON. 
+backend entertainment games payment social 
+Games

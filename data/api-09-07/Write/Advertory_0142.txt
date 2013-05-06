@@ -1,0 +1,5 @@
+Local web marketing service
+Advertory
+Advertory is a local marketing service. They provide separate solutions for enterprises and small to medium sized businesses. For enterprises, Advertory offers search optimization, store and product locators, analytics, and social media integration. For small to medium sized businesses, Advertory offers search optimization, social network integration, and analytics as well, plus customer loyalty programs and local indexing for various search engines. The Advertory API exposes the point-of-sale gateway creation functionality, allowing developers to make scalable and localized sites. The API returns both JSON and XML-formatted data.
+enterprise internet local marketing 
+Enterprise

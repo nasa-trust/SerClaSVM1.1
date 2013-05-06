@@ -1,0 +1,22 @@
+Social Media Monitoring API
+Samepoint Real-Time Social Media
+Samepoint has released Version 2 of its Social Media Monitoring API. This commercial API now provides simpler means for a developer to monitor any term in the Social Universe.
+
+Many data services provide a hose of information, leaving the responsibility to save and search data on the developer&#039;s side. The Samepoint Monitoring API only gives you, the developer, what you need. With its advanced search functions, it adds a new element in creating Monitoring Tools..
+
+Up until this point, there has been a separation between the data stream and the application. The Samepoint Monitoring API allows the developer to tell the API what to monitor. As such, more focus can be put on the tool and not the aggregation of data, creating a lower cost in resources and time to create a monitoring tool..
+
+How does it Work?
+In the scenario of creating a tool to monitor BrandX, a marketer may want to see what the general public is saying. BrandX may not get much chatter, but when it does, the marketer needs to know. In the hose method, a tool would have to look at the hose stream and capture what comes down. This is great for real time transactions. If the data is not time sensitive and will be used or research, this method may be too resource intensive..
+
+The Anit-Hose approach, of the Samepoint Monitoring API provides a daily update to all that was said and is available anytime to process. This allows the marketer to simply monitor Brandx and the developer on fast endpoint to make a client application fro the marketer. All the marketer has to do is provide the keywords to monitor. As a result, the API is much less expensive to access than a hose solution. It can be used on-demand or ongoing..
+
+Getting the Keywords into the API
+The process to get the keywords monitored is accomplished via a simple REST call. Each API user is allowed up to 5 keywords to monitor. The Samepoint System will monitor the term daily and results are immediately available for processing.
+
+Other Data
+For good measure, Samepoint Monitors the Brandz top 100 Brands, a very credible source for brand data. It also monitors top blogs in various verticals 
+
+
+api media monitoringsocial social 
+Social

@@ -1,0 +1,5 @@
+OCLC&#039;s bibliographic index term management service
+OCLC EprintsUK
+OCLC (Online Computer Library Center) is a worldwide library cooperative, the purpose of which is to establish, maintain, and operate a computerized library network. The OCLC EprintsUK API focuses on authority control. Authority control is the practice of creating and maintaining index terms for bibliographic material in the library catalog.
+education library 
+Education

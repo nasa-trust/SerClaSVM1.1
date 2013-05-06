@@ -1,0 +1,5 @@
+Zip code information service
+ZipFeeder
+Zipfeeder is a simple API used for accessing basic United States zip code information. This data can then be integrated into third party web sites and applications. Information includes city, state area code and latitude and longitude. The API uses RESTful calls and responses are formatted in JSON.
+geocode location lookup tools ZipCode 
+Tools

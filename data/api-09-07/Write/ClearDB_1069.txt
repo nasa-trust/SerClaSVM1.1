@@ -1,0 +1,5 @@
+Cloud based database
+ClearDB
+ClearDB is a cloud database platform from which users can back their web sites, blogs and applications. It???s a fully ACID compliant relational database accessible from any platform and any programming language. It offers a RESTful API that allows users to query the database. The API can also be used to automate backup operations and get realtime status info about the database.
+cloud database 
+Database

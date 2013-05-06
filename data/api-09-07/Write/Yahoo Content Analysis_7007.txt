@@ -1,0 +1,7 @@
+Semantic relevance service
+Yahoo Content Analysis
+Yahoo Content Analysis replaces Yahoo!???s Term Extraction service and lets users perform content analysis on text or a URL. The API is able to extract key terms from the content and rank them based on their overall importance to the content.
+
+The YahooContent Analysis API detects entities/concepts, categories, and relationships within unstructured content. It ranks those detected entities/concepts by their overall relevance, resolves those if possible into Wikipedia pages, and annotates tags with relevant meta-data. The API uses RESTful calls and responses are formatted in XML.
+analysis semantic tools 
+Tools

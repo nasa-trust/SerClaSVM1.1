@@ -1,0 +1,17 @@
+account 1
+appointment 4
+calendar 2
+confirmation 1
+email 1
+example 1
+functionality 1
+integrate 2
+list 1
+make 1
+method 1
+people 1
+receive 1
+retrieve 1
+scheduling 3
+setting 2
+so 1

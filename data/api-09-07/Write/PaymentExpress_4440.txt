@@ -1,0 +1,5 @@
+Online credit card processing service
+PaymentExpress
+Components integrated in a site allowing it to accept payments from its own secure server. The site must have its own SSL certificate. The solution is certified by Visa and MasterCard, ensuring merchants are PCIDSS (Payment Card Industry Data Security Standard) compliant. Allows merchants to customize the look and feel of their payment pages.
+payment 
+Payment

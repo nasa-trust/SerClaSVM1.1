@@ -1,0 +1,5 @@
+Federal Budget Data Service
+WhatWePayFor
+WhatWePayFor is an online database that aims to makes information on the federal budget transparent. The DataVizChallenge is the portion of the site that provides access to the API, and challenges users to create unique interfaces through which to visualize the budget data. The Service is available using REST calls, and returns XML. Calls include retrieving budget data, aggregating data, getting population data, GDP, Debt, TaxRates, and other information. 
+government 
+Government

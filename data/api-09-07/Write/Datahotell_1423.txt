@@ -1,0 +1,5 @@
+Norway open government data
+Datahotell
+Datahotell is a data repository for public institutions in Norway. Datahotell is part of the data.norge.no open government data project of Norway. Any data uploaded to Datahotell is available through data.norge.no as well as through the Datahotell API. This is a RESTful API which returns responses in XML, JSON, and CSV. The site and documentation are in Norwegian.
+Data datasets government norway reference Repository 
+Government

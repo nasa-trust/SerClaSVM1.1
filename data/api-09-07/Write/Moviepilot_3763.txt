@@ -1,0 +1,6 @@
+Movie search, information and recommendation service
+Moviepilot
+Moviepilot is a site that shows the latest news about movies and recommends movies matching the user?s taste. The RESTful API allows users to make calls to the site in order to search for movies, find the cast information for a movie and find related movies. Responses are formatted in JSON. Developer libraries are also available for PHP, Perl and Python.
+
+movies recommendations related search 
+Recommendations

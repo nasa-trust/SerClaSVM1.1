@@ -1,0 +1,5 @@
+Weather mapping service
+Open Weather Map
+Open Weather Map provides interactive maps of current and historic weather conditions. The Open Weather Map API allows users to retrieve the current weather at a city or weather station, the historical measurements for a weather station, or a list of cities and/or weather stations in a given rectangle (limited by geographic coordinates). The API uses RESTful calls issued in JSON format.
+mapping weather 
+Weather

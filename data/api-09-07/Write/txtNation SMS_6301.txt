@@ -1,0 +1,7 @@
+Mobile billing and messaging service
+txtNation SMS
+txtNation is a Mobile Billing and SMS Messaging provider.
+
+The txtNation Gateway can be used to deploy any mobile billing or messaging related services, including SMS based campaigns into existing platforms. The SMS Gateway enables businesses to facilitate SMS messaging between themselves and their mobile subscribers. It also allows messages to be sent using the SMPP platform. The API uses RESTful calls and responses are formatted in XML.
+billing bulk messaging mobile payment 
+Payment

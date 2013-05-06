@@ -1,0 +1,5 @@
+URL Morphing Service
+LinksPreadeR
+LinksPreadR is a URL-shortening service. Developers can use the LinksPreadR API to gain programmatic access to the LinksPreadR website. The LinksPreadR API is a RESTful API that returns data in a JSON format. There are two methods, shorten URL and expand URL. 
+internet url-shortener utility 
+Internet

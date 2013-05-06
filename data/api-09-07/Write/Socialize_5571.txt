@@ -1,0 +1,5 @@
+Mobile App Social Engagement
+Socialize
+Socialize is a service that provides developers with a drop-in social platform for their mobile apps, with an iOS and an Android SDK available. With the Socialize service users can like, share, and comment on content directly from an app, and users can view statistics, such as views, for different items. With the Socialize API, users are more engaged in developer&#039;s apps, which can increase revenue from ads for the developer.
+mobile social 
+Social

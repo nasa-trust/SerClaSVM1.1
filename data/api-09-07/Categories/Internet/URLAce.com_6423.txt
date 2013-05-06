@@ -1,0 +1,8 @@
+generate 1
+group 1
+internet 2
+selector 1
+short 2
+shortening 1
+url 7
+utility 1

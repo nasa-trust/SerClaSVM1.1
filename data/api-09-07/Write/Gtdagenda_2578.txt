@@ -1,0 +1,5 @@
+Goal setting and project management service
+Gtdagenda
+Gtdagenda is a mobile app that helps with personal task management. Users can track their tasks, goals, projects and schedules. It can sync with Evernote and Google Calendar. The API gives users access to the functionality of the app. Included is the ability to view, create, edit and delete any of the listed services. The API uses RESTful calls and responses are formatted in XML.
+checklists goals project-management tasks 
+Project Management

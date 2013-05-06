@@ -1,0 +1,6 @@
+calendar 2
+documentation 1
+event 4
+focus 1
+note 1
+zealand 2

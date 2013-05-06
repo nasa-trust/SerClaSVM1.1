@@ -1,0 +1,5 @@
+Image editing service
+Aviary Web
+Separate from its flagship Aviary API, an embedded photo editor, this API provides a more limited set of tools and effects for users to embed the service into their own web site. With the JavaScript API users can Customize the skin to match their website as well as offer effects such as cropping, resizing, levels and other photo effects.
+editing photo tools 
+Photos

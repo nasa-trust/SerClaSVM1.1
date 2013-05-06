@@ -1,0 +1,7 @@
+Forex trading service
+Myfxbook
+Myfxbook is a tool for Forex traders to analyze their accounts. The service supports over 100 brokers and providers community features for the traders. The Myfxbook API provides access to an individual&#039;s account and Myfxbook functionality. Developers can retrieve order history, view open trades and view open orders. The API also provides access to historical data for all the user&#039;s accounts and developers can retrieve daily gain data for use in charts or other analysis.
+
+The API is in beta and provides data as XML or JSON.
+finance forex stocks 
+Financial

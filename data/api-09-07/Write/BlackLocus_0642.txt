@@ -1,0 +1,5 @@
+Ecommerce pricing intelligence platform
+BlackLocus
+BlackLocus is a business intelligence platform. It assesses retail competitors??? item pricing. This allows ecommerce retailers to price their inventory strategically and efficiently. BlackLocus includes features for assessing who the competition is, what they are charging, and what smart price adjustments are. The software will also turn out alerts and reports. BlackLocus offers an API that exposes the data exporting functionality.
+analytics finance shopping 
+Enterprise

@@ -1,0 +1,5 @@
+Patient care platform
+Drchrono
+Drchrono is an electronic health records app provider. Their products include a patient care platform, the On-Patient check-in app, and an electronic medical billing center. All three products can be integrated into a unified workflow and allow medical workers to customize their electronic approach to patient care. The Drchrono API exposes the entirety of their products functions for integration with new apps. The API is not public yet, but developers can register at the developer portal for notifications.
+health medical 
+Medical

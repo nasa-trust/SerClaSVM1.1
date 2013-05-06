@@ -1,0 +1,10 @@
+communication 1
+contact 5
+country 1
+email 1
+fax 1
+mobile 2
+orange 2
+sm 1
+telephony 2
+voicemail 1

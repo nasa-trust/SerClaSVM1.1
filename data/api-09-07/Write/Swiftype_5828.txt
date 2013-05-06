@@ -1,0 +1,5 @@
+Website search tool
+Swiftype
+Swiftype provides search engines for websites. Developers can implant it on their website to design their own site-specific search results. Swiftype has autocomplete capabilities, search analytics, and customizable results. The API is a RESTful protocol and returns results in JSON. It can provides access to many Swiftype functionalities including indexing, searching, and more. The documentation includes Ruby and Python kits. Swiftype is currently available for free in beta, but tiered price structure is to come. 
+search tools utility website 
+Search

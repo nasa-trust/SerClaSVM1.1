@@ -1,0 +1,12 @@
+bring 1
+chat 1
+interact 1
+like 1
+live 1
+page 1
+put 1
+same 1
+so 1
+stream 1
+streaming 2
+video 5

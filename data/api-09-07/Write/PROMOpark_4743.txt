@@ -1,0 +1,7 @@
+Russian business project management service
+PROMOpark
+PROMOpark is a Russian service for business process facilitation. It helps manage projects, automate routine processes, and extract important information from data sets. The PROMOpark API provides SOAP-based access to PROMOpark&#039;s project management functions.
+
+The website and all documentation is in Russian. However, the SOAP methods are given in English.
+enterprise project-management russia 
+Enterprise

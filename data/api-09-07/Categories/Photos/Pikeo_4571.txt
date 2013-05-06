@@ -1,0 +1,11 @@
+be 2
+manage 1
+photo 2
+picture 3
+share 1
+sharing 2
+shot 1
+show 1
+store 1
+take 1
+things 1

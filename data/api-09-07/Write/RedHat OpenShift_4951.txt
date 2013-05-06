@@ -1,0 +1,5 @@
+Cloud Computing Platform
+RedHat OpenShift
+The Red Hat OpenShift API gives developers a platform in the cloud to build, test, deploy, and run applications. The API receives RESTful calls and send callbacks in JSON and XML. Calls require basic HTTP Authentication in the form of a user name and password generated upon sign up. Applications can be built using Ruby, Python, and PHP.
+project-management tools utility 
+Project Management

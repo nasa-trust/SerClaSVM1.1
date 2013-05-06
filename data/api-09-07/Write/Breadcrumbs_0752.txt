@@ -1,0 +1,13 @@
+GPS data sharing service
+Breadcrumbs
+Breadcrumbs allows users to manage and play back their GPS tracks in a 3D world using the Google Earth plug-in, plus the ability to seamlessly upload and geo-tag photos and videos. 
+
+The API allows to plug into Breadcrumbs to
+
+* upload new tracks to a user
+* retrieve tracks including photos 
+* upload photos to a track
+* search after tracks by location and activity
+
+gps GPX kml location mapping sports 
+Mapping

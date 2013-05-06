@@ -1,0 +1,5 @@
+DNS hosting service
+4PSA DNS Manager
+This API allows third???party products to interact with the 4PSA DNS Manager system. The DNS Manager is a multitenant software automation tool designed to deliver DNS hosting to service providers and businesses. The web service allows the execution of basic management operations on client accounts or dns zones belonging to a 4PSA DNS Manager system. The API uses SOAP protocol and responses are formatted in XML.
+DNS hosting internet 
+Internet

@@ -1,0 +1,13 @@
+ad 2
+advertising 3
+build 1
+call 1
+doc 1
+mobile 3
+monetization 1
+network 3
+obtain 1
+opportunity 1
+sign 1
+simple 1
+up 1

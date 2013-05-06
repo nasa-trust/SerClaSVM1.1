@@ -1,0 +1,15 @@
+account 1
+browser 1
+catalog 1
+community 1
+discovery 1
+free 1
+function 1
+music 3
+perform 1
+platform 1
+playlist 1
+recommendation 2
+register 1
+same 1
+tag 1

@@ -1,0 +1,7 @@
+Norway event aggregation service
+Glimt
+Glimt.com is an event discovery platform. Glimt.com aggregates event data from multiple sources and adds geotag to all events in Norway. Glimt.com displays events via lists or maps. Events of all types are included.
+
+The Glimt.com API allows developers to access and integrate the functionality of Glimt.com with other applications and to create new applications. Some example API methods include retrieving events, retrieving event details, and searching for events by keyword, location, and type.
+discovery events mapping norway places 
+Events

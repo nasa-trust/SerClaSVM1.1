@@ -1,0 +1,10 @@
+Mobile Location Service
+LOC-AID
+LOC-AID is a service that can pull locations from networks and provides ready-to-use services so that developers can spend more time creating 
+applications and less time dealing with arcane technology. 
+
+The LOC-AID Xchange Gateway is a location aggregation platform that allows you to easily integrate wireless location to any kind of content or service, without worrying about location interconnectivity, interoperability, and delivery method. LOC-AID takes the worry out of location so that you can focus on what you do best: providing value-add services to your customers.
+
+The LOC-AID Xchange Gateway offers several different APIs for location based services: Device Registration, Get X/Y, Address, and SMS Messaging. All of these APIs are SOAP-based APIs with different WSDL endpoints.
+IP location mexico mobile sms 
+Tools

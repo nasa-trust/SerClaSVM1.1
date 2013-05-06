@@ -1,0 +1,5 @@
+CRM and other business applications
+ProStores
+From their site: ProStores helps people open their own Web store. Developers can build tools and services that meet the needs of ProStores merchants. The ProStores SDK provides documentation and sample code. The ProStores XML Transaction Engine (XTE) allows developers to communicate directly with the core ProStores commerce services by submitting store-specific XML transactions to the ProStores installation over a web (HTTP/S) connection. 
+shopping 
+Shopping

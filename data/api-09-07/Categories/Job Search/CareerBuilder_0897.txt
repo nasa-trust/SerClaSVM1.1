@@ -1,0 +1,14 @@
+apply 1
+basic 1
+datum 1
+free 1
+integrate 1
+job 7
+method 1
+million 1
+over 1
+recruit 2
+retrieve 1
+search 2
+software 1
+specific 1

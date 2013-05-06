@@ -1,0 +1,7 @@
+Cloud user management service
+Developer Garden Cloud User Management
+In addition to their telecom and marketplace API&#039;s, Developer Garden provides free to use &quot;labs&quot; API&#039;s such as their Cloud User Management web service. 
+
+This API allows developers and providers of Web applications to store user log-in data and profile information in the cloud. When integrated with multiple applications or websites, the Cloud User Management API functions as a single sign-in service for different applications or sites from a common provider. Users can also quickly create an account using a variety of third-party online identification providers, such as Google, Facebook, AOL, OpenID, and Yahoo!.
+cloud germany management user 
+Internet

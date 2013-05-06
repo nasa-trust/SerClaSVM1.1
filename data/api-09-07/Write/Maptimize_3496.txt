@@ -1,0 +1,5 @@
+Google maps optimization service
+Maptimize
+The Maptimize API allows users to upload their map data to their Maptimize account. Maptimize optimizes Google Maps by merging groups of markers as clusters to reduce the amount of visible items on screen. That keep it much lighter to load and better for the viewer. The API uses RESTful protocol and responses are formatted in XML.
+mapping 
+Mapping

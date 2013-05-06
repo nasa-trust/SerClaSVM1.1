@@ -1,0 +1,5 @@
+Order retrieval and management services
+Orderwave
+The Orderwave API provides a programmatic method to integrate with the Orderwave order management service.  The API interfaces with XML calls to automate the various stages of order processing - adding of orders, validation of order entry, checking of inventory, tracking shipment and obtaining payment.
+enterprise shipping 
+Shipping

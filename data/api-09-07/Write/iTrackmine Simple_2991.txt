@@ -1,0 +1,5 @@
+Collection sharing service
+iTrackmine Simple
+Simple interface to pull your collection data from iTrackmine.com to use on your website. Essentially makes feeds available of your iTrackMine collections, though the text data format is proprietary. 
+movies books music social
+Social

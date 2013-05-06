@@ -1,0 +1,5 @@
+Web video player
+VHX Megaplaya
+VHX is a service that brings online videos together from around the web. Users can discover, share and watch videos as well as create their own personal dashboards. The Megaplaya API lets users load a list of YouTube, Vimeo and raw video URLs via JavaScript. The API also allows users to hide the UI and create their own controls.
+broadcast dashboard sharing social video 
+Video

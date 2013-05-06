@@ -1,0 +1,15 @@
+cash 1
+company 1
+compensation 2
+director 1
+enterprise 1
+executive 1
+finance 2
+find 1
+grant 1
+listing 1
+money 1
+officer 1
+option 1
+pay 1
+salary 1

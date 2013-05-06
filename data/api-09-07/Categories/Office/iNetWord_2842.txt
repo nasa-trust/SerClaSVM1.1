@@ -1,0 +1,12 @@
+collaboration 1
+control 1
+document 5
+editing 1
+editor 2
+folder 1
+free 1
+functionality 1
+image 1
+office 2
+sharing 1
+webpage 1

@@ -1,0 +1,5 @@
+New York state Senate data access 
+NY Senate
+The NY Senate API gives developers and other users direct access to New York state data and. By placing the government data in the public domain, the NY Senate hopes to engage citizens in policy creation and dialogue. Some of the features of the API include access to bills, committees, and more; new data sets continue to be added to the site.
+community government 
+Government

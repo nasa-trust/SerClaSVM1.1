@@ -1,0 +1,5 @@
+Content categorization services
+Crystal Semantics Content Categorization
+Crystal Semantics provide content categorization services which enables the rapid contextualization of webpages in milliseconds. The API returns a ranked sequence of categories, ordered by relevance. It is capable of analysis and returning results in 12 languages. Data Centers in US (4), UK, NL & DE. Documenation is not publicly available.
+advertising semantic tools 
+Advertising

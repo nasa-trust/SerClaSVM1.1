@@ -1,0 +1,17 @@
+append 1
+blog 2
+contain 1
+create 5
+embed 1
+end 1
+format 1
+get 1
+medium 2
+own 1
+post 3
+read 1
+social 4
+story 6
+tweet 1
+twitter 1
+write 1

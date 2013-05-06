@@ -1,0 +1,5 @@
+Could-based Vacation Rental Software
+BookingSync
+BookingSync is a vacation rental booking system that lets users manage and synchronize vacation rental bookings. It keeps all of a user&#039;s bookings in one place, so that they can manage their calendar and clients. It automatically updates advertising portals and improve search ranking. With the API, users can create, read, update and delete information such as bookings, clients and rentals. It uses RESTful calls and responses are formatted in XML and JSON.
+booking rental reservations travel vacation 
+Travel

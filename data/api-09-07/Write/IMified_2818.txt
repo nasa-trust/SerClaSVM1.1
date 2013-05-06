@@ -1,0 +1,5 @@
+Instant messenger buddy
+IMified
+From their site: IMified is an instant messenger buddy that works across all major IM networks and offers access to a growing number of web applications, as well as productivity tools like notes, reminders, and todo&#039;s. Imified helps you get things done faster. IMified widgets ARE NOT a plugin you download for your IM client, they ARE widgets for your IMified buddy and will appear in your main menu accessible to you at any time.
+chat webhooks widgets 
+Chat

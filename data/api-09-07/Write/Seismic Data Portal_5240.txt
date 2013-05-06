@@ -1,0 +1,7 @@
+Earthquake event data service
+Seismic Data Portal
+The service aggregates publicly available data about earthquake events, including seismic waveforms, wave velocities, and arrival times at specified locations. The Seismolink web service provides information about seismic sensing networks and available resources for detecting and tracking events. Data are available in the specialized QuakeML format.
+
+API methods support retrieval of reports on seismic events, including search for specific events, lists of recent events, and details about each one such as location and magnitude. Methods also provide information about seismic waveforms detected, the velocity of their movement, and projected arrival times at specified locations. The API also supports identification of data providers within the Seismolink network.
+earthquakes mapping science 
+Science

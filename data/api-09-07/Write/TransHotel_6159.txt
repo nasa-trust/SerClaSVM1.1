@@ -1,0 +1,7 @@
+Online hotel and accommodation search and booking service
+TransHotel
+The service provides hotel search and look-up function with ability to book accommodations. It is designed for integration with travel services to allow selection of accommodations, with reservation booking, cancellation, and transfer capabilities. It includes flexible payment options, including direct payment to the properties booked.
+
+API methods support submission of location and check-in/check-out dates with filters for hotel rating, specific amenities (e.g., swimming pool, gym, restaurant, etc.), and local features. Returned data provide matching properties and availability, with ability to book the specified reservation. 
+hotel reservations travel 
+Travel

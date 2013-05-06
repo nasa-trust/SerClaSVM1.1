@@ -1,0 +1,5 @@
+Slideshow creation platform
+Picovico
+Picovico is a slideshow creation tool. Its platform allows users to upload photo sets and arrange them in desired order. Users can spiffy up their presentations with Picovico???s themes and styles. Furthermore, users can upload their own audio to add a soundtrack their slideshow. The final product has its own URL for users to share. The Picovico API exposes the entire slideshow creation functionalities for developers to build new applications and servers on top. It is a RESTful API that returns JSON-encoded data. 
+photos slideshow videos 
+Video

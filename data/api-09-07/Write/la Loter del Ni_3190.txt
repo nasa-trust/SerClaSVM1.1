@@ -1,0 +1,5 @@
+Spanish Lottery Information Lookup
+la Loter del Ni
+la Loter del Ni API is provided by El Pa in order to check the status of a number in the ONLAE lottery, which is held in Spain. The API is free and requires no signup to access.  
+spain government reference
+Government

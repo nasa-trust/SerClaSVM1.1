@@ -1,0 +1,5 @@
+Wiki data retrieval service
+JSPWiki
+JSPWiki is a Java-based Wiki. The site for JSPWiki has an XML-RPC interface. It allows users to retrieve content and information from wiki pages. Possible uses include providing automatic emails when wiki pages change, printing out all pages of a wiki for inclusion on portable devices, remotely backing up a wiki, and transferring pages from one wiki to another.
+wiki 
+Wiki

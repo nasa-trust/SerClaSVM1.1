@@ -1,0 +1,5 @@
+BitTorrent statistics service
+Bitsmash
+The bitsmash service allows you to monitor the availability and connection BitTorrent statistics of a given .torrent file.
+bittorrent filesharing p2p statistics 
+File Sharing

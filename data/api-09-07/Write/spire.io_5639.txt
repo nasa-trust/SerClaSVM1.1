@@ -1,0 +1,9 @@
+Back-end API provider for application development
+spire.io
+The objective of spire.io is to allow developers to build Web and mobile applications without having to also build the server-side infrastructure that is typically needed to support them. The server-side support provided by spire.io is centered upon providing infrastructure for developers through RESTful API&#039;s and scenario-specific client libraries.
+
+The fundamental building blocks of spire.io&#039;s back-end support services are their channel and subscription resources, which essentially provide the backbone for communication and event listeners within the spire.io infrastructure. 
+
+Spire.io currently has two available services; Messaging, which provides the foundation of real-time capabilities to applications; and Identity, which allows developers to easily integrate user registration and log-in into their apps. 
+backend hosting internet mobile 
+Backend

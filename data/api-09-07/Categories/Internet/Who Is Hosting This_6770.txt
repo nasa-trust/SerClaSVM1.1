@@ -1,0 +1,17 @@
+address 1
+code 1
+datum 1
+email 1
+external 1
+find 2
+four 1
+get 1
+host 4
+internet 2
+line 1
+out 2
+return 1
+send 1
+start 1
+tool 1
+who 4

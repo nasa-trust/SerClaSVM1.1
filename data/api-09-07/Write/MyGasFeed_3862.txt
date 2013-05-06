@@ -1,0 +1,7 @@
+Gasoline price information service
+MyGasFeed
+The service provides frequently updated reports of automotive fuel prices (gasoline in three grades and diesel) for specified locations or regions. It also provides locations of gas stations near a specified location along with background information about the stations, if desired. Applications can also update the service&#039;s pricing data for a particular station. Location information supports mapping protocols.
+
+API methods support requesting fuel price information for a specified location or area. Methods also support retrieving a list of stations and details about an individual station. The API also supports updating the service&#039;s information with new pricing for an existing station or addition of a new station to the database.
+fuel prices tracking transportation 
+Transportation

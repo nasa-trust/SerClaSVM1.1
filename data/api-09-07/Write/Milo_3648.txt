@@ -1,0 +1,5 @@
+Local shopping service
+Milo
+Milo is a web site for local shopping. Its service consists of searching local store shelves in real-time to find the best prices and availability for products. Milo shows users what&#039;s in-stock where and how much it costs at that moment. The site also offers detailed product information and user reviews. The API offers partners access to all of Milo&#039;s product and real-time inventory information, as well as sources of monetization. Currently, the API is reserved for private partners with traffic levels in the millions of monthly visitors. A public API is coming soon. Documentation is not publicly available.
+local shopping 
+Shopping

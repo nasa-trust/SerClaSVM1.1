@@ -1,0 +1,16 @@
+account 1
+address 3
+blog 1
+check 3
+domain 1
+email 7
+mailbox 1
+minimize 1
+order 1
+placement 1
+reduce 1
+registration 1
+security 1
+syntax 1
+validate 1
+validation 2

@@ -1,0 +1,5 @@
+Access to Microsoft documentation and related content
+MTPS Content Service
+The MSDN/TechNet Publishing System (MTPS) Content Service provides access to content stored in the MTPS. This includes, for example, the content available in the MSDN Library. The MTPS Content Service API allows developers to integrate documentation, technical articles, whitepapers, images, and the other resources into their own applications using SOAP calls.
+development reference 
+Reference

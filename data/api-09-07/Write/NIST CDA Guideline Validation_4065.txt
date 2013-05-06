@@ -1,0 +1,7 @@
+CDA guideline validation service
+NIST CDA Guideline Validation
+The National Institute of Standards and Technology (NIST) provides a service that automatically checks documents for validation according to official Clinical Document Architecture (CDA) guidelines. The CDA standard specifies the structure of the document&#039;s textual format to ensure a standard for effective human interpretation, as well as optional structuring for software processing.
+
+Two functions are exposed by the CDA Guideline Validation API. The first takes no arguments and returns a list of CDA-based document specifications. The second takes a type of document (from the available validation types) and the content of a document as its arguments, and returns validation information as a response.
+government healthcare tools 
+Tools

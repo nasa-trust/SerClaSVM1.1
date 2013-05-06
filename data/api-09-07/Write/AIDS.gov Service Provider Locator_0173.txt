@@ -1,0 +1,7 @@
+HIV/AIDS testing and care information service
+AIDS.gov Service Provider Locator
+AIDS.gov is a government site dedicated to increasing HIV testing and care for those living with HIV or at-risk populations. The site provides access to Federal HIV information, policies (e.g. the National HIV/AIDS Strategy), programs, and resources.
+
+The site offers users the HIV/AIDS Prevention and Service Provider Locator, a location-based search tool that allows users to search for testing services, housing providers, health centers and other service providers near a given location. The API provides access to the same data that can be found using the tool: service provider names, addresses, phone numbers, locations and more, categorized by service type. It uses RESTful calls and responses are formatted in JSON and HTML.
+aids government health 
+Government

@@ -1,0 +1,10 @@
+UK postcodes service
+Deduktiv ebaas distance
+Ebaas distance is a web service of deduktiv consulting, which works with postcodes - only for the delivery, not for the post office box - based on geographic coordinates. Ebaas distance is available for all of Europe and offers the following functions, which may be integrated into user applications:
+
+Periphery search - postcode, location name and distances for the desired starting point will be returned.
+Localisation by means of postcode and/or location name.
+
+The API uses SOAP and XML-RPC protocol.
+deadpool postal reference uk 
+Reference

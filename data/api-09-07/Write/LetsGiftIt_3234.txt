@@ -1,0 +1,7 @@
+Group gifting service
+LetsGiftIt
+LetsGiftIt is a service for group gifting. It allows eCommerce and other product and service providers to offer group gifting as an option to buy the goods or services. Users can use LetsGiftIt to buy a gift for someone socially, with other people.
+
+The LetsGiftIt API allows developers to integrate LetsGiftIt functionality into other websites and eCommerce platforms. The main method of the API is creating and adding gifts, listing a title and description of the gift, and other details about the gift.
+affiliate gift retail shopping social 
+Retail

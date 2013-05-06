@@ -1,0 +1,7 @@
+Real-time public transit information
+NextBus
+NextBus provides data for transit authorities to deliver real-time information to their passengers via internet, touch-tone telephone, and SMS. Alerts are available through these methods, as well as through email.
+
+NextBus offeres a public XML feed accessible by RESTful calls for developers to use in third-party applications.
+aggregator bus transit 
+Transportation

@@ -1,0 +1,5 @@
+Online conversation monitoring service
+Skyttle
+Market Sentinel is a UK based company that provides clients with online conversation monitoring. Skyttle is Market Sentinel&#039;s text analytics engine. Skyttle extracts patters from textual data through the use of Natural Language Processing (NLP). The API can take text and turn it into constituent terms (meaningful expressions), entities (names of people, place and things), and sentiment terms. Languages supported are English, Spanish, French, German, Chinese, Swedish, Greek, Czech, Italian and Russian. The API uses RESTful calls and responses are formatted in JSON.
+monitoring sentiment social 
+Social

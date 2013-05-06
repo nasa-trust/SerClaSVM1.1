@@ -1,0 +1,7 @@
+Product feed service
+Skimlinks Product
+Skimlinks is a technology that helps users monetize online content by converting normal product links from thousands of retailers into their equivalent affiliate links. 
+
+Formerly known as EveryFeed, the Producct API offers a solution for publishers looking to make use of product feeds on their sites. Product is a simple REST based search API that lets users search on a number of facets such as product name, price and category. Responses are formatted in XML, JSON and PHP.
+affiliate shopping 
+Shopping

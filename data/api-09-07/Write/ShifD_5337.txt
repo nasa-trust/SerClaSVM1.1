@@ -1,0 +1,7 @@
+Content shifting between mobile and computer service
+ShifD
+ShifD is an application that allows users to move content back and forth between their mobile devices and computers. Content that can be shifted includes notes, contact information, and links.
+
+The ShifD API allows developers to access ShifD functionality. Example API methods include searching and retrieving content, such as notes, links, or contacts, adding content, deleting content, editing content, and accessing statistics for content and browsers.  
+deadpool mobile sync tools 
+Tools

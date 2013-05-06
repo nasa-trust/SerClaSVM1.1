@@ -1,0 +1,5 @@
+Shopping database services
+ShopStyle
+Use the ShopStyle API to search and filter fashion and living products from on ShopStyle&#039;s US and UK sites. Get looks created by ShopStyle members. Get data on popular brands. Monetization opportunities available.
+Fashion shopping 
+Shopping

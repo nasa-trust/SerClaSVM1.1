@@ -1,0 +1,5 @@
+Collaborative online mind mapping
+MindMeister
+From their site: Want to integrate MindMeister with your own app? Create maps and ideas on the fly using simple REST calls? This API allows anyone to write applications that interact with MindMeister. MindMeister supports all the standard features of a classic mind mapping tool - only online, and with as many simultaneous users as you like.
+brainstorm enterprise office sbweb 
+Office

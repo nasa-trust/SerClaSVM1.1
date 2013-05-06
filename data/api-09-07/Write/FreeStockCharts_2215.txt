@@ -1,0 +1,7 @@
+Stock and financial market data and charting service
+FreeStockCharts
+The service provides data and charts about stock market activity that can be incorporated in other sites. It builds charts and communicates data using Microsoft&#039;s Silverlight application. Charts and data functions work through widgets functional in all major browser platforms.
+
+API methods support embedding financial data streams such as stock tickers, reports of market index activity, foreign exchange market statistics, and charts of individual securities or market indexes. All are implemented as Javascript widgets places in webpage HTML code.
+financial stocks widgets 
+Financial

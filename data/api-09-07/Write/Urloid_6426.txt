@@ -1,0 +1,5 @@
+Short URL service
+Urloid
+From their site: Allows users to implement link optimization services into third party applications or services. The API is simple to use and can be customized with CSS or other HTML attributes.
+internet tools url-shortener utility 
+Utility

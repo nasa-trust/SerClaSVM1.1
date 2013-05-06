@@ -1,0 +1,7 @@
+Image matching and search
+LTU Engine/ON Demand
+LTU Technologies provides software for search, retrieval, classification, analysis, recognition and mining of images and videos. &quot;LTU engine/ON demand&quot; is a hosted software platform that provides access to LTU technologies&#039;  image matching and similarity search functionalities.
+
+The API allows developers to integrate their applications with &quot;LTU engine/ON demand&quot; services. It uses HTTP protocol.
+deadpool photo search semantic 
+Photos

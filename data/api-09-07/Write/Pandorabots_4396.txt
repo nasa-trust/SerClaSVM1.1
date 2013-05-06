@@ -1,0 +1,7 @@
+Chatbot community
+Pandorabots
+Pandorabots is the largest chatbot community on the internet with over 160,000 registered bot masters having created more than 200,000 pandorabots (&quot;chatbots&quot;) in multiple languages. Pandorabots appear on web pages, in instant messaging, and respond to email and forum posts. They can be found in Second Life, in online games, and in social networks such as Facebook and Twitter. Increasingly pandorabots are turning up in mobile applications and texting. Pandorabots support marketing and advertising and are used in education. 
+
+Pandorabots has an XML-RPC API for connecting third-party software to the bot hosting service. The API can be used to conenct Pandorabots to many third-party applications, including Mified, mIRC, Second Life and Flash. Developers interested in more information can contact sales@pandorabots.com.
+ai chat robots 
+Chat

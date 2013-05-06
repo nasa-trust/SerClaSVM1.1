@@ -1,0 +1,12 @@
+accelerometer 5
+determine 1
+device 2
+hardware 1
+mobile 3
+movement 1
+part 1
+position 1
+suite 1
+telephony 1
+underlie 1
+widget 3

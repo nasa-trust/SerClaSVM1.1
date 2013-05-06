@@ -1,0 +1,7 @@
+Google Buzz Search Engine
+Buzzzy
+Buzzzy is a search engine for Google Buzz. It gives users access to Buzz&#039;s real-time information without needing a GMail account. The service has its own take on search relevancy, including filters for time, location and source of status message. The Buzzzy API is a RESTful API that developers can use to integrate Buzzzy search data into their own applications.
+
+
+deadpool microblogging search 
+Search

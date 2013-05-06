@@ -1,0 +1,7 @@
+Call tracking and pay-per-call service
+Freespee
+Freespee is a call tracking and pay-per-call service based in Europe. Some features of Freespee&#039;s services include combining call metrics, call tracking and analytics, and integration into CRM and CMS platforms.
+
+The Freespee API allows developers to integrate and build on Freespee&#039;s functionality and access the information from Freespee.
+advertising analytics CRM telephony Voice 
+Telephony

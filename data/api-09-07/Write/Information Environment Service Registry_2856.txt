@@ -1,0 +1,5 @@
+Scholarly resource discovery and syndication service
+Information Environment Service Registry
+An academic &quot;Yellow Pages&quot; to support discovery and use of scholarly resources. Its catalog of information about electronic resources and research collections enables discovery of new resources and inclusion of content within other applications via web or machine interfaces. Content is multi-disciplinary, with particular strengths in the health and social sciences subject areas. Resource types include databases, datasets, bibliographic resources, e-learning materials, e-books, e-journals, repositories, research publications and image collections. 
+library museums search uk 
+Search

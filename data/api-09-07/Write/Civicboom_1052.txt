@@ -1,0 +1,7 @@
+News crowdsourcing platform
+Civicboom
+Civicboom is a news crowdsourcing platform that enables organizations to access news and rich media from their community or audience. Users can upload news and media that others have access to. 
+
+The Civicboom API allows developers to access the data and information from Civicboom. Some example API methods include accessing account and member information, invite and register new members to groups, and accessing content. 
+content crowdsourcing journalism media news 
+News

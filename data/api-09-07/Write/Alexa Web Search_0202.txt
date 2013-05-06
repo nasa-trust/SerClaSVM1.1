@@ -1,0 +1,7 @@
+Web Search Engine
+Alexa Web Search
+Note: As of November 2008 this service is being deprecated by Amazon and no new accounts will be granted. 
+
+Programmatic access to Alexa&#039;s web search engine. Developers can use this service to incorporate search results directly into their web sites or services. 
+deadpool search 
+Search

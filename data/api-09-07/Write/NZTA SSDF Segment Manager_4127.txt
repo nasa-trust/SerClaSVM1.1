@@ -1,0 +1,7 @@
+New Zealand traffic volume monitoring service
+NZTA SSDF Segment Manager
+The web service estimates travel time within segments of the New Zealand State Highway Network based on traffic flow measurements as well as the total time required to complete a specified journey across segments. 
+
+The service API accepts input of a location and returns data about the highway segment, including average traffic speed, default speed, and vehicle occupancy. The API also lists journeys including that segment and sums segment time to calculate total journey travel time.
+newzealand traffic transportation 
+Transportation

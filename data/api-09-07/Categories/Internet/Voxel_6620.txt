@@ -1,0 +1,15 @@
+billing 1
+cloud 2
+company 1
+content 1
+dedicate 1
+delivery 1
+entire 1
+host 5
+infrastructure 1
+internet 2
+management 1
+monitoring 1
+private 2
+public 1
+reporting 1

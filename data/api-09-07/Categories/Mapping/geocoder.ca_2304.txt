@@ -1,0 +1,16 @@
+address 2
+canada 4
+code 1
+forward 1
+functionality 1
+integrate 1
+intersection 1
+location 1
+mapping 2
+port 1
+real 1
+reverse 1
+street 2
+strive 1
+usa 2
+zip 1

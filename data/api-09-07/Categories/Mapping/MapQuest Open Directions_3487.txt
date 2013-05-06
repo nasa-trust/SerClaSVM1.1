@@ -1,0 +1,15 @@
+bike 1
+datum 1
+direction 5
+driving 2
+latitude 1
+longitude 1
+mapping 2
+open 2
+point 1
+result 1
+route 1
+transit 1
+two 1
+version 1
+walking 1

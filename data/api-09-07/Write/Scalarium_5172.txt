@@ -1,0 +1,5 @@
+Cloud hosting service
+Scalarium
+Scalarium is a cloud hosting service that aims to help fulfill their clients' hosting needs through server management and associated services. Scalarium's servers are hosting using Amazon's EC2 cloud platform. Scalarium offers auto-scaling, server monitoring, logging and reporting, and technical support. A range of pricing options are available, as users pay per server per hour based on server type.
+internet cloud hosting
+Internet

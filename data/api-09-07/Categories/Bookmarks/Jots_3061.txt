@@ -1,0 +1,5 @@
+appear 2
+bookmark 3
+jot 1
+longer 1
+social 1

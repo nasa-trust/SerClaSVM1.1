@@ -1,0 +1,5 @@
+Visual CAPTCHA service
+I'm Human
+The I'm Human API is "where humanity wins the fight against machines," according to elxsy.com, the provider of the service. I'm Human is a visual CAPTCHA service which responds with a word, a grid of up to 25 images and the grid numbers which correspond to the correct answers. Humans must select the images that match the words and your application compares the results to the correct answer from the I'm Human API. 
+captcha security
+Security

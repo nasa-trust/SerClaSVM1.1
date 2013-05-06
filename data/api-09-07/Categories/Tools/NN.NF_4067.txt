@@ -1,0 +1,14 @@
+character 1
+create 1
+internet 1
+message 1
+relate 1
+save 1
+short 1
+shortener 1
+shortening 1
+space 1
+tool 1
+twitter 1
+url 3
+utility 1

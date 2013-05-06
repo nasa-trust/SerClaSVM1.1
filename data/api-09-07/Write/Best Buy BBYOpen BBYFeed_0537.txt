@@ -1,0 +1,7 @@
+eCommerce shopping services
+Best Buy BBYOpen BBYFeed
+BBYOpen is Best Buy???s effort to open their sets of data. The data made available includes items being sold, company knowledge and services offered  in an effort to encourage developers to build relevant apps. BBYOpen offers new sources of data, access to BETA APIs, promotion of apps built using BBYOpen APIs, tools to help get started, and incentive models to reward developer work.
+
+The BBYFeed API provides access to data learned from customer and associate interactions. It creates, collects and monitors conversations about the things sold by Best Buy within a single and technology-agnostic feed. Currently used to power internal Best Buy applications. In private beta for external developers.
+analytics feeds shopping 
+Shopping

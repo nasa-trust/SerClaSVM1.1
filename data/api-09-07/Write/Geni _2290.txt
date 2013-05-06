@@ -1,0 +1,5 @@
+Genealogy Service
+Geni 
+Geni is a website centered around genealogy. Users can create their family tree, and invite relatives to help. The Geni API provides the API users with access to Geni&#039;s data. If the data is public, no API key is required to access it. Only private data requires authentication to access. Data is returned in JSON or XML format.
+family genealogy 
+Other

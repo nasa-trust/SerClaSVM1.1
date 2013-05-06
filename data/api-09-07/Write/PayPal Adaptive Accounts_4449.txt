@@ -1,0 +1,5 @@
+Online payment service
+PayPal Adaptive Accounts
+The PayPal Adaptive Accounts API allows users to create applications with built-in account management features. Using the API developers can create a PayPal Business account, add a bank account or a credit card as funding sources for PayPal accounts and verify a PayPal account status. The API uses both RESTful and SOAP protocol and responses can be formatted as XML, JSON or NVP.
+finance payment 
+Payment

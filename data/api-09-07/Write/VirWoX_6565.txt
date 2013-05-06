@@ -1,0 +1,5 @@
+Virtual world currency exchange services
+VirWoX
+Use the VirWoX API to exchange virtual currencies (such as Linden Dollars of Second Life) for real money, or to read live market data. Access this Virtual World Exchange and use the VirWoX server for your own app, or build new apps that require automatic access to a virtual currency exchange.
+3d currency games social 
+Financial

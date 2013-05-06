@@ -1,0 +1,5 @@
+Bing webmaster data service
+Bing Webmaster Tools
+The Bing Webmaster Tools API provides a variety of tools for analysis and data capture to help web developers leverage data gathered by Bing in a programmatic fashion. The API gives webmasters structured access to data gathered by the various Bing Webmaster Tools, allowing the data to be used in other programs and applications.
+analytics internet 
+Internet

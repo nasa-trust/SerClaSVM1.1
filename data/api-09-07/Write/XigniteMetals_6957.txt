@@ -1,0 +1,5 @@
+Real-time precious metals prices
+XigniteMetals
+Real-time spot prices for precious metals, such as gold, silver, platinum, and palladium, and also for collectible gold coins. As quoted from London Fixings and OTC markets.
+enterprise finance money 
+Financial

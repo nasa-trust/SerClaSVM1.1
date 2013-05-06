@@ -1,0 +1,5 @@
+Forward and Reverse Geocoding Service
+CloudMade Geocoding
+Converts addresses into a latitude and longitude point, useful for maps or for plugging into other mapping APIs, such as the CloudMade NavEngine for directions between two points. CloudMade is built upon OpenStreetMap data.
+address geocoding mapping openstreetmap 
+Mapping

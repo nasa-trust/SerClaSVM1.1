@@ -1,0 +1,5 @@
+Blog authoring extension services
+Zemanta
+The Zemanta API brings contextually relevant content from around the web to you as you type. The web service API brings finds related Articles, Images, Hyperlinks and Tags right to your app. Use the API to get your custom preferences and to query Zemanta for contextual metadata on a given text. There are four main components of a response: articles, keywords, images, in-text links. 
+blog recommendations search semantic tagging 
+Blogging

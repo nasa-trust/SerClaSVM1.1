@@ -1,0 +1,9 @@
+Vehicle specification data service
+DataOne VIN decoder
+The web service gives access to full vehicle specification data with submission of a 17-digit vehicle identification number (VIN). The XML document returned may contain hundreds of fields describing: basic vehicle identification, engine and transmission options, installed and optionally available equipment, technical specifications, warranties, colors, original pricing, and U.S. EPA estimated MPG.
+
+
+
+
+auto transportation vin 
+Transportation

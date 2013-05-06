@@ -1,0 +1,5 @@
+Database search for biological sequences similarities
+EBI NCBI BLAST
+NCBI BLAST is a similarity search program for protein and nucleotide sequences. The emphasis is to find regions of similarity that can yield clues about the structure and function of the given sequence. The European Bioinformatics Institute makes NCBI BLAST available as an API via SOAP or REST protocols.
+bioinformatics science 
+Science

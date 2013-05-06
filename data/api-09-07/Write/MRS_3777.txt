@@ -1,0 +1,5 @@
+Biological and medical database search service
+MRS
+MRS is a search service for biological and medical databases such as EMBL, Genbank, Interpro, PDB, and Swiss-Prot. It allows users to cover well over a terabyte of indexed text in a single search. The current version of MRS-5 is written in C++. The MRS search engine can be accessed programmatically via SOAP APIs.
+database medical science search 
+Medical

@@ -1,0 +1,5 @@
+Cloud infrastructure management service
+Enstratus
+enStratus is a cloud infrastructure management solution for deploying and managing enterprise-class applications in public, private and hybrid clouds. enStratus&#039; web services API provides a way for customers to make authenticated calls against enStratus from existing applications or third-party tools. The API uses RESTful protocol and response are formatted in either XML or JSON. 
+cloud enterprise management 
+Enterprise

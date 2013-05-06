@@ -1,0 +1,5 @@
+Job and Invoice Management
+WorkflowMax
+WorkflowMax is a flexible web-based program for business Job and Invoice management. WorkflowMax can be used for Project Management and also has the ability to make Quotes, Purchase Orders, and Reports. The WorkflowMax API is a RESTful API that allows developers to integrate WorkflowMax into their own systems using XML Data format. 
+invoicing office time-tracking 
+Office

@@ -1,0 +1,7 @@
+Medical office appointment reminder & message service
+Doctor Dial
+The service provides voice messaging to meet needs of medical offices to communicate with patients. It sends appointment reminders with recordings of office staff familiar to patients, for consistent communication and ongoing relationships. 
+
+API methods support adding a patient to the messaging queue as well as viewing and updating the patient&#039;s notification status. Message delivery is controlled in the service&#039;s account control panel rather than by API settings.
+appointments medical messaging 
+Medical

@@ -1,0 +1,14 @@
+activity 1
+event 1
+feature 1
+feed 1
+fitness 1
+goal 1
+health 1
+interface 1
+like 1
+much 1
+network 1
+run 1
+sport 2
+tracking 1

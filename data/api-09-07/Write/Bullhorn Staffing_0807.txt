@@ -1,0 +1,5 @@
+Job recruiting info service
+Bullhorn Staffing
+Bullhorn is a technology company that provides end to end solutions for staffing and recruiting agencies.The Bullhorn API provides programmatic access to data in the Bullhorn system. With it developers can integrate the system with related applications. The API offers a number of functionalities including: resume parsing, candidate lookup, add jobs, retrieve files and more. The API uses SOAP protocol and responses are formatted in XML.
+jobs recruiting 
+Job Search

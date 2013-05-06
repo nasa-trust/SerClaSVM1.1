@@ -1,0 +1,5 @@
+Location-specific realtime data sharing service
+Microsoft SensorMap DataHub
+SensorMap is a tool created by Microsoft to allow non-tech-savvy users to easily publish their data online in a format that is simple to query and is compatible with other data types. The Microsoft SensorMap DataHub API allows users to make realtime data available or to retrieve data from SensorMap.
+mapping science 
+Mapping

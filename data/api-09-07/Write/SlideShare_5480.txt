@@ -1,0 +1,5 @@
+Presentation sharing community
+SlideShare
+From their site: SlideShare is the world&#039;s largest community for sharing presentations on the web.  The current API is based upon the REST model and allows you to perform the following actions: Uploading Presentation(s), Retrieving EmbedCode for Slideshow(s), Retrieving Slideshows for User(s), Retrieving Slideshows for Tag(s), Retrieving Slideshows for Group(s)
+enterprise office 
+Office

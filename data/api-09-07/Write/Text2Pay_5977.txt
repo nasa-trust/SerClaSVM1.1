@@ -1,0 +1,7 @@
+Payment by text service
+Text2Pay
+Text2Pay is a mobile commerce service that allows users to pay for goods and services via text, rather than with a credit card. Merchants can integrate Text2Pay with their POS or other payment software to allow their customers to pay with Text2Pay.
+
+The Text2Pay API allows developers to access and integrate the functionality of Text2Pay with other applications and POS systems. Public documentation is not available; interested developers should sign up here: http://text2pay.com/merchants/register. API access comes with a merchant account.
+mcommerce mobile payment 
+Payment

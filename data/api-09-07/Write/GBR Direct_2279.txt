@@ -1,0 +1,7 @@
+European business activity data service
+GBR Direct
+The Irish service gives unified access to listings in national registers of business organizations across Europe. It establishes a network of business registers separately maintained by both official national registration authorities and private registries. This network simplifies access to officially submitted company information to allow comparison of results. 
+
+API methods support single-point access to registries of business organizations across Europe. Returned data reflect officially required reporting by EU companies.
+business comparison europe search 
+Search

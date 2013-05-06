@@ -1,0 +1,7 @@
+Online flipbook creation and management service
+UniFlip
+Uniflip is a self service publishing system providing epublishing and file conversion services for clients wishing to create and publish a PDF flipbook. Uniflip can convert your personal or company&#039;s print resources into an interactive media package that is flippable and can be hosted through UniFlip or the client&#039;s own, personal server.
+
+The API allows developers to upload files, utilize publication lists, and gather publication information through a few, simple GET and POST HTTP-based API calls. The user can also create and post and edit publications to UniFlip, activate licenses, and more.
+media-management publishing 
+Media Management

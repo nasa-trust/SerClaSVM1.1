@@ -1,0 +1,5 @@
+SMS messaging service
+Mozes
+Mozes is the leader in mobile engagement around music, sports, entertainment and causes. The Developer API provides a way to use Mozes keywords to interface with systems. First, set a Dynamic Content URL which specifies the location of your script. Then, whenever your keyword is texted, your script will be called with the input from the text message.
+messaging mobile sms telephony usa webhooks 
+Messaging

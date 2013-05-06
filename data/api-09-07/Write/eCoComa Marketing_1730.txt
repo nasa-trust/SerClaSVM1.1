@@ -1,0 +1,5 @@
+Online marketing service
+eCoComa Marketing
+The eCoComa Marketing API provides users with access to methods for search engine marketing (both search engine optimization and pay per click advertising), banner advertising, e-mail marketing, affiliate marketing, interactive advertising, and email advertising. This API is accessible via SOAP calls using the XML data format.
+advertising email marketing SEO 
+Advertising

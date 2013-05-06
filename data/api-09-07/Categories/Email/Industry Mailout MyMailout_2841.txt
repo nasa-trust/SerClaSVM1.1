@@ -1,0 +1,14 @@
+account 1
+delivery 3
+email 6
+industry 3
+integrate 1
+list 1
+logging 1
+mailing 1
+management 3
+marketing 3
+operations 1
+soap 1
+subscriber 1
+support 1

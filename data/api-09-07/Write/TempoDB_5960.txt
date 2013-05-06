@@ -1,0 +1,7 @@
+Time-series data database and analytics platform
+TempoDB
+TempoDB is a database and platform for time-series data storage, reporting, and analytics. TempoDB offers data visualization and analysis tools, storage and hosting options, and reporting features.
+
+The TempoDB API allows developers to access and integrate the functionality of TempoDB with other applications. Some example API methods include retrieving data by time period, adding data, and managing data series.
+analytics Data database visualization 
+Database

@@ -1,0 +1,11 @@
+Realtime recipe aggregator service
+Punchfork Recipe
+Punchfork monitors real-time conversations across social networks to bring users recipes that are currently being talked about. The recipe data comes from food blogs and recipe sites all around the web. The Punchfork API lets users integrate recipes into their website or app by providing direct access to recipe data from all publishers in the database. Possible uses for the API include:
+    *Display recipes for a particular dish or containing specific ingredients.
+    *Get a real-time feed of the newest recipes discovered by Punchfork.
+    *See the top-rated recipes from a particular blogger or publisher.
+    *Generate semantic search indexes for your own recipes.
+
+The API uses RESTful calls and responses are formatted in JSON.
+food recipes 
+Food

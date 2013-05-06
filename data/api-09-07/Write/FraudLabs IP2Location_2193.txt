@@ -1,0 +1,5 @@
+Geolocate by IP address service
+FraudLabs IP2Location
+The IP2Location Geolocation Web Service is a hosted, programmable XML Web Service that allows instant identification of online visitors&#039; geographical location by using their IP address. The IP2Location Geolocation Web Service returns geographic information such as country, region, city, latitude, longitude, ISP and domain name. FraudLabs develops, markets and supports a scoring system online for online credit card transactions. The API uses SOAP protocol and responses are formatted in XML.
+geolocation IP location 
+Tools

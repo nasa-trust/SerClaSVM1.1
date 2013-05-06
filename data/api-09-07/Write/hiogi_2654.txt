@@ -1,0 +1,5 @@
+Questions and answers service for mobile
+hiogi
+hiogi.com is a convenient mobile search based on the knowledge of a worldwide community. Users ask questions and get answers via SMS. Use the API to access the database of answered questions, unanswered questions, add new questions, and manipulate a user account.
+answers deadpool mobile social 
+Answers

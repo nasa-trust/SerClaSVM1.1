@@ -1,0 +1,15 @@
+artist 1
+collaboration 1
+company 2
+freelance 1
+interface 1
+job 3
+medium 3
+member 1
+organization 1
+partner 1
+remote 2
+search 2
+supporting 1
+system 1
+variety 1

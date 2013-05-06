@@ -1,0 +1,17 @@
+baas 1
+cloud 2
+create 3
+datum 1
+deploy 1
+example 1
+functionality 1
+host 1
+integrate 1
+listing 1
+manage 2
+method 1
+mobile 4
+production 1
+resource 3
+sandbox 1
+solution 1

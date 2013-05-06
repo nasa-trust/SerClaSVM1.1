@@ -1,0 +1,17 @@
+cancel 1
+create 1
+finance 1
+item 1
+java 1
+links 1
+monetize 1
+money 2
+over 1
+payment 2
+purchase 2
+query 1
+social 1
+status 1
+transaction 1
+transactions 2
+transfer 2

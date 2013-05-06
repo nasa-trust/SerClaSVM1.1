@@ -1,0 +1,9 @@
+Add product pages and ads to blogs
+Wishpot Publisher
+Wishpot is a social shopping service that lets users save and share things they find in stores or online. The items are then organized using online lists or registries that can be shared with others.
+
+The Wishpot publisher API enables publishers to display and monetize products in their web and mobile properties. The API provides access and optimization for all the top CPC and CPA based product providers.
+
+
+blogging ecommerce mobile monetization social 
+Blogging

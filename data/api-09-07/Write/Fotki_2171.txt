@@ -1,0 +1,9 @@
+Photo sharing service
+Fotki
+Fotki is a free photo hosting and sharing site that also provides users with photo printing services. Fotki allows its users to browse photos by category, and recently added support for adding videos to albums. Fotki also a social aspect, allowing users to add friends with similar photography interests.
+
+The Fotki API provides programmatic access to many of Fotki&#039;s services, specifically those relating to adding or managing photos, and retrieving information about a photo or set of photos.
+
+This is a RESTful API with XML or JSON return types. Multiple API keys are needed to access all Fotki API methods, and keys must be acquired by contacting Fotki via email.
+photo social 
+Photos

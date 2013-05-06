@@ -1,0 +1,7 @@
+URL shortening tool
+Sapo PunyURL
+SAPO is a Portuguese Internet service provider whose main web site acts as a web portal featuring a directory of Portuguese sites. SAPO Services provides a large suite of web services and applications to developers worldwide.
+
+The PunyURL service is a URL shortening tool. Users can submit a URL and it returns two URLs, one in unicode based on RFC3492 of PunyCode and the other with alphanumeric characters in lowercase. Users can also retrieve the original expanded URL for a given short URL. The API uses RESTful calls and responses are formatted in JSON.
+internet tools url-shortener 
+Tools

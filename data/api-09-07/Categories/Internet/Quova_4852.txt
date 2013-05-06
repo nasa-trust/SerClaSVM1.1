@@ -1,0 +1,14 @@
+build 1
+claim 1
+datum 1
+desktop 1
+devices 1
+intelligence 1
+internet 1
+ip 4
+mapping 1
+mobile 1
+own 1
+plug 1
+power 1
+world 1

@@ -1,0 +1,5 @@
+Video streaming service
+Mydeo Media Manager
+The m3 API accesses the Mydeo media manager. You can upload video and other media, collect viewer statistics and deliver your files over a global CDN. Mydeo facilitates content tagging and integrated reporting.
+streaming video 
+Video

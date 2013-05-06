@@ -1,0 +1,5 @@
+Face Recognition
+Face.com
+The face.com API offer services for detecting, recognizing, and tagging faces in any photo, through a REST API. Developers can tag and recognize users from Facebook or Twitter. Alternatively, you can train our index with your own set of users in a private namespace. Saving Facebook and Twitter tags improves recognition for you and others, and it qualifies you for better rate limits. 
+deadpool face photo recognition 
+Photos

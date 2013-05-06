@@ -1,0 +1,17 @@
+celebrity 1
+choose 1
+chuck 5
+collection 1
+entertainment 3
+fetch 1
+fun 1
+internet 2
+joke 5
+large 1
+may 1
+norris 4
+one 1
+public 1
+replace 1
+retrieve 2
+specific 1

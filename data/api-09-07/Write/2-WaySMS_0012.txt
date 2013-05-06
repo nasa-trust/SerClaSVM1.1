@@ -1,0 +1,5 @@
+SMS messaging service
+2-WaySMS
+With the 2-WaySMS, users can re-send every incoming message to a specified script (via HTTP-POST request) or e-mail, and  save it into the virtual inbox of the number owner. 2-WaySMS provides a reliable channel for incoming and outgoing data, communications and partnerships, independent of the weather, time, or distance. The API uses SMPP or HTTP protocol.
+Global messaging sms telephony 
+Messaging

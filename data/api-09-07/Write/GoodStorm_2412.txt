@@ -1,0 +1,5 @@
+Online retail ecommerce
+GoodStorm
+From their site:  We are mashup developers ourselves, so we understand the need for more good APIs. The MeCommerce API is pretty simple at this point: you can query our product catalog to find hundreds of thousands of books, non-DRMed MP3s, CDs, DVDs, and video games. Go do something creative with this data. You can add a link to each product to let your visitors buy whatever they want, and you will receive 50% of the profits. Sign up for MeCommerce then get your developer key and get started. The best part is that developers can use GoodStorm&#039;s purchasing system to allow their visitors to buy or sell any of the products in their mash-ups -- all with GoodStorm&#039;s generous and open profit sharing on every product sold. Developers can set their own prices and decide how much revenue they want to earn. GoodStorm provides the inventory management, shipping, logistics, and billing for all transactions. 
+shopping 
+Shopping

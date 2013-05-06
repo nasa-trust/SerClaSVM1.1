@@ -1,0 +1,12 @@
+broadcaster 2
+browse 1
+end 1
+live 2
+retrieve 1
+search 1
+share 1
+show 3
+specific 1
+start 1
+streaming 2
+video 4

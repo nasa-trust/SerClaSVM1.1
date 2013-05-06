@@ -1,0 +1,5 @@
+EPA monitoring station information service
+EPA Station Catalog
+The EPA&#039;s Station Catalog API provides a summary of information on water quality monitoring stations such as the station&#039;s name, period of record, and result counts by characteristic type. This API operates over both SOAP and HTTP GET protocols.
+environment government science water 
+Science

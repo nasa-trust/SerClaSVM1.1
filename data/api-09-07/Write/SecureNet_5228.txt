@@ -1,0 +1,7 @@
+Online credit card and ACH payment service
+SecureNet
+The service provides a secure payment platform for integration with applications needing checkout functions for credit card and ACH (automated clearing house) transactions. Existing shopping cart packages already integrate with the service, creating a range of solutions for applications.
+
+API methods support submission of customer identity and payment information, either credit card number, expiration, etc., or bank account information for ACH transactions. Transaction submissions can also specify product specific information for the hotel, auto rental, and other industries.
+ecommerce payment shopping 
+Payment

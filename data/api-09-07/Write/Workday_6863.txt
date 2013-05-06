@@ -1,0 +1,5 @@
+ERP business services
+Workday
+From their site: Workday Web Services (WWS) provide developers with access to Workday?s robust business services via standards-based web services. These web services provide operations for interaction with many critical areas of Workday, including benefits, organization, payroll, and recruiting. Currently, you must be a Workday customer or Certified Integration Partner in order to use WWS.
+enterprise 
+Enterprise

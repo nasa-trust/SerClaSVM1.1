@@ -1,0 +1,14 @@
+get 1
+http 1
+links 1
+message 2
+messaging 1
+mobile 2
+over 1
+plain 1
+push 1
+send 1
+sm 2
+telephony 1
+text 2
+trigger 2

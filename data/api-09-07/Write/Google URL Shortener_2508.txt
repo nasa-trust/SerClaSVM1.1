@@ -1,0 +1,5 @@
+URL shortening service
+Google URL Shortener
+The Google URL Shortener takes long URLs and creates short links on the goo.gl domain name. The REST-based API requires authentication with an API Key and Auth Token (OAuth).
+internet url-shortener utility 
+Utility

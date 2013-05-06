@@ -1,0 +1,16 @@
+content 2
+generate 2
+interact 1
+interface 1
+make 2
+moderate 2
+own 1
+picture 1
+post 1
+social 2
+text 1
+tool 1
+twitter 1
+video 1
+who 1
+wish 1

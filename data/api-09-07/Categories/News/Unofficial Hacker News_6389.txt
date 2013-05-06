@@ -1,0 +1,7 @@
+blessing 1
+bookmark 1
+comment 2
+hacker 3
+news 6
+story 1
+vote 1

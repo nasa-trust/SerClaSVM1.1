@@ -1,0 +1,5 @@
+Job search services
+Simply Hired Jobs
+From their site: Job Search XML API by SimplyHired.com. This API gives developers access to all 7 million job listings on the web and Simply Hired&#039;s extensive advanced search capabilities. Select partners are eligible for an affiliate program, which pays every time a visitor clicks a sponsored job. For API access and documentation, send an email to the address provided.
+jobs 
+Job Search

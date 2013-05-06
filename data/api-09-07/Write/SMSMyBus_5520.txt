@@ -1,0 +1,7 @@
+Madison transit service
+SMSMyBus
+SMSMyBus provides transit arrival times to bus riders in Madison, Wisconsin. The service is unofficial, provided by a developer who wanted the data for a text-driven transit application. This unofficial API provides access to schedules, routes, locations and notifications. Developers can use the API to create Madison transit applications.
+
+Functions include finding stops near a location, providing the position of vehicles in real-time, locating specific routes, determining the next times at a stop and communicating important service bulletins.
+location transit travel unofficial wisconsin 
+Transportation

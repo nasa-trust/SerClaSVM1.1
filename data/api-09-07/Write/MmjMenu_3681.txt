@@ -1,0 +1,5 @@
+Marijuana Dispensary Management Service
+MmjMenu
+MmjMenu provides medical marijuana dispensaries with a point of sale system, a patient management service, and inventory tracking. The MmjMenu API enables users to view active menu items excluding on-hold items, list on-hold items, list unconfirmed patients, and view other information. The Service uses REST calls over SSL and uses API Tokens for authentication. 
+drugs Inventory pos retail 
+Retail

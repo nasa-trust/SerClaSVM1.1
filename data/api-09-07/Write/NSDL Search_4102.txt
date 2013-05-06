@@ -1,0 +1,5 @@
+Online science library
+NSDL Search
+The Digital Discovery System (DDS) of the National Science Digital Library (NSDL) is an online library devoted to digital resources related to science, technology, engineering, and math. General, K-12, and higher education resources are available. A search API provides access to the repository. The API is a REST-RPC hybrid, returning responses in XML and JSON.
+library reference Repository science 
+Science

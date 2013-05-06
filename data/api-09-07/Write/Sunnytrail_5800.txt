@@ -1,0 +1,5 @@
+Small business analytics service
+Sunnytrail
+Sunnytrail is an analytics service that helps small and medium companies that sell subscriptions (such as SaaS companies) to track profitability metrics effortlessly. Sunnytrail offers a secure API that companies can use to send transitions in their userbase (signups, plan upgrades, plan downgrades, plan cancellations) in real time. Business owners can follow the evolution of their businesses via a simple interface. Public documentation of the API is not available.
+analytics enterprise metrics saas 
+Enterprise

@@ -1,0 +1,15 @@
+call 1
+choice 1
+code 4
+color 1
+customize 1
+free 1
+functionality 1
+generator 4
+integrate 1
+own 1
+redundancy 1
+size 1
+system 1
+tool 2
+utility 2

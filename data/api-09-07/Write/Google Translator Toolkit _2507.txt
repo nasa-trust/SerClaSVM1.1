@@ -1,0 +1,7 @@
+Document translation service
+Google Translator Toolkit 
+Translator Toolkit is a WYSIWYG editor that enables translators to bring a human touch to machine translation through translation search, bilingual dictionaries, and custom terminology databases. Users can share their translations with other users and download others&#039; translations onto their own desktop.
+
+The Google Translator Toolkit Data API allows client applications to access and update translation-related data programmatically. This includes translation document, translation memory, and glossary data stored with Google Translator Toolkit.
+editor machine Translation 
+Tools

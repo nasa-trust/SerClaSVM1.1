@@ -1,0 +1,5 @@
+Library knowledge base access
+OCLC QuestionPoint
+The OCLC is a nonprofit computer library service and research organization which maintains WorldCat, a global network of library content. The QuestionPoint API gives developers access to the QuestionPoint knowledge base; a collection of Q&A pairs contributed by nearly 500 libraries worldwide. Functionality includes giving developers search access to QuestionPoint Q&A pairs, returning questions that match the query and accessing a specific Q&A pair with metadataQuestion ID. The API uses RESTful calls and responses are formatted in XML, JSON, HTML and TXT.
+education library questions 
+Education

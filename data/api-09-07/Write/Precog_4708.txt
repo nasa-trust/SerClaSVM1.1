@@ -1,0 +1,5 @@
+Application building platform
+Precog
+Precog is an application building platform. Precog&#039;s APIs allow developers to access the functionality of Precog to build, support, store, and analyze features and applications. Some of the API methods include managing jobs, user account management, and retrieving lists and specified paths.
+application baas backend mobile platform 
+Backend

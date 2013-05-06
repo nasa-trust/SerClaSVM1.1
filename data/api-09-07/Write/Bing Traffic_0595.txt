@@ -1,0 +1,5 @@
+Traffic information service
+Bing Traffic
+The Bing Traffic API provides information about traffic incidents and issues, such as construction sites and traffic congestion. Traffic incident information is currently available for the United States and Canada. Users can also get information about traffic issues that met the criteria specified in the URL request, such as map area, incident type and severity. The API uses RESTful calls and responses are formatted in XML and JSON.
+traffic travel 
+Travel

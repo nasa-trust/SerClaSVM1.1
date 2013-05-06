@@ -1,0 +1,7 @@
+Online retail shopping
+Shopping.com
+With the Shopping.com API you can integrate relevant product content with the deepest product catalog available online. Add millions of unique products and merchant offers to your site. Shopping.com, an eBay company, is the world???s online comparison shopping service leader. It&#039;s global websites (Shopping.com, DealTime, and DoorOne) carry one of the world???s largest product catalogs and offers from more than 6000 merchants.
+
+The Shopping.com XML API uses a RESTful interface and can be used to feature dynamic Shopping.com content on your web pages. It offers capabilities such as keyword search, refining and sorting search results, finding product reviews, reading product specs, comparing products and prices from different merchants and controlling the number of results and navigating between pages.
+shopping 
+Shopping

@@ -1,0 +1,5 @@
+Web-based Click to Call Service
+Telenor Click to Call
+The Telenor SOAP-based Click to Call API is one of the APIs related to the Telenor Service Gateway. This APIs allows developers to create applications that allow users to initialize calls to a phone number from the web (on either a computer or mobile phone).
+mobile telephony Voice 
+Telephony

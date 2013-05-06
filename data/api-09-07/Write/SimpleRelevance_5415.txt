@@ -1,0 +1,5 @@
+Personalized business communications service
+SimpleRelevance
+SimpleRelevance offers communications solutions for businesses. Their service analyzes businesses??? customers and inventory to design individually customized messages and recommendations. Businesses can upload significant information from Magento, MailChimp, and other sources to SimpleRelevance with established integration channels. The SimpleRelevance API exposes the information management functionality of their analytical engine. It is a RESTful API that returns JSON formatted data. 
+business communication messaging 
+Messaging

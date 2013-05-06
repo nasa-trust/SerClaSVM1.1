@@ -1,0 +1,7 @@
+Online ordering service
+OLO
+OLO is an online ordering platform that can be integrated with point-of-sale (POS) systems. Users can use OLO to offer online ordering on their websites and mobile applications.
+
+The OLO API allows developers to access and integrate the functionality of OLO with other applications and to create new features. Public documentation is not available, but the API is open to developers to integrate and build applications. Interested developers should email info@olo.com for more information.
+ordering payment pos restaurant 
+Payment

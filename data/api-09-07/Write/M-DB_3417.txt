@@ -1,0 +1,5 @@
+Database service
+M/DB
+M/DB is a plug-compatible alternative to the Amazon SimpleDB. Outwardly, it behaves identically to SimpleDB, being accessed through the same REST APIs and returning identical responses. The only difference in use is that REST requests are directed at a different domain name or IP address.
+database 
+Database

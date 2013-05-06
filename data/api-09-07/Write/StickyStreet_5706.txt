@@ -1,0 +1,5 @@
+Loyalty & Customer Management System
+StickyStreet
+StickyStreet is a SaaS (Software as a Service) application providing loyalty, stored value, and membership tracking, management, and marketing services to small and medium sized businesses all over the world. The StickyStreet API can be used to programmaticaly access data from the StickyStreet service.
+coupons shopping 
+Shopping

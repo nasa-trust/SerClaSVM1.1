@@ -1,0 +1,7 @@
+Web content search service
+mBLAST mPACT
+mPACT is a service that allows users to search for articles, tweets, blogs, and other web content based on keywords.
+
+The mPACT API allows developers to access and integrate the functionality of mPACT with other applications. Some example API methods include searching for articles and blogs based on keywords, searching social media by keywords, and searching for authors by keywords.
+blog content media search social 
+Search

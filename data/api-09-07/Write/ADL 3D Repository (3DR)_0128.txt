@@ -1,0 +1,7 @@
+3D model database
+ADL 3D Repository (3DR)
+The Advanced Distributed Learning (ADL) 3D Repository (3DR) is a website for uploading, finding, and downloading 3D models of the file types .fbx, .dae, .obj, .skp, and .3ds. Services are also available for extracting metadata and other information, converting models between file types, and viewing models. 
+
+The RESTful ADL 3DR API gives developers access to the models, exposing functions in JSON and XML. 
+3d database government model 
+Database

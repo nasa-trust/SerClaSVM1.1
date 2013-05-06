@@ -1,0 +1,5 @@
+Gaming platform
+LandGrab
+LandGrab is an easy-to-play game that connects friends, families, and complete strangers in amiable games of cut-throat world domination. You can create public or private games. The API provides access to the functionality behind the web interface. 
+games
+Games

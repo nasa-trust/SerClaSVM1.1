@@ -1,0 +1,12 @@
+chart 4
+create 1
+creation 1
+custom 1
+date 1
+datum 1
+enterprise 1
+finance 2
+price 1
+specify 1
+stock 3
+volume 1

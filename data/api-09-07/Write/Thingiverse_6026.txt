@@ -1,0 +1,7 @@
+Digital design sharing platform
+Thingiverse
+Thingiverse is an online platform for people to create, share, edit, and produce their digital designs. Users can share their designs, get feedback, and connect to resources to create their designs.
+
+The Thingiverse API allows developers to access and integrate the functionality of Thingiverse with other applications and to create new applications. The available API method is uploading files.
+3d design digital product tools 
+Other

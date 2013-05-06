@@ -1,0 +1,10 @@
+close 1
+datum 1
+december 1
+details 1
+home 1
+medium 1
+open 2
+page 1
+see 1
+storage 4

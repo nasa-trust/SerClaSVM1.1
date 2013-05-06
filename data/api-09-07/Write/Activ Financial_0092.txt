@@ -1,0 +1,5 @@
+Financial market data services
+Activ Financial
+Use any of the five APIs to access ACTIV&#039;s technology: ActivFeed API, ActivContentServer API, ActivServerContribution API, ActivClientContribution API, or ActivMiddleware API. Use the ActivFeed API to get a variety of market data, including current prices, time-series, fundamental data, and news. Use the ActivContentServer API to get multicast streams, and it can accommodate high-bandwidth needs. Contact to obtain documentation.
+enterprise finance 
+Enterprise

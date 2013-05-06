@@ -1,0 +1,5 @@
+Video community platform
+MediaCore
+MediaCore is a cloud based media publishing platform that lets users create, customize and monetize their video community. MediaCore provides an API for grabbing media info. A GET request to any of the public methods on this page will return a JSON object with the returned information. Information includes queried and listed media items, files and categories.
+cloud deadpool internet platform video 
+Video

@@ -1,0 +1,6 @@
+Video search and recommendation service
+Digitalsmiths
+Digitalsmiths is a video search and recommendation service that creates and leverages data around video content
+including TV, film and live events across any connected device. Digitalsmiths solutions help users find relevant, personalized entertainment across multiple channels and devices. The API allows for metadata integration. Documentation is not available.
+recommendations search video 
+Video

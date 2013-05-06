@@ -1,0 +1,5 @@
+Spelling suggesting service
+ProperSpell
+The ProperSpell API is a RESTful API that provides &#039;Did you mean&#039; style spell check suggestions, currently only for English. The service can be integrated into developers&#039; applications. The API returns data in XML, JSON, JSONP, PSER, and HTML formats.
+Dictionary spelling 
+Dictionary

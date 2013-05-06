@@ -1,0 +1,11 @@
+add 1
+book 5
+church 3
+congregation 1
+find 1
+integrate 1
+loan 1
+member 2
+search 1
+sharing 2
+social 2

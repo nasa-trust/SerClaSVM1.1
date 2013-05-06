@@ -1,0 +1,15 @@
+cellblock 2
+desktop 1
+file 1
+instant 1
+integrate 1
+interface 1
+management 1
+medium 1
+mobile 2
+multimedia 2
+photo 2
+programming 1
+real 2
+sharing 2
+video 2

@@ -1,0 +1,7 @@
+Mobile application backend service
+Kii Cloud
+Kii Cloud is a cloud-hosted backend solution provider for mobile applications. Features of Kii Cloud include user management, application monetization, and analytics and reporting tools.
+
+The Kii Cloud API allows developers to access and integrate the functionality of Kii Cloud with other applications and to create new applications. Some example API methods include managing user accounts, managing data and media, and requesting ads.
+application baas backend cloud deadpool mobile 
+Backend

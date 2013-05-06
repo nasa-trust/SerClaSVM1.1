@@ -1,0 +1,5 @@
+Community site
+Zannel Open
+From their site: The Zannel Open API allows programmatic access to Zannel&#039;s platform. Developers can build applications, widgets, web and mobile apps that act on behalf of the user or interact with the Zannel platform in new and interesting ways. Zannel is a site to show your life as it happens. You can post text, picture, and video updates, share updates with friends, view updates on mobile or web, and embed updates on your blog, website, social network etc. 
+mobile social 
+Social

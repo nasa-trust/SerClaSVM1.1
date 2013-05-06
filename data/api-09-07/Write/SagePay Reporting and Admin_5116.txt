@@ -1,0 +1,5 @@
+Secure online payments service
+SagePay Reporting and Admin
+The SagePay Reporting and Admin API allows back-office systems to interact with the Sage Pay payment systems in the same manner as a person with a web browser might use our My Sage Pay administration area. The API uses the same user accounts and privilege system as My Sage Pay, and will allow account administration and reporting functions, but with a finer degree of granularity than the My Sage Pay Screens, with all messages in real-time in a consistent XML format. SagePay offers secure online payment solutions for over 30,000 businesses. Full documentation for the API is not publicly available.
+payment 
+Payment

@@ -1,0 +1,5 @@
+Location information services
+Gecko Landmarks
+The Landmark API allows mobile companies to use landmark data and allow their customers to consume location information in text format. It takes a user&#039;s current position expressed in latitude and longitude, and returns the closest landmarks. The API uses HTTP calls and responses are formatted in JSON, KML, KMZ and CSV.
+landmark location mobile telephony 
+Telephony

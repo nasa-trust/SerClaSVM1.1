@@ -1,0 +1,7 @@
+Allows integration of AddThis sharing tools to websites
+AddThis Menu
+AddThis is a free way to boost traffic back to your site by making it easier for visitors to share your content.
+
+The AddThis Menu API is the client-side JavaScript API that you use to add AddThis sharing tools (button, menu, or toolbox) to your web page. When you Get the Code in the AddThis web interface, you are getting code that uses this API. The Menu API has a large number of features that let you customize the appearance and behavior of the tools in your page.
+bookmarks internet social 
+Internet

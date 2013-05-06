@@ -1,0 +1,5 @@
+Mobile personal safety service
+Guardly
+Guardly is a mobile personal safety application that lets smartphone users push a single button on their device to connect and alert friends, family and authorities in an emergency. The Guardly API gives developers the ability to integrate emergency response notification and collaboration functionality into their own applications. Interested developers should apply with the provider for access to the REStful API, developer key and documentation.
+emergency mobile safety social 
+Social

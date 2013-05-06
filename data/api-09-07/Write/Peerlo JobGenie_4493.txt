@@ -1,0 +1,5 @@
+Job recruiting and referral service
+Peerlo JobGenie
+The JobGenie social recruiting platform is a SaaS (Software-as-a- Service) application. The JobGenie API allows developers to integrate CRM systems with it or create other applications that interact with the Peerlo system. Full documentation is not available on the site however an API key is needed in addition to an account with the site. The API uses OAuth for authentication. 
+jobs recruiting deadpool
+Job Search

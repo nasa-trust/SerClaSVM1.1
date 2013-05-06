@@ -1,0 +1,5 @@
+Online giving and donations service
+Unofficial Virgin Money Giving
+Virgin Money Giving is a not-for-profit business by Virgin Money. It helps organizations with their online charity fundraising and donation efforts. This unofficial API exposes data such as Donation amount, Gift Aid amount, Charity, Donations (including messages, names, dates & amounts from users) and more. The API uses RESTful calls and responses are formatted in JSON.
+charity donation financial nonprofit unofficial 
+Financial

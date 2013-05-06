@@ -1,0 +1,5 @@
+Sales team incentive services
+Xactly Connect
+NOTE: API documentation not publicly available. From their site: Xactly provides affordable on-demand sales compensation solutions. Xactly Connect for Incent is a powerful set of APIs that allow developers to extend the capabilities of Xactly Incent by enabling seamless system-to-system communication. Using Xactly Connect, companies can automatically synchronize key data used across business systems, systemically link formerly manual data transmission and maintenance processes, and ensure that the right data is processed at the right time and producing results your company can bank on. Xactly Incent allows companies to create and manage sales compensation plans, as well as configure and distribute reports, motivating the sales team.
+enterprise HR sales 
+Enterprise

@@ -1,0 +1,7 @@
+Belgian online newsstand
+Gopress
+Gopress is the first online Belgian newsstand. It gives users full access to popular newspapers and magazines on their computers and soon on tablets and smartphones as well. Publications are offered in multiple languages, including English, Flemish, French, and German. Gopress&#039; functions can be accessed programmatically via SOAP API.
+
+The website and API documentation are available in French, Dutch, and English.
+belgium entertainment france netherlands news 
+Entertainment

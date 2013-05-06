@@ -1,0 +1,5 @@
+Swiss public transport data service
+Swiss Public Transport
+Swiss public timetable data may be utilized to build applications to map stations, arrival times, and to plan routes and establish travel connections. This information can be used for transmitting data by means of the web, the desktop, or for mobile applications. The API uses RESTful calls and responses are formatted in JSON.
+Data location mapping transportation 
+Transportation

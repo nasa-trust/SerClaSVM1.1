@@ -1,0 +1,7 @@
+Online full text search service
+Yandex Server
+Yandex is the largest search engine in Russia and develops a number of Internet-based services and products. Yandex offers owners of websites and blogs tools with which they can apply the functional services of Yandex in their projects. The site and documentation are in Russian. 
+
+The Yandex Servera API is a tool for full-text search with morphology of Russian language on the Web or corporate network. The API can be used to organize a full-text search on the site and the corporate network, find information located on Web pages, files and databases, search for files in various formats (html, pdf, txt, MS Office, Open Office, etc.), customized options available within Advanced search. The API uses RESTful protocol and responses are formatted in XML.
+internet russia search 
+Search

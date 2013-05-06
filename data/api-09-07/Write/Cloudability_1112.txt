@@ -1,0 +1,7 @@
+Cloud spend management and monitoring service
+Cloudability
+Cloudability tracks and manages more than 80 cloud and SaaS providers to give companies the ability to monitor and analyze complete cloud spend across multiple vendors. Cloudability provides companies running cloud services with recommendations on how to increase cloud-use efficiency and actionable insight into unnecessary overages and unused instances. 
+
+Cloudability offers an API that lets cloud users access their cloud billing and usage data from providers like AWS, Rackspace and Heroku, and connect that data to other businesses, financial systems or applications. The API uses RESTful calls and responses are formatted in XML and JSON.
+Apis cloud financial internet management monitor 
+Internet

@@ -1,0 +1,7 @@
+Trip planning service
+Jeppesen Journey Planner
+Jeppesen provide charts, maps and planning solutions for aviation, marine and rail operators. The Jeppesen Journey Planner API lets developers integrate public transit information into their own website or mobile application. The service aggregates the latest transit schedules from around the world and provides users with access through a hosted API. 
+
+Public transit journeys are matched to integrated timetables, stop locations and trip geography, which can be displayed to customers directly within a user&#039;s own application. To date there are 58 data sets aggregated into 36 regions. Features of the API include: transit journey planning, walk journey planning, polyline trip representation, transit stop locations and more. The API uses RESTful and SOAP calls with responses formatted in XML and JSON.
+guide planning transit travel trip 
+Transportation

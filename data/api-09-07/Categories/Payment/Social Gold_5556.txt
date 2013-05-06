@@ -1,0 +1,17 @@
+building 1
+create 1
+currency 3
+economy 3
+example 1
+game 2
+gaming 1
+gold 5
+grow 1
+host 1
+manage 1
+monetize 1
+payment 6
+platform 1
+social 6
+subscription 1
+system 1

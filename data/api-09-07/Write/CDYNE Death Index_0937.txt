@@ -1,0 +1,5 @@
+Access to the Social Security Death Index 
+CDYNE Death Index
+The CDYNE Death Index API lets you use the US Social Security Death Index to eliminate the possibility of an applicant trying to use a deceased person&#039;s identification. This web service is updated directly from the United States Social Security Administration. The API can be used by businesses offering credit for fraud control into any system that can consume Web Services. 
+enterprise Fraud reference 
+Reference

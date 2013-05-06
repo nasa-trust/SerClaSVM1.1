@@ -1,0 +1,6 @@
+Sales and use tax data service
+StrikeIron Sales Tax Basic
+The Sales and Use Tax Basic Web Service provides access to live sales and use tax data using a U.S. ZIP or Canadian postal code. Receive the general sales and use tax and shipping rate levels for the state, county, and city for over 19,000 U.S. and Canadian tax jurisdictions.
+
+reference shopping 
+Reference

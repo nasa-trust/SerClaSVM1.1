@@ -1,0 +1,5 @@
+Cloud application integration service
+Hojoki
+Hojoki is an application that allows multiple cloud applications, such as Google Reader, Highrise, and Basecamp, act as one with one newsfeed for all integrated and synced applications. 
+tools productivity cloud feeds application
+Tools

@@ -1,0 +1,5 @@
+Cloud storage service
+HP Cloud Object Storage
+HP Cloud Object Storage offers users online storage. With HP Cloud Object Storage, users can create containers and add objects as needed. Object sizes can be up to 5 GB. The API provides programmatic access to the functionality of the Cloud Object Storage service. With the API developers can build cloud based storage applications. Public documentation of the API is not available.
+cloud internet storage 
+Internet

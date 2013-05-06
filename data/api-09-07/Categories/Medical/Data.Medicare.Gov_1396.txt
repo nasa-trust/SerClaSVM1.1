@@ -1,0 +1,15 @@
+agency 1
+comparing 1
+datum 1
+dialysis 1
+facility 1
+government 1
+health 2
+home 2
+hospital 1
+medical 1
+medicare 2
+nursing 1
+open 1
+protocol 1
+regard 1

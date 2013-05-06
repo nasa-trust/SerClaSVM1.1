@@ -1,0 +1,5 @@
+Cloud storage service
+Apple iCloud
+iCloud stores user&#039;s content and  wirelessly makes it available to all devices. iCloud Storage APIs allow application developers to store their apps&#039; documents and key value data in iCloud. The API also gives developers the ability to access sync and backup services. iCloud will wirelessly push documents to a user&#039;s device automatically and update the documents when changed on any device. Currently, full access to documentation is only available to registered developers.
+cloud storage 
+Storage

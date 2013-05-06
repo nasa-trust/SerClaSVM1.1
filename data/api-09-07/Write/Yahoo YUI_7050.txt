@@ -1,0 +1,5 @@
+Web visualization and layout framework
+Yahoo YUI
+YUI (Yahoo! User Interface) is a free, open source JavaScript and CSS framework that is also hosted by Yahoo for building richly interactive web applications. YUI is provided under a BSD license and is available on GitHub for forking and contribution. The YUI API allows access to the YUI framework for building sites and applications.
+charts internet visualization webdesign website 
+Internet

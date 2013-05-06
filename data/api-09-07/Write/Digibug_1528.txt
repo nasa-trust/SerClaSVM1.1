@@ -1,0 +1,7 @@
+Photo and print marketplace
+Digibug
+Digibug is a service for photographers. Digibug helps photographers set up websites for their work and helps manage photo buying and selling.
+
+The Digibug API allows developers to access and integrate the functionality of Digibug with other applications. Some example API methods include managing photo and print options, managing photo and print prices, and managing account information. 
+ecommerce image photo website 
+Photos

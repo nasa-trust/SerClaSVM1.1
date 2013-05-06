@@ -1,0 +1,5 @@
+Public ratings of Russian government bloggers
+Goslyudi.ru
+The Goslyudi.ru API provides several web methods to access it&#039;s ratings of russian government bloggers. Project GosLyudi &quot;was created for the promotion and standardization of blogging and participating in online social projects of public people: government officials, governors, mayors, officials, deputies, heads of state-owned companies, experts and analysts in the state and e-government. The API uses RESTful archtiecture with responses formatted in either JSON or CSV. Site and documentation is in Russian.
+blog government russia 
+Government

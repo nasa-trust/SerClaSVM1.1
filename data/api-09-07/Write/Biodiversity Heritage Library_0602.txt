@@ -1,0 +1,5 @@
+Digital biodiversity library
+Biodiversity Heritage Library
+The Biodiversity Heritage Library (BHL) is a consortium of natural history and botanical libraries. The BHL digitizes and makes available millions of pages of biological taxonomic literature, representing tens of thousands of titles and nearly 100,000 volumes. BHL provides an API to access, use, and share these records. It is a RESTful API, returning responses in JSON, XML, or XML wrapped in a SOAP envelope.
+biology catalog Data deadpool library science 
+Science

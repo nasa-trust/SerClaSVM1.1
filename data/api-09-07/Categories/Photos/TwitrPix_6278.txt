@@ -1,0 +1,16 @@
+ability 1
+authentication 1
+credentials 1
+email 1
+employ 1
+give 1
+integrate 1
+mobile 1
+phone 1
+photo 4
+set 1
+share 1
+sharing 1
+social 1
+tool 1
+twitter 4

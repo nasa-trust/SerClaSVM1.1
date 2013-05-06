@@ -1,0 +1,7 @@
+Web application bug tracking service
+Exceptional
+Exceptional is a web application bug tracking service. Exceptional allows users to track bugs, comment on errors and bugs, search errors, and create error reports.
+
+The Exceptional API allows developers to access and integrate the publish functionality of Exceptional with other applications and to create new applications. API methods include searching and retrieving error information.
+bug project-management tools tracking 
+Tools

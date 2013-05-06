@@ -1,0 +1,7 @@
+Bible lookup service
+eBibleicious
+eBible.com provides users with access to passages from the Bible. Compare passages from among 5 Bible versions and 7 commentaries.
+
+The Javascript API allows developers to link to passages or pull the full text of passages from the site with no account or key required.
+bible reference religion 
+Reference

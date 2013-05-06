@@ -1,0 +1,7 @@
+Social recognition and relationship building service
+introNetworks
+The service provides visual and social matching services to connect event attendees, membership groups, and educational colleagues into communities. It highlights connections between individuals and encourages awareness and interaction among them, with communication tools. It promotes recognition and mutual involvement to develop shared interests and involvements into productive relationships.
+
+API methods support creating new users in the system, either one at a time or in batches, based on information from other sources. Updates include full account access information, including security questions and answers. One method allows using data from a person&#039;s account with the provider&#039;s PiN service.
+contacts networking social 
+Social

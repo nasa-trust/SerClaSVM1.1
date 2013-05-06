@@ -1,0 +1,7 @@
+Car rental shopping and reservation booking service
+Rental Car Manager
+The service provides a search, reservation, and booking platform for car rentals. It allows travelers to shop for rental cars and complete reservations. Agencies can track car availability and rental activity at their locations, while also reporting on sales and analyzing  trends.
+
+API methods support retrieval of vehicle categories, types, and availability for specified pick-up and drop-off locations and times. Methods support selection of an option presented and completion of the reservation booking process. The API also supports management of location operating information, such as staff members, open hours, and available inventory.
+auto cars rental travel 
+Travel

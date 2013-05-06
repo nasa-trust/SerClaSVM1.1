@@ -1,0 +1,7 @@
+E-commerce fraud detection and prevention service
+MaxMind MinFraud
+The service provides evaluation of pending e-commerce transactions for fraud, including use of a proxy to access a payment application, with rating of the risk level posed based on the purchaser&#039;s IP address, email, and other detected characteristics. In addition to proxy detection, the service maintains a reputation database indicating the frequency of reported fraud using an IP, email, or proxy server. Applications can use this risk assessment to sequester questionable transactions for review and specific approval.
+
+API methods support posting of transaction details, including products purchased, purchaser name, email, IP address, and credit card information. Methods then assess the risk level and provide information about proxy access detected, bank checks for the purchaser&#039;s information, address and phone number validity checks, and related detail.
+crime security shopping 
+Security

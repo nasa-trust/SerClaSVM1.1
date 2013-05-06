@@ -1,0 +1,5 @@
+Call center agent service
+Callfire Hosted Call Center
+The Virtual Call Center API lets users run a call center connect campaign. With the API users can connect to agents, prompt them to log into the system with their AgentID and connect with numbers from a given campaign. Users can control the type of popup screen they want, they way data is collected and move to the next call. The API has a function that will collect information about the call that was connected and immediately put the Agent on a queue for the next available call. Dialer apps might use this API.
+telephony 
+Telephony

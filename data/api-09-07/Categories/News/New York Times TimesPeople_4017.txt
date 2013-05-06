@@ -1,0 +1,13 @@
+activity 1
+community 1
+datum 2
+feed 1
+network 1
+news 3
+newspaper 1
+particular 1
+profile 1
+retrieve 1
+social 2
+times 3
+york 3

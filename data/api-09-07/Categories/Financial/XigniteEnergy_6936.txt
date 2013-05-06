@@ -1,0 +1,10 @@
+commodity 1
+delay 1
+energy 3
+exchange 1
+finance 2
+future 2
+major 1
+price 1
+quote 2
+stocks 1

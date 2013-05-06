@@ -1,0 +1,14 @@
+client 2
+create 3
+creation 1
+custom 4
+end 1
+exist 1
+front 1
+integrate 1
+management 2
+own 1
+retail 1
+shopping 2
+store 1
+things 1

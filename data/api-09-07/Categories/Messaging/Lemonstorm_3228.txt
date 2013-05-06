@@ -1,0 +1,17 @@
+certificate 1
+company 1
+design 1
+development 1
+domain 1
+functionality 1
+graphic 1
+host 1
+http 1
+integration 1
+messaging 2
+response 1
+return 1
+sm 1
+software 1
+text 3
+uk 2

@@ -1,0 +1,5 @@
+Payments gateway
+Fee Fighters Samurai
+FeeFighters is a comparison shopping website for credit card processing. They use an auction process and comparison engine to help businesses save on their credit card processing fees. Samurai is FeeFighters&#039; payment gateway. The API allows developers to access the functionality of the service via HTTP calls. Functionality includes creating, reading, updating and deleting payment methods as well as processing payments. Responses are formatted in XML.
+finance payment 
+Payment

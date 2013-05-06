@@ -1,0 +1,7 @@
+Free software developer social site
+Advogato
+Advogato is designed to be a community site for free software developers as well as to serve as a testing ground for the use of trust metrics for peer certification. The peer certification system allows members of the site certify each other, specifying one of three skill levels. Then, the trust metric takes the whole pile of certificates and decides a trust level for each member.
+
+The Advogato API provides programmatic access to all of Advogato&#039;s functions, including authentication, blog manipulation, obtaining certs, and test functions.
+blog social 
+Social

@@ -1,0 +1,17 @@
+An online charity connecting you to classrooms in need
+DonorsChoose
+DonorsChoose.org is an online charity that makes it easy for anyone to help students in need.
+
+Here&#039;s how it works: public school teachers from every corner of America post classroom project requests on DonorsChoose.org. Requests range from pencils for a poetry writing unit, to violins for a school recital, to microscope slides for a biology class.
+
+Then, you can browse project requests and give any amount to the one that inspires you. Once a project reaches its funding goal, we deliver the materials to the school.
+
+You&#039;ll get photos of your project taking place, a thank-you letter from the teacher, and a cost report showing how each dollar was spent. If you give over $100, you&#039;ll also receive hand-written thank-you letters from the students.
+
+DonorsChoose.org&#039;s simple JSON API allows developers to pull DonorsChoose.org classroom project listings into their website or application using project selection criteria of their choosing.
+
+The JSON API has been used by DonorsChoose.org partners like Chevron, SONIC Drive-In, NBC Universal, Bing, PayPal, and others to build high-profile highly customized giving and cause marketing experiences.
+
+The API also enables developers to donate to projects or purchase gift cards without routing users to DonorsChoose.org for payment.
+charity donate education k-12 nonprofit 
+Education

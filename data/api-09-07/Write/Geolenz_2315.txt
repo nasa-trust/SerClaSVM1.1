@@ -1,0 +1,5 @@
+Reverse geocoding service
+Geolenz
+Geolenz offers a reverse geocoding service. This service allows the caller to get precise domain-specific details for WGS-84 coordinates that fall within one of several currently modeled regions. The REST-based webservice accepts coordinates from users, and if they are within one the currently modeled regions, all the contextual data in the Geolenz service will be returned in a structured response. The site does not have available documentation.
+deadpool 
+Tools

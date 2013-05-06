@@ -1,0 +1,5 @@
+Location sharing service
+Brightkite
+Note: As of July 2008 this in beta, no docs yet available. From their site: Brightkite is all about sharing your location and meeting new people based on the places you visit, and the latest way of doing that is with the Brightkite API. Using the Brightkite API you can add a location component to any site, social network, or application. 
+gps location mapping mobile places 
+Social

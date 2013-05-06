@@ -1,0 +1,5 @@
+Telephone based verification services
+TeleSign
+TeleSign offers phone-based authentication and verification services with coverage in more than 200 countries and 50 languages. Among their services are telephone verification, two factor identification, and phone ID. These services can be integrated with third party systems via a SOAP API. Documentation is not publicly available.
+security telephony validation 
+Telephony

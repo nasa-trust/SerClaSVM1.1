@@ -1,0 +1,8 @@
+caption 1
+feature 2
+funny 1
+humor 2
+integrate 1
+photo 5
+search 1
+upload 2

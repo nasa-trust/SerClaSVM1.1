@@ -1,0 +1,17 @@
+add 1
+chart 1
+create 2
+datum 5
+demographic 1
+enterprise 1
+example 1
+layer 1
+location 1
+map 1
+mapping 6
+market 1
+method 1
+platform 1
+product 1
+search 1
+table 1

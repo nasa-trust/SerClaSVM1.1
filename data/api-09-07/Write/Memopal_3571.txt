@@ -1,0 +1,5 @@
+Online storage service
+Memopal
+Memopal offers cloud based online storage that tries to make storage more efficient. The technology behind Memopal looks for the similarities across all data that users upload, store those parts and then save only the changes that are made to that data. The simple API allows users to download files from their account. The API uses RESTful calls and responses are formatted in JSON.
+cloud internet storage 
+Storage

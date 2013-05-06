@@ -1,0 +1,5 @@
+SMS gateway service
+ABTXT
+ABTXT is an SMS gateway provider allowing clients to use the gateway on their own sites and provide SMS services to their site visitors. The API lets developers access the service programmatically. Methods exposed by the API include sending single/multiple sms messages, check user balance, check delivery status, scheduling messages and more. The API uses HTTP calls.  
+sms gateway messaging telephony mobile Global
+Messaging

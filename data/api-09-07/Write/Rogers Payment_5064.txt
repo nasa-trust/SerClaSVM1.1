@@ -1,0 +1,7 @@
+Mobile payment services
+Rogers Payment
+Rogers is a leading provider of Wireless, Digital Cable TV, High Speed Internet and other mobile phone and data services throughout Canada. Catalyst is a third party developer program giving developers a space to build their products using Rogers&#039; assets including SMS, LBS, and Carrier Billing APIs.
+
+The Payment API allows developers to use third party applications to charge services to a subscriber invoice, process payments, grant refunds and manage subscriptions. The API uses SOAP protocol and responses are formatted in XML.
+payment telephony 
+Payment

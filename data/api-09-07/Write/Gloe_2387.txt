@@ -1,0 +1,5 @@
+Geo-tagging service
+Gloe
+The Gloe API is an HP Labs experiment in geo-tagging. The service allows developers to retrieve links that correspond to a specific location. The database is pre-populated with Wikipedia articles, but developers can also help their users add to the database. Applications, most likely from mobile devices, can provide their location and suggest a link for that location.
+location mapping mobile 
+Mapping

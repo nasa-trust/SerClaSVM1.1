@@ -1,0 +1,5 @@
+Protein sequence and annotation services
+UniProt
+UniProt is a protein sequence and annotation database for the scientific community. The UniProt API offers RESTful access to all its resources and services. 
+bioinformatics medical 
+Medical

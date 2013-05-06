@@ -1,0 +1,7 @@
+Web content, notes, and bookmark organizer
+Memonic
+Memonic is an application that allows users to capture, organize, and share web content. Memonic offers services for personal use, business use, publisher use, and can be used with Evernote. 
+
+The Memonic API allows developers to access the functionality and data from Memonic. The API is free for non-commercial use and can be used for commercial use with their approval. Some example API methods include accessing users, sets of users, and groups of users.  
+bookmarks notes social 
+Bookmarks

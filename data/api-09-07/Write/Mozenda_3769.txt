@@ -1,0 +1,5 @@
+Data extraction service
+Mozenda
+The concept of More-Zenful-Data describes the better way in which people can acquire, utilize, and share all types of data through the Mozenda system. Using the Mozenda Web Services Rest API, customers can programmatically connect to their Mozenda account.
+internet tools 
+Tools

@@ -1,0 +1,12 @@
+calculation 1
+code 2
+execution 2
+hardware 1
+memory 3
+offload 1
+over 1
+queue 1
+remote 2
+storage 2
+tool 1
+utility 2

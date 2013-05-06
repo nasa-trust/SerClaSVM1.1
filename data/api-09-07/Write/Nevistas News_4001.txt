@@ -1,0 +1,5 @@
+Hotel and Travel News Search Service
+Nevistas News
+Nevistas API allows you to integrate our database of news content with your software or website. The API provides methods for basic news display by channel and retrieving data for a specific news item. These services are free to use and available to anyone. 
+hotel news travel 
+News

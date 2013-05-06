@@ -1,0 +1,5 @@
+Travel booking service
+Carsolize
+Carsolize is an online travel booking engine suited for small and mid-size travel agencies. Their software allows agencies to boost commissions via B2C, B2B, and B2B2C. Carsolize can offer agencies customized solutions from a meta search engine for online reservations to a comprehensive and customized online booking software. The XML API allows developers to access this functionality and incorporate it into an independent and branded solution. Full documentation is not publicly available.
+booking flight hotel search travel vacation 
+Travel

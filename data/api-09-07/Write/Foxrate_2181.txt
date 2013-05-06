@@ -1,0 +1,5 @@
+Currency exchange rates
+Foxrate
+The Foxrate Currency Exchange API lets you submit a currency amount and returns the equivalent amount in the currency of your choice.
+finance fx 
+Financial

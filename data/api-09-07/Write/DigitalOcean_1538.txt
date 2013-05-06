@@ -1,0 +1,7 @@
+Cloud based virtual server and storage service
+DigitalOcean
+DigitalOcean provides a simple, cloud based virtual server (droplet) service. With over 13,000 cloud servers currently in operation, DigitalOcean is a well-established provider of online storage solutions with fast, realtime control. With a streamlined interface, users are able to create and start utilizing a virtual server in under a minute.
+
+The API provides all the same services as the web control panel to allow full control over your Droplet virtual servers. Using a simple, REST interface you can make calls for: shutting down, power cycling your virtual server, show all active droplets, take a snapshot, rebuild your droplet, and more. The API supports all major droplet functions allowing you to effectively run your server through the API.
+cloud Server storage virtual 
+Storage

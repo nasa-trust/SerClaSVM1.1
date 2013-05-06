@@ -1,0 +1,5 @@
+POS and inventory management service
+Vend
+Vend is a retail management solutions provider. Their product combines point-of-sale software with inventory and customer tracking software. The entire package is web-based and allows managers to view screenshots of the Vend dashboard from any of the user???s retail locations. Their API is accessible by request only for developers selected to be Vend partners. It is a RESTful API that allows developers to integrate Vend functionality with new plug-ins, extensions, and apps. It returns JSON-encoded data. 
+management retail tracking 
+Retail

@@ -1,0 +1,7 @@
+Bulk SMS messaging service
+SMSpoint
+The SMSPoint API allows users to send thousands of SMS messages to contacts, clients or employees from a website. SMSpoint offers bulk text messaging delivery to any country in the world via a simple HTTP API. Features include the ability to produce delivery reports and receive messages sent to a specified inbox. The API uses RESTful protocol and responses are formatted in XML.
+
+Coverage in 42 countries. 
+asia europe messaging russia sms telephony 
+Messaging

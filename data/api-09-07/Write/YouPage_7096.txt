@@ -1,0 +1,5 @@
+Business and local events directory
+YouPage
+Use the YouPage API to get all YouPage content for business, promotional sale, and event listings in XML or RDF/XML. Create widgets or gadgets that show business contact details and open hours. YouPage.com is a consumer local search, events, social, and communication service powered by local business and service generated content. YouPage, based out of the UK, has a vision to create the internet&#039;s most comprehensive user-generated local directory; there is a focus on business phone numbers and open hours, but also a focus on local events so that you can find what&#039;s happening in your area next week.
+events local reference search 
+Shopping

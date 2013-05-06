@@ -1,0 +1,13 @@
+article 1
+feed 2
+find 1
+leisure 1
+like 1
+magazine 1
+publication 1
+specific 1
+today 1
+travel 5
+usa 1
+vacation 2
+york 1

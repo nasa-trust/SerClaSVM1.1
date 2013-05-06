@@ -1,0 +1,6 @@
+Geo coordinate translation service
+Cordurl
+NOTE:As of 6/27/2008 it appears that this api is no longer available.
+Convert latitude and longitude into unique identifiers.
+deadpool internet 
+Internet

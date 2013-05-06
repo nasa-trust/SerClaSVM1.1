@@ -1,0 +1,13 @@
+course 1
+datum 3
+education 2
+faculty 1
+fetch 2
+format 1
+interface 2
+official 1
+query 1
+reference 1
+response 1
+schedule 1
+university 2

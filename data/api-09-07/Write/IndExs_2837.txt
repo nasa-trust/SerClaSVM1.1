@@ -1,0 +1,5 @@
+Index of mycology specimens
+IndExs
+IndExs is an index that contains information on the titles, abbreviations, and bibliographies of mycological exsiccatae. Exsiccatae are published, uniform, numbered sets of preserved specimens distributed with printed labels. IndExs can be accessed through a web console, or by using a SOAP or REST API.
+biology reference science 
+Science

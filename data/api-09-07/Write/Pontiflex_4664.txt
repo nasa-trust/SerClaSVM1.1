@@ -1,0 +1,7 @@
+Digital content advertising platform
+Pontiflex
+Pontiflex is a digital content advertising platform. Pontiflex offers advertisers services to place ads in digital applications and lets publishers run ads to make money.
+
+The Pontiflex API allows developers to access and integrate the functionality and data of Pontiflex with other applications. Public documentation is not available; API access comes with account sign up.
+advertising mobile 
+Advertising

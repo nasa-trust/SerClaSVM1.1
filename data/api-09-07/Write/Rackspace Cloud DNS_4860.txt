@@ -1,0 +1,5 @@
+Cloud DNS services
+Rackspace Cloud DNS
+Rackspace Cloud DNS is a free BETA service offered as a set of API operations to manage user domains, sub-domains, and resource records. The API can be used to both create and import domains into a Rackspace Cloud account. Users can also list, add, modify, and remove domains and records as needed. The API uses RESTful calls and responses are formatted in XML and JSON.
+cloud DNS internet 
+Internet

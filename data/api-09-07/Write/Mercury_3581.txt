@@ -1,0 +1,5 @@
+Mobile marketing service
+Mercury
+The Mercury API is an API that allows applications and websites to create, manage, and deploy SMS/MMS campaigns. Using the API allows applications and websites to enable SMS. The service also allows people to send single SMS and MMS messages to multiple mobile phone numbers. The Mercury platform handles mobile subscribers, delivery of messages, unsubscribes, and other aspects of SMS/MMS campaigns. The API uses RESTful calls and responses are formatted in XML and JSON.
+marketing messaging MMS mobile sms unknown 
+Messaging

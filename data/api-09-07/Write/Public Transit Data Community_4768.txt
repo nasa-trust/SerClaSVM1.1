@@ -1,0 +1,5 @@
+US transit data feeds service
+Public Transit Data Community
+Public Transit Data Community has a goal to combine all the disparate transit data feeds from the agencies around the United States into normalized format and expose them as OData Service API to allow developers to build any type of applications around the data. The API exposes data for the following: Bus and Train Arrival Predictions, Stops and Stations, Entrances, Routes and Train Lines, Incidents,  Intelligent Routing. The API uses RESTful calls and responses are formatted in JSON.
+aggregator transit travel 
+Transportation

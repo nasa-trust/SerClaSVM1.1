@@ -1,0 +1,5 @@
+Greek mobile SMS service
+smsways
+smsways is a Greek SMS provider and the smsways SOAP and HTTP API provide programmatic access to smsways features and services. Developers can build custom applications, tools, and services that correspond to the same services and tools available through the main smsways website.
+Global greece messaging sms telephony 
+Messaging

@@ -1,0 +1,5 @@
+Explore social trends
+Mood of the Nation
+Mood of the Nation provides insight into the various trends on their iPhone application users. There are over 20 countries represented in the data sets, and their results can be adjusted to hourly, daily, weekly, or monthly charts. The Mood of the Nation API allows developers to access these trends.
+social trends 
+Social

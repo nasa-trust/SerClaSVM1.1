@@ -1,0 +1,7 @@
+Online platform for developers and development projects
+Masterbranch
+Masterbranch is an online platform where developers can showcase their development skills and employers can hire developers for jobs and projects. Developers can keep a profile that outlines their coding skills. Employers can post projects and jobs, as well as search developers.
+
+The Masterbranch API allows developers to access and integrate the functionality of Masterbranch with applications and to create new applications. An example API method is returning developer profiles.
+freelance jobs Profile 
+Job Search

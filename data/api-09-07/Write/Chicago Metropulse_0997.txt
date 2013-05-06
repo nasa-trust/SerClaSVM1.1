@@ -1,0 +1,7 @@
+Chicago quality of life data
+Chicago Metropulse
+The Metropulse website is a joint project of the Chicago Metropolitan Agency for Planning (CMAP) and The Chicago Community Trust (the Trust). Metropulse makes available data about the regional quality of life over time in metropolitan Chicago. Available data sets include demographic, economic, transportation and related data for the greater Chicago region. 
+
+The Metropulse API is a service of CMAP. It uses RESTful and GETful protocols and returns responses in XML, AMF and HTML formats. 
+Data demographics economics government transportation 
+Government

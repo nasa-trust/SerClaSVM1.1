@@ -1,0 +1,7 @@
+Grocery store deal and shopping list service
+SmartPea Grocery 
+SmartPea Grocery is a web service that users can search for local grocery deals and sales. Users can build a shopping list on the website.
+
+The SmartPea Grocery API allows developers to access and integrate the functionality of SmartPea Grocery with other applications and to create new applications. Some example API methods include searching and returning grocery store deals by zip code and associated information including image, name, retailer, price, savings, and nutritional facts for any searched grocery item.
+deals food Grocery health local 
+Shopping

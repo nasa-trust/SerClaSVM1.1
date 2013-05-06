@@ -1,0 +1,5 @@
+Media monitoring and analytics platform
+Fisheye Analytics
+Fisheye Analytics is a media analytics service. They monitor brands??? Internet presence across new, social, and traditional media. Fisheye is also able to distinguish between influential social media users and otherwise. In tandem with even more sensitive analytical criteria, this allows Fisheye to produce nuanced reports on businesses??? media strategies. The Fisheye Analytics APIs expose three different information streams: a livestream, keywords, and Twitter users. They are all RESTful APIs that return JSON and XML-encoded data.
+analytics media monitoring social tools 
+Social

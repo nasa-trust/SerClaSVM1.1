@@ -1,0 +1,5 @@
+Understand the green impact of supply chains
+Sourcemap
+Sourcemap is project from the MIT Media Lab. It is a tool for producers, business owners and consumers to understand the impact of supply chains. The services lets you simulate the impact of manufacturing, transporting, using and throwing away products using our Life-Cycle Assessment calculator. This web-based tool uses linked data from geological and geographic resources. Each Sourcemap can be used to help market socially- and environmentally- conscious products and to buy carbon offsets.
+enterprise green 
+Other

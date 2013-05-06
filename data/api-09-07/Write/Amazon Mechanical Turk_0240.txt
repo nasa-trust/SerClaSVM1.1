@@ -1,0 +1,5 @@
+Request services of humans
+Amazon Mechanical Turk
+From their site: Amazon Mechanical Turk provides a web services API for computers to integrate Artificial Artificial Intelligence directly into their processing by making requests of humans. Developers use the Amazon Mechanical Turk web services API to submit tasks to the Amazon Mechanical Turk web site, approve completed tasks, and incorporate the answers into their software applications. To the application, the transaction looks very much like any remote procedure call - the application sends the request, and the service returns the results. In reality, a network of humans fuels this Artificial Artificial Intelligence by coming to the web site, searching for and completing tasks, and receiving payment for their work.
+crowdsourcing internet 
+Other

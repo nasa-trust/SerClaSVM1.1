@@ -1,0 +1,5 @@
+Holiday dates lookup service
+Holidays Service
+From their site: The Holiday Service allows developers to retrieve holiday dates based on a provided country code and date ranges. US and Great Britain supported. 
+reference calendar us uk holidays deadpool
+Reference

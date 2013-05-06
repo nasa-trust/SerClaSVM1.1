@@ -1,0 +1,11 @@
+be 1
+build 1
+collect 1
+datum 1
+design 1
+fancy 1
+give 1
+like 1
+music 2
+order 1
+share 1

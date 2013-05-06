@@ -1,0 +1,5 @@
+Social networking and media management
+Multiply
+Multiply is a social networking site that offers users media management capabilities. Users can share and store photos and videos and have access to tools for turning photos into print products such as cards, calendars and more. The RESTful API allows users to access features of Multiply such as reading inbox messages, listing contacts and checking for media. Data is returned as either XML or JSON.
+photo social video 
+Social

@@ -1,0 +1,5 @@
+eBay alerts and notifications service
+eBay Client Alerts
+The eBay Client Alerts API allows developers to get near real-time updated data on eBay. Data includes seller and buyer events such as price changes, items ending, end of auction, item won and more. Developers can use this data to build updated and lightweight alerting and notification applications. The API uses RESTful calls and responses are formatted in JSON.
+alerts Data notifications realtime shopping 
+Shopping

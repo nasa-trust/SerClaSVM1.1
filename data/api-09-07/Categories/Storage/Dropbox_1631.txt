@@ -1,0 +1,13 @@
+computer 1
+file 3
+install 1
+piggyback 1
+provider 1
+read 1
+same 1
+sharing 1
+software 1
+storage 5
+sync 1
+synchronization 1
+write 1

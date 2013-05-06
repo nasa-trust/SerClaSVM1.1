@@ -1,0 +1,5 @@
+Cloud Video Platform
+VISUALPLANT
+VISUALPLANT offers a cloud based video platform that lets users upload, manage and distribute video on the Internet. The developer API offers the ability to create custom Web sites, mobile and IPTV apps as well as functionality to access and modify content stored in users&#039; VISUALPLANT account. The API uses REST or SOAP calls with responses formatted in XML.
+cloud internet video 
+Video

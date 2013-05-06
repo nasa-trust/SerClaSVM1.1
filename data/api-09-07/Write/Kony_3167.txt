@@ -1,0 +1,7 @@
+Mobile application development and backend service
+Kony
+Kony is a mobile application development service. Kony helps customers build mobile applications, as well as hosting mobile applications and providing backend solutions for mobile applications.
+
+The Kony API allows developers to access and integrate the functionality of Kony with other applications and to create new applications. Some example API methods include synching data, managing user information, and managing events. Public documentation is not available; interested developers should sign up for more information. 
+application backend development hosting mobile 
+Backend

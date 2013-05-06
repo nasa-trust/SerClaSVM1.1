@@ -1,0 +1,5 @@
+HTML5 video player
+Video.js
+Video.js is a JavaScript-based HTML5 Video Player. It provides a common control skin built in HTML/CSS, and supports fullscreen and subtitle capabilities. Video.js fixes cross-browser inconsistencies and manages the fallback to Flash or other playback technologies when HTML5 video isn't supported. The JavaScript API can be used to edit and control videos that use Video.js. 
+html5 video
+Video

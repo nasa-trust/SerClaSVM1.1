@@ -1,0 +1,9 @@
+World clock and time zone service
+World Time Engine
+With the World Time Engine API users can search by place names, co-ordinates and IP Addresses to get current local times for use in their own services and applications. The service consists of two APIs:
+* Latitude/Longitude to Time API - Provide x/y co-ordinates for any point on earth and get the current time in that location.
+* IP Address to Time API - Provide any IP Address and it returns the time in that location.
+
+The API uses RESTful calls and responses are formatted in XML.
+internet utility 
+Utility

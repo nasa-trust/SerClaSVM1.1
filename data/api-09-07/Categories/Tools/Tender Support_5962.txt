@@ -1,0 +1,17 @@
+category 1
+characteristic 1
+company 1
+customer 6
+discussion 1
+helpdesk 2
+issue 2
+manage 1
+organization 1
+provider 1
+search 1
+specific 1
+support 6
+tender 4
+tool 2
+variety 1
+viewing 1

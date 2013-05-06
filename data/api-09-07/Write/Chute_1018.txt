@@ -1,0 +1,7 @@
+Media management service
+Chute
+Chute is a service for managing and displaying media files in applications and on websites. 
+
+The Chute API allows developers to access and integrate the functionality of Chute with other applications. Some example API methods include managing user information, adding and managing media files, and accessing comments.
+deadpool document image media media-management 
+Media Management

@@ -1,0 +1,7 @@
+Media center service
+Boxee
+Using Boxee, and a laptop or connected to an HDTV, Boxee provides a place to enjoy movies, TV shows, music and photos, as well as streaming content from services like Netflix, MTV, Pandora and flickr. Boxee also supports social networking features, allowing users to share what they are streaming through Boxeee.
+
+The Boxee API enables developers to build their own applications on top of the Boxee platform. Example of Boxee Applications include: Pandora, Netflix, CNN, and BBC iPlayer.
+television video 
+Video

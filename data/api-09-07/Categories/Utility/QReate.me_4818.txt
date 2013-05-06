@@ -1,0 +1,17 @@
+commercial 1
+create 3
+datum 1
+format 1
+generate 1
+get 1
+image 2
+list 1
+mobile 2
+personal 1
+project 1
+protocol 1
+response 1
+scan 1
+tag 9
+update 1
+utility 2

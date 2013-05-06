@@ -1,0 +1,5 @@
+Computer networking research database
+PlanetLab Central
+PlanetLab is a group of computers available as a testbed for computer networking and distributed systems research. It is composed of 1090 nodes at 507 sites worldwide. Each research project has a &quot;slice&quot;, or virtual machine access to a subset of the nodes. The PlanetLab Central API (PLCAPI) is the interface through which the PlanetLab Central database is accessed and maintained. The API is used by the website, by nodes, by automated scripts, and by users to access and update information about users, nodes, sites, slices, and other entities maintained by the database. It uses XMLRPC protocol.
+internet research science 
+Internet

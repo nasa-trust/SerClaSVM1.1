@@ -1,0 +1,5 @@
+Service to send printed greeting cards
+Enthusem
+The enthusem.com API allows developers to create and send printed greeting cards that are delivered by the postal service. In addition, the cards can include links back to online content to combine printed and online media.
+postal printing saas sbweb social web-to-post 
+Social

@@ -1,0 +1,5 @@
+Video encoding service
+Encoding.com
+Encoding.com lets you encode and transcode video on demand using an XML based web service. The API lets you specify output format, audio and video codecs, bit and sample rate and much more.
+Encoding tools video 
+Video

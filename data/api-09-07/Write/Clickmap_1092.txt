@@ -1,0 +1,5 @@
+Usability analytics service
+Clickmap
+Clickmap is a usability analytics service. The API allows users to retrieve and manipulate collected data and reports. Functionality includes the ability to read, edit and change profile data. The API uses RESTful calls and responses are formatted in JSON. 
+analytics usability internet
+Internet

@@ -1,0 +1,7 @@
+Swear word filter
+NoSwearing
+NoSwearing is a curse-word dictionary/thesaurus. Enter a swear word or a string of words containing swear words into the filter and a cleaned-up translation is returned. 
+
+An API is available which will list &quot;dirty words, censor dirty words, replace dirty words, and define dirty words.&quot; API access is on a limited basis. Requests for access can be made (please see contact email above). Public documentation is not available.
+curse Dictionary reference swear Thesaurus 
+Dictionary

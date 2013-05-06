@@ -1,0 +1,17 @@
+billing 4
+capability 1
+country 1
+example 1
+functionality 1
+integrate 1
+listing 1
+manage 1
+message 1
+method 1
+mobile 4
+payment 6
+phone 1
+sending 1
+sm 2
+support 1
+telephony 1

@@ -1,0 +1,7 @@
+India Do Not Disturb registry checker
+ZNISMS DND Checker
+ZNISMS is one of the SMS providers in India, providing a number of services for sending standard and bulk SMS messages. The ZNISMS DND Checker API allows users to check if a number is on India&#039;s national Do Not Disturb registry.
+
+This REST-based API enables users to check a single phone number per query, and returns a code that indicates if the number is in the DND registry. Users must have an API key to use this service, which allows for up to 1,000 queries an hour per user.
+india sms telephony 
+Telephony

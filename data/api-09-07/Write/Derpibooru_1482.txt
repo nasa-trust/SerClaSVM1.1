@@ -1,0 +1,5 @@
+My Little Pony photo sharing service
+Derpibooru
+The website is for uploading and sharing My Little Pony fan art. Derpibooru is an image booru (sharing/commenting/voting system) for fans of the show My Little Pony: Friendship is Magic. A JSON API for major site functionality can be freely used by those who want to produce tools for the site or other ways to use the data provided within Derpibooru. 
+entertainment games photo social tagging 
+Photos

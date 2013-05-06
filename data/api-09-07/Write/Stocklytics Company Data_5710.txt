@@ -1,0 +1,7 @@
+Company Data Lookup Service
+Stocklytics Company Data
+Stocklytics provides stock market data of all sorts, from ticker symbol quotes with charts, to news and even Twitter results about the particular stock. The three major US markets are supported: NASDAQ, AMEX and NYSE. 
+
+The Company Data API allows users to retrieve company information about a particular stock/ticker code. The data that can be retrieved includes: Company Name, Sector, Industry,  Traded Stock Market, Year of IPO. The Stocklytics API makes the Stocklytics data available as a RESTful API with JSON output.
+business deadpool finance stocks 
+Financial

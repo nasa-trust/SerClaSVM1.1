@@ -1,0 +1,7 @@
+Government open data service
+Granicus Open Platform
+Granicus supplies governing agencies with the software and hardware to integrate streaming media into their communications tool set. The Granicus Open Platform API enables developers to connect their existing IT infrastructure and integrate enterprise systems with Granicus to share data across all systems.
+
+The Granicus Open Platform API is used to add, update, extract, or delete information in MediaManager and MeetingServer. Developers using the API can duplicate many of the functions a user may be able to complete in the web-based version of MediaManager. The API is often used by integration partners to pass public meeting information and agenda content to a MediaManager Event record for use during the broadcast and recorded meeting.
+government open video 
+Government

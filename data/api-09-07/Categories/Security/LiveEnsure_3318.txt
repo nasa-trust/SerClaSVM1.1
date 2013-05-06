@@ -1,0 +1,13 @@
+authenticate 1
+authentication 3
+call 1
+cloud 1
+documentation 1
+exist 1
+mobile 1
+must 1
+obtain 1
+process 1
+register 1
+security 2
+strengthen 1

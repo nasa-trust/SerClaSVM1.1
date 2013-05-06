@@ -1,0 +1,5 @@
+Bulk SMS messaging service
+Mediaburst SMS
+The Mediaburst SMS API access to an SMS gateway allowing users to send messages through an application. Mediaburst is a service that allows for the sending of bulk SMS. The API uses RESTful, SOAP and SMPP protocol. Responses are formatted in XML.
+bulk Global messaging sbweb sms telephony 
+Messaging

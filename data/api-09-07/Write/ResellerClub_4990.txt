@@ -1,0 +1,5 @@
+Domain name reselling and web hosting services
+ResellerClub
+Use the ResellerClub API to allow your resellers and you to create your own site and control panels that integrate with the ResellerClub system. You can do nearly all the same things with the API that you can do at the main website.
+internet 
+Internet

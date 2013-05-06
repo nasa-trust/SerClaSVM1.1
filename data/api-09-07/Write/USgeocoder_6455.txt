@@ -1,0 +1,6 @@
+Address information lookup service
+USgeocoder
+The service returns data to support mappling applications in XML, depending on the subscriber&#039;s choice at the time of registration. Authorized users can obtain a range of information by submitting street address and Zip-5 information: Geocode, standardized US Postal Service address, mail delivery data, Political jurisdictions and elected officials, and U.S. Census statistics. Additional modules also provide California sales and use tax rate.
+
+address geocoding mapping 
+Mapping

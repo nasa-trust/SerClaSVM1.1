@@ -1,0 +1,7 @@
+Biological database access service
+MetNet
+MetNet is software to visualize, explore, statistically analyze and model transcriptomics, proteomics and metabolomics data in the context of a growing metabolic and regulatory network map of Arabidopsis, Soybean, and other species.
+
+The MetNet API is a programming library that provides direct-access to our MetNetDB database. It allows software developers to interface with a central repository of pathway-related data. It offers flexible query and data-retrieval methods for Java- and R-based applications that import biological network knowledge. 
+biology database 
+Reference

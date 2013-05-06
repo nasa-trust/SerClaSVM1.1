@@ -1,0 +1,5 @@
+Community travel service
+dopplr
+From their site: Dopplr lets you share your travel plans privately with a group of friends and colleagues whom you have chosen. It then tells you when people you know will be in the same cities. It also reminds you of people who live in the places you&#039;re planning to visit. The API is based on Google AuthSub. We intend to replace this AuthSub clone implementation with OAuth in the near future.
+deadpool social travel 
+Travel

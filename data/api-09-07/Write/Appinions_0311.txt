@@ -1,0 +1,5 @@
+Opinion aggregation platform
+Appinions
+Appinions is an opinion platform that lets customers collect, analyze and summarize opinions from sources around the world to stay engaged and make smarter, more informed decisions. Millions of news articles, blogs, and tweets are processed in order to identify opinions, opinion-holders, topics, and other relevant information. Using the API developers can build Opinion-based applications using a simple RESTful API. Responses are formatted in XML or JSON.
+recommendations Twitter 
+Recommendations

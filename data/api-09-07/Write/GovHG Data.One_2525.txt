@@ -1,0 +1,5 @@
+Hong Kong real-time traffic
+GovHG Data.One
+Data.One on Hong Kong&#039;s government website, GovHK, provides public sector information, currently for geo-referenced public facility data and real-time traffic data. The traffic data, in the form of traffic speed maps, journey time indicators, and special traffic news, is also available via an API returning responses in XML.
+china government hongkong transit transportation 
+Transportation

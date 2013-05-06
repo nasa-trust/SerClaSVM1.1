@@ -1,0 +1,7 @@
+Domain registry and whois lookup service
+Domain
+A collection of web services from EuroDNS S.A. that aggregate functions for domain lookup, data reporting, and transactions across the domain name industry. Gives access to data collected from whois providers, domain registries, and domain availability check services along with major aftermarket data providers.
+
+The services available include availability and whois lookup by both domain name and IP, along with registry information and domain profile information such as value appraisal and secondary market offerings. Whois information available includes registration history for the domain.
+domains internet whois 
+Internet

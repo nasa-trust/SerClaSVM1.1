@@ -1,0 +1,5 @@
+News service
+USA Today
+The nationwide newspaper USA Today provides access to its news articles going back to 2004. Search based on keyword, reporter, date and a few other factors. Results are sent as XML or JSON and require an API key.
+news 
+News

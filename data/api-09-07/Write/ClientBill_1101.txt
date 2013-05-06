@@ -1,0 +1,7 @@
+Online invoicing service
+ClientBill
+ClientBill is an online invoicing and payment processing service. Users can create and send invoices to their clients, allow clients to pay online through supported payment processing services, and track payments.
+
+The ClientBill API allows developers to access information in ClientBill. Some example API methods include creating, viewing, and editing client information, invoice information, estimates, and payments. 
+invoicing office 
+Office

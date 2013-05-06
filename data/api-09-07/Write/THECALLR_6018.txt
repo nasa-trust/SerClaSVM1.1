@@ -1,0 +1,5 @@
+Telephony services
+THECALLR
+THECALLR offers users a platform from which they can design and configure voice applications in a number of ways. They can track the phone calls of their marketing campaigns, set up conference rooms on a private number, create a dialer to schedule outbound calls, and change the configuration of an Interactive Voice Response (IVR). The API can be used to integrate call metrics, analytics, and management of voice applications, into existing tools such as ERP, CRM, marketing platforms, internal tools. The API is a JSON-RPC 2.0 HTTPS Web Service. REST and SOAP interfaces are available. Full documentation is not publicly available.
+conference IVR telephony Voice 
+Telephony

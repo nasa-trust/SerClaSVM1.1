@@ -1,0 +1,9 @@
+Semantic web gateway
+Watson
+Watson deploys APIs to allow developers to programmatically access the semantic content (semantic data, ontologies) it collects, and to exploit the features it provides. These APIs are meant to be the basis for the development of lightweight semantic web application that exploit online knowledge.
+
+Watson is a gateway for the Semantic Web, which has been guided by the requirements of Semantic Web applications. It provides an efficient access point to the online ontologies and semantic data. Therefore, such a gateway plays three main roles: 1) it collects the available semantic content on the Web, 2) analyzes it to extract useful metadata and indexes, and 3) implements efficient query facilities to access the data.
+
+The API uses either RESTful, SOAP or JavaScript protocol. Responses can be formatted in XML, JSON or TXT.
+internet semantic 
+Internet

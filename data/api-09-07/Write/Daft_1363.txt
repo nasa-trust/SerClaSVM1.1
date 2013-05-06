@@ -1,0 +1,5 @@
+Irish real estate site
+Daft
+Daft.ie is Ireland&#039;s no. 1 property website. Daft.ie has nationwide coverage and contains about 80% of the total available properties in the country. The Daft API is a service that allows developers to build tools and websites powered by Daft.ie. The aim of the Daft.ie API is to open up a subset of Daft.ie&#039;s property data to third-party developers. Developers can use the data to create an estate agent website, statistics about the Irish property market, a new property search tool and more. The API uses SOAP protocol and responses are formatted in XML.
+realestate 
+Real Estate

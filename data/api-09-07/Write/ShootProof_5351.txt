@@ -1,0 +1,7 @@
+Photograph proofing, sharing, and selling platform
+ShootProof
+ShootProof is an online platform for photographers to upload, proof, share, and sell their photographs and images. Photographers can name their own prices and set their own terms for selling their photographs on ShootProof.
+
+The ShootProof API allows developers to access and integrate the functionality of ShootProof with other applications and sites. Some example API methods include uploading photographs, managing albums, managing photographs, and retrieving information about photographs and albums.
+photo stock 
+Photos

@@ -1,0 +1,7 @@
+Stock music and sound effects provider
+AudioMicro
+AudioMicro is a stock music and sound effects collection. AudioMicro licenses stock music and sound effects to producers to be included in their media. 
+
+The AudioMicro API allows developers to access content and data from AudioMicro to create other applications. Some example API methods include searching the library by category and sub-categories, downloading track URLs, and retrieving the most recent tracks and the most popular tracks.
+audio music sound 
+Music

@@ -1,0 +1,12 @@
+aggregate 1
+content 1
+external 1
+file 3
+interface 1
+organize 1
+personal 2
+request 1
+search 1
+sharing 4
+storage 1
+tool 1

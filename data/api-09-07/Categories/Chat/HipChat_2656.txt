@@ -1,0 +1,17 @@
+buddy 1
+building 1
+chat 3
+communication 1
+company 2
+design 1
+file 1
+instant 2
+list 1
+messaging 2
+platform 1
+private 1
+rooms 1
+secure 1
+self 1
+sharing 1
+team 2

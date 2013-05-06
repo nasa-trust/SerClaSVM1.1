@@ -1,0 +1,7 @@
+Shipping aggregation and information service
+FreightCenter
+The service aggregates freight and shipping information from over 25 potential carriers, with freight class rating, shipping cost quotations, and shipment booking functions. It can be integrated with e-commerce checkout functions or act as a standalone transportation function. Shipment tracking is also supported.
+
+API methods support submission of a shipment size and contents along with point of origin and destination. Methods can return class rating and real-time quotes from up to 25 providers, with ability to book the shipment and arrange for pickup.
+aggregator ecommerce shipping transportation 
+Shipping

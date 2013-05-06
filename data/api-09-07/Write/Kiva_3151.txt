@@ -1,0 +1,5 @@
+Person-to-person micro-lending service
+Kiva
+The Kiva API gives you access to the world&#039;s first person-to-person micro-lending website, which empowers individuals to lend directly to unique entrepreneurs in the developing world. Kiva is a nonprofit organization.
+finance lending microfinance nonprofit 
+Financial

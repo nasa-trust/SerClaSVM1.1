@@ -1,0 +1,5 @@
+Amino acid structural analysis service
+CASPUR
+CASPUR, a biology database access site, provides several SOAP-based APIs for performing structural analyses on amino acids. One method returns a set of adjacency lists, each of which contains the referential amino acid and &#039;x&#039; couples. Once created, these adjacency lists can be used to build 3d graphs. Another function allows users to find surface atoms from a 3d Protein Data Bank model.
+bioinformatics science 
+Science

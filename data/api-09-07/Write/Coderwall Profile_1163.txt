@@ -1,0 +1,7 @@
+User profile data service
+Coderwall Profile
+Coderwall is a community based social network created with the purpose of allowing users to create light-weight profiles that display achievements in coding and development. Users gain publicly displayed badges, such as the T-Rex achievement for &quot;having at least one original repo where C is the dominant language&quot; or the Octopusy achievement for &quot;having a repo followed by a member of the GitHub team&quot;. Users can also join and create company teams to compete for the highest score.
+
+The Coderwall Profile API simply exposes a JSON representation of every profile that can be retrieved via HTTP. When a valid username is included within the GET request, a response consisting of profile information and a list of achievements will be returned in either JSON or JSONP.
+code community internet Profile social 
+Social

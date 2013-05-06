@@ -1,0 +1,7 @@
+Pricing and product promotions platform
+Discfoo
+Discfoo provides a platform for online merchants to create and manage flexible price and product promotions to suit any campaign. Users can set up multiple targeted promotions, automatic promotion redemptions, and flexible pricing.
+
+The API allows developers to integrate the Discfoo promotion engine into applications to calculate discounts based on unique cart scenarios. The API uses RESTful calls and responses are formatted in  JSON.
+coupons discounts ecommerce promotion shopping 
+Shopping

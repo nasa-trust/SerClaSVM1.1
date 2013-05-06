@@ -1,0 +1,7 @@
+Language detection and analysis tool
+AlchemyAPI Language Detection
+AlchemyAPI provides content owners and web developers with a rich suite of content analysis and meta-data annotation tools. Expose the semantic richness hidden in any content, using named entity extraction, phrase / term extraction, document categorization, language detection, structured content scraping, and more.
+
+This RESTful content analysis API identifies the language of any text or web page. Detects 97 languages with extremely high accuracy. Easily categorize or filter any content based on the language it was written in. 
+semantic tools 
+Tools

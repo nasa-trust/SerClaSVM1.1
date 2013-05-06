@@ -1,0 +1,16 @@
+audio 2
+cinch 1
+computer 1
+content 2
+creation 1
+feature 1
+phone 2
+photo 2
+read 1
+share 2
+sharing 1
+social 2
+text 2
+twitter 1
+update 1
+write 1

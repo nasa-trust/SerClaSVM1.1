@@ -1,0 +1,5 @@
+Video analytics service
+Kantar Video Analytics
+The Kantar Video Analytics Actionscript API is used for online video syndication, analytics and fingerprinting matching and tracking. KANTAR VideolyticsTM is an online and mobile video advertising and program platform offering content identity, syndication,tracking, measurement, analytics, and optimization for marketers and their agencies, media companies, and content creators and distributors.
+advertising analytics deadpool video 
+Video

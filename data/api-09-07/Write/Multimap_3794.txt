@@ -1,0 +1,5 @@
+Global online mapping service
+Multimap
+One-stop service for global AJAX mapping, routing, geocoding, searching and POI from Europe???s #1 provider of mapping and location services to consumers and businesses.
+ajax geocoding Global mapping places routing 
+Mapping

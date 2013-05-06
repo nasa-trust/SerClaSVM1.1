@@ -1,0 +1,7 @@
+Hotel Search and Booking Service
+EasyToBook
+EasyToBook provides hotel bookings for more than 50,000 hotels in over 9,000 cities. The EasyToBook API provides a SOAP-based API to facilitate hotel searching and booking applications. Developers can retrieve a list of cities, get hotels for a particular city, check hotel availability, look for cheap hotel rooms, get other room information, retrieve hotel photos and other hotel information, as well as book the hotel on behalf of their users. Developers can also retrieve specific booking information, to be built into their customer service applications.
+
+The API also has an affiliate program to pay out a percentage of booking fees to developers. Because the API uses SOAP, data is formatted as XML.
+affiliate booking hotel travel 
+Travel

@@ -1,0 +1,5 @@
+Geo-targeted advertising for online maps
+Lat49
+From their site: Lat49 brings real world geo-targeting capability to online marketing. Lat49 provides advertisers with the unique opportunity to deliver messaging from a national branding level right down to very geo-targeted audiences at the street or neighborhood levels. Note that login is required to view the API documentation.  
+geolocation location advertising deadpool
+Advertising

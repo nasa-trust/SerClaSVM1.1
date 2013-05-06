@@ -1,0 +1,7 @@
+Data and analytics service
+BigML
+BigML is a service for cloud-hosted machine learning and data analysis. Users can set up a data source, create a dataset, create a model from the dataset, and then make predictions based on the data. 
+
+The BigML API allows developers to access and integrate the functionality of BigML with other applications and to create new applications. Public documentation is not available; API access comes with account and service.
+analytics Data learning utility 
+Utility

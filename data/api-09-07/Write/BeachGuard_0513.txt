@@ -1,0 +1,5 @@
+Beach information service
+BeachGuard
+BeachGuard is an online system originally used in Michigan that gathers beach sampling data from local health agencies. BeachGuard has since been implemented by three other states; Illinois, Indiana, and Ohio. The service contains two main functionalities, retreiving beaches via query and returning information on beach closures and advisories. The API uses RESTful calls and responses are formatted in XML.
+beach public search 
+Search

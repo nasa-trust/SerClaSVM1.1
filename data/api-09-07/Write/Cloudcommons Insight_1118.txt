@@ -1,0 +1,7 @@
+Cloud hosting and storage information service
+Cloudcommons Insight
+The service provides information and resources to support selection among and adoption of cloud storage and application hosting platforms. It maintains a listing of vendors and their service offerings, grouped and weighted according to its own system of categories and service ratings (SMI scores). Information is provided to aid comparison among providers and product packages.
+
+API methods support access to listings of services and vendors offering them. Methods also support access to the category taxonomy, including weightings applied to individual listings along with calculated natural and weighted SMI scores rating the service listings. 
+cloud hosting storage 
+Storage

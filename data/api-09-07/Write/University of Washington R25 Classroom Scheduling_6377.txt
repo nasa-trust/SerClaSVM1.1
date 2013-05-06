@@ -1,0 +1,5 @@
+Classroom scheduling service
+University of Washington R25 Classroom Scheduling
+The University of Washington R25 Classroom Scheduling API provides programmatic access to schedule information for UW classrooms. Users may search for this information by event, location, or reservation. For example, an application could query the API for details on room availability for KANE 110. This API can be accessed via REST calls using the XML data format.
+education scheduling university 
+Education

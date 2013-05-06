@@ -1,0 +1,10 @@
+book 2
+content 1
+entire 1
+file 1
+google 1
+make 1
+quotation 5
+quote 1
+reference 2
+syndicate 1

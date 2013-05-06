@@ -1,0 +1,5 @@
+Photo and news analysis service
+10x10
+10x10 (&#039;ten by ten&#039;) is an interactive exploration of words and photos based on news stories during a particular hour. The 10x10 site displays 100 photos, each photo representative of a word used in many news stories published during the current hour. The 10x10 site maintains an archive of these photos and words back to 2004. The 10x10 API is organized like directories, with the year, month, day and hour. Retrieve the words list for a particular hour, then get the photos that correspond to those words.
+news photo 
+Photos

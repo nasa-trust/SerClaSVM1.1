@@ -1,0 +1,6 @@
+Desktop gadgets
+Windows Sidebar Gadgets
+For Windows Vista sidebar.
+
+widgets 
+Widgets

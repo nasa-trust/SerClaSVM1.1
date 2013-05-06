@@ -1,0 +1,15 @@
+accept 1
+camera 1
+card 2
+credit 2
+functionality 1
+integrate 2
+main 1
+method 1
+mobile 5
+payment 8
+phone 1
+processing 1
+retail 1
+retrieve 1
+scanning 1

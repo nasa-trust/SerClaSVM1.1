@@ -1,0 +1,13 @@
+Access data from the Google Sites service
+Google Sites 
+The Google Sites Data API lets developers access, publish, and modify content within a Google Site. The API is available to both Google Account and Google Apps users.
+
+Here are some of the things you can do with the API:
+
+    * Retrieve, create, modify, move, and delete pages, comments, attachments, and other content.
+    * Review the revision history across the Site.
+    * Monitor all add, modify, and delete activity for a Site.
+    * Upload/download attachments and files.
+    * Create customized gadgets for your users.&quot;
+tools wiki 
+Tools

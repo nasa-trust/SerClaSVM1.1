@@ -1,0 +1,16 @@
+account 1
+details 2
+download 1
+file 11
+folder 1
+functionality 1
+get 2
+host 2
+link 1
+move 1
+organize 1
+own 1
+share 3
+sharing 3
+storage 1
+upload 2

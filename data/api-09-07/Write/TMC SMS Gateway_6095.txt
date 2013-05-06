@@ -1,0 +1,5 @@
+SMS gateway service
+TMC SMS Gateway
+TMC is the UK&#039;s leading provider of business SMS messaging. TMC&#039;s API allows an organization to utilize SMS as a communication tool, direct from a database or software application. With the API, users can integrate functionality from TMC&#039;s SMS gateway into their software or applications. Functionality includes sending multiple messages via a single post and sending messages via secure password login. The API is available via REST, SOAP and SMTP. 
+messaging mobile sms uk 
+Messaging

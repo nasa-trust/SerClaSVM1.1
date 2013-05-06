@@ -1,0 +1,5 @@
+Minnesota Transit information service
+Metro Transit NexTrip
+ Metro Transit is the transportation resource for the Twin Cities, offering a network of buses, light rail and commuter trains as well as additional resources for those using alternate forms of transportation. The NexTrip API provides users with real time data about vehicles at a specified stop. Data can include departure time, gate, route, terminal, direction and more. Information in the NexTrip API is updated every 30 seconds to reflect real-time changes in transit service. It uses HTTP calls and responses can be formatted in XML and JSON.
+minnesota transit transportation 
+Transportation

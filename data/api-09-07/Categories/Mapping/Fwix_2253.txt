@@ -1,0 +1,17 @@
+business 1
+content 5
+datum 1
+event 1
+facilitate 1
+integrating 1
+interest 1
+listing 1
+local 1
+location 4
+mapping 2
+news 2
+over 1
+photo 1
+place 1
+point 1
+review 1

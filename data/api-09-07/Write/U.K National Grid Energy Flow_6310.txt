@@ -1,0 +1,7 @@
+Energy consumption and supply information service
+U.K National Grid Energy Flow
+The service provides updated and time-stamped reports of electricity and natural gas usage across its service areas in the United Kingdom and the northeastern United States. It updates usage data every 12 minutes to generate a report of energy demand and the provider&#039;s environmental performance.
+
+API methods support retrieval of energy flow data along with the timestamp of the most recent update. Data are provided in compressed format.
+energy government power 
+Government

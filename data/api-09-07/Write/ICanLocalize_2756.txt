@@ -1,0 +1,5 @@
+Translation service
+ICanLocalize
+ICanLocalize is a translation management tool that provides website translation, software/app localization, and other text translation services. With the ICanLocalize API, you can set up a project, send documents to translate, and return the translation when it's complete. With the API, all interaction between clients and translators can be embedded in the host application.  
+Translation language tools sbweb
+Tools

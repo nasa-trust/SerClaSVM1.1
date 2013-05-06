@@ -1,0 +1,5 @@
+Sentiment and text analytics software
+Clarabridge
+Clarabridge provides sentiment and text analytics software. The Clarabridge API allows businesses to search, report on and analyze their documents, even those with unstructured data. Users can submit and process multiple verbatims for real-time determination of sentiment, classification of a verbatim, and stage the verbatim for future processing into the Clarabridge system. Public documentation of the XML API is not available but developers can contact the provider for further details.
+analytics enterprise sentiment 
+Enterprise

@@ -1,0 +1,7 @@
+Game Statistics Service
+Poszkole.pl
+The Poszkole.pl API can be used to give ActionScript games the ability to report scores and statistics to the main server. The API is easy to install into an ActionScript game; simply copy some code into the beginning of the game script file to implement the service. Scores can be submitted later by calling the PoszkoleAPI.submitScore(&quot;key&quot;,value) function. 
+
+
+games utility 
+Games

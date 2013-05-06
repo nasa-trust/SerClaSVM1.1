@@ -1,0 +1,5 @@
+Weather forecast services
+WeatherBug
+WeatherBug is a full source weather provider featuring exclusive data from its own network of over 8,000 weather observation stations in the USA. The API gives you access to live weather conditions, forecasts and severe weather warnings for all US zip codes.
+weather 
+Weather

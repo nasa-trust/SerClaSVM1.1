@@ -1,0 +1,7 @@
+Geospatial data processing and analysis services
+CSISS/GMU Geospatial
+CSISS (Center for Spatial Information Science and Systems) and GMU (George Mason University) offer almost 80 APIs that provide geospatial processing and analysis services. Most of these APIs are based on GRASS (Geographic Resources Analysis Support System), an open source image processing and geographic information system.
+
+The majority of available services are for satellite image processing, raster image processing, raster map statistical analysis, and vector map processing. There are also a few miscellaneous services for tasks such as hydrological analysis and fire-spread simulation.
+geography mapping 
+Mapping

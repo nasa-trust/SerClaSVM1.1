@@ -1,0 +1,7 @@
+Blogs by email service
+FeedBlitz
+From their site: FeedBlitz is a service that monitors blogs, RSS feeds and Web URLs to provide greater reach for feed publishers. FeedBlitz takes all the headache out of converting feed and blog updates into email digests, delivered daily to subscribers&#039; inboxes. FeedBlitz manages subscriptions, circulation tracking, testing, and is compatible with all major blogging platforms and services such as Blogger, TypePad and FeedBurner. 
+
+The FeedBlitz API enables users to access FeedBlitz features programmatically, allowing innovative new applications based on and including FeedBlitz data and functionality. The API enables comprehensive integration at the data and application layers using a consistent and easy to understand interface.
+blog email sbweb 
+Blogging

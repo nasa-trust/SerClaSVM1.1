@@ -1,0 +1,14 @@
+answer 1
+book 2
+computer 2
+digitalization 1
+digitize 1
+distinguish 2
+humans 2
+implementation 1
+newspaper 1
+old 1
+program 1
+scan 1
+security 3
+spam 1

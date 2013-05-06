@@ -1,0 +1,5 @@
+Image resizing service
+Resizor
+Resizor is an image resizing service. It is intended for use by app developers who need their graphics resized quickly. Developers begin by uploading their graphic to Resizor???s API. Resizor then returns a unique identifier for it. When developers need the image resized, they specify new parameters with the unique ID.  The API is REST-based and returns JSON and XML formatted data with the images. 
+image photo tools 
+Photos

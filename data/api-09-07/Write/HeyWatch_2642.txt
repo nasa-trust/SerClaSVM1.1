@@ -1,0 +1,5 @@
+Video encoding services
+HeyWatch
+Use this encoding platform for B2C (consumers) and B2B apps. Use the API to encode videos. Create video apps for mobile devices, such as for Nokia, Wii, Zune, or PS3.
+mobile video 
+Video

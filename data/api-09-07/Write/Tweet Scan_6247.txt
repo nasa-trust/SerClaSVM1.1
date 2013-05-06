@@ -1,0 +1,5 @@
+Twitter and identi.ca search results service
+Tweet Scan
+Use the Tweet Scan API to get search results from Tweet Scan. Tweet Scan is a real-time search engine for Twitter, identi.ca, and eight other Laconica-based sites (the eight other sites being The TWIT Army Canteen, bleeper.de, fun.ohhh.no, Suffice to Say, Lareta.net, Linux Outlaws, MicroCiaran, and Pawwer).
+deadpool microblogging search social Twitter 
+Search

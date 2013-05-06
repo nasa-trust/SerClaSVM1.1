@@ -1,0 +1,5 @@
+Card payment services
+YESpay
+YESpay is a payments services company that provides secure EMV Chip and PIN credit and debit cards, and e-commerce card payment processing services. YESpay provides APIs to enable integrations with all of its EasyV-Suite products. With the API users can add a card payment flow directly into their system. Additionally the API allows for transactions reporting, automating the capture process, viewing delivery addresses products that have been ordered by customers and more. Documentation is available with a partner account.
+Credit ecommerce payment 
+Payment

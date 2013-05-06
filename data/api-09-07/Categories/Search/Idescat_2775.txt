@@ -1,0 +1,12 @@
+catalonia 2
+datum 1
+demographic 1
+entity 1
+feature 1
+interface 1
+population 3
+return 1
+search 4
+sex 1
+spain 1
+territorial 1

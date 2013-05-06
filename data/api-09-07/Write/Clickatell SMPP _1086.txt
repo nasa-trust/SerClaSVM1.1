@@ -1,0 +1,5 @@
+SMS messaging services via SMPP
+Clickatell SMPP 
+One of seven SMS APIs offered by Clickatell. Clickatell covers over 819 networks in more than 220 countries. You will be able to send SMS messages around the world to your clients, staff or user-database. All Clickatell APIs support text, Unicode, binary SMS and flash messaging. SMPP is the ideal connection for regular high-volume users (there is a monthly minimum requirement of 5,000 SMS credits), enabling messages to be sent reliably and at high speed. Clickatell supports connections via SMPP using the global SMPP 3.4 standard, and is backward compatible. SMPP connection supports extended length messages, provides converters to turn ringtones and logos into the correct format, allows delivery acknowledgement, sender ID, and two-way messaging. 
+sms mobile messaging telephony Global
+Messaging

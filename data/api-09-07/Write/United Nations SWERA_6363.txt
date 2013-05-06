@@ -1,0 +1,7 @@
+Renewable energy information service
+United Nations SWERA
+The SWERA service, from the United Nations, provides data about renewable energy resources worldwide. It provides geographic information system (GIS) and time-series data compiled by international experts and in-country partners. The service helps to promote applications of solar and wind energy technologies and support decision-making about available resources and likely energy production for a location.
+
+API methods allow specification of a location by latitude and longitude along with desired data, including solar irradiance and angle, wind speeds, and related information as recorded by a number of national repositories. Methods are also available to retrieve climate data such as temperature, heating and cooling degree days, humidity, and barometric pressure.
+climate solar weather wind windfarms 
+Weather

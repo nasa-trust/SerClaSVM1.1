@@ -1,0 +1,6 @@
+Photo mapping
+Mappr
+Note:As of 7/15/2008 this API no longer appears available.
+From their site: The Mappr API is built to augment Flickr&#039;s API, and provides just the information required to make guesses about image geolocation or query Mappr&#039;s existing geolocated photos. All requests and responses are REST style, for simplicity. 
+deadpool 
+Mapping

@@ -1,0 +1,7 @@
+Social network platform for workplaces
+Tibbr
+Tibbr is a social networking platform designed specifically for the workplace. Tibbr offers a variety of features for workplace content sharing, communication, and project management. Tibbr&#039;s features include microblogging, instant messaging, screen sharing, and customizable applications. 
+
+The Tibbr API allows developers to access and integrate the data and functionality of Tibbr with other applications. Some example API methods include managing users, retrieving messages, posting messages, and searching subjects.
+blog chat communication enterprise networking social 
+Enterprise

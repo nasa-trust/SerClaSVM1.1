@@ -1,0 +1,15 @@
+control 2
+customer 1
+development 1
+enterprise 1
+expect 1
+integrate 1
+inventory 4
+open 1
+party 1
+point 2
+quarter 1
+retail 1
+sale 2
+sales 2
+system 2

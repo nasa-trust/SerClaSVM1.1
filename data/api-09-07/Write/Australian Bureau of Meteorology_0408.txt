@@ -1,0 +1,7 @@
+Austrailian weather report and forecast service
+Australian Bureau of Meteorology
+The service from Australia&#039;s Bureau of Meteorology provides real-time weather forecasts and observation reports. Data provide national summaries and local reports of temperature, precipitation, wind, barometric pressure, and significant weather events across Australia. The service can also provide text forecasts and warnings for Victoria, Tasmania, New South Wales and Australian Capital Territory. UV index and agricultural reports are available, as well.
+
+
+Australia climate weather 
+Weather

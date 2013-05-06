@@ -1,0 +1,5 @@
+Travel guides lookup service
+WikiSherpa
+WikiSherpa gives mobile users an interfact to Wikitravel that lets them download and navigate Wikitravel pages on their iPhone or Android phone, and shows their listings on a map. WikiSherpa is a mash-up of Wikitravel, Wikipedia, and OpenStreetMap. It can be used to search for destination guides which can be saved to users&#039; phones. The API lets users access the functionality including returning a complete Wikitravel page, searching for pages, returning a list of pages nearest the given lat/long coordinates and more. The API uses HTTP calls and responses are formatted in JSON.
+geolocation search travel 
+Travel

@@ -1,0 +1,5 @@
+Application development platform
+Appcelerator
+Appcelerator is the leading enterprise-grade, cross-platform development solution that powers over 30,000 cloud-connected applications across mobile, desktop and web platforms. Appcelerator&#039;s leading product, Titanium, is the only mobile cloud platform to enable fully native, cross-platform mobile app and HTML5 web development, from a single codebase. Appcelerator Cloud Services (ACS) provides a number of data storage and web services such as user logins, photo uploads, checkins, status updates, push notifications and more. The API uses RESTful calls and responses are in JSON.
+application backend development mobile 
+Backend

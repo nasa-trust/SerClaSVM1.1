@@ -1,0 +1,16 @@
+avatar 2
+create 1
+creator 1
+email 1
+given 1
+id 1
+image 1
+internet 1
+look 1
+pixel 1
+profile 1
+retro 2
+seed 1
+utility 2
+value 1
+values 1

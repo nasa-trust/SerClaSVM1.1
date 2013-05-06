@@ -1,0 +1,12 @@
+content 1
+create 1
+crowd 1
+datum 3
+local 2
+medium 1
+network 1
+own 1
+social 1
+source 1
+weather 8
+world 1

@@ -1,0 +1,5 @@
+Music information database
+Cloudspeakers
+Cloudspeaker is a music catalog of reviews, audios, and videos. The Cloudspeaker API gives developers the ability to access the Cloudspeaker database of music information. All links in the service are matched with the MusicBrainz database. 
+referencemusicmusicbrainz 
+Music

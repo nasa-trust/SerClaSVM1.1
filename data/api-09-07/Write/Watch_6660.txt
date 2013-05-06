@@ -1,0 +1,5 @@
+Sports bar finder
+Watch
+Watch! is a service that lets fans search for a place to watch their favorite sports team and then book a table at that locale. Restaurants and bars register with the service to participate. Listed games are primarily from La Liga (Spain), the Euroleague, and the NBA. Listed bars are primarily in Europe and major US cities. The API offers users the same functionality as the web interface with outputs in JSON format.
+entertainment football soccer sports television 
+Entertainment

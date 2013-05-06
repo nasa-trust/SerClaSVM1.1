@@ -1,0 +1,9 @@
+Event promotion service
+Bullseyehub
+Bullseyehub provides event promotion software, employing automatic event listings, email, and mobile and social tools to assist its users in promoting their events online.
+
+The API allows developers to integrate events and content from Bullseyehub onto their sites or into their applications. Through this API, users have access to detailed listings for over 1,000 unique events per month, and can customize their API queries by genre, venue, or geolocation. Please note that only details on future events are available via the Bullseyehub API.
+
+This is a RESTful API that returns data in XML and JSON formats, is free to use, and requires an API key for access.
+events marketing 
+Events

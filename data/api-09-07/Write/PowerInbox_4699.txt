@@ -1,0 +1,7 @@
+Email application platform
+PowerInbox
+PowerInbox looks to bring the app experience to email. They offer email apps to make emails more useful by letting users perform actions inside the email itself. The PowerInbox platform supports Gmail, Hotmail and Yahoo! Mail on Chrome & Firefox. It also supports Microsoft Outlook. 
+
+PowerInbox provides an API to help developers bring their applications right within the email application. PowerInbox allows users to show a web app inside an email using an IFRAME.
+applications email 
+Email

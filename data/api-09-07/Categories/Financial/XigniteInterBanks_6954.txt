@@ -1,0 +1,14 @@
+china 1
+enterprise 1
+euro 1
+finance 2
+get 1
+interest 2
+korea 1
+mexico 1
+money 1
+prague 1
+rates 2
+singapore 1
+tokyo 1
+warsaw 1

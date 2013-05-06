@@ -1,0 +1,7 @@
+University directory services
+UC Davis IET
+The UC Davis Information and Educational Technology (IET) has a mission to create and support an information technology environment that enhances the ability of the UC Davis community to teach, do research, and provide public service. The IET delivers an infrastructure of technological services to the university community.
+
+The IET Middleware services team offers an API that lets users search and bulk load data that is published in the Online Directory system. This API will return a person&#039;s primary listing and the first device/address results for that listing. The API uses RESTful calls and responses are formatted in JSON.
+california deadpool education reference 
+Education

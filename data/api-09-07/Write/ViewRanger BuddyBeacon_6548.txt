@@ -1,0 +1,5 @@
+Live tracking map tool
+ViewRanger BuddyBeacon
+ViewRanger is a UK-based company specializing in GPS applications and map software. BuddyBeacon is a GPS navigation app for mobile devices that allows live tracking of a user&#039;s location. The BuddyBeacon API is currently in beta. It grants access to a user&#039;s raw BuddyBeacon data for map, app, or mash-up creation.
+gps mapping navigation tracking 
+Mapping

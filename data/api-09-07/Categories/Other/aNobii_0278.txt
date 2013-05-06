@@ -1,0 +1,16 @@
+book 5
+bookshelf 1
+collection 1
+create 1
+explore 1
+item 1
+library 1
+lover 1
+plan 1
+re 1
+read 2
+reading 1
+sharing 2
+shelf 1
+social 1
+track 1

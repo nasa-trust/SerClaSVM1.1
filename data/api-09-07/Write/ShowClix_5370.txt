@@ -1,0 +1,7 @@
+Ticket search service
+ShowClix
+ShowClix is a ticketing service for performing arts centers, nightclubs, music venues, non-profit organizations, and colleges and universities. 
+
+The API can fetch information about upcoming events as well as provide the ability to add events, sellers, and venues. It uses the RESTful protocol and returns responses in JSON.
+deadpool events tickets 
+Events

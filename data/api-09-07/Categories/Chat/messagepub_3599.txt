@@ -1,0 +1,11 @@
+aim 1
+chat 3
+email 2
+google 1
+message 1
+messaging 2
+phone 1
+send 1
+sm 1
+software 1
+twitter 1

@@ -1,0 +1,7 @@
+API creation service and platform
+YorApi
+YorApi is a platform and service that allows developers to create REST APIs, host them on the YorApi platform and launch their mobile applications built on top of their own APIs. The YorApi API itself allows developers access to the functionality of the site in order to build tools that build APIs.
+
+YorApi is in private beta; interested developers should sign up here: http://www.yorapi.com.
+backend hosting internet mobile programming 
+Backend

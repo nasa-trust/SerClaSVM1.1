@@ -1,0 +1,5 @@
+Third party Wikipedia web service
+FUTEF Wikipedia API
+From their site: FUTEF API provides a search API to explore and find Wikipedia content - including faceted categories. This API is presented as a RESTful Web Service - for more background information on RESTful web services.
+deadpool reference wiki 
+Reference

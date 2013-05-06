@@ -1,0 +1,7 @@
+Consolidated travel information service
+Travelisense OpenDistribution
+The service provides unified access travel information from a distributed partner network of separate systems specializing in information about flights, hotels, car rental, insurance, and entertainment options. The service returns a range of content in response to a single submission so applications need not separately contact all the providers involved. 
+
+API methods support submission of a query specifying the desired departure and destination locations, along with desired information. The response provides a compiled package of results gathered from separate providers.
+airlines hotel reservations tickets travel 
+Travel

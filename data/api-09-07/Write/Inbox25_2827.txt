@@ -1,0 +1,7 @@
+Email marketing campaign management service
+Inbox25
+The service provides hosted email marketing campaign management for bulk message delivery with message creation and formatting, hosting of file attachments and images, and performance tracking. It provides tools for managing subscriber lists and addresses, bounced message notification, and mailing list groupings and subsets. It also allows campaign definition, list tracking, and success monitoring.
+
+API methods support adding and removing subscribers and assigning subscribers to lists according to campaign and messaging strategies. Methods also support tracking of messages sent, delivery and open rates, click rates, bounced addresses, unsubscribe requests, and more.
+campaign email marketing 
+Email

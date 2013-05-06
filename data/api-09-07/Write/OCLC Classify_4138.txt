@@ -1,0 +1,5 @@
+Library catalog classification service
+OCLC Classify
+The OCLC is a nonprofit computer library service and research organization which maintains WorldCat, a global network of library content. The OCLC Classify API is an experimental classification web service meant to aid libraries in classifying books, documents and media. You can look up an item by ISBN or various other identifiers, as well as search by title or author.
+library reference 
+Reference

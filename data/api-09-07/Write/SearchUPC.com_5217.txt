@@ -1,0 +1,5 @@
+UPC Search with Barcode generator
+SearchUPC.com
+The SearchUPC.com API allows users to implement the UPC to product search functionality into their ecommerce websites, as well as generate UPC graphics from UPC code numbers. SearchUPC.com is a specialization for UPC to product search. The search is based on its own upc database and other APIs with over 5 million products online. The API provides the following methods: ConvertToUPCA, GenerateBarcode, GetProduct, Validate. It uses SOAP protocol and responses are in XML.
+barcode retail search shopping upc 
+Retail

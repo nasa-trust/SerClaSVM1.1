@@ -1,0 +1,5 @@
+Real Estate systems connection
+Agent Storm
+The Agent Storm API is a Real Estate Management System which is interoperable with the leading real estate systems on the market. API will facilitate import, export and integration with third party apps and sites. The platform will let you syncronize your Agent Storm account via RETS and syndicate your listings automatically to the top real estate web sites and search engines. Agent Storm gives you tools to market your properties online with customizable Property Web Sites, EFlyer Templates and Email List Management. 
+realestate 
+Real Estate

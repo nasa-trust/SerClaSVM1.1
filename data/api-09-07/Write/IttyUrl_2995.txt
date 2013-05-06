@@ -1,0 +1,5 @@
+URL shortening service
+IttyUrl
+The IttyUrl API lets you create short URLs and offers tagging, search, PageRank, and automatic RPC Ping services. Users of the main site shorten long URLs, but IttyUrl is different because it lets users create a free user account and then see all of their links, search for related content by tags found in multiple people's links, export results as RSS, and more. It also specializes in Silverlight links. 
+utility tools internet deadpool
+Internet

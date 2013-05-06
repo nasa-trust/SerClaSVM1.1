@@ -1,0 +1,5 @@
+Calling, VoIP, and messaging service
+iCall
+iCall is a service that offers free phone calls and VoIP, instant messaging, SMS services, and group messaging features via web and mobile applications.
+Voice telephony sms MMS Global
+Telephony

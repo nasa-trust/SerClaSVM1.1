@@ -1,0 +1,5 @@
+Internet based payment gateway services
+Authorize.Net
+From their site: Since 1996, Authorize.Net has been a leading provider of Internet Protocol (IP) based payment gateway services, enabling merchants to authorize, settle and manage credit card and electronic check transactions from a Web site, retail store, mail order/telephone order (MOTO) call center or mobile device. All you need to authorize and process payments through Authorize.Net is a live Internet connection and the ability to emulate an HTML Form Post using a Secure Sockets Layer (SSL) connection.
+finance payment shopping 
+Payment

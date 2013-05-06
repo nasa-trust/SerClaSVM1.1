@@ -1,0 +1,14 @@
+deliver 1
+desk 4
+email 2
+fax 13
+feature 1
+functionality 1
+international 1
+internet 1
+method 1
+numbers 1
+post 1
+receive 2
+send 1
+sending 1

@@ -1,0 +1,5 @@
+Advertising service for mobile devices
+Mocean Mobile
+Mocean Mobile is an advertising service for mobile devices. It offers publishers, mobile ad networks, and app stores a platform for maximizing their mobile revenue. The platform can be used to manage mobile ad campaigns, receive real-time reports and analytics, and support rich media advertisements. Mocean Mobile offers a REST API that allows developers to retrieve reporting data programmatically.
+advertising mobile 
+Advertising

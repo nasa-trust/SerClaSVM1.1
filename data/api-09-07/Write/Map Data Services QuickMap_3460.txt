@@ -1,0 +1,7 @@
+Data mapping service
+Map Data Services QuickMap
+The service works through a set of JavaScript APIs to provide data for interactive mapping applications. It allows definition of lines and polygons within a mapped region and placement of icons and markers. It also provides directions between locations and local features within a mapped region. The locate function provides map coordinates for a provided address or other location information.
+
+API methods support definition of mapping points by latitude and longitude as well as icons or markers to place. The API returns data defining requested polylines or polygons for use in creating an interactive map. It can also return a driving route between specified locations or prominent features in the area defined by the map.
+demographics gis mapping 
+Mapping

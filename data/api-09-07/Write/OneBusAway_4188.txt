@@ -1,0 +1,5 @@
+Realtime Seattle transit information
+OneBusAway
+OneBusAway provides access to real-time transit information for the Puget Sound region and beyond. Their API allows access to the same information that powers the OneBusAway website and mobile tools. Developers can use the api to write new apps. The API uses RESTful calls and responses are formatted in XML and JSON.
+realtime seattle transit travel washington 
+Transportation

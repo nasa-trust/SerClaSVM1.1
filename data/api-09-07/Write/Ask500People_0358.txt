@@ -1,0 +1,7 @@
+Crowdsource polling service
+Ask500People
+Ask500People allows users to create polls that can be voted on by anyone via the web. Once a question is posed, people are free to vote and discuss the question further. Users can also view demographic information about those who voted, as well as a map that shows where each vote came from.
+
+The API allows users to vote, create polls, and retrieve data from the Ask500People website. This free API operates over HTTP using the JSON format, and requires an API key for access.
+answers crowdsourcing deadpool polls surveys 
+Answers

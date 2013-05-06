@@ -1,0 +1,5 @@
+Affiliate marketing service 
+buy.at 
+The buy.at API allows users to integrate the buy.at technology to help with accurate real-time reporting covering all the necessary areas, including sales, clicks, and affiliate performance. buy.at is an affiliate marketing service based in the UK. Functions include searching and listing products and product categories and retrieving product info. The API can use either REST or SOAP protocol and responses can be in XML, JSON or PHP.
+affiliate shopping 
+Shopping

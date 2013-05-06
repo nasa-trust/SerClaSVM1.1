@@ -1,0 +1,5 @@
+SEO metrics gathering service
+SEO metrics
+The SEO metrics API gathers metrics used for SEO from different services. These metrics include backlinks, ranking, domain-age, indexed pages and something more. The API is currently in BETA and offers free access. Once the API will become stable the access will be changed into a Freemium payment model.
+analytics internet metrics SEO 
+Internet

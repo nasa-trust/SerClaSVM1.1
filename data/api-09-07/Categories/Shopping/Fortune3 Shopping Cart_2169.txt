@@ -1,0 +1,17 @@
+call 1
+cart 3
+format 1
+host 1
+inventory 1
+order 1
+platform 1
+product 1
+quantity 1
+request 1
+response 1
+retrieve 2
+send 1
+shopping 5
+software 1
+stock 1
+type 1

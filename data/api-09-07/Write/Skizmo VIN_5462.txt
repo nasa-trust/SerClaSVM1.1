@@ -1,0 +1,7 @@
+Motor vehicle identifier decoding service
+Skizmo VIN
+The service accepts a vehicle identification number (VIN) from a specific car or truck and returns decoded information about the make, model, and features at the time of manufacture. Information returned include the manufacturer and name badge, model name, year of manufacturer, engine and transmission installed, color of exterior paint and interior, etc. 
+
+API methods accept a correctly formatted alphanumeric string encoded by the manufacturer and recorded as a tag on the body of the vehicle. Methods decode the elements of this code other than the specific serial number and report basic information about the vehicle&#039;s original specifications. Enhanced information elements include fuel mileage (MPG), manufacturer&#039;s suggested retail price (MSRP), cargo capacity, etc.
+auto transportation vehicle 
+Transportation

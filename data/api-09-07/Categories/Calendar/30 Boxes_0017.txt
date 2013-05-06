@@ -1,0 +1,15 @@
+blogger 1
+box 4
+calendar 5
+event 1
+friend 2
+interface 1
+keep 1
+life 1
+mail 1
+notification 1
+organize 1
+share 1
+sm 1
+support 1
+track 1

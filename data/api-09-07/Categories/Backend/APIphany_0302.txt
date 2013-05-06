@@ -1,0 +1,13 @@
+account 1
+building 1
+console 1
+creation 1
+functionality 1
+host 3
+manage 1
+management 4
+monitoring 2
+platform 1
+portal 1
+statistics 1
+testing 2

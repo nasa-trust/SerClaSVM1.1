@@ -1,0 +1,17 @@
+aggregate 1
+aggregation 1
+aggregator 1
+beta 1
+close 1
+combining 1
+coupon 4
+documentation 1
+express 1
+filling 1
+form 1
+interest 1
+local 1
+out 1
+over 1
+public 1
+shopping 2

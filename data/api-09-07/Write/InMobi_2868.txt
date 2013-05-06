@@ -1,0 +1,5 @@
+Mobile advertising network
+InMobi
+InMobi is the world&#039;s largest independent mobile advertising network. Publishers use the network to monetize their inventory while advertisers use it to reach their audience. The InMobi API allows developers to insert their ads in J2ME, PSP, or any other platform. With the API users can manage multiple platforms. The API can also be used to integrate mobile websites, iOS & Android apps and other mobile applications. It uses HTTP calls and responses are formatted in XML.
+advertising mobile telephony 
+Advertising

@@ -1,0 +1,17 @@
+article 3
+call 1
+choose 1
+custom 2
+datum 1
+desire 1
+format 1
+get 2
+input 1
+list 1
+me 2
+news 8
+retrieval 1
+retrieve 1
+return 1
+soap 1
+topic 3

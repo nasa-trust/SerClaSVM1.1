@@ -1,0 +1,5 @@
+Stock and market price data service
+Financial Content XML Quote
+Financial Content is a provider of stock market data, business news and content syndication services. Financial Content develops content, traffic and revenue opportunities for publishers and advertisers in the financial media industry. The Financial Content XML Quote API offers simple delivery of pricing data for up to 50 securities per request. The service is compatible with most content management services.
+finance market quote stocks XML 
+Financial

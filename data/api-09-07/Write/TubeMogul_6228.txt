@@ -1,0 +1,7 @@
+Video advertising and marketing service
+TubeMogul
+TubeMogul is a video advertising and marketing company. TubeMogul provides real-time video advertising for a variety of video platforms and devices. Advertising can be customized and localized for different areas and audiences.
+
+The TubeMogul API allows developers to access and integrate the data and functionality of TubeMogul with other applications. Some example API methods include uploading videos, accessing uploading status, accessing video details, accessing statistics, and deleting videos. 
+advertising marketing video 
+Advertising

@@ -1,0 +1,5 @@
+Earthquake data visualization service
+Seismi
+Seismi is an earthquake data visualization project which is using publicly available data provided by USGS and transforming it to a more informative, human readable and visually interesting form. The API provides information on earthquakes including most recent, magnitude, count and date of earthquakes. It uses RESTful calls and responses are formatted in JSON.
+earthquakes mapping visualization 
+Mapping

@@ -1,0 +1,5 @@
+Geolocation video provider
+VodoModo
+VodoModo provides premium geolocation video for location, map and navigation services, both mobile and web. The Vodomodo API supports three main API functions: the tour list, tour detail and video key calls. The tour list call returns a list of the currently active tours in the Vodomodo system. The tour detail call returns all of the details for a specific tour in the Vodomodo system. The video key call returns a key that allows access to one of the videos on the Vodomodo platform. The API uses RESTful calls and responses are formatted in XML.
+Directions gps local mapping mobile video 
+Video

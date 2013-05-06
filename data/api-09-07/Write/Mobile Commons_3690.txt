@@ -1,0 +1,8 @@
+Mobile marketing campaign management service
+Mobile Commons
+The Mobile Commons platform integrates SMS, phone calls, and Web applications with CRMs and databases, as well as Twitter, Facebook applications, flash widgets, and geo-location features.
+
+The Mobile Commons API is REST-based and lets developers interact with much of the functionality of the main site. The API can be used to send text messages, schedule broadcasts, and query for groups and profiles. Responses are formatted in XML.
+
+marketing mobile sms telephony usa 
+Telephony

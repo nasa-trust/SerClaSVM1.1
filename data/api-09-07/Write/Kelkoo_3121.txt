@@ -1,0 +1,5 @@
+Comparison shopping service
+Kelkoo
+Use the Kelkoo Shopping and Travel APIs to use Kelkoo data in your shopping comparison application. Search the database of thousands of merchants and also get user reviews. Search for products by keyword, sort results, compare products and prices from various merchants, filter by price range, build a live search of flights and hotels, control result pages, and more. Monetization opportunities for developers, too.
+shopping travel 
+Shopping

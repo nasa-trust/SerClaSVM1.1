@@ -1,0 +1,5 @@
+Online copy of Domesday Book
+Open Domesday
+Domesday Book, England&#039;s earliest surviving public record, is a record of the survey of the land held by William the Conqueror and his people. The Open Domesday API supports geographical queries such as places, nearby places, manors and more. The API uses RESTful calls and responses are formatted in XML, JSON, YAML, Pickle and Django.
+education england history survey 
+Education

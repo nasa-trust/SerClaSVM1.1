@@ -1,0 +1,7 @@
+Access RSS and Atom feeds with JavaScript
+Google Ajax Feeds
+With the AJAX Feed API, users can download any public Atom or RSS feed using only JavaScript, allowing for easy mash up feeds with their content and other APIs like the Google Maps API. The Google AJAX Feed API lets users mash up feeds using only a few lines of JavaScript, rather than dealing with complex server-side proxies. This makes it easy to quickly integrate feeds on a website.
+
+For Flash, and other Non-Javascript environments, the API exposes a raw RESTful interface that returns JSON encoded results. These results are easily processed by most languages and runtimes.
+atom feeds rss 
+Feeds

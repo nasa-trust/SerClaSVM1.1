@@ -1,0 +1,5 @@
+Access to Google Sidewiki content
+Google Sidewiki
+The Google Sidewiki Data API is designed to allow applications access to Google Sidewiki content.  Developers can use the Google Sidewiki Data API to request a list of Sidewiki entries and query Sidewiki for data that match particular criteria. Data is returned in the form of Google Data API feeds. Functions allow retrieval of Sidewiki entries written for a specific web page, listing Sidewiki entries written by a specific author, or embedding a custom gadget onto a web page to display Sidewiki content about the page.
+deadpool internet wiki 
+Internet

@@ -1,0 +1,6 @@
+Blog and feed search service
+Blogwise
+As of 6/25/2008 it appears that this api is no longer available.
+From their site: Blogwise is a site about developing a portal to blogs around the world, efficiently, quickly and nicely. This API is provided to allow blog hosts and platform developers to submit multiple blogs via an automated scripting process.
+blog deadpool search 
+Blog Search

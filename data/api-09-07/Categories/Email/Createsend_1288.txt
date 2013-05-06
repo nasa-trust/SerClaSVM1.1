@@ -1,0 +1,17 @@
+advertising 1
+call 1
+campaign 3
+client 2
+create 2
+email 2
+function 1
+mail 2
+manage 3
+may 1
+method 1
+newsletter 3
+own 1
+record 1
+soap 1
+subscriber 1
+template 1

@@ -1,0 +1,5 @@
+eAdvocacy services for nonprofits
+Democracy In Action
+From their site: We're a progressive nonprofit whose core activity is providing e-advocacy tools to other progressive nonprofits for pennies on the dollar relative to the fees demanded by the private sector. In our capacity as service provider, we offer cutting-edge communication tools enabling our user organizations to do everything from sending mass e-mail blasts to taking donations online. The Democracy In Action HTML API allows advanced users of the DIA tools to build custom, off-site interfaces to the data stored in their DIA account. It accomplishes this through specially formatted HTML form elements, submitted via HTTP POST to a processor script on the DIA servers, which can write to the database or retrieve information from it. At this time the main supported functionality is for writing data (as for instance a new supporter sign up, or a donation) to the DB.
+advocacy government 
+Government

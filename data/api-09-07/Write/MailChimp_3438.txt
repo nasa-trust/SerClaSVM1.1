@@ -1,0 +1,7 @@
+Email List and Campaign management service
+MailChimp
+Sync campaign stats and subscriber information between MailChimp and your database. This helps you download a list of unsubscribes to clean your inhouse lists, build client portals and pull campaign stats from MailChimp if you send emails on behalf of clients, aggregate and compile campaign stats, send &quot;we also recommend this...&quot; campaigns, and pass account status data to MailChimp so that only active members get your emails.
+
+[[http://www.mailchimp.com/tryit.phtml Get a Free Account Today!]]
+email marketing saas sbweb smallbusiness webhooks 
+Email

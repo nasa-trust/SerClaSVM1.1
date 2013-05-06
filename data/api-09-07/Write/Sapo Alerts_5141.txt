@@ -1,0 +1,7 @@
+Event notification service
+Sapo Alerts
+SAPO is a Portuguese Internet service provider whose main web site acts as a web portal featuring a directory of Portuguese sites. SAPO Services provides a large suite of web services and applications to developers worldwide. 
+
+Sapo Alerts service allows users to subscribe to events and receive notifications as they happen in various formats including email, SMS and IM/XMPP. Functionality includes adding and activating subscriptions, retrieving destinations lists and event details, removing users and more. The API uses SOAP protocol and responses are formatted in XML.
+events notifications 
+Events

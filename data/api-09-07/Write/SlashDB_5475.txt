@@ -1,0 +1,7 @@
+Creates REST API From Relational Database
+SlashDB
+SlashDB automatically creates a RESTful API from relational databases. Databases then come available for mobile, enterprise and web applications in convenient formats like JSON, XML and CSV. Slash DB also handles encryption, authorization and authentication so the data being accessed remains secure.
+
+SlashDB related records are hyper-linked, which allows for a seamless search engine indexing of data and effectively constructs a NoSQL and graph facades over the traditional SQL databases. All information is represented in resource oriented architecture allowing developers to integrate data seamlessly.
+database graph NoSQL SQL 
+Database

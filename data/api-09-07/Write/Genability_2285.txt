@@ -1,0 +1,17 @@
+Electricity price data service
+Genability
+Genability provides tools to gain insight into electricity usage. The Genability API is a RESTful interface to detailed, accurate and up-to-date tariff and energy pricing data. Search by zipcode and other criteria.
+
+The API provides a fully functional tariff calculator that uses actual reading data to compute a tariff bill.  Reading data can be stored within the APIs for quicker calculations.  
+
+Also, the API offers a way to find out current and look ahead pricing for a zipcode so you can intelligently determine when the cost of electricity will go up or down.
+
+Although the API is not free, it offers low entry level rates.  Rates are primarily based on the number of unique tariffs accessed per month.
+
+The API can respond with JSON or JSONP formats.
+
+There are helpful PHP, Rails and Java libraries on Github https://github.com/Genability
+
+Genability is a software company providing energy suppliers and distributors with technology to market, sell and increase value to customers.  We help solar, energy procurement, connected home, efficiency and other businesses understand their customers&#039; energy costs, determine what their products are saving, and turn insight into opportunity.  We have the industry&#039;s only accurate and comprehensive cloud-based retail tariff database and rate engine.  The Company is a recipient of the Department of Energy SunShot Initiative and based in San Francisco. 
+energy green reference 
+Reference

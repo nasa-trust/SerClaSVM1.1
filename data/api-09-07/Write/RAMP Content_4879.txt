@@ -1,0 +1,5 @@
+Content Optimization Service
+RAMP Content
+The RAMP API allows users of the ramp service to access processed data content and metadata. RAMP is a cloud-based content optimization company that aims to ensure maximum discovery of user content. The API is accessible through REST calls and returns XML. A developer key is required for use and the documentation provides a list of methods as well as an API test feature.  
+content tools 
+Tools

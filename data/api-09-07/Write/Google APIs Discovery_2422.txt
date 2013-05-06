@@ -1,0 +1,7 @@
+Google API directory service
+Google APIs Discovery
+This lightweight API is used within Google and made available to other developers. It makes all of Google&#039;s APIs listable and provides additional information about each API, including a full list of resources or methods.
+
+Google uses the API Discovery API internally to maintain client libraries for all of its APIs, as well as to fill a sandbox with potential API calls.
+Apis internet 
+Internet

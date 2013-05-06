@@ -1,0 +1,17 @@
+connection 2
+graphics 1
+http 1
+java 1
+library 1
+messaging 1
+mm 2
+mobile 1
+protocol 1
+relate 1
+sm 1
+software 3
+string 1
+supplier 1
+telephony 2
+text 1
+upload 2

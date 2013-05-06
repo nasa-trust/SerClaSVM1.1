@@ -1,0 +1,17 @@
+basic 1
+energy 1
+ergometer 1
+exercise 1
+export 1
+generate 1
+generator 1
+health 1
+machine 1
+measure 1
+produce 1
+routine 1
+rower 1
+rowing 1
+search 1
+sport 2
+workout 3

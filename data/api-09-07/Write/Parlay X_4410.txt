@@ -1,0 +1,7 @@
+Suite of telephony services
+Parlay X
+Parlay X offers an array of telephony APIs that provide services such as managing third party calls, sending multimedia messages, determining user location, and providing short message services (SMS). They also offer APIs for managing users&#039; accounts, statuses, and payments.
+
+The Parlay X APIs are designed to enable the creation of telephony applications as well as to &quot;telecom-enable&quot; IT applications. These APIs are intended to stimulate the development of network applications by IT developers who are not necessarily experts in telephony or telecommunications.
+Global messaging sms telephony 
+Telephony

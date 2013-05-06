@@ -1,0 +1,11 @@
+colors 1
+cs 5
+design 1
+mania 2
+rating 1
+search 1
+showcase 3
+submit 1
+top 1
+url 1
+vote 1

@@ -1,0 +1,5 @@
+Geographic search service
+MapQuest Nominatim Search
+This API is the open version of MapQuest&#039;s Search API.  Nominatim is completely open-source and is used to search all named features in OpenStreetMap and a subset of other unnamed features such as pubs and hotels.  Results returned in Nominatim include the feature type, address, latitude/longitude, and other OSM data fields.
+geocoding mapping openstreetmap search 
+Mapping

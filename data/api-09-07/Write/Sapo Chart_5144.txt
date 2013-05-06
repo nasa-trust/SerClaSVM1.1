@@ -1,0 +1,7 @@
+Chart creation service
+Sapo Chart
+SAPO is a Portuguese Internet service provider whose main web site acts as a web portal featuring a directory of Portuguese sites. SAPO Services provides a large suite of web services and applications to developers worldwide.
+
+Sapo Chart allows users to render an image of a chart based upon specified parameters. Currently these parameters allow for a chart with 20 points, a bar graph and a pie chart. It uses RESTful calls and responses are formatted as PNG images.
+charts graphs tools visualizations 
+Tools

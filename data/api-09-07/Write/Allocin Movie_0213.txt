@@ -1,0 +1,7 @@
+French-language movie and TV information service
+Allocin Movie
+The French-language movie information service provides show times and reviews for current releases, along with theater information and background on actors, directors, and other industry names. Information is also available for TV shows and video releases.
+
+API methods support search and return information about a particular movie or television program/video release, including showtime listings. Users can also retrieve reviews, both in the press and from the public, as well as biographies and filmographies for actors and others active in the industry. 
+entertainment france movies television 
+Entertainment

@@ -1,0 +1,7 @@
+Web poll service
+MicroPoll
+MicroPoll is a web polling service. Micropoll allows users to create and publish web polls, as well as analyze the results from the poll. MicroPoll also allows for customizable look and feel, answer choices, and publishing.
+
+The MicroPoll API allows developers to integrate MicroPoll&#039;s functionality into other applications, as well as retrieve poll information, poll responses, and raw data from the poll. Users can also send and share polls through the API. 
+polls surveys tools 
+Tools

@@ -1,0 +1,5 @@
+Email Marketing Software Service
+UCRUX
+The UCRUX email marketing API lets developers and users synchronize their application with UCRUX email marketing system. UCRUX offers examples in PHP and .NET, and features a RESTful protocol, returning data via the XML format.
+email marketing 
+Email

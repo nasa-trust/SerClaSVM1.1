@@ -1,0 +1,5 @@
+Boston residents reporting service
+City of Boston Citizen's Connect
+Citizen&#039;s Connect is a service of the City of Boston to allow residents to communicate issues in their neighborhoods such as potholes and graffiti. CityofBoston.gov gives access to the API for the Citizen&#039;s Connect service. Contact Developers@cityofboston.gov for more information. Documentation is not publicly available.
+boston city government reporting 
+Government

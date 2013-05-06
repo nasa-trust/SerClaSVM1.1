@@ -1,0 +1,17 @@
+business 1
+close 1
+code 1
+engine 1
+functionality 1
+hours 3
+integrate 1
+location 3
+method 1
+opening 3
+retail 4
+return 2
+search 3
+set 1
+shopping 1
+store 1
+uk 2

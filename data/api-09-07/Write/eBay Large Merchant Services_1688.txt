@@ -1,0 +1,5 @@
+Transcation processing services
+eBay Large Merchant Services
+The eBay Large Merchant Services (LMS) provides a way to process the large numbers of transactions within the eBay Trading Platform. LMS includes features such as SKU-based inventory management, Orders with OrderLineItems for all transactions, and OrderAck state for handoff between eBay and Merchant applications. The API accesses this functionality to aid the integration needs of Large Merchants and ISVs. The API can be used to enable SKU management, inventory management, and order fulfillment. The API uses SOAP calls and responses are formatted in XML.
+ecommerce retail 
+Retail

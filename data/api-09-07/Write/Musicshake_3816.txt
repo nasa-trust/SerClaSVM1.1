@@ -1,0 +1,7 @@
+Royalty-free music service
+Musicshake
+The service provides access to a library of over 10,000 music selections available for use online without payment of royalties. The library is populated with in-house samples and proprietary songs organized by genre, tempo, mood, etc. The service gives access to incorporate its music in slideshows, videos, Flash components, etc.
+
+API methods support retrieval of selections by category, genre, mood, and tempo. Methods generate a songlist, which the application can then incorporate by ID either as an MP3 file or RTMP audio stream.
+audio mp3 music 
+Music

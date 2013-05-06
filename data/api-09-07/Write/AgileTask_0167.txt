@@ -1,0 +1,5 @@
+Task tracking application for agile projects
+AgileTask
+AgileTask is a lightweight personal backlog tool. Agiletask is a task tracking application featuring an agile workflow, tagging for organization, and interesting achievements. Designed to bring some structure to Agile projects, and help users stay focused on what is most important. Emphasis on keeping task entry simple and quick. The Restful API allows users to extend AgileTask into the tools already being used. Responses can be formatted in both JSON and XML.
+agile office pim tasks 
+PIM

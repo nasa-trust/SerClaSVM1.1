@@ -1,0 +1,5 @@
+SMS messaging service
+SUMOTEXT SMS Gateway
+SUMOTEXT is an SMS marketing service provider that allow companies to control their text message marketing, SMS alerts and short code notifications. The SMS Gateway API lets users send and receive SMS from their web sites and applications through the use of short codes. Coverage includes the U.S., Canada and over 800 carriers in over 200 countries. The API uses HTTP calls. Developers can call to request API documentation.
+Global marketing messaging mobile sms telephony 
+Messaging

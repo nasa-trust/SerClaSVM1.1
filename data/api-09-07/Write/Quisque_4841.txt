@@ -1,0 +1,7 @@
+Clue interpretation services for recreational treasure hunting
+Quisque
+The Quisque website provides resources for recreational treasure hunters. In recreational treasure hunting, the player has to resolve puzzles and enigmas created by an author in order to find a planted treasure. The APIs provided by Quisque are designed to help players decipher these clues. Available APIs include decryption services for a variety of ciphers, a heraldry database, and an image comparison service.
+
+The website and documentation are provided primarily in French with an English language option available.
+code fun games 
+Games

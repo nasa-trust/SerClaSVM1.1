@@ -1,0 +1,7 @@
+Website protection service
+Impermium
+Impermium is a subscription service that provides clients with protection against &quot;social spam,&quot; such as user-generated content spam, account hacking, and fraudulent registration. 
+
+The Impermium API allows developers to integrate and access data from Imperimum into other applications. Some example API methods include logging in, adding profiles, viewing messages, and accessing account events. 
+deadpool security spam 
+Security

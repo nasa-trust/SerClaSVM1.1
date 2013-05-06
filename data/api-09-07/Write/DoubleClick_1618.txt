@@ -1,0 +1,5 @@
+Online display ad service
+DoubleClick
+DoubleClick is a large advertising network specializing in online display ads. The company is a subsidiary of Google and provides an API for customers to manage their accounts. DoubleClick&#039;s API is SOAP-based and does not provide helper libraries, so developers need to interact directly with the service using XML. There are currently 19 separate WSDLs for describing the services and commands available, including procedures for logging users in and organizing advertising campaigns.
+advertising 
+Advertising

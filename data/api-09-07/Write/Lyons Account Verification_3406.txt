@@ -1,0 +1,5 @@
+Check account verification service
+Lyons Account Verification
+Lyons Commercial Data is a provider of U.S. financial institution data including bank routing numbers and other information critical to transaction processing. Lyons Commercial Data provides access to Account Verification web services (API) via XML-based web services hosted in a secure and fully redundant data center. Applications accessing Lyons Commercial Data web services utilize SOAP protocol to process information requests to and from Lyons Commercial Data servers via http or https for SSL encryption. The API uses SOAP protocol and responses are formatted in XML.
+banking security 
+Security

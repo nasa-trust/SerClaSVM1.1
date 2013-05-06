@@ -1,0 +1,5 @@
+Media Streaming Service
+SyncTV
+SyncTV is a powerful platform for premium video service providers who want to extend their service to the millions of connected TVs, Blu-ray players, set-tops, smart phones and tablets now available from all major manufacturers. SyncTV offers a turn-key system including the world of SyncTV enabled devices and the powerful SyncTV content management and transaction engine to a new age of television networks and content producers.  SyncTV provides two APIs, a RESTful API and a Javascript API, for developers to use to build their own applications using SyncTV services and data. Developers will be given a developer id, unique for each developer and each platform they develop for.
+video 
+Video

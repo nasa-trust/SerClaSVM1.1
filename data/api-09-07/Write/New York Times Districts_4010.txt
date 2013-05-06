@@ -1,0 +1,5 @@
+Political districts service
+New York Times Districts
+Retrieve political districts and neighborhoods based on a pair of coordinates. Retrieve city council, community district, state assembly, state senate and U.S. house for any given point. Also returns neighborhood and borough. Currently the API only covers New York City.
+government news reference 
+Government

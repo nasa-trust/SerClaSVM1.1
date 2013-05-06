@@ -1,0 +1,5 @@
+Text to Speech Convering Service
+Ericsson Text to Speech
+Ericsson Labs provides a text to speech utility, Ericsson Text to Speech API. The API can be accessed either through a RESTful web based interface, or through an Android SDK. The RESTful API can be called through an HTTP request, with the text to be converted appended to the URL, and returns an MP3 file of the converted text.
+speech telephony tools Voice 
+Tools

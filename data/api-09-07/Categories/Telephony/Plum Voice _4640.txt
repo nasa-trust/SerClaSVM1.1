@@ -1,0 +1,17 @@
+advance 1
+automate 1
+call 1
+create 1
+phone 1
+platform 1
+plum 3
+provider 1
+recognition 1
+route 1
+speech 2
+support 1
+survey 1
+system 1
+telephony 4
+text 1
+voice 4

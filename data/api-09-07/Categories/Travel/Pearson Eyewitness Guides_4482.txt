@@ -1,0 +1,11 @@
+attraction 1
+bars 1
+england 1
+eyewitness 2
+guide 5
+hotel 1
+london 5
+restaurant 1
+shopping 1
+travel 4
+uk 1

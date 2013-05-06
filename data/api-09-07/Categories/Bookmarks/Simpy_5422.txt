@@ -1,0 +1,13 @@
+bookmark 5
+browse 1
+keep 1
+links 2
+note 1
+open 1
+own 1
+private 1
+save 1
+search 2
+share 1
+social 2
+tag 2

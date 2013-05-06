@@ -1,0 +1,5 @@
+Data aggregation for dashboards
+Metricly Custom Data Import
+Metricly aggregates data from all over the web, allowing users to compare and combine all of their metrics in one place. The Custom Data Import API allows users to push any type of data up to Metricly for viewing as a metric (including metrics with subtotals and filters). A common usage example is when a user has data in their own internal database, and they want to generate a Metricly dashboard that summarize that data.
+enterprise metrics visualization 
+Enterprise

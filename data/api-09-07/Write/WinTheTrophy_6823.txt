@@ -1,0 +1,5 @@
+Sports betting access
+WinTheTrophy
+WinTheTrophy offers developers their BetBot API which gives access to making sports bets. The API features a RESTful protocol and returns data via the JSON and XML formats.
+gambling sports 
+Sports

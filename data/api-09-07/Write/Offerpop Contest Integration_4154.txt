@@ -1,0 +1,5 @@
+Social media marketing platform
+Offerpop Contest Integration
+Offerpop is a social media marketing service. Their software allows brands to run white-label marketing programs on Facebook and Twitter. The Offerpop platform can be used to create, manage and track campaigns and deliver promotions like interactive contests, games, polls and exclusive offers. The Contest Integration API can automatically upload content users are creating with a developer&#039;s app or website into an Offerpop Photo Contest campaign.
+advertising marketing social 
+Social

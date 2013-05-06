@@ -1,0 +1,7 @@
+Monetization platform for app developers
+Burstly
+Burstly is a monetization platform for application developers. It allows developers to integrate ads into their applications for profit.
+
+The Burstly Download Tracking API allows developers to track downloads of their applications, as well as the ad conversions within the applications.
+advertising mobile monetization 
+Advertising

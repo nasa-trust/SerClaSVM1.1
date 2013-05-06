@@ -1,0 +1,5 @@
+Access to CPU information
+Intel CPU
+The Intel CPU Web API provides web developers with JavaScript access to information about the CPU and current CPU utilization.
+utility 
+Utility

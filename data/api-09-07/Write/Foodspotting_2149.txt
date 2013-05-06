@@ -1,0 +1,9 @@
+Food review and sharing service
+Foodspotting
+Foodspotting is a visual food review and sharing site and application. Unlike other food review sites, Foodspotting lets users review dishes, instead of the restaurant. Along with the review, users can upload a photo of the dish, so other users can see what the dish looks like. Within the site and application, users can search by dish, restaurant, or location.
+
+The Foodspotting API allows developers to access and integrate information and images from Foodspotting. Some example API methods include retrieving and uploading images, searching for and retrieving user information, dishes, places, and reviews, and adding reviews and other information. 
+
+ 
+food photo reviews social 
+Food

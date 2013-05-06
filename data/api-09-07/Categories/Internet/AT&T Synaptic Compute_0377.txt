@@ -1,0 +1,12 @@
+cloud 4
+company 1
+compute 3
+computing 3
+customize 1
+go 1
+interface 1
+internet 3
+obtain 1
+over 1
+pay 1
+server 1

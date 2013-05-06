@@ -1,0 +1,5 @@
+Hosted on demand email service
+SocketLabs Email On Demand
+SocketLabs offers a cloud-based email delivery solution. The Email On Demand API allows developers to integrate their applications with real-time data from the platform. The data that can be retrieved includes account info, a listing of email messages sent and received as well as those that have failed. It is a RESTful API and data can be returned in either XML, JSON, JSONP or CSV format.
+email sbweb 
+Email

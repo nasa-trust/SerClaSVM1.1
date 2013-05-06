@@ -1,0 +1,7 @@
+Music subscription and streaming service
+Magnatune
+Magnatune is an online music subscription and streaming service. Users pay $15 a month for unlimited MP3 downloads and unlimited streaming. Musicians can also work directly with Magnatune to get their music included.
+
+The Magnatune API allows developers to access and integrate the functionality and data of Magnatune with other applications and sites. Some example API methods include listing album and song details, updating new releases, and playing songs. 
+music Player streaming subscription 
+Music

@@ -1,0 +1,5 @@
+Leipzig city data
+API.LEIPZIG
+API.LEIPZIG is part of the Leipzig Agenda 21 to improve the lives of current and future citizens of Leipzig, Germany, through culture and civil involvement in government. API.LEIPZIG is an API which opens Leipzig city government data to the public. API.LEIPZIG is RESTful. The data sources are still in development (more being added regularly) and new data suggestions are encouraged.
+germany government 
+Government

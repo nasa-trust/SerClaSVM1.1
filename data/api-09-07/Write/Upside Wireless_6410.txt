@@ -1,0 +1,5 @@
+Text messaging service provider
+Upside Wireless
+From their site: Upside Wireless Inc. is a leading North American company that specializes in providing global mobile messaging services and applications for consumer and enterprise markets. Upside&#039;s flexible two-way SMS platform enables enterprise customers to efficiently connect existing corporate applications to the global text messaging network. For your convenience, we offer three connectivity options: SOAP, HTTP and SMTP.
+Global mobile sms telephony 
+Telephony

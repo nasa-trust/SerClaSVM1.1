@@ -1,0 +1,7 @@
+Video conversion and management service
+OpenCrypt Video Conversion
+The OpenCrypt Video Conversion API is designed to allow you to transcode/convert video you have uploaded to your server into Flash Video format suitable for displaying on your site with an embedded video player.
+
+The Video Conversion API is integrated with OpenCrypt version 1.8 to offer video management tools, and to enable you to upload and include videos with your products and in your picture gallery.
+conversion video 
+Video

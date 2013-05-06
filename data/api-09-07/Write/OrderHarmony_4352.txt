@@ -1,0 +1,7 @@
+Online stock control system
+OrderHarmony
+OrderHarmony is a fully-hosted stock and order management service. It provides price comparison and stock ordering functions, including one-click re-ordering from suppliers. OrderHarmony monitors stock levels in real time so that supplies will never run out unexpectedly. OrderHarmony also offers automated order progress e-mails for customers, customizable sales reports, and pre-order and discount services.
+
+OrderHarmony&#039;s functions are accessible programmatically via GET, PUT, and POST calls in JSON format.
+comparison ecommerce enterprise prices 
+Enterprise

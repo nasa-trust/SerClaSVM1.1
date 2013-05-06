@@ -1,0 +1,5 @@
+Image manipulation service
+AppspotImage
+Using the Appspotimage web service you will be able to integrate image management functionalities into your applications and you will be able to store, retrieve and generate these images and their thumbnail using Google&#039;s fast and reliable infrastructure. Feature list includes: host images online and make them publicly available, create thumbnails, resize images, crop images, rotate images, flip images, and optimize colors.
+photo 
+Photos

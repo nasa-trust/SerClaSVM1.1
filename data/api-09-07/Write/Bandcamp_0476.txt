@@ -1,0 +1,5 @@
+Music information including track data and lyrics
+Bandcamp
+From the website: &quot;With version 1 of the API you can query artists&#039; discographies and get the information you need to write a custom embedded audio player, with metadata such as track credits and lyrics. The API is very simple and straightforward and works in a similar fashion to other web APIs such as Twitter&#039;s and Google&#039;s, so you might already be familiar.&quot; The API features a RESTful interface and returns data in the JSON format.
+lyrics music 
+Music

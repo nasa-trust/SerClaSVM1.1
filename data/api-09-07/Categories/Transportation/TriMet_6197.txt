@@ -1,0 +1,17 @@
+agency 1
+arrival 1
+county 1
+detour 1
+district 1
+government 1
+metropolitan 2
+obtain 1
+oregon 4
+portland 3
+route 1
+serve 1
+tracking 1
+transit 3
+transportation 2
+travel 1
+usa 1

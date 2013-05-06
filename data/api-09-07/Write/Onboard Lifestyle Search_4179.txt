@@ -1,0 +1,9 @@
+Real estate listings and search service
+Onboard Lifestyle Search
+Onboard Informatics helps real estate, media, and technology companies provide answers to user questions through their Lifestyle Listings Engine. This API is part of a suite of four APIs provided.
+
+The Onboard Lifestyle Search Engine is an API designed to allow website developers to integrate lifestyle search (???best places???) into websites. It may be used on broker websites, MLS websites, real estate portals and any other site or application where lifestyle search is relevant.
+
+Documentation is not publicly available on the web site. 
+realestate search 
+Real Estate

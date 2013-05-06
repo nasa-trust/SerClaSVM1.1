@@ -1,0 +1,5 @@
+Social media marketing platform
+Buddy Media
+Buddy Media is a provider of enterprise level social marketing software. Used by eight of the world&#039;s top ten global advertisers, Buddy Media helps brands build connections from initial point of contact through point of purchase. The social media API allows marketers to track conversions and campaigns across multiple social media sites (e.g. Facebook, Pinterest, Google+, Youtube, etc.) from a single enterprise social media suite. The API allows developers to integrate data gathered such as actions taken, sales conversions, etc. with existing email and CRM packages. Full documentation is not publicly available.
+enterprise marketing social 
+Social

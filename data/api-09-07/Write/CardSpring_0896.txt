@@ -1,0 +1,7 @@
+Payment network service
+CardSpring
+CardSpring is a payment network platform. CardSpring offers an API that allows developers to create applications tied to payment cards. Applications such as loyalty programs, digital coupons, and adding account information to a payment card can be built. The CardSpring API allows for integration with other applications and services, such as merchant and point-of-sale applications. 
+
+Public documentation is not available; documentation can be accessed with login.
+coupons deal loyalty merchant payment reward 
+Payment

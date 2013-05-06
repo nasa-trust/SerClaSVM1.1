@@ -1,0 +1,5 @@
+Social game mechanics game platform
+Roar Engine
+Roar Engine is a platform that gives users the ability to quickly build social games and monetize them. It lets users create social game mechanics using core building blocks that can be combined to build a range of popular and custom gameplay systems. The Roar API lets users access the meta-data and game logic. The API uses HTTP calls and responses are formatted in XML.
+games social 
+Games

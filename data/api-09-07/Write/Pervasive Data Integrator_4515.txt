@@ -1,0 +1,7 @@
+Data management and integration service
+Pervasive Data Integrator
+The service provides a platform for data integration across multipurpose applications. It facilitates cloud data storage and exchanges of information between data repositories used by hosted applications. Its goal is to enable reuse of software for diverse application scenarios requiring the same datasets. 
+
+API methods support definition of storage &quot;destinations&quot; and configuration of application &quot;products&quot; that use the data, along with provisioning to connect the two. Methods also support CRUD (create, read, update, delete) control for products managed by the service.
+cloud storage 
+Storage

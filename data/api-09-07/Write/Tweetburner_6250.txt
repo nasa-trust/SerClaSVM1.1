@@ -1,0 +1,5 @@
+Twitter link tracking service
+Tweetburner
+Tweetburner is the webservice that lets you shorten URLs, post them to Twitter and follow statistics about them. Use the Tweetburner API to communicate with the Tweetburner.com site. You can track links you share both on Twitter and Friendfeed.
+microblogging social Twitter 
+Social

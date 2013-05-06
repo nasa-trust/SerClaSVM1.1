@@ -1,0 +1,5 @@
+Travel industry transaction processing service
+Amadeus
+Amadeus is the leading provider of IT solutions and transaction processor to the travel and tourism industry. Amadeus provides processing services including search, pricing, booking and ticketing in real-time to travel providers and travel agencies. The Amadeus API lets developers build and update customised travel booking applications.The API uses both HTTP and SOAP protocol and responses are formatted in XML. Full documentation is not publicly available.
+booking flight travel 
+Travel

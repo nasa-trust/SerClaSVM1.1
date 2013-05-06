@@ -1,0 +1,5 @@
+Event-driven application platform
+Kynetx
+Kynetx is an event-driven application platform that helps you build context-aware apps in the cloud. Kynetx apps look for events and user context (like geo-location, session behavior, weather and more) and fire actions based on conditions across any URL. 
+internet realtime cloud webhooks
+Internet

@@ -1,0 +1,16 @@
+ad 1
+ban 1
+building 1
+classified 3
+classify 1
+close 1
+datum 2
+full 1
+lock 1
+portable 1
+re 2
+scrape 1
+shopping 3
+so 1
+try 1
+work 1

@@ -1,0 +1,5 @@
+EU VAT information exchange system 
+Nephics European VAT Number Validation
+This API provides value added tax (VAT) numbers for European companies. It is based on a system provided by the European Commission called the VAT Information Exchange System (VIES). VIES as provided by the European Commission is a SOAP interface. This API, however, was designed by Nephics AB to retrieve the same data in a RESTful protocol and return JSON-formatted results. 
+Data finance government 
+Government

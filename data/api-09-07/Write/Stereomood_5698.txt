@@ -1,0 +1,7 @@
+Internet radio service
+Stereomood
+Stereomood is a free internet radio service that recommends songs based on the user&#039;s emotional mood and activities. Stereomood also allows users to create playlists for certain occasions and emotions.
+
+The Stereomood API allows developers to access Stereomood&#039;s music content and functionality. Some example API methods include searching for songs, libraries, and users, listening to songs and playlists, and deleting or creating playlists. 
+music radio recommendations 
+Music

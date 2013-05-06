@@ -1,0 +1,16 @@
+billing 3
+breed 1
+capability 1
+cashbox 1
+customer 1
+enterprise 1
+finance 1
+implementation 1
+improve 1
+maximize 1
+merchant 1
+profit 1
+rapid 1
+recur 1
+retention 1
+shopping 1

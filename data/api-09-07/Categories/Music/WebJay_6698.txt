@@ -1,0 +1,3 @@
+management 1
+music 3
+playlist 1

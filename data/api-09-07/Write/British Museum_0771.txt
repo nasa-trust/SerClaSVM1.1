@@ -1,0 +1,5 @@
+Museum linked data service
+British Museum
+Linked Data and SPARQL query service provides access to the same collection data available through the British Museum???s web interface, Collection Online, but in a computer readable format. The RDF open data standard allows use of the collection data within linked data applications interested in promoting accessibility and collaboration. Also provides for JSON output of metadata about objects in the British Museum collection.
+education museum 
+Education

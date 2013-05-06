@@ -1,0 +1,7 @@
+Building-related geospatial data service
+Onuma WFS
+The Onuma Web Feature Service (WFS) provides access to Onuma&#039;s geospatial data resources. This includes the locations and features of buildings, along with other Building Information Modeling (BIM) data. Users can query a specific geographic area determined either by input coordinates or by a drawn area that forms a bounding box. This service also allows users to make Onuma data available to other web services and applications.
+
+Onuma WFS is based on open standards established by the Open Geospatial Consortium (OGC) and operates over GET and POST protocols.
+architecture geolocation gis mapping 
+Mapping

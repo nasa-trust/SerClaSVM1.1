@@ -1,0 +1,7 @@
+CPR provider registry service
+Pulsepoint
+The service creates a registry of people trained in cardiopulmonary resuscitation (CPR) who are willing to assist victims of Sudden Cardiac Arrest (SCA) near their locations. Members of the registry create entries indicating their willingness to respond and provide contact information. The service accepts notification from a participating agency of a cardiac emergency and contacts registry members near the location.
+
+API methods support creation and tracking of incidents, including notifying agency, time, location, and type of incident. Methods also support designation of medical status of the victim and call status from the responding agency.
+emergency medical social 
+Medical

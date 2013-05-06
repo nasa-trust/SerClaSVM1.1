@@ -1,0 +1,5 @@
+Spatial interoperability and geographic discovery
+Yahoo Internet Location Platform
+From their site: a resource for managing all geo-permanent named places on Earth. Our purpose in creating the Internet Location Platform is to provide the Yahoo! Geographic Developer Community with the vocabulary and grammar to describe the world&#039;s geography in an unequivocal, permanent, and language-neutral manner. The Internet Location Platform is designed to facilitate spatial interoperability and geographic discovery; users can traverse the spatial hierarchy, identify the geography relevant to their users and their business, and in turn, unambiguously geotag, geotarget, and geolocate data across the Web.
+geography geolocation mapping 
+Mapping

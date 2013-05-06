@@ -1,0 +1,9 @@
+arts 1
+city 1
+club 2
+event 4
+festival 1
+gig 1
+listing 1
+nightlife 1
+public 1

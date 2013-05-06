@@ -1,0 +1,5 @@
+Weather forecast service
+AccuWeather
+AccuWeather provides developers with an API for accessing their weather data. Documentation is not publicly available but developers can contact Michael Sylvie, Business Development Manager at developer@accuweather.com.
+weather 
+Weather

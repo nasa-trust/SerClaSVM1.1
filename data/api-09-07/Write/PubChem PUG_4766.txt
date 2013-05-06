@@ -1,0 +1,5 @@
+Molecular library database
+PubChem PUG
+PubChem provides information on the biological activities of small molecules and stores them across three databases. PubChem also provides a fast chemical structure similarity search tool. The PubChem Power User Gateway (PUG) provides access to PubChem services via a programmatic interface. The API uses HTTP post calls and responses are formatted in XML.
+reference science 
+Reference

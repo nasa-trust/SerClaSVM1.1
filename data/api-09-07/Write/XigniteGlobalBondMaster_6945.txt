@@ -1,0 +1,5 @@
+Corporate bond information service
+XigniteGlobalBondMaster
+Xignite Global Bond Master provides basic master detail for more than 350,000 European and Asian corporate bonds. The service includes all the basic corporate issue detail including issuer name, coupon rate, maturity date, sector, currency, issuer name and more. The API uses REST and SOAP calls and responses are formatted in XML.
+financial stocks 
+Financial

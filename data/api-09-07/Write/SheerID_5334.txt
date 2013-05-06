@@ -1,0 +1,5 @@
+Student verification service
+SheerID
+SheerID is a service for verifying whether an individual is a member of an institution or organization. The most common case is for student verification and the ability to verify students during e-commerce purchase. The service is meant to replace manual processes like faxing in student ID to prove association, and automate verification during online sales. The API provides developers with programmatic access to the service. It uses RESTful calls and responses are formatted in JSON.
+colleges retail students university verification 
+Retail

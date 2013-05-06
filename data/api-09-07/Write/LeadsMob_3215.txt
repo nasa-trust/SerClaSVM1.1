@@ -1,0 +1,5 @@
+Mobile SMS and email marketing service
+LeadsMob
+LeadsMob is an integrated SMS and emailing service. Schedule and send SMS and email messages. Insert records, schedule messages, view reports through the mobile marketing API. Users can also track opens, clicks and conversions for the entire lifetime of the customer. The API uses HTTP calls and responses are formatted in XML.
+email Global marketing mobile sms 
+Messaging

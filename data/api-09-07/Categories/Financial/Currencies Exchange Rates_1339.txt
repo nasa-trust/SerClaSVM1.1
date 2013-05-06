@@ -1,0 +1,10 @@
+contain 1
+currency 5
+exchange 3
+finance 2
+know 1
+matrix 1
+rates 3
+read 1
+single 1
+structure 1

@@ -1,0 +1,14 @@
+affiliate 5
+create 1
+enterprise 2
+example 1
+functionality 1
+integrate 2
+manage 4
+marketing 1
+method 1
+occurrence 1
+program 2
+setup 1
+software 3
+tracking 1

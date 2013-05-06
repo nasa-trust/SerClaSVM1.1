@@ -1,0 +1,15 @@
+bike 5
+country 1
+datum 1
+find 1
+functionality 1
+id 1
+integrate 1
+integration 1
+location 2
+method 1
+network 4
+retrieve 1
+search 2
+sharing 4
+transportation 2

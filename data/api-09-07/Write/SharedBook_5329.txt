@@ -1,0 +1,5 @@
+On-demand reverse publishing system
+SharedBook
+From their site: SharedBook is a technology company that has created an on demand, reverse publishing platform that allows users to extract data and content from multiple sources, manipulate it, then distribute their unique new creation online or off. It's different from other APIs in that, instead of writing an interface to extract data from us, you'll be creating a new way to introduce data into our private and secure book creation system.
+books 
+Other

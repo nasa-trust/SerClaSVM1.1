@@ -1,0 +1,7 @@
+Aviation sectional chart service
+Flyagogo
+The service provides interactive sectional aviation charts showing information about terrain, ground features, and other conditions that important to aircraft pilots and aviators. It offers free availability of its charts to blogs and websites focused on aviation-related topics, including flying club sites. Sectional charts provided updated information about features recognizable from flying altitude as well as those relevant to takeoff and landing.
+
+API methods support display of sectional chart images for locations specified by Javascript variables in the request. Location is specified as latitude and longitude, along with image width and height in pixels and default zoom level. Methods allow adjustment of zoom level, location, and other variables for a previously defined chart.
+aviation charts flyight mapping 
+Mapping

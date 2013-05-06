@@ -1,0 +1,7 @@
+Coupons, deals and price comparison service
+Pricecut
+Pricecut helps users save money by showing coupons, deals and price comparisons based on stores and products they browse. The API is white-labeled and can be used to show coupons, offers, deals and product offers on any platform, toolbar or website. Backed by an affiliate platform, publishers can monetize their traffic and earn up to 80% rev-share. Public documentation for the API is not available.
+
+
+comparison coupons deals shopping 
+Shopping

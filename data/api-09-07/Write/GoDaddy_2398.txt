@@ -1,0 +1,10 @@
+Domain registration service
+GoDaddy
+This API lets users sell traffic-driving, high-demand domain name registrations, private registrations and unique software and services from within their Web site. It is part of the API  Reseller Solution from Go Daddy which lets users:
+* Merchandize and sell domain names, private registrations, and site traffic tools.
+* Add profitability to the user site by picking the products, set the prices and maintains control.
+* Maintain its own unique branding.
+
+Full documentation for the API is only available after purchase.
+domain internet 
+Internet

@@ -1,0 +1,5 @@
+Minnesota mapping database
+Minnesota CTU dataset
+The Minnesota Geospatial Information Office (MnGeo) provides GIS services for the state of Minnesota. Popular resources provided by MnGeo are online maps, air photos, historic public land survey plat maps, an image server, school district maps, metadata tools, and more. MnGeo also makes data available through the Minnesota Cities, Townships and Unorganized Territories (CTU) database. This database may be queried using an API returning responses in XML. 
+government mapping minnesota 
+Mapping

@@ -1,0 +1,5 @@
+Online barcode database
+Amazonca
+Amazonca.com provides users with online access to a barcode database that it maintains. Users are given a method of locating a product and providing product information using a barcode. The website enables users to search for items using barcodes. The API gives users functionality for search, comments and images. The API uses RESTful calls and responses are formatted in XML.
+barcode reference shopping utility 
+Reference

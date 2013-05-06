@@ -1,0 +1,5 @@
+Twitter sentiment analysis service
+Sentiment140
+Formerly known as Twitter Sentiment, Sentiment140 is a service that lets users discover the current sentiment around a brand, product or topic on Twitter. Sentiment140 uses classifiers based on machine learning algorithms and allow users to see the classification of individual tweets. The API lets users classify tweets and integrate sentiment analysis classifer functionality into their own websites or applications. The API uses RESTful calls and responses are formatted in JSON.
+analysis brands sentiment social 
+Social

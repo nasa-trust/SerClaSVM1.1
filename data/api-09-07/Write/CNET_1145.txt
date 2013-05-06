@@ -1,0 +1,5 @@
+Shopping services
+CNET
+From their site: this service will make a wealth of data available to the mash-up community in the creation of rich consumer sites. The initial dataset will include the full CNET catalog of technology products and software titles. This is the same dataset that drives the highly trafficked sites of CNET Reviews, Shopper.com and Download.com. Over time, the API will add news articles, community content, blog posts and full product reviews. The API is designed for easy data discovery and integration. The interface is REST-based, supporting both XML and JSON response formats. It has undergone extensive performance optimization, in order to ensure rapid response times. To simplify query creation, a tool called the Dashboard is available that allows the user to interactively select data sets to include in the response stream.
+reviews shopping 
+Shopping

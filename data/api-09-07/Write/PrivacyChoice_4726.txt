@@ -1,0 +1,7 @@
+Application privacy policy creation service
+PrivacyChoice
+PrivacyChoice is a service that helps companies create and integrate privacy policies for websites and applications. PrivacyChoice includes automatic ad-tracking and analytics notices and links. 
+
+The PrivacyChoice API allows developers to access and integrate the functionality of PrivacyChoice with other applications. Public documentation is not available; interested developers should contact contact@privacychoice.org for more information.
+advertising compliance deadpool privacy security tracking 
+Security

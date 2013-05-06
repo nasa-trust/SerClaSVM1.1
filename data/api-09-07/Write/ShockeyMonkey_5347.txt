@@ -1,0 +1,5 @@
+IT Management Service
+ShockeyMonkey
+Shockey Monkey is a management and customer relations service. An account is required for use of the ShockeyMonkey API. The API allows users to use contact management, company management, and ticket management operations within their pre-existing ShockeyMonkey account. The API uses REST calls and Returns XML. Full technical support is available at the ShockeyMonkey &quot;University&quot;, available on the company website. 
+accounting project-management reporting support 
+Project Management

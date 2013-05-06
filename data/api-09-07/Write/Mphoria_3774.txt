@@ -1,0 +1,7 @@
+Deal providing service
+Mphoria
+Mphoria works directly with merchants both large and small to accumulate deals that can be provided to tech savvy consumers online and through mobile devices. Mphoria does all the work collecting deals and configuring images for cross-device compatibility, leaving developers free to focus on developing their deals apps and integrating with the Mphoria API.
+
+Mphoria&#039;s web services expose the functionality to search and filter all the deals provided by their platform, allowing developers to customize the deals that appear to end users by location, store, category, delivery method, and more. Mphoria is continuing to expand their API, working to provide grocery coupons that can be saved on a digital &quot;loyalty card&quot; and redeemed electronically at the store.
+coupons deals shopping 
+Shopping

@@ -1,0 +1,5 @@
+URL shortening tool
+Tiny.cc
+Tiny.cc is a tool for making email-friendly links. Use on blogs, forums, social networks, instant messages, online publications or ad campaigns. Shorten and track it for business or educational projects. Users also can check their statistics, get interactive charts with realtime analytics, trace uniques, returning clicks, visitors&#039; country of origin, browsers used and more. No account needed to monitor stats. The free API lets users integrate the service into their applications. It uses RESTful calls and responses are formatted in XML and JSON.
+internet tools url-shortener 
+Tools

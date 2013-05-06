@@ -1,0 +1,5 @@
+Digital certification service
+Securo
+Securo makes digital certification and timestamping solutions. Securo allows users to create legal proof of existence of their documents, music, or photographs. The digital certification meets internationally recognized standards of data integrity protection and timestamping. Developers can use the Securo API to integrate the certification process through timestamping into any application. Methods include retrieving info about a user and proof, creating proofs and verifying timestamps. It uses RESTful calls and responses are formatted in JSON.
+copyright security timestamp 
+Security

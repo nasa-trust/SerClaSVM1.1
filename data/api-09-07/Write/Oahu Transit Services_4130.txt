@@ -1,0 +1,5 @@
+Real time transit data service
+Oahu Transit Services
+Oahu Transit Services (OTS) provides real-time bus arrival information via computer or web-enabled mobile phone. The OTS API provides access to this real-time data. The data includes reporting of arrivals an identified locations and locations of a vehicle. The API uses RESTful calls and responses are formatted in XML.
+bus government hawaii realtime transit transportation 
+Transportation

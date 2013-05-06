@@ -1,0 +1,13 @@
+address 1
+close 1
+computer 1
+document 3
+go 1
+location 1
+mail 3
+mailing 1
+need 1
+post 1
+print 1
+send 2
+uk 2

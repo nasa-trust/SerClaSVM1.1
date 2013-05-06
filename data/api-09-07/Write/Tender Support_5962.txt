@@ -1,0 +1,7 @@
+Customer service and helpdesk service
+Tender Support
+Tender Support is an online customer service and helpdesk provider to support companies and organizations with their customer service and support.
+
+The Tender Support API allows users to access and manage customer service issues within their Tender Support site, including accessing user information, searching for specific categories of customer help issues, and viewing discussions by a variety of characteristics. 
+customer-service tools 
+Tools

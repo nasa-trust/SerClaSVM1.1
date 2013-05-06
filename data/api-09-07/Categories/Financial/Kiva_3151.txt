@@ -1,0 +1,13 @@
+developing 1
+empower 1
+entrepreneur 1
+finance 2
+first 1
+give 1
+individual 1
+lend 1
+lending 3
+nonprofit 2
+organization 1
+person 4
+world 2

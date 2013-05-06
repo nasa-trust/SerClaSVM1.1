@@ -1,0 +1,5 @@
+Bing static map creation service
+Bing Static Maps
+The Bing Maps Imagery API provides developers the ability to get static maps and metadata for Bing Maps imagery. Users can also display a route on a static map. The API uses REST and SOAP protocol and responses are formatted in XML, JSON and JSONP.
+display mapping places static 
+Mapping

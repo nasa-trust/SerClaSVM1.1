@@ -1,0 +1,12 @@
+ad 1
+campaign 1
+create 1
+message 1
+messaging 2
+mobile 1
+send 1
+sm 6
+subscription 1
+support 1
+telephony 1
+unknown 1

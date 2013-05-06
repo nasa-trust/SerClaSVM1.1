@@ -1,0 +1,5 @@
+Database of game information
+Giant Bomb
+Giant Bomb is the world&#039;s largest editable video game database. The Giant Bomb API lets you access and search across the site&#039;s database of video games, characters, creators and companies. 
+games 
+Games

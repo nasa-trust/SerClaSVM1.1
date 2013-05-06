@@ -1,0 +1,5 @@
+Clinical information about medications
+National Drug File-Reference Terminology
+The National Drug File-Reference Terminology (NDF-RT), developed by the Veterans Health Administration, provides clinical information about medications, including therapeutic intent, mechanism of action, physiologic effect and drug-drug interactions. Developers can use the API to retrieve data from the NDF-RT. The API uses both REST and SOAP protocol and responses are formatted in XML and JSON.
+government medical reference 
+Medical

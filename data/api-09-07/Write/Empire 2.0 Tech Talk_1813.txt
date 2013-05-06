@@ -1,0 +1,7 @@
+Government technology discussion platform
+Empire 2.0 Tech Talk
+The New York State Office of the CIO announced a technology initiative themed &quot;Empire 2.0&quot; which targets social networking, participation and collaboration as part of an overall theme of transparency and open government. The Empire 2.0 site is a platform for users to submit, discuss and refine ideas regarding policy, specific technology or project suggestions, state-wide or agency-specific feedback.
+
+The Empire 2.0 Tech Talk API provides methods for obtaining data from the site for use in mashups and other consumable formats. The API uses JavaScript protocol and responses are formatted in JSON.
+government newyork 
+Government

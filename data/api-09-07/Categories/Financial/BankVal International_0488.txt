@@ -1,0 +1,14 @@
+aba 2
+code 3
+directory 1
+finance 2
+international 2
+numbers 4
+official 1
+recent 1
+route 3
+standard 1
+swift 3
+validate 3
+validation 1
+verify 1

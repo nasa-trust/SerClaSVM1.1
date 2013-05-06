@@ -1,0 +1,7 @@
+Information security and compliance service
+QualysGuard
+QualysGuard Cloud is an information security and compliance solution. QualysGuard applications include  vulnerability management, policy compliance, web application scanning, malware detection and Qualys SECURE Seal for security testing of web sites. 
+
+The QualysGuard API enables developers to integrate all aspects of the QualysGuard automated solution into their applications via an extensible XML interface.
+cloud compliance security 
+Security

@@ -1,0 +1,5 @@
+Web search service
+Entireweb
+The Entireweb Search API provides direct access to the search engine&#039;s results. Since you receive the results as XML or JSON, you will have full control of how the results are presented on your page. The service is free up to 1,000 daily requests.
+search 
+Search

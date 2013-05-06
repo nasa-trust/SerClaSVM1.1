@@ -1,0 +1,5 @@
+Infrastructure as a service
+GREENCLOUDS
+GREENCLOUDS provides an IaaS (Infrastructure as a Service) that uses excess space in large companies&#039; datacenters. It aggregates this space into one big cloud and redistributes it to users through local sellers. The GREENCLOUDS API allows GREENCLOUDS customers to manage and monitor the life cycles of their virtual machines using either SOAP or REST calls.
+cloud internet 
+Internet

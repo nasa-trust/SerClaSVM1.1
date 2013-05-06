@@ -1,0 +1,5 @@
+SMS messaging services via FTP
+Clickatell FTP
+One of seven SMS APIs offered by Clickatell. Clickatell covers over 819 networks in more than 220 countries. You will be able to send SMS messages around the world to your clients, staff or user-database. All our APIs support text, Unicode, binary SMS and flash messaging.
+messaging mobile sms telephony Global
+Messaging

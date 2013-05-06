@@ -1,0 +1,5 @@
+ZIP and Postal Code information service
+StrikeIron ZIP and Postal Code Info
+The StrikeIron ZIP and Postal Code Information API retrieves U.S. census information for a given U.S. ZIP Code or Canadian Postal Code. It can also retrieve the city, state, county, time zone, latitude and longitude, ZIP and Postal Codes within a radius. This API can be accessed via SOAP calls using the XML data format.
+location reference tools ZipCode 
+Tools

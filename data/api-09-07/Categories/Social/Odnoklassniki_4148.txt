@@ -1,0 +1,17 @@
+ability 1
+authentication 1
+basic 1
+datum 1
+feature 1
+frame 1
+friend 2
+game 1
+invite 1
+like 1
+list 1
+network 2
+notification 1
+play 1
+russia 1
+russian 2
+social 4

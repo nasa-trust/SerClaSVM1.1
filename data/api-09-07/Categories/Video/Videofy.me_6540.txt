@@ -1,0 +1,13 @@
+advertising 1
+blog 1
+cm 1
+feature 1
+host 1
+integration 1
+management 2
+opportunity 1
+platform 1
+publishing 2
+sharing 1
+social 1
+video 5

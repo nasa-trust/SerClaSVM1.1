@@ -1,0 +1,5 @@
+Stock exchanges master company lists
+XigniteSecurity
+This web service provides securities master information for companies listed on U.S. stock exchanges. You can use XigniteSecurity to lookup and validate the names, ticker symbols, CUSIPs, CIKs, industry classifications, exchange listings, dividend and split history, etc. This web service allows you to lookup securities master information on -demand without the need to maintain the stocks and mutual fund master lists yourself.
+finance stocks 
+Financial

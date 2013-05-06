@@ -1,0 +1,5 @@
+Multi-channel online store management service
+Highwire
+Highwire is a service that facilitates multi-channel online selling. It allows users to sell products on their own online store, eBay, and Facebook simultaneously. Highwire provides all the tools needed to set up and manage an online store, as well as to keep multiple storefronts perfectly synchronized. Highwire provides REST and JavaScript APIs that enable users to further customize and integrate their stores.
+ecommerce retail 
+Retail

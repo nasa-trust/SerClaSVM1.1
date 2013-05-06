@@ -1,0 +1,5 @@
+Affiliate marketing network
+LinkShare
+LinkShare gives ecommerce sites a programmable pay-per-action marketing network and patented technology. The Merchandiser Query Tool lets you to run a query against the Merchandiser data for advertisers that you are partnered with. Using a REST-based web service API, this tool allows you to do a full text search for products that match keywords.
+shopping 
+Shopping

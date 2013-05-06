@@ -1,0 +1,5 @@
+European football information service
+Visual DataFlex Football Pool
+The Visual DataFlex Football Pool API provides access to information on European football (soccer) teams, players, and games. Users can discover the names of all players on a team, who plays which position, and who has red or yellow cards. Users may also retrieve information on game results, as well as which cities and stadiums games are played in.
+europe football soccer sports 
+Sports

@@ -1,0 +1,5 @@
+Recommendation service
+Boo-box
+From their site: Use this public API and use our wonderful product recommendation services to make your own recommendation application. Advantages: we give better results; you can use boo-box API to do a search even on an e-commerce that does not have a public API; we have a powerful cache system, which makes searches quicker; you can show boo-box&#039;s recommendation with whichever look you like; it will return a very slim XML code, quicker to load and read.
+recommendations 
+Recommendations

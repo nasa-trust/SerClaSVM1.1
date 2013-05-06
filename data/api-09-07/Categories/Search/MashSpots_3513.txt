@@ -1,0 +1,17 @@
+click 1
+close 1
+company 1
+display 1
+four 1
+free 1
+get 1
+integrate 1
+item 1
+local 3
+location 1
+map 1
+mapping 2
+office 1
+place 2
+search 5
+spots 1

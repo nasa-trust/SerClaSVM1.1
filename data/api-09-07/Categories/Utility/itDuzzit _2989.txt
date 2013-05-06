@@ -1,0 +1,11 @@
+cloud 4
+connect 2
+datum 2
+entry 1
+exchange 1
+integration 2
+manual 1
+platform 1
+require 1
+so 1
+utility 2

@@ -1,0 +1,7 @@
+Financial news service
+StrikeIron Midnight Trader Financial News
+StrikeIron is a leading Data as a Service provider. They offer a number of solutions including address verification, email verification, phone validation, phone and address append, SMS text messaging, and sales tax solutions.
+
+The Midnight Trader Financial Real-Time News Web Service gives users access to both real-time and historical stock news, historical event reaction and other information related to the US stock market. The data is made available via an XML based API.
+financial news stocks 
+News

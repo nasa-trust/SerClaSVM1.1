@@ -1,0 +1,7 @@
+Online ad server service
+Adzerk
+Adzerk is an online ad server for networks and publishers. Users of Adzerk can insert ads into any content, create ad reports based on statistics, and integrate with other systems. Adzerk supports HTML5 ads.
+
+The Adzerk API allows developers to access the functionality and data of Adzerk for integration with other applications and sites. Some example API methods include accessing and managing account information, creating and managing ad campaigns, and uploading images. 
+advertising html5 networks publishers Server 
+Advertising

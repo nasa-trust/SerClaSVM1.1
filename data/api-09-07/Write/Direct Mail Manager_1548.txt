@@ -1,0 +1,5 @@
+Direct mail marketing service
+Direct Mail Manager
+Direct Mail Manager is a direct mail marketing service. Business can employ the service to provide their audience with marketing postcards. The Direct Mail Manager system integrates with users??? business software, such as a CRM database and payment solutions software. The Manager itself comes with a dashboard and reporting functions for campaign assessment. Their API is a REST-based way for business to import or retrieve customer information, and is designed for software integrative purposes. All responses are returned in XML.
+email marketing utility 
+Email

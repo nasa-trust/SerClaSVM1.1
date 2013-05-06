@@ -1,0 +1,7 @@
+Registering and Digitally Timestamping Files
+SerialStamper
+SerialStamper is a simple RESTful API for registering files, which are then digitally timestamped and available for download. Utilizing Safe Creative registration services with its system, files are digitally timestamped by Safe Creative and other timestamping authorities and then copied and stored in the cloud. 
+
+SerialStamper also includes a timestamping feature where developers can send a hash and receive a digital encoded timestamp response issued by Safe Creative Time Stamp Authority (TSA). In order to use the SerilaStamper API services developers need an authorization key to identify who they are within an organization and a authorization private key to sign the requests.
+cloud copyright security 
+Security

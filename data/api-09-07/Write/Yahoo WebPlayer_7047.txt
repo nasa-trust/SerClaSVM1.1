@@ -1,0 +1,5 @@
+Web media player
+Yahoo WebPlayer
+The Yahoo WebPlayer lets users add trailers, clips and videos to their pages. The player plays mp3, YouTube, and a variety of other video and audio formats and can turn any page into a playlist. Users add JavaScript snippets to the top of their HTML pages to access the functionality of the player.
+audio video 
+Video

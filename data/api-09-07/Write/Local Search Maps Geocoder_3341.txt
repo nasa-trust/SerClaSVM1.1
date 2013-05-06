@@ -1,0 +1,5 @@
+Geocoding integration service
+Local Search Maps Geocoder
+The Geocode API is a web service that allows users to easily integrate their site or application with the Google Maps or Virtual Earth API&#039;s. It is built to function with JavaScript, allowing the user to geocode based on criteria such as street address, city, state, and zip code. 
+geocoding location mapping 
+Mapping

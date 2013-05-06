@@ -1,0 +1,5 @@
+Social content sharing and discussion
+Cliqset 
+Cliqset is a social web service that helps users share and discover content and discuss it with other users. The RESTful API allows developers to create accounts, edit profiles, monitor real-time comments and more. Responses may be formatted in either XML or JSON.
+deadpool social 
+Social

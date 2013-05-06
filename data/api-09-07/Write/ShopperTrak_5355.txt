@@ -1,0 +1,9 @@
+People counting analytics service
+ShopperTrak
+ShopperTrak is a leading provider of people counting analytics for retailers. The ShopperTrak Managed Service counts foot traffic in over 45,000 retail locations in 74 countries.
+
+The In-Store Flash Traffic API allows retailers access to in-store foot traffic counts every 15 minutes and can be merged with other in-store data sources, including the point of sale transaction log and staffing information. With real-time foot traffic counts, store managers can make timely adjustments to improve in-store performance.
+
+The Enterprise Daily Traffic API allows retailers to review individual stores??? foot traffic counts from the previous day. According to ShopperTrak, using this API for mobile applications will be especially useful to retail field managers ??? often traveling between stores.
+analytics retail shopping 
+Retail

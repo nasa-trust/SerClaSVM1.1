@@ -1,0 +1,7 @@
+Customer service and support service
+SupportBee
+SupportBee is a customer service and support system. SupportBee offers email tickets and replies for customer service and support.
+
+The SupportBee API allows developers to access and integrate the functionality of SupportBee with other applications and to create new applications. Some example API methods include managing help tickets, managing user information, replying and commenting on tickets, and managing help queues.  
+customer-service email helpdesk office 
+Office

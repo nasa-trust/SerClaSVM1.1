@@ -1,0 +1,7 @@
+Online donation and causes marketplace
+Global Giving
+GlobalGiving is an online marketplace that connects you to the causes and countries you care about. You select the projects you want to support, make a tax-deductible contribution, and get regular progress updates - so you can see your impact.
+
+GlobalGiving API is based on a set of RESTful web-services through HTTPS which provides the simplest and quickest way to access information for GlobalGiving projects and to submit a donation.
+advocacy nonprofit social 
+Social

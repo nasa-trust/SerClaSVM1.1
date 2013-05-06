@@ -1,0 +1,12 @@
+doctor 1
+health 1
+healthcare 1
+hospital 1
+imaging 2
+manage 1
+medical 2
+patient 1
+provider 1
+record 2
+share 1
+sharing 1

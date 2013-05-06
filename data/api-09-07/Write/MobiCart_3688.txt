@@ -1,0 +1,7 @@
+Mobile commerce management service
+MobiCart
+MobiCart is a mobile commerce (mCommerce) management platform that works with mobile, tablet, and web applications and links to a company&#039;s website. MobiCart can be built and customized based on customer needs.
+
+The MobiCart API allows developers to access and integrate the functionality of MobiCart. Some example API methods include accessing store information, managing product information, retrieving user details, and adding and managing orders.
+mcommerce mobile payment 
+Payment

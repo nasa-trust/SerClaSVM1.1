@@ -1,0 +1,5 @@
+IP lookup service
+IP2Location
+IP2Location is an API service for doing IP to Location lookups to obtain City, Country, Lattitude, Longitude and country code data. It is a simple API with one RESTful call returning data in CSV format. An API key is required to use the service.
+geolocation internet IP 
+Internet

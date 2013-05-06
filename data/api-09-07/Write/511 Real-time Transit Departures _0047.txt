@@ -1,0 +1,5 @@
+San Francisco traveler information service
+511 Real-time Transit Departures 
+511 is the San Francisco Bay Area???s free traveler information service available on the phone by calling 511 and on the web at 511.org. The 511 service gives access to current traffic, transit, rideshare, and bicycling information. The 511 Real-time Transit Departures API provides real-time departure predictions for regional transit agencies including BART, Muni, and AC Transit. Other data made available includes a list of agencies, routes by agencies, stops on a route, departure times and more. The API uses RESTful calls and responses are formatted in XML.
+realtime sanfrancisco schedule transit transportation 
+Transportation

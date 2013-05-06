@@ -1,0 +1,5 @@
+URL shortening service
+Crum.bs
+The Crum.bs API offers a URL Shortener in two styles: the Simpleshorten and the Advanced Shorten. The Simpleshorten responds to a simple url request whereas the Advanced Shorten service returns data via JSON or url formats and takes in more information.
+internet url-shortener 
+Internet

@@ -1,0 +1,9 @@
+Media library and rights management service
+RightsLine 
+The service builds a catalog of media assets, especially video clips and features, and makes them available, within the requirements of rights specified by the owner. It manages content files and metadata for tracking and accessing them, including specification of rights to access and copy the content. It also manages payment to rightsholders and calculates royalties to performers and others. 
+
+API methods support management of media properties, including retrieval of metadata structure and specifications and updating values for specific properties. Methods also manage user access accounts and enforce and restrictions stated in rights metadata for a particular user&#039;s access to a property.
+
+
+copyright image media media-management photo video 
+Media Management

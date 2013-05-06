@@ -1,0 +1,13 @@
+alchemy 2
+categorization 1
+content 1
+datum 1
+detection 1
+entity 1
+extraction 5
+language 1
+scraping 1
+text 4
+tool 2
+utility 1
+variety 1

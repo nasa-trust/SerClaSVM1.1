@@ -1,0 +1,7 @@
+Sending and Receiving SMS
+Club Texting
+Club Texting&#039;s SMS APIs allow developers to integrate text messaging into desktop applications, web services or mobile apps. Club Texting offers a web-based bulk text messaging platform that lets users set up mobile marketing campaigns. Using the API, customers can text a message and SMS Gateway will pass the message directly to your servers.
+
+A RESTful API is offered along with a legacy HTTP API.
+canada messaging sms telephony text usa 
+Messaging

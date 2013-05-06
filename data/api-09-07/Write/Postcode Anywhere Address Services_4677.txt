@@ -1,0 +1,9 @@
+Address capture, lookup and search
+Postcode Anywhere Address Services
+Postcode Anywhere is an &quot;information-as-a-service&quot; provider offering over 250 separate web services covering a broad range of business efficiency tools for address and data capture, validation and cleansing to geo-coding, mapping, and route planning and optimization. 
+
+Postcode Anywhere provides address web services for both North American and International addresses. These services can be used to capture addresses, return addresses based on search parameters, list address details and more. 
+
+The APIs use a number of protocols including REST, SOAP and XML-RPC. Responses can be formatted in XML, JSON, CSV, HTML and PDF. 
+address international reference validation 
+Mapping

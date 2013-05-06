@@ -1,0 +1,10 @@
+ai 1
+documentation 1
+fun 1
+game 4
+person 1
+play 2
+playing 1
+soap 1
+tic 2
+toe 2

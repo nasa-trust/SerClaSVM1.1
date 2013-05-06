@@ -1,0 +1,5 @@
+European names lookup service
+Thomas Beyer First Names and Gender
+This REST webservice is based on a list from J?rg Michael, containing more than 40,000 forenames, its gender and the approximate frequency of each name in all European countries and in a lot of other countries like China, India, U.S.A. and Japan. The API uses RESTful calls and responses are formatted in XML. The site and documentation are in German.
+europe family names reference tools 
+Reference

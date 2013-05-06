@@ -1,0 +1,5 @@
+Web chat application
+Envolve
+Envolve offers a customizable web chat and messaging application. With Envolve, web site owners can create multiple topic chat rooms on their site. The Envolve API allows owners to build custom chat experiences for their users. A wide range of customizations are available, including Single Sign On, color customizations, programmatic creation of groups and chats, string customizations, a slew of behavioral options, and more. 
+chat messaging 
+Chat

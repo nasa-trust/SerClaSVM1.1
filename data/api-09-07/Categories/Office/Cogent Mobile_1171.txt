@@ -1,0 +1,12 @@
+command 1
+contact 1
+devices 1
+documentation 1
+functionality 1
+integrate 1
+interest 1
+manage 1
+mobile 7
+office 2
+public 1
+voice 4

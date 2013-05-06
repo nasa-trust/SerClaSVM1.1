@@ -1,0 +1,5 @@
+Url shortening service
+O-Maniac!
+The O-Maniac! URL shortening service provides shortened URLs. The API allows you to both create shortened URLs and expand a shortened URL.
+internet url-shortener utility 
+Internet

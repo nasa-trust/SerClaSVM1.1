@@ -1,0 +1,5 @@
+SEO Rank checking service
+AuthorityLabs Account
+AuthorityLabs provides SEO rank monitoring for use by consultants, agencies, bloggers, and internet marketing pros. The Account API is for users who need access to the interface, but also need to programmatically make changes to the account or pull down data for backup, reporting or analysis purposes. Everything done in a user account is reflected in this API, and everything done via the API is reflected in a user account. Pricing is based on keyword volume plans. RESTful calls are used and responses are formatted in XML.
+internet SEO 
+Internet

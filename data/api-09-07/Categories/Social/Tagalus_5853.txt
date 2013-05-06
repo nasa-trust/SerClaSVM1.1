@@ -1,0 +1,16 @@
+add 1
+declare 1
+definition 2
+dictionary 1
+getting 1
+hash 1
+meaning 1
+one 1
+setting 1
+social 2
+tag 2
+twitter 3
+up 1
+version 1
+view 1
+voting 1

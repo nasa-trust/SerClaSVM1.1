@@ -1,0 +1,13 @@
+control 1
+create 1
+domain 1
+host 1
+integrate 1
+internet 2
+main 1
+own 1
+panel 1
+resell 1
+same 1
+system 1
+things 1

@@ -1,0 +1,5 @@
+Twitter utility
+Kanvaso
+The Kanvaso gives users the ability to have their application send long tweets over the 140 character limit. Kanvaso is a web-based application which improves the usability of Twitter. With Kanvaso, users can attach images, or shortened url to their tweet without leaving the page. They can follow locations as well as people. The API uses RESTful protocol and responses can be formatted in either XML or JSON. 
+microblogging Twitter utility 
+Social

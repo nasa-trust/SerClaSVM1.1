@@ -1,0 +1,13 @@
+German streetview service
+Sightwalk
+The sightwalk API is used for embedding and controlling sightwalk; a German Streetview service. The API consists of two parts:
+
+1. JavaScript API
+sightwalk can be used with any HTML to embed links and control over our API via JavaScript commands.
+
+2. Web
+To identify those areas that are depicted in sightwalk exist Web services (REST). Responses are formatted in JSON.
+
+The site and documentation are in German.
+germany mapping streetview 
+Mapping

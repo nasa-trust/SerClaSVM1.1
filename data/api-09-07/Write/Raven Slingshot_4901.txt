@@ -1,0 +1,5 @@
+precision agriculture business tool
+Raven Slingshot
+Raven Slingshot offers a series of products for the agriculture industry, including Field Hub and Slingshot RDK. These services collect precise data on a variety of field operations that help streamline business procedures. The Raven Slingshot API provides a platform that allows inter-operability of the previously independent Slingshot products for an enhanced field tracking experience.
+Agriculture business logistics tools 
+Tools

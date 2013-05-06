@@ -1,0 +1,17 @@
+action 1
+create 1
+event 3
+group 2
+host 1
+joining 1
+key 1
+like 1
+member 1
+message 1
+own 1
+posting 1
+read 1
+request 1
+social 3
+support 1
+topic 1

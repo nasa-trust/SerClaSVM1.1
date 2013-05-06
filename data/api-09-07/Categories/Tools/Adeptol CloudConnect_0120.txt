@@ -1,0 +1,15 @@
+demand 1
+document 5
+embed 1
+file 1
+image 1
+link 1
+office 2
+open 1
+own 1
+server 1
+support 1
+tool 2
+type 1
+utility 1
+viewer 3

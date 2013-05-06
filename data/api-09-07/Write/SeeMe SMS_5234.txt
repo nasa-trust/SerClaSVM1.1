@@ -1,0 +1,5 @@
+Bulk SMS messaging service
+SeeMe SMS
+SeeMe is the leading bulk SMS provider in Hungary. The SeeMe SMS API allows developers to quickly create a connection between their service and the SeeMe gateway. With the API, users can send messages up to 459 characters, receive SMS and automatic responses, monitor their balance, get traffic stats and more. The API uses HTTP calls. The site and documentation are in Hungarian.
+hungary messaging sms 
+Messaging

@@ -1,0 +1,10 @@
+community 1
+food 1
+get 1
+growing 1
+host 1
+lover 1
+preference 1
+rate 1
+recommendation 4
+wine 5

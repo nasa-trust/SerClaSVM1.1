@@ -1,0 +1,16 @@
+create 1
+datum 1
+deep 1
+engine 2
+example 1
+find 1
+functionality 1
+integrate 1
+internet 1
+method 1
+numbers 1
+people 5
+phone 1
+result 2
+retrieve 1
+search 10

@@ -1,0 +1,5 @@
+Voice server resale services
+LSG Lightspeed Reseller
+LightSpeed Gaming&#039;s Reseller Program allows users to resell voice servers in over 25 worldwide locations. The Reseller Program is designed for established businesses with existing customer bases looking to add another value-added-service to their product offering. To use the API, a user must be signed up as a reseller. The API can be used to control all of the voice communication services and can be integrated into a user&#039;s web site or application. The API uses SOAP protocol and responses are formatted in XML.
+games hosting internet 
+Internet

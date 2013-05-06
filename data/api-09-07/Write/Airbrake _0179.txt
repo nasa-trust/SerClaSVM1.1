@@ -1,0 +1,7 @@
+Application errors tracking and reporting service
+Airbrake 
+Airbrake is an application that gathers errors caused by other applications. Airbrake provides reports on the errors for review and analysis, as well as auto resolving based on specifications. 
+
+The Airbrake API allows developers to access and integrate Airbrake functionality into other applications. Some example API methods include accessing account and project information, receiving notifications of errors, and getting information on specific errors.
+bug error tools tracking 
+Tools

@@ -1,0 +1,7 @@
+UK book retailing service
+Bertram Books
+The service enables online book sales by partner sites with transaction processing and fulfillment by the provider&#039;s UK distribution facility. Applications can search by ISBN to get price and availability data, then submit orders with confirmation responses. The service is compliant with Book Industry Communication (BIC) standards.
+
+API methods support retrieval of price and availability along with submission of order requests, with response to confirm status. Orders can specify terms (e.g., fill-or-kill) and apply promotional discounts. Order management is also supported, including cancellation of pending orders.
+books retail shopping uk 
+Shopping

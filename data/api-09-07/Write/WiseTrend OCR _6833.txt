@@ -1,0 +1,5 @@
+Cloud based OCR (optical character recognition) service
+WiseTrend OCR 
+OCR Cloud 2.0 API provides Optical Character Recognition (OCR) functionality on demand using the award-winning ABBYY OCR engine on the back-end, providing superior recognition for even low-quality images such as images from mobile phone cameras. Multi-lingual recognition in over 100 languages as well as barcode recognition is supported. The API can convert images in multiple formats (PDF/TIF/PNG/JPG) containing text into editable searchable text-based documents (PDF/TXT/RTF/DOC/XLS/XML/HTML/etc). Full documentation is available at www.wisetrend.com/WiseTREND_Online_OCR_API_v2.0.htm
+ocr tools utility 
+Utility

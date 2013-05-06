@@ -1,0 +1,7 @@
+Direct donation platform
+LetGive
+LetGive provides developers, bloggers, content publishers, and e-tailers with the tools to integrate giving into their websites and mobile apps and eliminate the regulatory hassles associated with third party fundraising.
+
+LetGive???s API allows users to embed charitable giving in their applications. Users have the option to choose to support any of the causes listed in the partners page. In return, these partners will market user applications through their distribution channels. The API uses RESTful calls and responses are formatted in JSON.
+charity deadpool donation marketing nonprofit payment 
+Payment

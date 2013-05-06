@@ -1,0 +1,15 @@
+check 1
+datum 1
+dictionary 2
+english 1
+format 1
+html 1
+integrate 1
+mean 1
+ps 1
+return 1
+spell 1
+spelling 2
+style 1
+suggest 1
+suggestion 1

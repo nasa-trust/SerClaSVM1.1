@@ -1,0 +1,5 @@
+Semantic news reader service
+SemanticWire
+Semantic Wire is a news reader and aggregator that extracts semantic metadata from articles. It is meant to provide access to machine readable news content. The service monitors thousands of news sources, industry publications and corporate press releases and the metadata that is extracted includes entities, facts, events, categories and more in near real time. This data is made available through the API which can then be integrated with news analytics monitoring applications, decision making and predictive models, dashboards and more. The API uses RESTful calls and responses are formatted in XML, JSON and RSS.
+news semantic 
+News

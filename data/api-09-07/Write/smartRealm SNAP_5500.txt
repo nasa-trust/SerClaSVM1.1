@@ -1,0 +1,7 @@
+Social network analysis tool
+smartRealm SNAP
+As a developer, you can use the SNAP API to submit a social graph to the smartRealm web service and receive scores for the individuals in the graph. The smartRealm SNAP (Social Network Authority and Prestige) is a semantic based scoring system which measures how people influence each other in their social networks. SNAP, combined with smartRealm&#039;s advanced analytics and knowledge fusion technology, enables people-centric sense-making of the fragmented social graph across different social network &quot;walled gardens&quot; and legacy systems.
+
+The current version of the API supports the following social network scores: Footprint, Authority, Hub, Resilience, Vulnerability, Sphere Of Influence and the overall SNAP score. The API uses a REST-like interface and responses are in XML/RDF format.
+semantic social 
+Social

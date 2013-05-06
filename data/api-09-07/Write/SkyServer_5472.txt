@@ -1,0 +1,7 @@
+Astronomical data and image service
+SkyServer
+The service exposes data from the Sloan Digital Sky Survey. Sponsored by the Alfred P. Sloan Foundation, the U.S. National Science Foundation, and NASA, the project gathers data from observatories and other sources to allow creation of a map covering large sections of the universe. The web service gives access to data for over 80 million astronomical objects, such as stars, galaxies, and quasars. Teachers are invited to adapt existing projects for classroom use.
+
+Methods support access to photos, animated skyscape images, spectra graphs and data. Support is also provided for searching by radial and rectangular measurements and creating a star chart for a location as well as managing resources created using SkyServer tools.
+astronomy education mapping science 
+Science

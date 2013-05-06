@@ -1,0 +1,5 @@
+Access multiple API&#039;s with one easy to use POST
+The Easy API
+The Easy API is one of the fastest growing API services out there. We offer a service that allows you to use multiple API&#039;s without having to code for the specific interfaces. An example would be that we have both a Zip Code Radius location tool, and also offer SEOMoz. Instead of coding two different application methods, you just have to code one. One easy to use API that can do the work of all the others. It accepts a POST then will return well formed XML. We are going to be offering JSONP-&gt;JSON integration in 2011.
+tools 
+Tools

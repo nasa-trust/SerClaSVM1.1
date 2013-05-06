@@ -1,0 +1,14 @@
+connect 1
+format 1
+key 1
+open 2
+over 1
+protocol 1
+require 1
+response 1
+shorten 1
+shortener 2
+shortening 1
+single 1
+tool 3
+url 7

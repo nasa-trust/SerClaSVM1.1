@@ -1,0 +1,5 @@
+Singapore commuter map service
+Gothere Maps
+The Gothere Maps service provides access to continuously updated maps of Singapore. These maps are designed specifically to assist commuters and include both public transportation info and driving directions. Cost estimations are provided for taxis, parking, and similar expenses. Users can also employ custom location markers and geocoding services, as well as search for nearby amenities.
+mapping Singapore transit 
+Mapping

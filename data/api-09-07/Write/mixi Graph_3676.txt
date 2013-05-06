@@ -1,0 +1,7 @@
+Social networking service
+mixi Graph
+The Japanese social networking service provides connections between friends and contacts, encouraging interaction and sharing of status updates, links, media, and other resources. It works through graphs connecting people accounts, building and managing membership of groups, posting status updates and diary entries, and uploading media resources like photos and voice recordings. The service plans expansion to support interactions among employees and business colleagues, as well. 
+
+API methods support a range of services, starting with user accounts, connections, and group management. Update and Diary APIs handle status and mini-blog posts. Communication APIs allow access to voice posts and photos. 
+contacts networking social 
+Social

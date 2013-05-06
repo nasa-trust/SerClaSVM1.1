@@ -1,0 +1,7 @@
+Sport fishing and hunting community information
+FishingBuddy
+FishingBuddy is a website devoted to fishing- and hunting-related articles, guides, water level reports, photos, videos, and more. FishingBuddy content is limited to North Dakota.
+
+FishingBuddy is part of the Total Outdoor Network (TON) which offers an API to third-party developers to access FishingBuddy content, as well as publish to the site. The API uses the HTTP protocol and returns responses in REST and JSON.
+sports 
+Sports

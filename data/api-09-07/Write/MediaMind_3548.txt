@@ -1,0 +1,5 @@
+Advertising campaign management
+MediaMind
+MediaMind is a global provider of digital advertising solutions that optimize the use of media, creative and data for enhanced campaign performance. The MediaMind Trafficking API lets developers build applications that interact directly with the MediaMind Platform. With these applications, advertisers, media agencies, creative shops and third parties can manage their large or complex accounts and campaigns more efficiently and creatively. With the MediaMind Trafficking API users can create and update campaigns, placements, advertisers, ads, and more without having to access MediaMind. The API uses SOAP protocol and responses are formatted in XML.
+advertising 
+Advertising

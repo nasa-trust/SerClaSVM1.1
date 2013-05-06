@@ -1,0 +1,5 @@
+Connected health devices
+Withings
+Withings is a company focusing on the development of connected measuring devices, such as scales and blood pressure monitors, that can send health information directly to the internet. Withings Body metrics Services API (WBS API) is a set of webservices allowing developers and third parties limited access to users&#039; data. The API uses RESTful calls and responses are formatted in JSON.
+devices health 
+Other

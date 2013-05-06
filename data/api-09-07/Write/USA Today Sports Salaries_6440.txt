@@ -1,0 +1,6 @@
+Sports information service
+USA Today Sports Salaries
+USA Today&#039;s sports databases contain information about the salaries for baseball, football, basketball, and hockey players for the past few years (since 1988 for baseball, and around 2000 for all others). In addition to salaries, there is extensive information for the MLB, NFL, NBA and NHL available, including player, position, and team data.The USA Today Salaries API allows developers to programmatically access the USA TODAY Sports Salaries database. 
+
+database news salaries sports 
+Sports

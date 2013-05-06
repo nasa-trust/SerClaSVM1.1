@@ -1,0 +1,8 @@
+Over-the-counter securities trading service
+Bclear
+The service supports over-the-counter (OTC) trading in derivative securities  from issuers in Europe, Russia, South Korea, and the United States. It allows applications to register trades trades in futures and options, then process and clear the transactions through NYSE Liffe. In addition, trades in the OTC market can be imported to risk management algorithms to assess overall market activity.
+
+API methods allow retrieval of general market data and specific contract information. The API also handles submission and deletion of trades in the OTC market along with processing and clearing of completed trades.
+
+financial stocks 
+Financial

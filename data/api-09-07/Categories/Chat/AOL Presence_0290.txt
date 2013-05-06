@@ -1,0 +1,11 @@
+aim 2
+blob 1
+chat 2
+detail 1
+display 1
+image 1
+page 1
+presence 5
+return 1
+simple 1
+version 1

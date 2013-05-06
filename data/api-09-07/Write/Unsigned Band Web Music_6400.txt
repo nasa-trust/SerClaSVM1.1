@@ -1,0 +1,7 @@
+Music streaming service and music database
+Unsigned Band Web Music
+Unsigned Band Web is an online platform for musicians to release and share their songs and music. Users can listen to new music, search by music genre, and access various radio stations associated with the music on the site. Unsigned Band Web also offer a variety of features for musicians.
+
+The Unsigned Band Web Music API allows developers to access the database of music and musicians. Some example API methods include searching and retrieving songs by genre, accessing songs by musician, and listing channel feeds based on genre.
+lyrics music radio songs 
+Music

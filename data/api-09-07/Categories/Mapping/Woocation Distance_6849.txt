@@ -1,0 +1,16 @@
+city 2
+collecting 1
+datum 2
+distance 6
+doe 1
+functionality 1
+give 1
+integrate 1
+mapping 2
+much 1
+place 2
+travel 1
+traveler 1
+two 1
+visit 1
+want 1

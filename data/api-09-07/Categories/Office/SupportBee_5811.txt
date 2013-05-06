@@ -1,0 +1,16 @@
+comment 1
+create 1
+customer 4
+email 2
+example 1
+functionality 1
+helpdesk 1
+integrate 1
+manage 3
+method 1
+office 2
+queue 1
+reply 2
+support 3
+system 1
+ticket 3

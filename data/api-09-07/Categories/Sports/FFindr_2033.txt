@@ -1,0 +1,11 @@
+contain 1
+datum 2
+event 1
+finding 1
+frisbee 3
+links 1
+own 1
+player 1
+sport 2
+team 1
+tournament 1

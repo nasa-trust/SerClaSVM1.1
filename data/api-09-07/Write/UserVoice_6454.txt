@@ -1,0 +1,7 @@
+Customer feedback service
+UserVoice
+UserVoice is a service that provides companies and organizations with feedback forums and help ticket services to address their customers&#039; comments, concerns, and questions. 
+
+The UserVoice API provides access to the end-user and admin functions of UserVoice so providers can build applications or integrations with other systems. UserVoice provides two API endpoints: public (user-facing functionality) and commercial (admin-facing functionality).
+customer-service tools 
+Tools

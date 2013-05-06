@@ -1,0 +1,5 @@
+Online video service
+Viddler 
+Use the Viddler API to view and update Viddler's data. You can upload a video, create a Viddler account, get the public sections of a user profile, update user profile data, generate a token for an embedded recorder, get video details, update video details, set a permalink on videos you own, display videos uploaded by a certain user, get videos with a certain tag, get the currently featured videos, add a comment to a video, delete a comment, and delete a video. Viddler is a social site for uploading, sharing, enhancing, tagging, commenting on, and forming groups around videos. 
+video
+Video

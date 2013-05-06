@@ -1,0 +1,5 @@
+Online polling service
+Doodle
+The Doodle API allows you to create and conduct a poll. You can use the Doodle service to schedule an event or reach a consensus about a topic. Doodle polls can also be integrated into a facebook or igoogle page.
+polls 
+Tools

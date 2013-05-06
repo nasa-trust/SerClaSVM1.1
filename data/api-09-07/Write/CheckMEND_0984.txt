@@ -1,0 +1,7 @@
+Pawn and second-hand trader item verification service
+CheckMEND
+The service verifies serial numbers and identifying information of property offered for loans or sale at pawn shops or resellers of second-hand goods. It checks identifying information against records of the U.S. Federal Bureau of Investigation (FBI) and other sources for reports of lost or stolen goods. It also records the details of re-sale transactions in a way that demonstrated due diligence in checks of stolen property records and that allows search by law-enforcement agencies. The service gives details about any transaction that is rejected based on a response from the system.
+
+API methods support identification of stores and organizations involved in pawn and re-sale transactions and verifications of due diligence in researching property records. Methods also support recording of seller and property, including history of property re-sold over time.
+law property retail verification 
+Retail

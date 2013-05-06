@@ -1,0 +1,5 @@
+Music and progressive entertainment hub
+Fusicology 
+Fusicology is a website dedicated to the promotion of and documentation of the Soul music movement, as well as being a hub for progressive events. The site provides information about music events, fashion, and nightlife. The Fusicology API is in private beta and public documentation is no available.
+events music 
+Music

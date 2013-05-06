@@ -1,0 +1,5 @@
+Social product marketplace
+Gumroad
+Gumroad provides simplified online commercial transactions for content creators. When users post their creations to Gumroad, they are then given a point of sale URL that they can then share with their networks. Gumroad supports a variety of payment methods and takes a nominal commission from the transaction. Their RESTful API exposes users??? abilities to enable, modify, or delete their links and more. It responds in JSON. 
+ecommerce shopping social 
+Social

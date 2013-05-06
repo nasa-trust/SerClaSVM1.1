@@ -1,0 +1,7 @@
+Telephone validation service
+Data8 Live Number Testing
+Data8 is the UK&#039;s premier data solutions provider with a range of data cleansing, postcode lookup and data validation services to ultimately improve the way businesses communicate with their customers.
+
+The Live Number Testing service is a method to validate which UK landline numbers are live. By using the telephone network in real-time, users can tell if a number is available to dial, without making it ring. It uses SOAP protocol and responses are formatted in XML.
+phone telephony uk 
+Telephony

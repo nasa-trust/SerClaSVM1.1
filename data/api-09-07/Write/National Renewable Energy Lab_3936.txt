@@ -1,0 +1,7 @@
+Renewable energy information service
+National Renewable Energy Lab
+The service provides access to authoritative information on uses of alternative energy technologies from the U.S. National Renewable Energy Laboratory (NREL). It provides energy usage and rate data to enable development of renewable energy installations and use of alternative fuels. Resources emphasize electricity generation, solar-power installations in general, and transportation solutions.
+
+API methods support access to utilities serving specific locations and electricity rates charged, energy generation and cost savings from photovoltaic (PV) energy systems, and locations of alternative fuel stations.
+education energy environment 
+Education

@@ -1,0 +1,16 @@
+cloud 5
+computing 1
+cost 4
+datum 3
+describe 1
+format 1
+infrastructure 1
+integrate 1
+internet 2
+management 1
+platform 2
+push 1
+set 1
+standard 1
+system 2
+usage 1

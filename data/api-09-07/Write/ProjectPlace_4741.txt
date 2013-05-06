@@ -1,0 +1,5 @@
+Project Management Service
+ProjectPlace
+The ProjectPlace API allows access to some of the functionality of the ProjectPlace project management service through a REST API. The service uses the OAuth 1.0a authorization and application identification, and requires users to have an account with the underlying website, and be a registered Projectplace third-party developer. ProjectPlace offers a suite of project management tools including: project planning, document management, resource management, online meeting capabilities, meeting management, as well as other services.  
+documents project-management tools 
+Project Management

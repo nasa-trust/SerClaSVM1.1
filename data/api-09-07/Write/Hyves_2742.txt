@@ -1,0 +1,5 @@
+Social networking and events service
+Hyves
+Use the Hyves API to get blog posts, get Hyves' user albums, view friends, view invitations, create gadgets, get user blog posts, get blog comments, create blog posts, get tips, get user information, and more. Hyves is a social site based in Europe. 
+social
+Social

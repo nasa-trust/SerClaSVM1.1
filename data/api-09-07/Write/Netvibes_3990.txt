@@ -1,0 +1,5 @@
+Personalized home page with widgets
+Netvibes
+From their site: UWA (Universal Widget API) is the next generation of the Netvibes wigdet API, the successor of the Netvibes Mini Module API. With this new release, our API becomes a powerful framework for Web widgets development - not only for Netvibes widgets, but also for many other environments, among which are Apple???s Dashboard and the Google Homepage. With the UWA, you only need one API to build widgets for a host of environments.
+opensocial widgets 
+Widgets

@@ -1,0 +1,6 @@
+Encyclopedia data access
+Ontok Wikipedia
+
+From their site: Ontok Wikipedia Web Services exposes Wikipedia so you can do creative text analysis with our REST and SOAP interfaces. You can use these web services for free or via subscription. We parse the latest 1.3GB dataset from Wikipedia every other week or so. 
+wiki 
+Wiki

@@ -1,0 +1,7 @@
+Online marketing platform
+OzMedia
+OzMedia is an Australia-based marketing services provider, specializing in online press and media releases, and online message broadcasting for fax, SMS, email and text-to-speech. OzMedia Press and Media Release Distribution is available to Australia, Asia Pacific and the USA, for one flat rate fee.
+
+Developers can connect their applications to OzMedia&#039;s platform via the SOAP-based API. 
+fax Global marketing messaging sms 
+Messaging

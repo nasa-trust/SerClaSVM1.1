@@ -1,0 +1,7 @@
+Job Management and Wireless Dispatch service
+Econz Eservice
+Econz Eservice is a Mobile Field Service Dispatch and Work Order Management System that works on Cell Phones, Smart Phones, and Tablets. Eservice is web-based software that enables a field service team to receive and respond to customer work orders.
+
+The Eservice API allows authorized users to directly connect their system to the ECONZ EService Job Management and Wireless Dispatch system. The interface allows jobs to be created, updated, dispatched, progressed, and completed. In addition, it also allows for the creation and maintenance of customer, resource, and employee data.
+enterprise location mobile 
+Enterprise

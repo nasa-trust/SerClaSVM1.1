@@ -1,0 +1,7 @@
+San Francisco real-time parking information
+SFpark
+The service provides continuously updated information about locations and pricing of available parking in selected areas of San Francisco. DataSF, the city government&#039;s open data initiative, collects and distributes the information to help drivers choose when to drive and when to choose other transportation options. Data is provided by off-street parking providers and by sensors that report status of individual street parking spaces as occupied or vacant.
+
+API methods support submission of search parameters, including location (latitude/longitude and preferred radius), type of parking desired (street or off-street), and whether or not to include rate information. Returned data include the locations of currently available parking, the type, and the applicable rate, if requested.
+parking sanfrancisco traffic transportation 
+Transportation

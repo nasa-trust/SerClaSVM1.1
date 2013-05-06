@@ -1,0 +1,9 @@
+Business record database
+Postcode Anywhere Worldwide Business Data
+Postcode Anywhere is an &quot;information-as-a-service&quot; provider offering over 250 separate web services covering a broad range of business efficiency tools for address and data capture, validation and cleansing to geo-coding, mapping, and route planning and optimization.
+
+The Worldwide Business Data API allows businesses to understand their markets by providing access to more than 140 million business records. It covers key contact, financial and relationship information.
+
+The API uses a number of protocols including REST, SOAP and XML-RPC. Responses can be formatted in XML, JSON, CSV, HTML and PDF.
+business reference 
+Reference

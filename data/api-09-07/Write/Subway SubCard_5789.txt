@@ -1,0 +1,7 @@
+Subway purchase tracking and reward service
+Subway SubCard
+The unofficial Subway SubCard available in the UK allows cardholders to collect points on all Subway purchases and redeem them for free subs. The card functions by using a JSON API to send data. Once exposed, the API can be used by cardholders to access their data and even integrate it into applications.
+
+This API has been made available by an individual not affiliated with Subway.
+food restaurant uk unofficial 
+Food

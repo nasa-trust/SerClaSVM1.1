@@ -1,0 +1,5 @@
+Text to Image Service
+IMG4Me
+IMG4Me is a web tool that converts text into images to prevent crawlers (Supports multiple languages without encoding issues). IMG4Me also provides a free API for developers to create their own applications around the IMG4Me service. The API takes a text string and optional graphics arguments, and returns a URL to the converted image. Access to the API is free, no sign-up or authentication required to use it.
+conversion image text tools 
+Tools

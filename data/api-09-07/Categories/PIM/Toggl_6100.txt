@@ -1,0 +1,13 @@
+basic 1
+desktop 1
+even 1
+fast 2
+feature 1
+freelance 1
+gadget 1
+management 1
+need 1
+team 1
+tool 2
+tracking 2
+widget 1

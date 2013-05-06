@@ -1,0 +1,11 @@
+datum 1
+design 1
+give 1
+internet 2
+looking 1
+owner 1
+page 1
+people 1
+see 1
+statistics 1
+visitor 1

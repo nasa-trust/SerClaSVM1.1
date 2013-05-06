@@ -1,0 +1,5 @@
+Political data lookup
+Watchdog
+From their site: watchdog.net lets you find out what&#039;s going on in politics and make your voice heard about it. We&#039;re trying to build a hub for politics on the Internet. Data: there&#039;s a lot of great information out there about politics ? district demographics, votes, lobbying records, campaign finance reports ? but unfortunately it&#039;s split across a dozen different web sites and often hidden behind confusing interfaces. We&#039;re pulling all of that together and letting you explore it in one elegant, unified interface. (Plus, we&#039;re sharing all the results in an API so you can come up with new ways to explore it.)
+government politics 
+Government

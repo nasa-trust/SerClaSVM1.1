@@ -1,0 +1,6 @@
+Lead Management Software
+Lead Reporter
+Lead Reporter is a sales lead management software that allows you to deliver all your leads to one centralised system from your website, sales team and more, allocate leads to the appropriate member of your sales team, manage your sales process, and track your conversion rates. 
+The Lead Reporter API allows a user to insert and export leads from the system. In order to utilise the API functionality, an account administrator must first create a web service user in their system. 
+CRM enterprise sales sbweb 
+Enterprise

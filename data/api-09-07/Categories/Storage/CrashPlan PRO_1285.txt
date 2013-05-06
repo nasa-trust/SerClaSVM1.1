@@ -1,0 +1,16 @@
+back 1
+backup 3
+business 2
+computer 1
+datum 2
+default 1
+format 1
+install 1
+integrate 1
+own 1
+pro 2
+software 1
+storage 2
+store 1
+up 1
+way 1

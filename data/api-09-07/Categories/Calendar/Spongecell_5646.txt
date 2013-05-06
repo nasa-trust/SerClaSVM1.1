@@ -1,0 +1,16 @@
+advance 1
+advertising 1
+billing 1
+calendar 3
+consumer 1
+display 1
+engagement 1
+event 1
+feature 1
+medium 2
+metrics 1
+option 1
+platform 1
+reporting 2
+rich 2
+technology 1

@@ -1,0 +1,12 @@
+collaboration 3
+connect 1
+enterprise 1
+goal 1
+management 2
+open 2
+project 3
+quality 1
+software 1
+source 1
+team 1
+tool 2

@@ -1,0 +1,5 @@
+In-car application marketplace
+AutoAppMart
+AutoAppMart is a marketplace for in-car applications, such as those using audio/video and GPS. Many of the applications listed in AutoAppMart are designed to be safely used while driving, using touch, voice and other technologies to increase ease of use for a distracted driver. The AutoAppMart API provides means for developers to include content from the marketplace in their own applications. The API provides access to the total number of applications, applications by category and the download file for a particular application (if the user has purchased it).
+cars reference 
+Reference

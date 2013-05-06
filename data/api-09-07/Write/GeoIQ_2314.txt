@@ -1,0 +1,5 @@
+Geo Data, Visualization, and Analysis
+GeoIQ
+From their site: GeoIQ is a dynamic geospatial analysis and heat mapping technology that delivers high resolution raster analysis through a web browser. Developers can use GeoIQ to add geographic data visualization and analysis tools to their web mapping applications. 
+mapping visualization 
+Mapping

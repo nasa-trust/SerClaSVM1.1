@@ -1,0 +1,7 @@
+News and business information service
+NewsKnowledge
+The web service feeds content from a news database and search engine for business and consumer information services. The service either provides a feed or accepts user query and returns matching articles and other information, optionally with a specified stylesheet, to the submitting application. The Lucene query engine accommodates simple keywords, phrases, and Boolean strings.
+
+Methods allow retrieval of a feed list or a specific feed, as well as submission of a query from single term to a complex, grouped, Boolean string. Return is a set of headlines and access URLs with language, short description, provider name, and provider rating. 
+business news 
+News

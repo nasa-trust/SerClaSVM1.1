@@ -1,0 +1,9 @@
+Official utility tariff data service
+Tariff Analysis Project
+The U.S. Department of Energy, through the Lawrence Berkeley National Laboratory, operates the Tariff Analysis Project (TAP) - a comprehensive data warehouse of utility tariffs and query tools designed to accurately calculate utility bills. TAP consists of a library of tariffs that, in conjunction with their SOAP API, allows users to calculate their actual energy costs and saving based on actual tariffs, rather than estimates.
+
+There are several search/data retrieval methods in the TAP API that allow users to get utility data (by ZIP code or state), tariff listings, and tariff descriptions. This data can be used in conjunction with the bill calculation method to calculate a detailed projection of monthly utility costs.
+
+This free API is provided over SOAP, and requires users to register their I.P. through the provider&#039;s site to gain access to the service.
+government reference search tools 
+Tools

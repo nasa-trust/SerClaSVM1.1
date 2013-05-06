@@ -1,0 +1,15 @@
+brand 1
+create 1
+datum 1
+fashion 2
+filter 1
+get 2
+living 1
+look 1
+member 1
+monetization 1
+opportunity 1
+product 1
+search 1
+shopping 3
+uk 1

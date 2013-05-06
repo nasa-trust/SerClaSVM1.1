@@ -1,0 +1,5 @@
+Business information service
+Mergent Corporate Actions and Dividends
+Provides information on corporate actions and events reported by US and Canadian publicly traded companies, including a detailed database of issued and declared dividends. The API allows access to detailed data on dividend distributions, stock splits, stock dividends, spin-offs, redemption of stock, rights, tender offers, mergers & acquisitions, bankruptcy filings, and more.
+business finance stocks 
+Financial

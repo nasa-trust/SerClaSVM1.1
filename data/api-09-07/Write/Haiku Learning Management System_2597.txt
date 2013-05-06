@@ -1,0 +1,7 @@
+Online education and learning service
+Haiku Learning Management System
+Haiku is a learning management system that allows teachers to bring their classroom to the web and the web to their classroom. Features include website design and development, listserve hosting, assignment dropboxes, and more.
+
+The Haiku LMS API is an expanding set of interfaces that allows Haiku LMS users and organizations to integrate with and extend Haiku LMS using third party programs. The Haiku LMS REST API allows developers to write programs that can access and modify data within Haiku LMS. The Haiku LMS API allows for a variety of functions, including retrieving user information, class information, and assignment information.
+education internet 
+Education

@@ -1,0 +1,14 @@
+aggregate 1
+cooking 1
+customize 1
+dietary 1
+find 1
+food 1
+integrate 1
+personal 1
+platform 2
+preference 1
+recipe 5
+recommendation 1
+search 4
+taste 1

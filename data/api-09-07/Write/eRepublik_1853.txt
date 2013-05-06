@@ -1,0 +1,9 @@
+Strategy game
+eRepublik
+Online strategy game eRepublik is used by over 200,000 active players internationally. The site calls itself the &quot;first massive online social strategy game&quot; and invites you to &quot;change the world and rewrite history. Over 1 million people have already done that, according to eRepublik. The eRepublik API--or eAPI, as it&#039;s called--can be used to retrieve game data in a developer-friendly format (supports both XML and JSON). The eAPI also offers functions to interact with the game&#039;s ecosystem.
+
+Your application can access detailed information within the eRepublik game regarding regions, countries, wars, companies and citizens. You can also learn about markets, industries and battles.
+
+The eAPI documentation covers a 17 page PDF.
+games 
+Games

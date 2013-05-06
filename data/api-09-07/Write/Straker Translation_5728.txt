@@ -1,0 +1,5 @@
+Translation services
+Straker Translation
+Straker Translation provides translation services including human translation services for documents and content, multilingual websites, and more. Straker also provides tools and applications for streamlining the translation process. An API is available to send content to be human-translated. The API is RESTful. 
+human-translation language Translation 
+Tools

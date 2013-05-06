@@ -1,0 +1,7 @@
+Customizable social network service
+KIT Social
+KIT Social lets you create a social network to engage with fans, deepen customer relationships or communicate between employees. The service provides access to all the tools you would expect with social software: friending, commenting, ratings, video, forums and activity feeds. KIT Social API provides access to all of the functionality so that your applications can be used from outside the KIT Social website--even includes registering new members.
+
+KIT Social was originally KickApps, but was eventually acquired and rebranded by KIT digital.
+social 
+Social

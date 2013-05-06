@@ -1,0 +1,5 @@
+Yahoo account status
+Yahoo Status
+The Yahoo! Status API allows for users to set and share their status on Yahoo! and on applications. The user&#039;s status is a string with a maximum length of 140 characters; anything longer will be silently truncated. The Status API filters unsafe user input to avoid security issues such as invalid characters in a URL, SQL injections, or cross-site scripting. The API uses RESTful calls and responses are formatted in XML and JSON.
+blogging microblogging social 
+Blogging

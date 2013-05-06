@@ -1,0 +1,7 @@
+Open source application index
+Freshmeat
+freshmeat maintains the Web&#039;s largest index of Unix and cross-platform software, themes and Palm OS software. Thousands of applications, released under an open source license, are meticulously cataloged in the freshmeat database, and links to new applications are added daily. 
+
+The freshmeat API deals with data gathering and data entry across a number of data types including projects, comments and screenshots. The API uses RESTful calls and responses are formatted in XML and JSON.
+OpenSource programming reference 
+Reference

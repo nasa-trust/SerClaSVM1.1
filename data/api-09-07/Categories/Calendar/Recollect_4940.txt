@@ -1,0 +1,15 @@
+calendar 2
+call 1
+collection 2
+come 1
+email 1
+garbage 3
+get 1
+out 1
+phone 1
+recollect 2
+recycling 3
+reminder 5
+taking 1
+text 1
+tweet 1

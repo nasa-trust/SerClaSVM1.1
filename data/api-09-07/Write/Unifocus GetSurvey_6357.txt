@@ -1,0 +1,7 @@
+Online survey service
+Unifocus GetSurvey
+The service provides functionality for online surveys to gather input from customers and employees that promotes engagement and loyalty while providing actionable feedback to decision makers. Survey methods have been developed over time to encourage high response rates and target input to essential management questions.
+
+API methods support managing links to survey questions and tracking responses. Methods link responses to survey participants and reflect their customer relationships.   
+customer deadpool internet loyalty surveys 
+Internet

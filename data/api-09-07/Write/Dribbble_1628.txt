@@ -1,0 +1,6 @@
+Webdesign showcase 
+Dribbble
+Dribbble API provides access to the webdesign showcases on dribbble.com. You can access individual shots, players, comments, and more details.
+Note: As of Dec. 2010, no API key is required, but according to the site, this will likely change (as well as the API call limit).
+webdesign 
+Other

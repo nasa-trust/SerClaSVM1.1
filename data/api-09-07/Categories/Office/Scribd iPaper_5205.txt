@@ -1,0 +1,16 @@
+appearance 1
+command 1
+control 1
+customize 1
+display 1
+document 2
+embed 2
+enterprise 1
+google 1
+map 1
+office 2
+part 1
+platform 1
+set 1
+simple 1
+webpage 1

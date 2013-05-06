@@ -1,0 +1,15 @@
+blog 2
+code 1
+favorite 2
+get 1
+gps 1
+medium 1
+music 3
+photo 3
+place 1
+post 1
+search 1
+share 1
+sharing 1
+upload 1
+widget 1

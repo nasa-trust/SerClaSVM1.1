@@ -1,0 +1,5 @@
+Internet monitoring service
+Internet Vista
+Internet Vista is an internet uptime monitoring service that also provides metrics on the performance of monitored sites. The SOAP API allows users to fully integrate the monitoring service into their websites or applications. Full documentation is not publicly available.
+internet monitoring 
+Internet

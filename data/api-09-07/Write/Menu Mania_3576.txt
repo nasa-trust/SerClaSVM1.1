@@ -1,0 +1,7 @@
+Restaurant search and review service
+Menu Mania
+Menumania lets you find restaurants, menus, food photos and reviews in your area. 
+
+The MenuMania Developer API is a REST API that allows you to access our extensive database of restaurant information to display within your own website or application. Using the Developer API you can interface directly with the MenuMania database and allow your site visitors or application users to search and view restaurants. Output is in XML or JSON format.
+food menus newzealand restaurants 
+Food

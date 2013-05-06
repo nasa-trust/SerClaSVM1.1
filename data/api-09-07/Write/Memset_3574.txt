@@ -1,0 +1,9 @@
+Hosting and server provider
+Memset
+Memset is a hosting/cloud service provider.
+
+The Memset API allows developers to access and integrate the functionality of Memset with other applications. Some example API methods include managing account information, retrieving server information, rebooting servers, provisioning new servers, Miniserver snapshots, server re-imaging, etc.
+
+The documentation includes examples in different languages (Java, .NET, Python, Perl, Ruby, PHP, and others).
+cloud enterprise hosting iaas Server 
+Enterprise

@@ -1,0 +1,5 @@
+Online fashion search and shopping
+ShopSense
+ShopStyle is a search engine devoted to fashion that lets users shop for clothes, shoes, jewelry, wedding dresses and more. The ShopStyle API allows client applications to retrieve the underlying data for all the basic elements of the ShopStyle websites, including products, brands, retailers, categories, and looks. The API uses RESTful protocol and responses are formatted in either XML, JSON or RSS.
+search shopping 
+Shopping

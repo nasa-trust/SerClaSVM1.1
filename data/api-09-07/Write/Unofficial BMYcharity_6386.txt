@@ -1,0 +1,5 @@
+Online giving and donations service
+Unofficial BMYcharity
+Bmycharity helps UK charities by providing online sponsorship and donation processing services. This unofficial API exposes the service&#039;s data including Donation amount, Gift Aid amount, Charity logo, Charity info, Donations (including messages, names, dates & amounts from users) and more. The API uses RESTful calls and responses are formatted in JSON.
+charity donation financial nonprofit unofficial 
+Financial

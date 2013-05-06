@@ -1,0 +1,5 @@
+Online multiplayer strategy game
+Aevum Obscurum
+The AO API allows connecting to Royal AO, a multiplayer strategy game, providing services to poll games, players, standings, news, game maps and signatures. The API includes functionality to manage games and organize leagues directly from your web site.
+games 
+Games

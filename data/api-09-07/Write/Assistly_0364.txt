@@ -1,0 +1,5 @@
+Online helpdesk tool
+Assistly
+The Assistly APIs enable you to integrate your help desk with other internal and 3rd party systems. The APIs allow you to retrieve cases for a particular customer, retrieve or update a customer�s information, and to create new interactions, cases and customer. 
+helpdesk enterprise sbweb deadpool
+Enterprise

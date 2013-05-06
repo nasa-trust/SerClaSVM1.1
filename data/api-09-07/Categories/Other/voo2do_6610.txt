@@ -1,0 +1,8 @@
+deadline 1
+management 3
+note 1
+organization 1
+project 1
+spreadsheet 2
+task 3
+tracking 1

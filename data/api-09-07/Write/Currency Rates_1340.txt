@@ -1,0 +1,5 @@
+Currency rates for 115 countries
+Currency Rates
+From their site: Currency Rates for 115 major currencies. You can perform interactive foreign exchange rate calculations, using current currency rates updated every 10 minutes (20 minute delay). Simply enter the currency you wish to convert and invoke the Web service. The rate returned will be based on a fraction of the US dollar (USD).
+finance 
+Financial

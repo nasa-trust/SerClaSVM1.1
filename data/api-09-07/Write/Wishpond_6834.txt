@@ -1,0 +1,5 @@
+Local retail search service
+Wishpond
+Wishpond is a local shopping search engine that helps users find products from nearby stores, and compare product information and prices. Merchants can use the services to reach nearby shoppers with online, mobile and social media product listings. Promote your products via Wishpond on Google, Facebook and iPhone plus receive targeted sales leads relevant to your business. The Wishpond API lets users complement their applications with all the local product information from the Wishpond database. There is no subscription or licensing fee to connect to the API.
+deadpool Inventory local retail shopping 
+Shopping

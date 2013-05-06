@@ -1,0 +1,5 @@
+SMS gateway service
+Integrity Infotech Bulk SMS
+Integrity Infotech is a provider of Internet services such as Domain Name Registration, Web Hosting, Web Design,Search Engine Optimization, Corporate Mailing, Bulk SMS Gateway, VPS Hosting, Dedicated Server Hosting, Animations, Graphics and Software Development. Their Bulk SMS service is a mobile communications and advertising system built on top of their platform. SMS messages can be sent to single or multiple groups, different SMS messages can be sent to every user in a group, delivery reports of messages sent are available online. The API can be accessed via HTTP, SMTP or SMPP. 
+bulk gateway india messaging sms 
+Messaging

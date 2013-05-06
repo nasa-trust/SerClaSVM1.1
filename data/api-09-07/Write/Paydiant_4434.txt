@@ -1,0 +1,7 @@
+Mobile payment service
+Paydiant
+Paydiant is a mobile payment service. Paydiant offers mobile payment solutions to banks, retailers, and payment processors. 
+
+The Paydiant API allows developers to access and integrate the functionality of Paydiant with other applications. The Paydiant API integrates with POS applications, mobile applications (in-app), and other payment applications. Public documentation is not available; API access comes with account service.
+bank ecommerce mobile payment 
+Payment

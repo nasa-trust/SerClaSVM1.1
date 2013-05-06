@@ -1,0 +1,5 @@
+Content sharing service
+Posterous
+Using Posterous, content can be shared anywhere online via email. Posterous provides users with personal blogs where their postings will reside. Posterous supports a wide variety of file formats, including documents, images, and media. The API allows users to read and write raw data including from users, sites, posts and pages. It uses RESTful calls and responses are formatted in JSON and JSONP.
+email photo social 
+Social

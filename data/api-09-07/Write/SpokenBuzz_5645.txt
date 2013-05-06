@@ -1,0 +1,5 @@
+Voice services portal
+SpokenBuzz
+From their site: SpokenBuzz is an innovative voice portal that gives you voicemail, call forwarding, call screening, outbound calling and many more services. Many features are free if you use the web interface to make calls. The only time you must pay is if you want a Custom inbound telephone number. You can now access our voice messaging service from our free API. Currently, we have one service available that allows you to make a request to initiate a phone call to any number and allow the recipient of the phone call to record a short voice message. We return the URL of a web-page that you can link to play back the message. You may use this link in any way that you want to enhance your service or build mashups.
+telephony 
+Telephony

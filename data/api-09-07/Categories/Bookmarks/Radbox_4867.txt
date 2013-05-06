@@ -1,0 +1,13 @@
+add 1
+bookmark 4
+bulk 1
+email 1
+functionality 1
+google 1
+reader 1
+save 2
+saving 1
+share 1
+social 1
+video 7
+watch 1

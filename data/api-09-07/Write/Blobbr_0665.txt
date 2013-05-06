@@ -1,0 +1,7 @@
+Social polling service
+Blobbr
+Blobbr is a social polling service that focuses on you and your responses rather than the aggregate results. With Blobbr, you can create and share your position and thoughts with your friends instead of just tallying up the responses and lumping you in with everyone else.
+
+The Blobbr API is RESTful, with XML or JSON responses. Some API requests require authorization using your Blobbr username and password. All POST, PUT and DELETE requests require authorization, and user-specific GET requests do as well.
+polling social 
+Social

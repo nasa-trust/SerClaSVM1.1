@@ -1,0 +1,11 @@
+Neighborhood public issue-tracking service
+Open311
+Note: This is an API standard used by many API providers. For all compatible APIs listed on ProgrammableWeb, use the [[http://www.programmableweb.com/apitag/open311 open311 tag]].
+
+Open311 allows developers to create third-party apps for citizens to report neighborhood issues from, potholes to graffiti and more, to a city&#039;s 311 system.
+
+Open311 provides an Inquiry API to retrieve information such as services, facilities, and a 311 event update. The GeoReport API is the reporting API used to submit issues to the 311 service. These APIs are RESTful. 
+
+Information for cities with Open311 can be found in the wiki.
+government mapping open311 
+Government

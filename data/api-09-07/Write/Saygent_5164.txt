@@ -1,0 +1,5 @@
+In-application feedback service
+Saygent
+Saygent is an in-application feedback service. Saygent can be integrated into mobile applications, websites, and in-store POS to gather customer feedback. 
+feedback mobile pos customer
+Other

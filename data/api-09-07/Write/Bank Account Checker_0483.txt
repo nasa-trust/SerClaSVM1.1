@@ -1,0 +1,5 @@
+Bank account verification service
+Bank Account Checker
+BankAccountChecker.com lets users verify, check and validate bank account and sortcode details. The API returns a validation code and a validation description for the UK bank account and sort code provided. It uses RESTful calls and responses are formatted in XML and JSON.
+banking security uk validation verification 
+Financial

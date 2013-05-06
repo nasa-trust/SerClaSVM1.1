@@ -1,0 +1,5 @@
+Mobile apps analytics service
+Capptain
+Capptain is a mobile apps analytics service that allows users to track and communicate with their users in real-time. Features of the service include the ability to track installs and their origins, monitoring of an app&#039;s performance, targeted push campaigns and more. The API allows developers to enable real-time app communication. It uses RESTful calls and responses are formatted in JSON. Full documentation is available with login.
+analytics application mobile tools 
+Tools

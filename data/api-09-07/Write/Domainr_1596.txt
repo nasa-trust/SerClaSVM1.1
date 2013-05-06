@@ -1,0 +1,5 @@
+Domain name search service
+Domainr
+Domainr is a tool used in searching for available domain names. Domainr has two external APIs: an HTML forms API for website integration and a JSON-based API for web services and client-side implementations written in JavaScript.
+domain internet 
+Internet

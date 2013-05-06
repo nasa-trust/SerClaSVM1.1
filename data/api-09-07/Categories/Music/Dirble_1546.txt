@@ -1,0 +1,15 @@
+call 1
+category 2
+country 2
+directory 3
+format 1
+get 1
+internet 3
+music 2
+open 1
+radio 4
+response 1
+specific 2
+station 2
+stations 2
+store 1

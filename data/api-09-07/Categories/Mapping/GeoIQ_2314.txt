@@ -1,0 +1,14 @@
+add 1
+analysis 4
+browser 1
+datum 2
+deliver 1
+dynamic 1
+heat 1
+high 1
+mapping 4
+raster 1
+resolution 1
+technology 1
+tool 1
+visualization 3

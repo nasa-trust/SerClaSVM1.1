@@ -1,0 +1,7 @@
+Mobile workforce service
+Gigwalk
+Gigwalk is a service that allows people to post &quot;gigs&quot; of collecting information using their mobile phones and instantly send the information back to the requester. People can accept gigs and get paid for collecting the information.
+
+The Gigwalk API allows developers to access the data and functionality of Gigwalk. Some example API methods include retrieving gig information, getting gig details, and getting task results.
+crowdsourcing jobs mobile 
+Job Search

@@ -1,0 +1,5 @@
+Rhode Island government information
+RI.gov Open Data
+RI.gov is the web portal for the Rhode Island State Government which provides data searches, license renewals, and more. The API provides access to datasets, calendars, weather and more, to be incorporated into third-party software and applications. The API uses RESTful calls and returns responses in XML.
+Data datasets government state 
+Government

@@ -1,0 +1,7 @@
+Create affiliate retail links
+Skimlinks
+Skimlinks is a technology that helps users monetize online content by converting normal product links from thousands of retailers into their equivalent affiliate links. 
+
+The Skimlinks API lets developers use Skimlinks in places such as in Adobe Flash Applications, mobile apps, iPhone, iPad and Android apps. Users can build links via the API inside their own application or website. Full documentation is available with registration.
+affiliate shopping 
+Shopping

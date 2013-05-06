@@ -1,0 +1,13 @@
+address 4
+format 1
+interface 1
+localize 1
+location 1
+management 1
+mapping 2
+open 1
+place 1
+response 1
+search 2
+source 1
+viewer 1

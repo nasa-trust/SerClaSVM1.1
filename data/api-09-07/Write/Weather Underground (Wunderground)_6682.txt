@@ -1,0 +1,13 @@
+Weather forecast service
+Weather Underground (Wunderground)
+Weather Underground provides real-time weather information via the Internet. Weather Underground provides weather reports for cities across the world as well as local weather reports for newspapers and Web sites. 
+
+The Weather Underground API allows developers and users to access data from Weather Underground to integrate the data and functionality into other applications. They offer a variety of plans and pricing, though most use is free. Some example API methods include accessing weather information by cities and regions, retrieving forecast information, accessing satellite images, and current conditions by location.
+
+A unique feature of this API is the Developer Dashboard.  Developers have great insight into usage and errors in real time.
+
+Over 80 languages are supported with this API.
+
+Finally, the folks at Weather Underground have come up with a cleaver way to allow for rate limit overages via a tool called Raindrops.  This gives developers a cushion to avoid denial of service errors due to spikes in API requests.  
+weather 
+Weather

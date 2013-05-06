@@ -1,0 +1,13 @@
+create 1
+datum 1
+document 1
+environment 1
+exist 1
+file 2
+integrate 1
+management 2
+multiple 1
+own 1
+promote 1
+storage 4
+system 1

@@ -1,0 +1,7 @@
+Protein name thesaurus
+ProThesaurus
+The ProThesaurus (Protein Thesaurus) API has two parts; a Biological Mark-up Service and a Biological Name Service. The Biological Mark-up Service scans text for the names or identifiers of biological objects (e.g. proteins) and marks any hits. The Biological Name Service identifies a biological object and provides its name, database identifiers, and other frequently used synonyms.
+
+BeThesaurus (Beta Thesaurus) is an extension of ProThesaurus that allows users to propose their own names and identifiers for biological objects.
+bioinformatics reference science 
+Science

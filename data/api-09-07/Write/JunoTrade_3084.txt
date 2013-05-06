@@ -1,0 +1,5 @@
+Online stock trading service
+JunoTrade
+JunoTrade is an online stock trading site that allows investors to buy stocks online for a low, flat per-trade fee. JunoTrade has an equities and options stock market API which supports order entry and quotes. Functionality of the RESTful API includes RealTime quote for a specific symbol, placing all Equity Order Types, placing all Option order Order Types and retrieving the status of an open order.
+finance stocks 
+Financial

@@ -1,0 +1,14 @@
+call 4
+click 3
+computer 1
+create 1
+gateway 1
+initialize 1
+mobile 2
+number 1
+one 1
+phone 2
+relate 1
+soap 1
+telephony 2
+voice 1

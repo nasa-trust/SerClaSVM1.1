@@ -1,0 +1,5 @@
+Earning calendar information service
+XigniteEarningsCalendar
+The Earnings Calendar web service provides corporate events and earnings calendar information for 5,000 publicly listed U.S. and Canadian companies and ADRs. XigniteEarningsCalendar provides visibility into scheduled corporate events that represent opportunities to manage risk and profit from volatility. Earnings Calendar data includes: Timing of earnings announcements, Conference call dates, times, and links, Earnings calendar with 89-day forward looking window and more. The API uses REST and SOAP calls and responses are formatted in XML.
+financial stocks 
+Financial

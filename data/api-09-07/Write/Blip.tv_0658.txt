@@ -1,0 +1,5 @@
+Video upload and sharing service
+Blip.tv
+Build apps that use blip.tv, which has features including advanced file management, transcoding, distribution services, and advertising services. 
+video 
+Video

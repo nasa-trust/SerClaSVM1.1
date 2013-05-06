@@ -1,0 +1,5 @@
+World of Warcraft community
+Blizzard Community Platform
+Blizzard is a developer and publisher of entertainment software including World of Warcraft (WoW). Blizzard allows their community of gamers to create extended communities outside of the game by exposing key sets of data. The Blizzard Community Platform API provides a number of resources for developers and Wow enthusiasts to gather data about their characters, guilds and arena teams. Users can also retrieve information about realms, gather data on current auctions and items. The API uses RESTful calls and responses are formatted in JSON.
+games social warcraft 
+Games

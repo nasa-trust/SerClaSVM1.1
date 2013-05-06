@@ -1,0 +1,16 @@
+cloud 2
+create 1
+datum 3
+document 3
+encrypt 1
+example 1
+file 9
+functionality 1
+integrate 1
+method 1
+share 1
+sharing 5
+storage 3
+store 1
+sync 2
+upload 2

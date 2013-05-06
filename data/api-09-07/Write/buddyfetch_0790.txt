@@ -1,0 +1,5 @@
+Social network search engine
+buddyfetch
+The buddyfetch API gives users access to the buddyfetch.com social/people search engine and allows them to integrate buddyfetch search in their website or software. buddyfetch is a social search engine that allows users to connect with other people on the Internet based on their occupation, hobbies, interests and more. The buddyfetch API provides the abilitity to query buddyfetch social search from external sources, websites, applications etc. It uses RESTful calls and responses are formatted in XML.
+people search social 
+Social

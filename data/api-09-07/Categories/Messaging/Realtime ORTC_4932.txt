@@ -1,0 +1,13 @@
+cloud 1
+content 2
+datum 1
+deliver 1
+devices 1
+host 1
+message 1
+messaging 4
+mobile 2
+platform 1
+real 1
+solution 1
+variety 1

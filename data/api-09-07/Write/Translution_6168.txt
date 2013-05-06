@@ -1,0 +1,9 @@
+Automated translation service
+Translution
+Translution specializes in machine and human translation services. Translution next generation translation is an automated service that is cheaper than human translation and more accurate than pure machine translation.
+
+The Translution API gives developers direct access to Translution Central and lets automated translation be integrated into any web site or application. Clients can use their own dictionaries and translation memories to aid applications such as database translation, chat translation, translation of blogs, and email translation. The API supports at least 8 languages and supports the translation of plain text, HTML, XML, Word documents and PDF documents. It uses SOAP protocol and responses are formatted in XML.
+
+Specifications can be found at http://www.translution.com/TranslutionDownloads/Softwares/CaseStudies/Translution%20API%20Technical%20Specifications.pdf
+Human language tools Translation 
+Tools

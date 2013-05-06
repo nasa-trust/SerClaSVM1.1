@@ -1,0 +1,6 @@
+Mapping layers data service
+Koordinates
+The Koordinates APIs allow users to query data hosted on Koordinates via simple HTTP requests. They are accessible to any user who has a valid login to Koordinates. The Vector Query API allows looking up a point location and getting back information from one or more Koordinates vector layers. The Raster Query API allows looking up a point location and getting back information from one or more Koordinates grid or raster layers. Responses can be formatted in XML or JSON.
+
+mapping 
+Mapping

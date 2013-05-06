@@ -1,0 +1,15 @@
+content 1
+context 1
+extract 1
+extraction 3
+large 1
+list 2
+phrase 2
+point 1
+query 3
+return 1
+supply 1
+term 2
+terms 1
+variety 1
+words 2

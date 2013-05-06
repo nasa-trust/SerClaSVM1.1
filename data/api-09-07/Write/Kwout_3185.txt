@@ -1,0 +1,5 @@
+Website quote with images tool
+Kwout
+Kwout is a tool that allows users to quote part of a webpage with an image by cutting out the area they want to quote. Kwout provides users with code to embed and share in other places. Kwout has extensions bookmarklets for a variety of browsers.
+tools internet
+Tools

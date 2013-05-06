@@ -1,0 +1,5 @@
+Internet and PSTN voice services
+Jaduka
+From their site: the Jaduka API gives developers direct access to, and all the inherent benefits of, the world's highest-quality, ubiquitous public switched telephone network (PSTN). Based on common Web standards, the API facilitates quick and easy development of virtually limitless voice-enabled business applications that can be used with any existing telephone -- wired, VoIP or wireless.
+pstn telephony Voice 
+Telephony

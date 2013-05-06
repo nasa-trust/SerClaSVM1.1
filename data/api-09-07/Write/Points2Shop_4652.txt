@@ -1,0 +1,12 @@
+Shopping Promotion Service
+Points2Shop
+Points2shop works with advertisers to offer online promotions through referrals, banner and link placements online.
+
+The Points2Shop APIs (REST & OAuth) allow users to utilize data collected by Points2Shop for presenting popular offers and testimonials. Users can also create toolbars or apps through the APIs that allow your site&#039;s users to reference their account on Points2Shop.
+
+REST API users may: access testimonials, offers for most recent offers, most popular offers, shoutbox shouts.
+OAuth API users may: access basic user information like:  points, cash, merits, access completed offers and users&#039; referrals.
+
+An application must first be created to obtain API credentials.
+coupons recommendations shopping 
+Shopping

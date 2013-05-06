@@ -1,0 +1,5 @@
+Voice over IP service
+Synergy-IPV
+Morris Communications Group provides Voice over Internet Protocol services. The Synergy-IPV is a custom built VOIP platform in which all telephone features are controllable directly from the user???s phone and computer. The Synergy-IPV API is a web driven API that allows developers to write applications that directly control a user???s station, including voicemail, button mapping, call logs, and contact management.
+telephony Voice VoIP 
+Telephony

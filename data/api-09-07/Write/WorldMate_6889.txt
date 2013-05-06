@@ -1,0 +1,7 @@
+Mobile travel itinerary service
+WorldMate
+WorldMate is a mobile travel itinerary management platform. The platform collates structured itineraries by recognizing and then parsing confirmation emails from travel providers worldwide. The itineraries are then accessible via the WorldMate web application and a mobile application.
+
+The WorldMate API allows developers to access and integrate the functionality of WorldMate with other applications and to create new applications. Some example API methods include parsing emails, retrieving traveller information, and retrieving travel provider information.
+app Itinerary mobile travel 
+Travel

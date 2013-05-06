@@ -1,0 +1,7 @@
+Image and video detection service
+Angel Eyes
+Based in China, Angel Eyes provides cloud-based, image and video recognition and analysis services. Through their services, users can precisely detect image types from a large collection of files as well as detect, in real time, video and image targets. Their services can be used to aid companies concerned with image database detection, mobile e-commerce and more.
+
+The web-based image recognition API allows developers to build third party apps and services utilizing Angel Eyes resources such as computer vision, image recognition, augmented reality, and visual search. It utilizes a REST protocol and can return results in either XML or JSON.
+cloud Detection image photos video 
+Photos

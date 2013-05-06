@@ -1,0 +1,7 @@
+Local marketing and advertising service
+ThinkNear
+ThinkNear is a marketing service for local businesses to reach out to customers and potential customers when their business is slow. With their client&#039;s input, ThinkNear identifies when their business is slow, generates an instant mobile coupon, and sends it to customers and potential customers that are nearby.
+
+The ThinkNear API allows developers to access and integrate the deals and information available with ThinkNear. Some example API methods include searching for deals by location and category, accessing offer information, and claiming deals. 
+advertising coupons deadpool marketing mobile 
+Advertising

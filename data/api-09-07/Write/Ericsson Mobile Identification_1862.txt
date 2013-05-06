@@ -1,0 +1,9 @@
+Mobile identification service
+Ericsson Mobile Identification
+The Ericsson Mobile Identification API is the latest offering from Ericsson Labs. The Mobile Identification enabler provides users with the ability to develop Identification enabled web services. The API consists of a RESTful web interface for identifying a consumer?s ID, usually the MSISDN number or an alphanumeric alias.
+
+Ericsson Labs is a concept for open innovation. The site holds APIs, resources, offerings, and various expert commentaries, produced by Ericsson. This assortment provides technologies and communities for developers and makes it easy to get in touch with a variety of experts from different fields.
+
+
+identification mobile telephony 
+Telephony

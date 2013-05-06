@@ -1,0 +1,7 @@
+Testing and debugging service
+Sauce Labs
+Web-based design, debuging, and testing tools via cloud-hosted browsers. Allows keyboard and mouse control of virtual browsers with automatic tracking, including videos and screenshots of your session. 
+
+The Sauce REST allows users to retrieve information about Sauce Labs resources programmatically over HTTP using JSON. Users can create sub-accounts, retrieve account information, retrieve job information, video replays of tests, selenium logs of tests, start and stop Sauce Connect tunnel endpoints, and more.
+BROWSER debugging internet testing 
+Internet

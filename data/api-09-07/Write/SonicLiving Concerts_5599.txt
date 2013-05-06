@@ -1,0 +1,5 @@
+Online concert listing service
+SonicLiving Concerts
+SonicLiving is a Beta API and can return dates for upcoming performances for artists. The SonicLivng API requires an API key and is available for both commercial and non-commercial use. The SonicLiving API can return events for one or many artists with a single query.
+events music 
+Music

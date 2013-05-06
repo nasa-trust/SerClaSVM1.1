@@ -1,0 +1,5 @@
+Lithuanian microblogging service
+Blake.lt
+Blake.lt is a Lithuanian social network and microblogging service. The Blake.lt API provides methods for accessing and creating member content, such as status messages, as well as account details and replies.
+blogging lithuania microblogging 
+Blogging

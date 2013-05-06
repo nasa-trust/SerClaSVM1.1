@@ -1,0 +1,13 @@
+Photo sharing and storage service
+BlueMelon
+BlueMelon is a social photo sharing, storage and printing site. The Bluemelon API opens the functionality of bluemelon.com to external applications as well as to other websites. The API provides calls allowing users to:
+
+     *upload or delete Images
+     *update the titles, the descriptions, location, et cetera
+     *create and delete Albums and Categories
+     *manage the Images within Albums, which can be managed within the Categories
+     *retrieve images either as authenticated users or as guest users
+
+The API uses RESTful calls and responses are formatted in XML.
+deadpool photo social 
+Photos

@@ -1,0 +1,36 @@
+Text and sentiment analysis service
+Semantria
+Add text analytics and sentiment analysis to your application, headache and contract free.
+
+Semantria API lets you precisely extract entities, themes, sentiment, categories, summaries, relationships, and facets out of your content through a scalable, simple to use, and pioneering API.
+
+Why Semantria:
+
+    Precise: Best of breed text analytics and sentiment analysis solution under the hood. Waste less time adjusting analytics output to your business needs.
+
+    Customizable: Unlike other text and sentiment analysis services, we provide a fully customizable analytics environment.
+
+    Pioneering: We digested all of Wikipedia and built the world???s largest semantic thesaurus. Bottom line - you always have access to the latest technology to maximize the value of your content.
+
+    Simple to use: Fully standardized JSON API with Java, .Net, Python, and PHP wrappers allow for a rapid integration and minimum time to market. Unlimited support and maintenance included.
+
+    Easy-going: You pay for what you use. No recurring fees or contracts. Keep your expenses predictable and costs low
+
+ 
+Technology:
+
+- Concept Matrix
+- Concept Topics
+- Collections Processing
+- Sentiment Analysis
+- Entity Sentiment
+- Entity Extraction
+- Context Extraction
+- Themes
+- Summarization
+- Query Topics
+- Multi-Lingual Support
+
+Founded in 2011, Semantria, LLC is a software-as-a-service and services company specializing in text and sentiment analysis in the cloud. Semantria is a joint venture, co-founded by a leading text analytics technology provider Lexalytics (Boston, MA), software development company Postindustria (Los Angeles, CA), and a demand generation consultancy DemandGen (Montreal, QC).
+analytics Data mining sentiment 
+Tools

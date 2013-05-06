@@ -1,0 +1,7 @@
+Online shopping checkout service
+UltraCart Checkout
+UltraCart is an online shopping cart and e-commerce service, providing users with the functionality to connect their sites to UltraCart&#039;s hosted platform. The UltraCart platform can be hooked up to many facets of an e-commerce business; in addition to checkout, their software integrates with payment processing, shopping carts, marketing management, shipping, and accounting systems.
+
+UtraCart has both JavaScript and SOAP-based Checkout API&#039;s, however, their SOAP services are largely undocumented as they turn users towards their JavaScript web services. The Checkout API exposes a wide range of functionality, allowing developers to programmatically interact with UltraCart&#039;s e-commerce platform. Example methods for this API include creating a cart, getting items, handing off to Google Checkout or PayPal, cart validation, and applying coupons.
+checkout payment shopping 
+Shopping

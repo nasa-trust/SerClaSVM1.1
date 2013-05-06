@@ -1,0 +1,11 @@
+atom 1
+blog 1
+customize 1
+edit 1
+embed 2
+feed 4
+look 1
+output 1
+own 1
+public 1
+widget 3

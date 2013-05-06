@@ -1,0 +1,5 @@
+University organization service
+University of Washington Groups
+Students and other members of the University of Washington community can partake in organizations and others groups with shared communications mechanisms. For example, there might be a group for part-time history faculty. The University of Washington Groups API provides developers within the UW community to administrate groups, including adding and removing members.
+education 
+Education

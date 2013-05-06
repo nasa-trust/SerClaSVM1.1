@@ -1,0 +1,7 @@
+Face-detection service
+Mugshot
+The experimental service processes images from uploaded files or URLs and performs simple face detection. It displays coordinates for faces present in the image along with a browser-viewable version of the image with faces highlighted.
+
+API methods support either uploading a file or specifying a URL along with a request to the service. Returned data include coordinates of faces within the images and URLs for viewable images with faces highlighted.
+graphics image internet photo 
+Internet

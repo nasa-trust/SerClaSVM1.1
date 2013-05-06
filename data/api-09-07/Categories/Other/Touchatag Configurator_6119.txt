@@ -1,0 +1,17 @@
+advertising 1
+cards 1
+devices 1
+enterprise 1
+fidelity 1
+format 1
+identity 3
+integrate 1
+leverage 1
+mobile 2
+payment 1
+protocol 1
+provider 1
+response 1
+rest 1
+soap 1
+wallet 1

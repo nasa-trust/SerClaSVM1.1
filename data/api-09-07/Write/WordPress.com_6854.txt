@@ -1,0 +1,7 @@
+Blogging platform
+WordPress.com
+WordPress.com is the hosted version of the popular open source blogging software. WordPress.com exposes site, post, comment, and like data via an REST Application Programming Interface (API) in a JSON format. The OAuth2 protocol is used for authentication. 
+
+The standard WordPress XML-RPC API is also supported by WordPress.com using OAuth2 and basic auth.
+blogging cms social 
+Blogging

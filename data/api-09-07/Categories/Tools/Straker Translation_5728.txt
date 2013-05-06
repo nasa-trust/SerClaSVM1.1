@@ -1,0 +1,11 @@
+content 2
+document 1
+human 3
+language 1
+process 1
+send 1
+strake 3
+streamline 1
+tool 2
+translate 1
+translation 8

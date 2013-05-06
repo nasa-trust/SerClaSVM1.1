@@ -1,0 +1,5 @@
+PostgreSQL metadata distribution service
+PGXN
+PGXN is a central distribution system for open-source PostgreSQL extension libraries. The PGXN API is an index API that distributes metadata about PostgreSQL extensions to distribution mirror sites using JSON. All mirror sites provide a set of API functions including browsing distributions by tag and user, as well as retrieving a list of mirror sites, among other information related to distributions. The central API servers are the only ones with specific functionality that includes full-text search, source viewing and accessing a list of all PGXN users.
+OpenSource programming reference 
+Other

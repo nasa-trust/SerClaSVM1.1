@@ -1,0 +1,9 @@
+Online travel comparison service
+Everbread Haystack mini
+Everbread&#039;s Haystack provides online travel agencies as well as travel meta-search websites with a highly customizable airfare shopping engine and multi-source data solution tool.
+
+The Haystack miniAPI offers a streamlined method for utilizing Haystack. You can build widgets, extensions, websites and other tools to display content from Haystack&#039;s data feeds which include low cost and traditional airline carriers.  You can also receive up to 300 free API calls per day. The miniAPI does not allow you to book results.
+
+The miniAPI utilizes a JSON-RPC protocol and returns are formatted in JSON.
+comparison search shopping travel 
+Travel

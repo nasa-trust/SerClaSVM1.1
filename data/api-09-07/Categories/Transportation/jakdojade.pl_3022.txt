@@ -1,0 +1,14 @@
+city 3
+datum 1
+direction 1
+large 1
+list 1
+mapping 1
+poland 2
+polish 2
+route 1
+schedule 1
+specific 1
+transit 4
+transportation 1
+travel 1

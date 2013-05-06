@@ -1,0 +1,5 @@
+Financial asset and client management platform 
+Blueleaf
+Blueleaf is a data solutions provider for financial institutions. They provide data management software and apps for financial advisors and their clients. Their product has features for client reporting, portfolio monitoring, and is completely scalable to each businesses??? size and needs. Their API exposes the data management and reporting functionality. Interested developers can register for the current beta version.
+CRM financial management 
+Financial

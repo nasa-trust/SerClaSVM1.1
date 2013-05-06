@@ -1,0 +1,5 @@
+Data backup and recovery
+DataLock Online Backup
+DataLock Online Backup API allows users to create, edit and delete backup accounts in real time. It also allows the creation and modification of backup sets and full statistical calls. This API, along with other automated services from DataLock allows large-scale deployment of backup solutions to multiple machines. To date, this service has been used to deploy backup to over 700 machines, completely configured and working in less than 1 minute. Full documentation is not publicly available.
+backup storage 
+Storage

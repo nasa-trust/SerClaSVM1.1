@@ -1,0 +1,14 @@
+account 2
+business 1
+collect 1
+create 1
+customer 1
+example 1
+functionality 1
+integrate 1
+invoice 3
+management 2
+method 1
+mobile 4
+payment 7
+platform 2

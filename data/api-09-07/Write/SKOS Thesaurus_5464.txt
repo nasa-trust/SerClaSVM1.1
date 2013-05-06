@@ -1,0 +1,5 @@
+Thesaurus of related concepts
+SKOS Thesaurus
+The SKOS (Simple Knowledge Organization System) Thesaurus API provided by Oak Ridge National Laboratory is a tool for organizing knowledge and concept relationships. Users can provide a concept and then retrieve other concepts that relate to it. This API can be accessed via SOAP calls using the XML data format.
+metadata reference Thesaurus 
+Reference

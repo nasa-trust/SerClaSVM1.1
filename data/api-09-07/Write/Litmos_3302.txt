@@ -1,0 +1,5 @@
+Learning Management System
+Litmos
+Litmos is an easy-to-use, SCORM-certified, learning management system. The Litmos API (Magnum) enables developers to connect their applications to the Litmos training engine. This allows for greater integration of training data generated in Litmos with any other systems that are currently used within your organization.
+education sbweb 
+Education

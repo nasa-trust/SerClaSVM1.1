@@ -1,0 +1,5 @@
+Text classification services
+uClassify
+The uClassify API allows you to classify text. You might use it to create a spam filter, categorize web pages, automate e-mail support, detect languages, classify a batch of blog posts, and more. uClassify.com was formed to share classifier technology with the masses. Classifiers are usually popular at colleges or companies, so uClassify.com is intended to help spread the word to more people. For a definition of a classifier, see the About page at uClassify.com.
+internet tools utility 
+Internet

@@ -1,0 +1,7 @@
+Dutch-language genealogy and family tree service
+Coret Genealogy Online
+The Dutch-language service provides family history and genealogy search functions, including an automated scan of available web resources for each person entry created. The scan returns potential matches for people and events to help extend a family tree and add detail for the people listed. 
+
+API methods support submission of a person&#039;s information and return matching records for people in other genealogy databases, determined by name and related details. Methods also return events matching name submissions, with location and date information, to support mapping functions.
+family genealogy search 
+Search

@@ -1,0 +1,5 @@
+Star Wars gaming forum
+ForSWOR
+ForSWOR is a forum for fants of the Star Wars: The Old Republic MMO Game. The forum allows for discussion of all aspects of the game including class, questing, crews, flash points, PVP and more. The ForSWOR server status can be accessed via an API allowing devleper to use the status data for a specific server (or all servers) in their own widgets and sites. The API uses RESTful calls and responses are formatted in XML, JSON and RSS.
+feeds forum games Server 
+Games

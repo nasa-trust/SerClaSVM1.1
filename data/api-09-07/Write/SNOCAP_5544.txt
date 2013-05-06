@@ -1,0 +1,5 @@
+Digital music marketplace
+SNOCAP
+From their site: Through the SNOCAP proprietary Digital Registry, artists and labels are empowered to easily promote and sell their music through digital retailers or through their own unique artist store. In turn, these retailers have a growing inventory, offering more music to more music fans. The MyStore Search API allows web applications to search for SNOCAP MyStores and display them on a web page. The API accepts artist names and/or track titles passed as URL parameters and returns results as an object in javascript object notation (JSON). This interface is useful for applications that wish to render MyStore storefronts on web pages based on contextual metadata matching.
+music 
+Music

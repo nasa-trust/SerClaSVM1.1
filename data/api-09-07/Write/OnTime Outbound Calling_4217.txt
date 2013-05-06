@@ -1,0 +1,5 @@
+Telephony campaigning service
+OnTime Outbound Calling
+OnTime Telecom is a telephony solutions service. Their mass communications solutions help business correspond with their audiences by voice messages or SMS. Users can prerecord greetings and send them out in group calls to an entire call list. With the SMS solution, users can plan text message based marketing campaigns. Their API exposes their outbound call making functionality. Developers can use it to design an entire voice recording-based marketing campaign, from specifying a call list to specifying the message to be played.  
+telephony tools 
+Telephony

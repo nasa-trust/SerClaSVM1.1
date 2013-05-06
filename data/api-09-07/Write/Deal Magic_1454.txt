@@ -1,0 +1,5 @@
+List of Daily Deals 
+Deal Magic
+Deal Magic is a website that compiles a list of deals for certian cities. Users can buy deals and get coupons to popular places around the city. The Deal Magic API is a RESTful API that returns an XML or RSS list of deals for a certain city.
+coupons deadpool shopping 
+Shopping

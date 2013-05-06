@@ -1,0 +1,17 @@
+account 1
+accounting 3
+come 1
+finance 2
+functionality 1
+host 1
+inventory 1
+much 1
+payable 1
+payroll 1
+product 1
+read 1
+software 2
+support 1
+tracking 1
+version 1
+write 1

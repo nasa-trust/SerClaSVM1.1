@@ -1,0 +1,16 @@
+acts 1
+bridge 1
+bring 1
+content 1
+interface 1
+location 4
+mapping 2
+mobile 2
+phone 1
+power 1
+provider 1
+simple 1
+smart 1
+talk 1
+tool 1
+two 1

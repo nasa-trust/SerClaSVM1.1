@@ -1,0 +1,7 @@
+Saudi Arabian business directory
+Daleeli Mobile
+Daleeli is a Saudi Arabian directory for all sorts of businesses and services. Visitors can look up restaurants, hotels, contractors, garden supply stores, car dealers, doctors, and more. Business information is not limited to Saudi Arabia; international businesses are represented as well.
+
+The Daleeli Mobile API allows users to integrate access to Daleeli into applications for mobile devices. The API is accessible using SOAP calls in XML format. Relevant webpages and documentation are provided in both Arabic and English.
+directory mobile reference search 
+Search

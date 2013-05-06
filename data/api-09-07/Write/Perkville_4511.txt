@@ -1,0 +1,5 @@
+Local business loyalty platform
+Perkville
+Perkville helps local businesses create loyalty programs. Businesses can sign up to create point systems for their patrons to accrue credit through a hierarchy of purchase options. Businesses can also award points to customer who refer their friends there. Businesses can chose point schemes and rewards. Patrons just need to check in with their email addresses. The Perkville API exposes perk rule scheme and allows developers to update, change, and access any information in the system. It is a RESTful API that return JSON-encoded data.
+business local loyalty marketing shopping 
+Shopping

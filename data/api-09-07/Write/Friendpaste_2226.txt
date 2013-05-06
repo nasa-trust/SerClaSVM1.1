@@ -1,0 +1,5 @@
+Fast text/code sharing service
+Friendpaste
+Friendpaste is a fast service that enables users to copy and paste a code snippet, recipe, or anything else and give the link to their friends. This allows information to be easily and quickly shared without the need for file creation, uploads, or e-mail accounts. Friendpaste&#039;s functions are accessible programmatically using RESTful calls in JSON format.
+social tools 
+Social

@@ -1,0 +1,5 @@
+Ecommerce platform for building online stores
+BigCommerce
+BigCommerce is an online ecommerce service used to power online stores. BigCommerce contains a RESTful API that allows remote retrieval of customers, orders and products via a XML web service. The API allows requests to be made to search for the above data, or retrieve a particular entry from the database for one of the supported data types.
+sbweb shopping 
+Shopping

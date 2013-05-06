@@ -1,0 +1,7 @@
+Broadcasting and sharing service
+Flipzu
+Flipzu is an application that allows users to share audio and voice content in real time. Users can make their own radio stations and broadcast concerts, parties, and conferences. Flipzu has both a web and mobile application.
+
+The Flipzu API allows users to access Flipzu&#039;s functionality for other applications. Some example API methods include broadcasting audio content and playing audio content.
+audio broadcast radio social tools 
+Tools

@@ -1,0 +1,5 @@
+URL Shortening Service
+Snipr
+Snipr is an URL shortening service. The API uses RESTful interface and returns results in XML. An API key and user login is required to use the API.
+url-shortener 
+Internet

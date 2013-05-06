@@ -1,0 +1,20 @@
+eCommerce software
+UniteU Retail
+UniteU Technologies is an e-commerce provider. Its Retail API provides an open integration path for merchants and 3rd developers to connect to the UniteU Connected Commerce platform.
+
+The Retail API enables the integration of back-office and retail management systems with UniteU. It can be used to add on to any of the existing retail management and POS integrations that UniteU offers as off-the-shelf solutions along with providing custom integration paths for systems not currently available as off-the-shelf solutions from UniteU.
+
+UniteU???s Retail API supports the following data:
+
+??? Catalog (products, departments, variants, searchable attributes, update inventory, cross promotions, site maps)
+??? Asset Management (images, multimedia, PDFs???)
+??? Reviews and Ratings
+??? Content
+??? Shoppers
+??? Shopping Cart (wish-lists, ship-to/bill-to info, comments)
+??? Checkout (shipping rates, taxes, promotions, payment options, secure purchase, gift wrap options)
+??? Orders
+
+Full documentation is not publicly available. 
+retail shopping 
+Retail

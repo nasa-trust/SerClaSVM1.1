@@ -1,0 +1,16 @@
+being 1
+city 2
+coupon 1
+current 1
+deal 2
+doe 1
+free 1
+get 1
+listing 1
+local 3
+look 1
+require 1
+shopping 2
+sign 1
+simple 1
+up 2

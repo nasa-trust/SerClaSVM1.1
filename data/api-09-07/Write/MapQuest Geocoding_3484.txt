@@ -1,0 +1,5 @@
+Forward and Reverse Geocoding Service
+MapQuest Geocoding
+The Geocoding API allows you to find the coordinates (latitude/longitude) of a location based on the address provided. Additional features include reverse geocoding, batch geocoding, viewport biasing, thumbnail images, and more.  Requests can be submitted as key-value pairs, JSON, and XML.
+geocoding mapping 
+Mapping

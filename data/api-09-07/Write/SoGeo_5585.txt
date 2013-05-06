@@ -1,0 +1,8 @@
+Location aware business platform
+SoGeo
+The SoGeo Services API provides a set of tools to create location-based social-media applications. The API interacts with the SoGeo platform, providing access to SoGeo???s database of worldwide POI, as well as deep integration with 3rd-party services such as Facebook, Gowalla, and Foursquare. SoGeo provides a platform for mobile and web, enabling businesses to create location-aware communities around their brands, products and services.
+
+Developers can use the API to create applications for their users to explore cities and discover interesting places, track checkin/checkout behavior and popular locations, make personal maps of their favorite spots, and share their maps and spots with friends and the SoGeo community. The API uses RESTful protocol and responses are formatted in JSON.
+
+local location mapping mobile places social 
+Social

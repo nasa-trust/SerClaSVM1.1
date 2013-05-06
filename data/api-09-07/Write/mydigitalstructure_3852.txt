@@ -1,0 +1,7 @@
+Web application building service
+mydigitalstructure
+mydigitalstructure is a web application building service. mydigitalstructure provides backend-as-a-service for websites and web applications. 
+
+The mydigitalstructure API allows developers to access the functionality and methods of mydigitalstructure. The API includes over 500 methods, ranging from managing contacts through to full accounting functionality.
+application backend 
+Backend

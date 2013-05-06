@@ -1,0 +1,5 @@
+Wholesale stock tracking service
+UsefulBytes Stock Service
+The Stock Service is targeted to the wholesale business field and helps wholesale suppliers track in-stock SKUs, collect orders from verified buyers and integrate stock management with other business processes. UsefulBytes is a software development company specializing in running the cloud services for small business owners. The Stock Service API is currently in private beta.
+deadpool enterprise 
+Enterprise

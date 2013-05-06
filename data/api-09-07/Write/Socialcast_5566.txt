@@ -1,0 +1,5 @@
+Aggregated collaboration service
+Socialcast
+Socialcast provides enterprise collaboration software as a service. Called Reach, it &quot;breaks down silos and boosts productivity by connecting people across the enterprise through the business systems they use every day,&quot; according to the company. The Socialcast API provides programmatic access to Reach features, including users, groups, streams, messages, comments and even &quot;likes.&quot;
+collaboration enterprise 
+Enterprise

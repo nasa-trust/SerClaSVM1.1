@@ -1,0 +1,5 @@
+Education technology mapping service
+olpcMAP
+olpcMAP provides a free, publicly-available, and publicly-editable global map of locations where education technology is in use. This resource makes it easier for educators and volunteers to connect with nearby technology projects. The olpcMAP API allows users to insert maps of technology education projects on their own sites at various levels of detail, geographic scope, and complexity.
+education mapping networking technology 
+Mapping

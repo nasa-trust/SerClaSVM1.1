@@ -1,0 +1,7 @@
+Online survey and questionnaire service
+Survey Analytics
+The service provides tools for creating and presenting surveys and questionnaires online, then compiling and analyzing results in compliance with the organization&#039;s data-warehousing strategy. It helps marketers and customer service operations to gather feedback from customers and others who interact with a resource. Tools for analyzing collected data contribute to marketing research and related company programs.
+
+API methods support creating a survey and deploying it to the target user community, including email address assignment and management of user groups. Methods also support retrieval of survey response data as comma-separated values (CSV) for further analysis.
+enterprise feedback questions survey 
+Enterprise

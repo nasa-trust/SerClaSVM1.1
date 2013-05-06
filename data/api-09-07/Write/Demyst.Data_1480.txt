@@ -1,0 +1,5 @@
+Customer data analysis for financial services
+Demyst.Data
+Demyst.Data is a customer analysis service for financial institutions. Their products gather information about patrons from their online behavior and social presence. This is done through customizable APIs that allow users to monitor and update different datasets. This also allows clients to segment their datasets by choice parameters. The APIs they offer include Prediction, Aggregation, Production APIs, and more. Their services are still in beta.
+analytics Data financial tools 
+Financial

@@ -1,0 +1,7 @@
+Professional translation workflow service
+Translated.net
+The service provides job submission and tracking tools for professional translation of texts submitted and returned with new versions in preferred languages. The workflow manager helps to expedite and track orders, and administrative functions include consolidated monthly invoices.
+
+API methods support submission of a request for quotation specifying the word count of the text passage to be translated, its original language, and the language for the translation. The API returns a price in Euro and a delivery date for the requested human translation. Methods also allow confirmation of the job, retrieval of the completed translation, and requests for machine translations. Administrative methods allow queries for job status, outstanding account balance, and related information.
+language localization reference Translation 
+Reference

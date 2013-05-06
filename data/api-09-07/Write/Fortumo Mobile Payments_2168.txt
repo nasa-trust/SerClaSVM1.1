@@ -1,0 +1,8 @@
+Mobile payment platform
+Fortumo Mobile Payments
+Fortumo is an open mobile payment platform, currently operating in 58 countries worldwide. Fortumo&#039;s SMS-connectivity/mobile payments API enables developers to easily integrate mobile payments with any app, game or web-service. It uses RESTful protocol and responses are formatted in XML.
+
+
+
+asia-pacific billing mobile payment sms telephony 
+Payment

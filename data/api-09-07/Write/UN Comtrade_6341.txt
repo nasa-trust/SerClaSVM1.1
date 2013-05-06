@@ -1,0 +1,5 @@
+United Nations Commodity Trade Statistics Database
+UN Comtrade
+UN COMTRADE is the name for the United Nations Commodity Trade Statistics Database. The database contains annual international trade statistics from over 170 countries, detailed by commodities and partner countries. Currently the database contains over 1.7 billion data records for 45 years. The API allows users to query the database filtering on parameters including Commodity Classification, Reporter, Year, Commodity Code, Partner Country and Trade Flow. The API uses RESTful calls and responses are formatted in XML and SDMX.
+database government 
+Government

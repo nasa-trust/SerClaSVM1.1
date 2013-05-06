@@ -1,0 +1,5 @@
+Business publication search service
+LexisNexis Library Express
+LexisNexis Public Library Express allows users to search for and access over 10,000 full-text news, business, and legal publications. The service, used by public libraries, includes deep backfiles and the latest stories in national and regional newspapers, wire services, broadcast transcripts, international news, and non-English language sources. The RESTful API lets users create permanent links to search forms, sources, and documents stored within the service. 
+library research search
+Search

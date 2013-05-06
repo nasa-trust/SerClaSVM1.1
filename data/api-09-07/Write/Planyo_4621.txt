@@ -1,0 +1,5 @@
+Online reservation service
+Planyo
+Planyo is a flexible online booking system for resources such as hotels, holiday apartments, yacht rentals, driving schools, tennis courts, doctor appointments, events etc. The Planyo API lets users perform advanced functions and automate the Planyo reservation system (e.g. import resource data and photos into your site, make automated reservations). Planyo is available in 13 languages and helps users manage clients&#039; bookings by handling all email communication with the clients, allowing various booking confirmation mechanisms, handling payments (also online credit card payments with PayPal or Moneybookers), printing invoices etc. The API uses RESTful protocol and responses are formatted in JSON.
+booking hotel reservation travel 
+Travel

@@ -1,0 +1,7 @@
+Service provider online solution service
+serviceminder 
+serviceminder provides solutions for service provider businesses. serviceminder features include calendars, service reminders, service history tracking, Quickbooks integration, and online payments and invoicing for small service provider businesses.
+
+The serviceminder API allows developers to access and integrate the data and functionality of serviceminder with other applications. Some example API methods include retrieving service information, accessing contact information, and accessing information about service appointments.
+CRM enterprise invoicing smallbusiness 
+Enterprise

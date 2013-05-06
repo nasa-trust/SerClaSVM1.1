@@ -1,0 +1,5 @@
+Self-service advertising platform for the Rubicon Project
+MyAds
+The MyAds API allows users to develop applications that create and manage their MyAds advertising campaigns. Through the API users can gain access to campaigns, accounts, performance and more.MyAds is a self service ad platform that lets users build and customize ads to reach new customers. The API uses SOAP protocol and responses are formatted in XML.
+advertising sem 
+Advertising

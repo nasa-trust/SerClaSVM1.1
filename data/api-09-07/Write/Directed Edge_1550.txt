@@ -1,0 +1,5 @@
+Content linking services
+Directed Edge
+Use the Directed Edge API to locate connections among a collection of items. With Directed Edge, you can help your users find interesting information, good music, cool people, and exciting events. If you run an online store, Directed Edge has a recommendation engine that can help you sell more products. If you have an information site, Directed Edge can help make navigation easier. Use the API to get a dump of all items in the database, including links and tags for each item. Or get 20 related items, sorted by relevance.
+internet recommendations social 
+Social

@@ -1,0 +1,5 @@
+DNA microarray experiment minimal subset calculator
+OligoSelection
+The OligoSelection API was created to help minimize the cost of DNA microarray experiments, which are used to determine the presence or absence of specific biological units in DNA. The API minimizes experimental cost by calculating the lowest possible number of probes that still allow researchers to obtain the explicit coding being sought. The OligoSelection API is made available via the SOAP protocol.
+bioinformatics genetics science 
+Science

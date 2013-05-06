@@ -1,0 +1,5 @@
+Two-way SMS service
+BlueVia SMS
+Send and receive SMS messages with the BlueVia SMS API. BlueVia is a developer initiative from communications company Telef???nica. The SMS API helps you include two-way SMS functionality in your applications. To receive messages, you register a keyword with one of the BlueVia short codes (which differ by country). Free SMS credits are available for testing.
+argentina chile colombia mexico sms telephony 
+Telephony

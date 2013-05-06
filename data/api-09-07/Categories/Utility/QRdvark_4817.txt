@@ -1,0 +1,8 @@
+android 1
+functionality 1
+own 1
+party 1
+phone 1
+scanning 3
+third 1
+utility 2

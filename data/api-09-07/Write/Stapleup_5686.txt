@@ -1,0 +1,5 @@
+Social marketing service
+Stapleup
+Stapleup is a social marketing service. They provide interactive marketing apps, such as a shopping cart and sweepstakes, for brands and businesses to deploy via users??? social networks. Stapleup also provides a dashboard for managing these apps, and reporting capability for tracking their use. Their REST-based API allows developers to integrate the marketing apps on their own websites. It returns JSON-encoded data. 
+business deadpool marketing social 
+Social

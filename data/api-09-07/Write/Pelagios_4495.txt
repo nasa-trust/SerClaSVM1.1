@@ -1,0 +1,5 @@
+Ancient world geodata
+Pelagios
+PELAGIOS (acronym for: Pelagios: Enable Linked Ancient Geodata In Open Systems) is an open data initiative for geodata about the ancient world. The data and cooperative is based on a consortium of ancient world studies institutions such as Google Ancient Places, Perseus Digital Library, and LUCERO. Their API exposes the database function. It is an HTTP API that returns JSON, JSONP, and XML formatted responses. 
+geocoding Data geography history mapping
+Mapping

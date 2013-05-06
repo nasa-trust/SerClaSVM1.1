@@ -1,0 +1,5 @@
+Mobile number lookup service
+txtNation HLR Number Lookup
+txtNation is a Mobile Billing and SMS Messaging provider. The txtNation Gateway HLR Mobile Number lookup platform enables companies to retrieve accurate and efficient network information directly from the GSM network in real time. The API provides access to the platform&#039;s functionality allowing developer to build various applications. Examples of functionality provided by the API include validating the integrity of mobile subscribers in a database, optimizing message and call-routing by directing SMS messages to the correct network and preventing fraud by implementing ID verification.
+lookup mobile security telephony validation verification 
+Telephony

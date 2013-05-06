@@ -1,0 +1,16 @@
+address 3
+book 3
+calendar 4
+case 1
+contact 3
+device 1
+hardware 1
+item 2
+mobile 3
+part 1
+phone 1
+store 1
+suite 1
+telephony 1
+underlie 1
+widget 1

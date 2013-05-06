@@ -1,0 +1,7 @@
+Photo sharing and poll service
+Photopoll
+Photopoll is an application that allows users to take and share photos for instant feedback from their friends and followers. Users can take photos, customize them, share them with their friends, and poll their friends for their feedback.
+
+The Photopoll API allows developers to access and integrate the functionality of Photopoll to build other applications. Some example API methods include listing and creating polls, accessing votes on polls, listing friends and users, and creating and showing comments.
+deadpool mobile photo poll social 
+Photos

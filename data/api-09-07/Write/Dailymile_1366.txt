@@ -1,0 +1,5 @@
+The Social Workout Platform
+Dailymile
+Dailymile is a &quot;a social training log for runners, triathletes, and cyclists&quot; that lets users create posts about their workouts, map workout routes, and compete with other users. Dailymile provides a RESTful API that lets developers access Dailymile data in their own applications.
+social sports 
+Sports

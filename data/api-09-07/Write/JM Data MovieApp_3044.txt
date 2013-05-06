@@ -1,0 +1,5 @@
+Movie information and rental service
+JM Data MovieApp
+JM Data Services specializes in products for retailers of rental movies and maintains a large database of movie information. It also provides the MovieApp API, which allows users to search for movies, retrieve information about them, check their availability at specific stores, and even reserve movies online. The API provides other functions as well, such as allowing users to maintain a list of favorite movies or find nearby stores.
+movie norway retail video 
+Video

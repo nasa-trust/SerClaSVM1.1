@@ -1,0 +1,17 @@
+archive 1
+copyright 1
+education 1
+journal 1
+maintain 1
+open 1
+policy 1
+publisher 1
+publishing 1
+reference 1
+repository 1
+research 2
+romeo 2
+sherpa 3
+support 1
+trust 1
+university 1

@@ -1,0 +1,5 @@
+SMS messaging service
+Taykt
+The Taykt API allows developers to control your Taykt account, including changing message content, viewing activity, creating new messages, and dynamically responding to an SMS message on their own applications.
+messaging sms telephony uk 
+Messaging

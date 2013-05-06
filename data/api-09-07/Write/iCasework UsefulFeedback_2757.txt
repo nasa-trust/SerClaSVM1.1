@@ -1,0 +1,5 @@
+Customer support and contact tracking service
+iCasework UsefulFeedback
+The service performs customer service functions of accepting and logging inquiries and contacts, then tracking responses and resolutions. It allows applications to create "cases" with documentation of those involved, their concerns or comments, and responses intended to resolve those concerns.
+enterprise customer-service contacts
+Enterprise

@@ -1,0 +1,5 @@
+Web-based text messaging service
+Dotgo
+Dotgo is a mobile publishing technology. It is a markup language for creating custom text messaging services. Users can create messages, keywords, schedules, and more to automate text-messaging communications with their audience. The API exposes integrative functions of the service, allowing developers to connect Dotgo???s publishing technologies with business???s content management systems, web sites, and more. It is a RESTful API that returns XML-encoded data. 
+internet messaging sms social 
+Messaging

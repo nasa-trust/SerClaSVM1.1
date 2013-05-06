@@ -1,0 +1,7 @@
+bulk 1
+email 1
+india 1
+messaging 4
+sm 6
+two 1
+way 1

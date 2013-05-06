@@ -1,0 +1,7 @@
+College search service
+MatchCollege
+The service provides information about U.S. colleges and universities. It allows search and results filtering by state, degree sought, careers supported, and other criteria. Results provide information about admissions requirements, tuition and financial aid available, housing choices, and more. 
+
+API methods support submission of a search query specifying a location by ZIP code, city, and state. Results returned include institution name, location by latitude and longitude, address, contact options such as phone and web URL, degree programs available, average class size, and funding options.
+college education search 
+Education

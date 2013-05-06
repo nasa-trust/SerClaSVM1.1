@@ -1,0 +1,5 @@
+Personal finance management and community
+Wesabe
+From their site: The Wesabe API is designed for people who want to develop tools that work with financial data uploaded to the Wesabe site. The API allows you to get access to any bank data uploaded to a user account, and includes methods to access that data by account, date range, tag, merchant, or search query. The current API allows developers programmatic access to data for a single, authenticated user (that is, aggregate, anonymous data access is not yet supported).
+deadpool money social 
+Financial

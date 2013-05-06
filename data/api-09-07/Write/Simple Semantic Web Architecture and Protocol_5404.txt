@@ -1,0 +1,9 @@
+Botanical semantic web conversion service
+Simple Semantic Web Architecture and Protocol
+The National Science Foundation, in conjunction with the University of Arizona, has made available the Simple Semantic Web Architecture and Protocol (SSWAP), an architectural protocol for semantic web services. 
+
+The SSWAP HTTP API exposes a set of URL&#039;s that can be used to convert JSON formatted text files into SSWQP OWL (a web ontology standard) Resource Description Framework (RDF) XML graphs. This functionality is intended to address the gap between the more common, non-semantic JSON format and a semantic, SSWAP-compliant document.
+
+SSWAP is based on a Provider Description Graph (PDG), which is a human-readable, machine-parsable description of a provider of one or more semantic web services. Each service describes itself with a Resource Description Graph (RDG), invoked with a Resource Invocation Graph (RIG), and returned in a Resource Response Graph (RRG). Resources can be semantically discovered by sending a Discovery server a Resource Query Graph (RQG). All graphs, which are RDF-XML documents, follow this structural flow according to the SSWAP protocol. These graphs allow the semantic description of third-party idiosyncratic data and services using OWL semantic standards.
+science semantic tools 
+Tools

@@ -1,0 +1,5 @@
+Cloud based data archiving and backup
+Amazon Glacier
+Amazon Glacier is a cloud based storage service that is optimized for data archiving and backup. The service is meant for data that is infrequently accessed and for which retrieval times of several hours are suitable. Amazon Glacier functionality is available via an API. With the API users can create vaults to organize the archives uploaded to Glacier, upload and retrieve archives, monitor the status of Amazon Glacier jobs and configure a vault to send a notification via the Amazon Simple Notification Service (Amazon SNS) when a job is complete. The API uses RESTful calls and responses are formatted in JSON.
+backup Data storage 
+Storage

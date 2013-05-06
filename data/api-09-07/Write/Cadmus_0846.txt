@@ -1,0 +1,5 @@
+Social media stream management service
+Cadmus
+Cadmus is a real-time service that manages your stream (Twitter, FriendFeed and RSS) by displaying the most relevant content since the last time you checked in. It helps you get caught up on what you have missed. You can access Cadmus simply by signing in using your Twitter account or by using the API that allows you to view your filtered stream anywhere.
+rss social Twitter 
+Social

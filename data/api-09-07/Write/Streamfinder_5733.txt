@@ -1,0 +1,7 @@
+Streaming radio station directory
+Streamfinder
+Streamfinder is an online directory for users to find streaming radio stations from all over the world. Users can search the directory by keyword, genre, and artist name. Users can also save their favorite stations in their profile.
+
+The Streamfinder API allows developers to access and integrate the data and functionality of Streamfinder into other applications and services. Some example API methods include searching radio stations by genre, country, and keywords, listing top radio stations by genre, and retrieving radio station information.
+directory music radio search 
+Music

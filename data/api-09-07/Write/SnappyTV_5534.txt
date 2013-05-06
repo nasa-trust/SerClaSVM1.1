@@ -1,0 +1,7 @@
+Real-time video and social media advertising platform
+SnappyTV
+SnappyTV is a platform that allows companies and organizations to create and push real-time social media advertising based on what is happening on TV, such as prime time shows, sports events, and breaking news. 
+
+The SnappyTV API allows developers to access and integrate the functionality of SnappyTV with other applications and to create other applications. Some example API methods include integrating video features in applications and creating real-time clips. Public documentation is not available; interested developers should email contact@snappytv.com for more information.
+advertising deadpool entertainment realtime social television 
+Advertising

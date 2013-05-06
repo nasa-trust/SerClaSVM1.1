@@ -1,0 +1,14 @@
+analysis 1
+datum 1
+encyclopedia 1
+expose 1
+free 1
+interface 1
+latest 1
+parse 1
+rest 1
+so 2
+soap 1
+subscription 1
+text 1
+week 1

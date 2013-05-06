@@ -1,0 +1,12 @@
+administration 1
+agent 4
+consumer 1
+estate 2
+find 2
+free 1
+integration 1
+mobile 1
+professional 1
+real 2
+realtor 1
+zero 1

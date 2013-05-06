@@ -1,0 +1,13 @@
+add 1
+buyer 1
+datum 1
+engine 1
+estate 5
+home 1
+listing 1
+local 1
+market 1
+real 5
+sale 1
+search 3
+trend 2

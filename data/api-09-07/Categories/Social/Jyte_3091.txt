@@ -1,0 +1,15 @@
+add 1
+anything 1
+build 1
+claim 1
+community 1
+contact 1
+create 1
+down 1
+group 1
+people 1
+reputation 1
+social 2
+up 1
+vote 2
+voting 2

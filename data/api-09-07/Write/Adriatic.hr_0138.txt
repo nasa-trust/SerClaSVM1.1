@@ -1,0 +1,5 @@
+Croatian travel accommodations service
+Adriatic.hr
+Adriatic.hr is a leading online travel agency based in Croatia. The Adriatic.hr API allows communication between the Adriatic.hr web site and developer sites and applications. Functionality includes searching private accommodations, searching guest comments, retrieving data on houses and accommodations and more. It uses RESTful calls and responses are formatted in XML.
+croatia travel 
+Travel

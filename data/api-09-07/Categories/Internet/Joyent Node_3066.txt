@@ -1,0 +1,13 @@
+cloud 4
+company 1
+computing 2
+format 1
+host 1
+internet 2
+manage 1
+node 2
+protocol 1
+response 1
+server 2
+side 1
+software 2

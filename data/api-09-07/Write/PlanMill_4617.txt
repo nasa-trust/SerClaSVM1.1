@@ -1,0 +1,5 @@
+Cloud based business management system
+PlanMill
+Planmill offers cloud based CRM, ERP, PROJECT and PSA. The Planmill API lets developers exchange information between third party applications and Planmill. Examples of applications that can be integrated with Planmill include accounting, CMS and store and social media apps. The API gives users access to the most common functionality of the service. It uses RESTful calls and responses are formatted in JSON. Full documentation is not publicly available.
+cloud CRM enterprise ERP management 
+Enterprise

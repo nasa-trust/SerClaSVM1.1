@@ -1,0 +1,7 @@
+Financial legal compliance service
+OFAC Analyzer
+The service implements a search against records of the U.S. Office of Foreign Asset Compliance (OFAC) to verify customer compliance with regulations on international transfers of currency and other financial assets. Applications can integrate this essential check into financial transaction processing to guard against accidental complicity in prohibited transactions.
+
+API methods support submission of properly formatted name and address queries to the U.S. government database. Returned data include customer listing and status in OFAC records, allowing applications to catch and prevent processing of risky transactions.
+financial government legal 
+Financial

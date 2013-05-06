@@ -1,0 +1,6 @@
+Cloud Computing Database Service
+Database.com
+Database.com is a database service in the cloud. It&#039;s services include database tools, file storage, a social data model, identification and authentication, and a developer API. With the Database.com API, developers can create their own applications in a variety of languages for a variety of platforms including mobile, social, web, and desktop.
+
+cloud database 
+Database

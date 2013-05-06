@@ -1,0 +1,5 @@
+Music events services
+GigJunkie
+GigJunkie API has simple queries to enable powerful concert searches with a range of filters including geolocation, genre and date ranges. You can also query for hot artists or events in a specific location. The data is returned in either XML or JSON so can be easily integrated with your site or application.
+deadpool events music 
+Music

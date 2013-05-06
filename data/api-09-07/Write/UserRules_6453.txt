@@ -1,0 +1,7 @@
+Customer feedback platform
+UserRules
+UserRules is a customer feedback application. UserRules provides a platform for companies to use to gather customer feedback on products and services. Users of UserRules can manage their customer feedback.
+
+The UserRules API allows developers to access and integrate the functionality and data of UserRules with other applications. Some example API methods include managing user sign on, managing domains, and installing a feedback widget.
+customer enterprise feedback project-management 
+Enterprise

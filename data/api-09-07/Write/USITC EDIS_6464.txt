@@ -1,0 +1,7 @@
+U.S. trade document handling service
+USITC EDIS
+The web service from the U.S. International Trade Commission provides access to documents held by the commission in relation to any investigations of exports and imports crossing the U.S. border. The service also supports online submissions of customers documentation. The information retrieved helps with tracking and reviewing customs activities.
+
+API methods return a list of investigations, information about a specific investigation, and metadata about submitted documents.
+documents Exports government Imports international 
+Government

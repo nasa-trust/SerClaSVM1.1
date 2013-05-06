@@ -1,0 +1,5 @@
+IP address location service
+RestFul Web Services GeoIP
+An Internet Protocol (IP) address is the numerical label assigned to devices using the Internet Protocol for communication. It serves two principal functions: identification of host or network interfaces and addressing of interface locations. The RestFul Web Services GeoIP API provides location details for a given IP address. This service can be accessed using SOAP or REST calls in XML format. Calls in both formats are directed toward WSDL endpoints.
+internet location reference tools 
+Internet

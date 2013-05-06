@@ -1,0 +1,5 @@
+Online storage provider
+Dropbox
+Dropbox is a storage service that syncs files online and across your computers via installed software. The API allows read/write access to the same files, piggybacking on Dropbox&#039;s file synchronization and storage.
+sharing storage 
+Storage

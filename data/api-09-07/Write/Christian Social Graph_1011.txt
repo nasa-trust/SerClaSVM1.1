@@ -1,0 +1,7 @@
+Christian volunteer opportunities directory
+Christian Social Graph
+ChristianVolunteering.org is a directory of Christian volunteer opportunities in a variety of locations and from various ministries. 
+
+The Christian Social Graph API from ChristianVolunteering.org allows developers to produce RSS, JSON, XML, and CSV outputs from the ChristianVolunteering.org directory of Christian volunteer opportunities. 
+bible jobs nonprofit religion Volunteer 
+Search

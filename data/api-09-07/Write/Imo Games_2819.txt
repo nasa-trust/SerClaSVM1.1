@@ -1,0 +1,5 @@
+Chat and instant messaging service
+Imo Games
+Imo.im is a web-based service that allows users to hold text, voice, and video chats on multiple instant messaging protocols. Currently supported protocols include MSN, Skype, Yahoo Messenger, Google Talk, Facebook, AIM/ICQ, Jabber, MySpace, Hyves, VKontakte and Steam. Some of the features of imo include linking all of a users instant messaging accounts, creating a network, group chatting, searchable chat history and much more. imo???s Game API allows developers to share their games with over one million users on imo???s platform. The API uses RESTful calls and responses are formatted in JSON.
+chat messaging 
+Chat

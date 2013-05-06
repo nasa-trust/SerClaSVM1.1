@@ -1,0 +1,13 @@
+eBay Search service
+eBay
+eBay&#039;s primary web services are found in the three following API&#039;s:
+
+The [[http://www.programmableweb.com/api/ebay-trading Trading API]] is designed to provide robust support for transactional activities. The services offered by the Trading API allow developers to list items, manage user information, get item information, and manage eBay sales and purchases.
+
+The [[http://www.programmableweb.com/api/ebay-shopping Shopping API]] is a more lightweight service that is optimized for buyer shopping and browsing. The Shopping API lets users take searches off of eBay and put them into their own site or application. This API is designed for the creation of buying applications with very fast response times.
+
+The [[http://www.programmableweb.com/api/ebay-finding Finding API]] is eBay&#039;s next generation search API. The Finding API provides more relevant search results compared to existing search API&#039;s and has an array of search refinement capabilities. Developers can leverage the Finding API to integrate more robust searching and browsing experiences into their buying applications.
+
+Note: As of October 2011, eBay has deprecated the GetSearchResults and GetCategoryListings services from the Trading API, and the FindItemsAdvanced and FindItems services from the Shopping API. This functionality has been migrated to the Finding API.
+auction search shopping 
+Search

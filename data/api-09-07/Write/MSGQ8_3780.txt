@@ -1,0 +1,5 @@
+SMS messaging service for Kuwait
+MSGQ8
+This API lets users check their balance and send SMS messages. The service can be integrated into other applications. The API uses SOAP calls and responses are formatted in XML. The site is in Arabic and documentation is extremely limited.
+kuwait messaging sms 
+Messaging

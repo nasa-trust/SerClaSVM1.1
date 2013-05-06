@@ -1,0 +1,5 @@
+Content analysis service
+Amplify
+Amplify is a web service developed by Hapax that brings human understanding to content. Using patented Natural Language Processing technology, Amplify reads and understands every word used in text. It identifies the significant topics, brands, people, perspectives, emotions, actions and timescales and presents the findings in an actionable XML structure.
+NLP semantic tagging 
+Internet

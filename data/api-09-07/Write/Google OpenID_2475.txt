@@ -1,0 +1,5 @@
+OpenID login for Google account users
+Google OpenID
+The Google OpenID API lets third-party web sites and applications let visitors sign in using their Google user accounts. The OpenID standard allows users to nor have to set up separate login accounts for different web sites, and conversely, frees web site developers from the task of managing login information and security measures. OpenID achieves this goal by providing a framework in which users can establish an account with an OpenID provider, such as Google, and use that account to sign into any web site that accepts OpenIDs. This page describes how to enable a web site or application to accept a Google user account for federated login.
+identity OpenID security 
+Security

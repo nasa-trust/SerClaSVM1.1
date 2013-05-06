@@ -1,0 +1,5 @@
+Social location based service
+Dokiru
+Dokiru is a location-based service that helps users discover new things to do, meet people with similar interests and share photos. Using a RESTful format, the Dokiru API allows users to interact with the service. The API supports OAuth and HTTP Basic Authentication and requires an API key. Responses are formatted in JSON.
+deadpool local location mobile social 
+Social

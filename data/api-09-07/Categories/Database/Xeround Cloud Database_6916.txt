@@ -1,0 +1,14 @@
+amazon 1
+build 1
+cloud 8
+company 1
+exist 1
+integrate 1
+management 2
+own 1
+register 1
+rest 1
+server 1
+soap 1
+software 1
+store 1

@@ -1,0 +1,16 @@
+Application development tools
+Temboo
+Temboo helps developers by providing tools that simplify app development. These tools include code shortcuts that can be dragged and dropped into a developers own code via a visual interface. The code shortcuts, called Choreos allow for API integration by handling authentication, credential management, updates, and more. Currently Temboo has a library of Choreos for over 70 APIs.
+
+The Temboo REST API lets users perform CRUD operations with methods that allow users to:
+
+* Retrieve a list of Choreos that can be run
+* Retrieve detailed information, such as inputs, status, and description data for a specific Choreo
+* Run a Choreo, optionally providing input values to use in that execution
+* Retrieve the list of currently running Choreo executions
+* Retrieve the status of a Choreo that has been executed via the API
+* Terminate a currently running Choreo execution
+
+The API uses RESTful calls and responses are formatted in XML.
+application backend development programming 
+Backend

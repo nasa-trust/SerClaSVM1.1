@@ -1,0 +1,12 @@
+category 1
+compile 1
+economy 1
+federal 1
+finance 2
+give 1
+list 1
+money 1
+reserve 1
+search 1
+statistics 3
+topic 1

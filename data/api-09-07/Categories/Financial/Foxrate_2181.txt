@@ -1,0 +1,9 @@
+amount 2
+choice 1
+currency 4
+equivalent 1
+exchange 2
+finance 2
+rates 1
+return 1
+submit 1

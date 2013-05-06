@@ -1,0 +1,7 @@
+Community-specific news and information service
+Patch
+Patch is a community-specific news and information platform that aims to provide local coverage for individual towns and communities. The Patch API lets developers integrate the same hyperlocal content into their sites and applications.
+
+The API accepts location based information of U.S. neighborhoods, ZIP codes, cities, or states into their Stories Query Resource, and returns locally relevant aggregated content from over 60,000 other sources in JSON format.
+community hyperlocal information local news 
+News

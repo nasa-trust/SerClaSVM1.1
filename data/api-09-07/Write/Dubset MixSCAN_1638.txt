@@ -1,0 +1,6 @@
+Streaming music scanner
+Dubset MixSCAN
+MixSCAN is a music fingerprinting service provided by Thefuture.fm. It allows DJs to stream live mixes legally by identifying each song and attributing the correct authorship and rights. The API is a RESTful and job-based, meaning it provides a small packet of metadata before scanning the mix, and then stays open for further pinging as the mix plays. It provides responses in JSON. 
+
+music playlists sharing streaming 
+Music

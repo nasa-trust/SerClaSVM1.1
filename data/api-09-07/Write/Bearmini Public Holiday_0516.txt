@@ -1,0 +1,5 @@
+Japanese public holiday reference service
+Bearmini Public Holiday
+Bearmini Public Holiday is a web service that provides information on holidays in Japan. It can be used to determined whether a specified date is a holiday, get the English and Japanese names of a specified holiday, get the dates and names of all holidays in a given month, or get the dates and names of all holidays in a given year. These service are accessible programmatically using SOAP calls in XML format.
+holidays japan reference 
+Reference

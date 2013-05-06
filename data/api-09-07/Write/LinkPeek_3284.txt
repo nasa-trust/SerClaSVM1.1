@@ -1,0 +1,5 @@
+Web site image preview creation service
+LinkPeek
+LinkPeek.com instant preview service lets users convert any webpage to an image or picture file that is linkable or downloadable. The service can be used to embed self updating 140 pixel thumbnails on a web site for free. The API uses RESTful calls and returns images or URLs.
+image internet Preview thumbnail tools 
+Tools

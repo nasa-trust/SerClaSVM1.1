@@ -1,0 +1,16 @@
+associate 1
+client 1
+collect 1
+datum 1
+day 1
+free 1
+month 1
+mood 4
+nation 3
+network 1
+over 1
+raw 1
+retrieve 1
+social 3
+trend 3
+week 1

@@ -1,0 +1,11 @@
+B2B marketing service
+Demandbase
+The Demandbase API recognizes a browser&#039;s IP address and then connects it to the business office kept in the company&#039;s database that contains a list of client names and locations. The API increases conversion rates by customizing messages, measuring responses, and reducing the number of questions in Web forms.
+
+Real-Time ID Service works without cookies or personally identifiable identification (PII), instead mapping the IP address to a business office location through the API.
+
+The API utilizes XML protocol and JSON data format.
+
+
+analytics b2b internet marketing sales targeting 
+Internet

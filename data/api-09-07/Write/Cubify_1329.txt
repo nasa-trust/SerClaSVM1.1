@@ -1,0 +1,7 @@
+3D design and printing service
+Cubify
+The service provides a platform for designing three-dimensional objects and then generating copies of the designs using 3D printing technology. It also allows sharing of designs among the user community, with potential to buy and sell rights to produce objects based on the designs.
+
+API methods support creation and management of object designs, including raster images and collections of images constituting a model of an object. Methods also allow management of groups of designs as &quot;brands&quot; as well as interaction among users of the service and purchase transactions.
+design printing social tools 
+Tools

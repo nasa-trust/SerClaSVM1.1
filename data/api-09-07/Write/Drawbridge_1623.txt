@@ -1,0 +1,7 @@
+Mobile advertising platform
+Drawbridge
+Drawbridge is a service for both advertisers and publishers for mobile application advertising. Advertisers can target their audiences with different ads for different applications and publishers can monetize their applications and content. 
+
+The Drawbridge Reports API allows developers to access and integrate the functionality and data of Drawbridge with other applications. Some example API methods include running reports on campaign statistics, managing account information, and editing and creating reports. 
+advertising application mobile 
+Advertising

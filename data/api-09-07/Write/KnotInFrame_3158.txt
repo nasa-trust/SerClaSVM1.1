@@ -1,0 +1,7 @@
+DNA and RNA frameshift site prediction service
+KnotInFrame
+KnotInFrame predicts frameshift sites in DNA and RNA sequences with a simple pseudoknot as secondary structure. The prediction is based on a comparison of minimal free energy structures.
+
+KnotInFrame is available as both a web console and a SOAP API.
+genetics science 
+Science

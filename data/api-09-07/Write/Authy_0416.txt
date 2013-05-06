@@ -1,0 +1,7 @@
+Website and application authentication service
+Authy
+Authy is an authentication service for websites and applications. Authy uses a two-factor authentication process for secure websites and applications.
+
+The Authy API allows developers to access and integrate Authy&#039;s functionality with other applications and to create new applications. Some example API methods include managing users, adding users, and verifying users. 
+authentication security tools 
+Security

@@ -1,0 +1,17 @@
+adult 2
+art 1
+artist 2
+content 1
+create 1
+format 1
+forum 3
+interact 1
+interface 1
+list 1
+note 1
+post 1
+response 1
+social 2
+tag 1
+tool 1
+update 1

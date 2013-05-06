@@ -1,0 +1,7 @@
+Mobile messaging service
+Verizon Messaging
+Verizon Wireless provides authorized application developers with a network based Messaging API service to offer interactive services to our customers using MO and MT messaging. Authorized application developers may act as integration points, supporting Verizon Wireless with interactive messaging, including television voting, info-on-demand, real time stock quotes, and other premium content services. 
+
+The API uses both REST and SOAP protocol.
+MMS sms telephony unknown 
+Telephony

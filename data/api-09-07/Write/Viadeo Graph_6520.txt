@@ -1,0 +1,7 @@
+Professional social networking platform
+Viadeo Graph
+Viadeo is a professional social network service. Viadeo lets members keep lists of business partners, which they can use to stay in touch, use or help each other to find new job and business opportunities. 
+
+The Viadeo Graph API is a way to bring a professional social context to websites, applications and services. Every object on Viadeo has a unique ID which can be used to call the information attached to it including any relationships or connections that exist between the objects. An object might be a member, an event or a job and connections might be professional relationships, shared articles and news feed comments. The API uses RESTful calls and responses are formatted in XML and JSON.
+business social 
+Social

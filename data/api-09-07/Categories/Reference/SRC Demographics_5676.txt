@@ -1,0 +1,6 @@
+datum 1
+demographic 3
+dynamic 1
+feature 1
+reference 3
+wealth 1

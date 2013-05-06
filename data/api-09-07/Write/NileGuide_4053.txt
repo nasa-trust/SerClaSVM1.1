@@ -1,0 +1,5 @@
+Travel research and planning service
+NileGuide
+NileGuide is a resource to research and plan your next trip. On NileGuide, travelers can discover what they?re looking for on their vacation from small hotels in Seattle or hole-in-the-wall pubs in Prague. The service can connect travelers to relevant suggestions that make for more rewarding travel experiences. NileGuide API makes most of their original travel content available to partner websites.
+travel 
+Travel

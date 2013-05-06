@@ -1,0 +1,6 @@
+Virginia general assembly information aggregator
+Richmond Sunlight
+The Richmond Sunlight API allows users to retrieve information from the Richmond Sunlight database. Richmond Sunlight is a website that aggregates information about the General Assembly, the lawmaking body that governs the state of Virginia. Methods included allow users to retrieve a given bill or legislator, retrieve a list of bills, and retrieve a list of commentary on bills. The API uses RESTful protocol and responses are formatted in JSON or JSONP.
+
+government virginia 
+Government

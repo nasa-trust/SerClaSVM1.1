@@ -1,0 +1,5 @@
+SEO intelligence service
+Majestic SEO Enterprise
+Majestic SEO provides competitor backlinks intelligence to SEO specialists. For Enterprise users, an API service is offered for internal use which enables developers to integrate data into new or existing suites of reports and applications. The Enterprise API allows developers to access the backlinks index directly. Some of the data that can be accessed through the API includes: The date a link was first found, the date a link was last crawled, the anchor text if present, whether the link redirects and much more. The API uses RESTful calls and responses are formatted in XML. Full documentation is not publicly available.
+enterprise internet SEO 
+Enterprise

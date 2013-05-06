@@ -1,0 +1,7 @@
+Online payment service
+V.me by Visa
+V.me by Visa is an online payment service that lets users purchase goods and services without sharing credit card information with the seller. Businesses can offer their customers the option to pay with V.me on their websites, and customers can pay with any credit card. 
+
+V.me will be launched in early 2012, but developers can now sign up for beta access to their APIs, sandboxes, and documentation to begin integration and testing of V.me&#039;s functionality into other applications and websites. Interested developers should sign up here: https://developer.v.me/ for access.
+creditcard payment 
+Payment

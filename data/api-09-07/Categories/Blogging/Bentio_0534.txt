@@ -1,0 +1,7 @@
+communicate 2
+intend 1
+like 2
+open 1
+social 1
+source 1
+twitter 4

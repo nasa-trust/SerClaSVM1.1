@@ -1,0 +1,8 @@
+Marine animal scientific naming service
+World Register of Marine Species
+The service exposes a standard taxonomy of marine animal species integrated with Global Species Databases (GSD). It gives access to accurate scientific and common names, alternate names and synonyms, and full classification information for each species. Possible applications include replacing unaccepted names with accepted ones for ocean-dwelling animals, discovering scientific names for common or vernacular names, and listing related species. 
+
+Methods support retrieving the scientific name, common names, and synonymous names for a particular ocean animal. Also available are classification structure and related animal names for a named animal.
+
+biology education science 
+Science

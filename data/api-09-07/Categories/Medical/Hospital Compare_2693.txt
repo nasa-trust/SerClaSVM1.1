@@ -1,0 +1,14 @@
+address 1
+compare 2
+comparison 1
+datum 2
+get 2
+hospital 7
+like 1
+medical 2
+mortality 1
+operations 1
+price 1
+rates 1
+relate 1
+usa 1

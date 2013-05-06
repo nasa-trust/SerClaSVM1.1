@@ -1,0 +1,5 @@
+Data analytics tool
+BitDeli
+BitDeli provides data processing solutions. Developers can employ BitDeli to automate and process their datafeeds. The data intake can be customized and analyzed in real time. The BitDeli dashboard allows developers to visualize their results in multiple ways. The BitDeli API exposes the data input and output functionality. It is a RESTful API that returns JSON-encoded data. BitDeli offers an extensive gallery of their API put use for inspiration. 
+analytics backend Data feeds tools 
+Tools

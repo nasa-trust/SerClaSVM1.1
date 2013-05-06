@@ -1,0 +1,5 @@
+Trend tracking on Twitter
+Let's Be Trends
+Let&#039;s Be Trends is a web service API for getting information about trending topics on Twitter. The explanations for trends are provided by users of Brizzly. The API lets you get a list of current trends, details on a specific trend, or international explanations. The international service will find information on a given trend for a specific locale. These services are developed by Thing Labs.
+deadpool social trends Twitter 
+Social

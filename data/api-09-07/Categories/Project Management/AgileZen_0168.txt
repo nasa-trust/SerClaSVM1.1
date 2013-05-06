@@ -1,0 +1,15 @@
+build 1
+details 1
+format 1
+functionality 2
+getting 1
+idea 1
+lean 2
+management 4
+manufacture 1
+member 1
+phase 1
+project 6
+protocol 1
+response 1
+role 1

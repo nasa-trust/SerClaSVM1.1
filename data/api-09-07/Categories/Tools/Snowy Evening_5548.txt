@@ -1,0 +1,15 @@
+account 1
+bug 3
+client 1
+documentation 1
+evening 5
+functionality 1
+integrate 1
+issue 3
+management 2
+programming 1
+project 1
+public 1
+solution 1
+tool 2
+tracking 3

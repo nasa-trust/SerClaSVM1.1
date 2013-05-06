@@ -1,0 +1,16 @@
+article 2
+commercial 1
+date 1
+find 1
+format 2
+free 1
+internet 3
+parameter 1
+return 1
+submit 1
+summary 4
+take 1
+text 1
+title 1
+top 1
+url 2

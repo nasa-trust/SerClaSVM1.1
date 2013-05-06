@@ -1,0 +1,5 @@
+Development finance data
+AidData
+AidData is an initiative to provide products and services that make development finance data accessible and portable. The core of the program is the AidData web portal, which is a gateway to nearly 1 million records of development finance activities from donors around the world. The AidData API is a javascript library which allows developers to query the AidData database to insert AidData development project information into any web application. Data is returned in JSON format.
+finance 
+Financial

@@ -1,0 +1,7 @@
+Living modified organism information exchange
+Biosafety Clearing-House
+The Cartagena Protocol on Biosafety is an international treaty governing the movements of living modified organisms (LMOs) resulting from modern biotechnology from one country to another. The Biosafety Clearing-House (BCH) is a mechanism set up by the Cartagena Protocol to facilitate the exchange of information on LMOs and assist parties in better complying with their obligations under the Protocol.
+
+Global access to a variety of scientific, technical, environmental, legal, and capacity-building information is provided in all 6 of the UN languages. BCH account holders can create and manage records in the BCH by signing in through the Management Centre (Registering Information) section. BCH information and functions are available programmatically using a SOAP API.
+government science 
+Science

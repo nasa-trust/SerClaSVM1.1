@@ -1,0 +1,5 @@
+Translation Service
+Apertium
+Apertium is a free/open-source machine translation platform. Aperitum offers a web-based RESTful API, with an available JavaScript library for JavaScript applications, and a XML-RPC API for desktop applications. The API has the option to register for an API Key in order to overcome the API calls per IP address restriction. The API allows developers to use Aperitum&#039;s translation services in their own applications without having to install Aperitum.
+language tools Translation 
+Tools

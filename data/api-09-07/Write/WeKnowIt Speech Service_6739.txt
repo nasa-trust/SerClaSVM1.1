@@ -1,0 +1,7 @@
+Speech recognition service
+WeKnowIt Speech Service
+The service provides speech recognition and indexing based on audio input in the form of a submitted WAV file or certain other formats. The recorded speech is mapped to text then indexed to be compatible with search queries, either for single words from the generated text passage or tags applied in indexing.
+
+API methods support submission of an audio sample in one of the accepted formats for conversion to text strings and indexing for search. Methods also support submitting queries against the index previously created to return matching text from the passage or matches against tags applied to the text by the indexing process.
+audio deadpool recognition speech utility 
+Utility

@@ -1,0 +1,5 @@
+Online accounting software
+Yendo Accounts
+The Yendo Accounts developer API allows registered 3rd party applications to share data with Yendo. Typically it is used to send invoices and/or contacts into Yendo from applications such as CRM, inventory management or payroll. Yendo is online financial accounting software for small businesses. It&#039;s functionality allow management of invoicing, purchases, expenses and payments. The API uses RESTful protocol and responses are formatted in XML.
+accounting finance 
+Financial

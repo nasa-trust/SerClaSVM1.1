@@ -1,0 +1,15 @@
+decode 1
+devices 1
+image 1
+intend 1
+interpret 1
+means 1
+mobile 3
+public 1
+read 1
+real 1
+require 1
+two 1
+upload 1
+utility 2
+world 1

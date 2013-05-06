@@ -1,0 +1,5 @@
+Quotations database
+Quotations Book
+Quotations Book is a quotations site that makes available its entire database of quotes (43,000+) as an XML file. It also syndicates content to Freebase/Google. 
+quotations Random reference 
+Reference

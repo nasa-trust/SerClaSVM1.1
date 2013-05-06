@@ -1,0 +1,5 @@
+Semantic analysis of documents or web pages
+Semantic Engines Semantic
+The Semantic Engines Semantic API is deployed in a computing cloud and powers tools, including SenseBot, OpinionCrawl, and LinkSensor. It allows users to utilize a high-quality semantic or text mining solution to enrich their applications. Semantic Engines LLC develops products in the fields of information search and retrieval, text mining, semantic analysis, sentiment analysis, and contextual advertising. Semantic API features include: extraction of semantic concepts from a page or document; creating a ???semantic cloud??? of concepts describing a group of pages; generating a multi-document summary of a set of pages; generating an essay on a topic based on a set of pages. It uses both RESTful and SOAP protocols and requires use of an API key. Responses are formatted in XML.
+internet semantic 
+Internet

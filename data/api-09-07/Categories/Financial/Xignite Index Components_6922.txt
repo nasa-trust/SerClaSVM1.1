@@ -1,0 +1,10 @@
+component 1
+comprise 1
+finance 2
+get 1
+index 2
+indic 1
+list 1
+security 1
+stock 3
+weighting 1

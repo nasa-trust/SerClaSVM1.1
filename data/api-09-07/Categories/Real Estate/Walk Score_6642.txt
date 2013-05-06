@@ -1,0 +1,16 @@
+address 2
+amenity 1
+calculate 1
+distance 1
+estate 2
+format 1
+house 1
+interface 1
+latitude 1
+location 1
+longitude 1
+mapping 1
+real 2
+return 1
+score 5
+walk 5

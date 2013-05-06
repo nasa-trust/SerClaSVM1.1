@@ -1,0 +1,7 @@
+Broadcast email service
+Mailup
+The service enables broadcast email, including creating messages and managing campaigns and address lists. User content flows into provided templates or employs user-supplied html formatting. It helps coordinate email messaging with social media involvement and provides reporting and tracking tools to monitor campaign activity.
+
+API methods support basic content upload and message send as well as management of address lists including opt in/opt out and message send status. Available methods handle SMS messaging and social media posting, too.
+email marketing 
+Email

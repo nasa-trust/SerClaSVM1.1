@@ -1,0 +1,5 @@
+Online credit card transaction platform 
+NetWallet
+NetWallet provides secure services for online financial transactions. Online merchants use the NetWallet to create simpler checkout procedures for returning customers. When the customers go to a checkout page, the NetWallet widget appears with their credit card information. They will verify their identity through their Facebook account, and complete the purchase with a single click. The customer???s credit card information is secured in NetWallet???s PCI compliant data vault. The API exposes the connection between the NetWallet widget and the datavault.
+ecommerce financial payment wallet 
+Payment

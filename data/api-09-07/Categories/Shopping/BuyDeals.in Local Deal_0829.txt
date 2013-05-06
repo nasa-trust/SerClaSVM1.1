@@ -1,0 +1,16 @@
+aggregate 1
+aggregation 1
+aggregator 1
+buy 1
+buying 1
+coupon 1
+deal 4
+format 1
+group 1
+local 4
+method 1
+protocol 1
+pull 1
+response 1
+shopping 2
+top 1

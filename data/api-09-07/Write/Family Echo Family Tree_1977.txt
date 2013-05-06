@@ -1,0 +1,9 @@
+Family tree visualization for genealogy
+Family Echo Family Tree
+The Family Echo API allows any desktop or web application to display a family tree using the online Family Echo display engine.
+
+Your application sends a family description in GEDCOM or FamilyScript format, and receives back a URL that can be used to browse that family interactively for the next 7 days. The API uses HTTP POST calls and responses are formatted in XML and JSON.
+
+The API is free and unlimited, and requires no developer registration.
+family GEDCOM genealogy 
+Other

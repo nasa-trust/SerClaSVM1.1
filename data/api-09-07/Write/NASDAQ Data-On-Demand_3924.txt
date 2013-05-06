@@ -1,0 +1,7 @@
+NASDAQ historical stock quote data servcie
+NASDAQ Data-On-Demand
+NASDAQ Data-On-Demand provides historical stock quote data. NASDAQ Data-On-Demand enables users to choose specific symbols and trading time periods for quick and efficient analysis. The data can be used to integrate stock quote data into a developer&#039;s application, analyze trends in stock quote data, back test trading strategies and algorithms and build a stock quote book.
+
+An API is provided to pull the data using RESTful or SOAP calls. The API includes calls that let users select historical stock data from the exact trading dates and times, download stock data after the markets close for pre-market analysis and request bulk data downloads. Responses are formatted in XML.
+financial stocks 
+Financial

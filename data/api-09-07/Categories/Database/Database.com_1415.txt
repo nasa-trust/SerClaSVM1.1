@@ -1,0 +1,17 @@
+authentication 1
+cloud 3
+computing 1
+create 1
+datum 1
+desktop 1
+file 1
+identification 1
+language 1
+mobile 1
+model 1
+own 1
+platform 1
+social 2
+storage 1
+tool 1
+variety 2

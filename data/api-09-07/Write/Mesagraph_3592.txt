@@ -1,0 +1,8 @@
+Social TV content aggregator
+Mesagraph
+The Mesagraph platform aggregates, filters and renders real-time streams.
+It gathers conversations happening in real-time on Twitter about TV shows. With our Social TV API, you can start building Social TV experiences now, right into your product.
+Our Social TV supports French and is now available for 19 TNT channels in France.
+The API uses RESTful calls and responses are formatted in JSON, JSONP and HTML.
+search social socialtv television Twitter 
+Social

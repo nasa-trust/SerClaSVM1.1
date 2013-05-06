@@ -1,0 +1,5 @@
+Online spreadsheets
+Google Spreadsheets
+From their site: The Google Spreadsheets data API allows client applications to view and update Spreadsheets content in the form of a Google data API (&quot;GData&quot;) feeds. Your client application can request a list of a user&#039;s spreadsheets, edit or delete content in an existing Spreadsheets worksheet, and query the content in an existing Spreadsheets worksheet.
+office spreadsheet 
+Office

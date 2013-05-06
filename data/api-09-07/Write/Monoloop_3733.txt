@@ -1,0 +1,7 @@
+Social profile and communication service
+Monoloop
+The service connects the behavioral profile for a user account to email marketing and CRM functions to target communications based on customer actions. It syncs records of customer activities with back-end systems to enable delivery of timely and highly relevant communications.
+
+API methods support tracking and profiling of users based on their online behavior, with activity scoring and location information. Methods also support dynamic content generation and personalized delivery, with marketing messaging generated to synchronize with related behaviors.
+email marketing social 
+Social

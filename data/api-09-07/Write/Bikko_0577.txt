@@ -1,0 +1,7 @@
+Bicycling hobbyist training and social site
+Bikko
+The service provides training tools and social interactions for bicycling hobbyists. It is under development by avid cyclists from Austin, Texas, to help others track rides and record performance, with plans for route guidance and suggestions. Social networking tools for interactions among cyclists also are anticipated.
+
+API methods currently support retrieval of route information with location and altitude as well as speed and power ratings. Returned data support interaction with mapping applications.
+cycling hobbies social sports 
+Sports

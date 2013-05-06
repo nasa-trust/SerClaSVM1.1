@@ -1,0 +1,7 @@
+File Sharing Service
+4Shared
+4shared is an online storage and file sharing service that was founded in 2005. Users can upload, store and share all types of files, including music, video, photos and documents.
+
+The 4shared API provides developers access to more than 100 API functions, including access web account, upload/download files, search files and create and delete folders.
+filesharing media social storage tools 
+File Sharing

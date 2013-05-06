@@ -1,0 +1,5 @@
+Cloud communication platform
+46elks
+46elks is a cloud communication platform that lets developers integrate Voice, SMS & MMS into their applications. The 46elks cloud API enables applications to use telephony technology. With this API, users can send and receive SMS messages, receive incoming Voice calls and connect these calls to a cell phone. The three major parts of the API are: Phone numbers, SMS messages and Voice calls. The API uses RESTful calls and responses are formatted in JSON.
+Global MMS sms telephony Voice 
+Telephony

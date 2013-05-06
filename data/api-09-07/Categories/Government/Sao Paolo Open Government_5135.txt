@@ -1,0 +1,16 @@
+birth 1
+brazil 2
+budget 1
+datum 2
+death 1
+demographic 1
+election 1
+government 6
+investment 1
+open 2
+portal 2
+research 1
+response 1
+soap 1
+state 2
+unemployment 1

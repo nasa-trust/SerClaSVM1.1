@@ -1,0 +1,15 @@
+accredit 1
+company 1
+customer 1
+customize 1
+domain 4
+host 2
+interface 1
+internet 3
+process 1
+provider 1
+registrar 2
+registration 2
+tool 1
+utility 1
+wholesaler 1

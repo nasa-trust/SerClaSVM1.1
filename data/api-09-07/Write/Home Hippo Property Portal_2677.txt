@@ -1,0 +1,5 @@
+Online real estate portal
+Home Hippo Property Portal
+The Home Hippo API allows users to feed into and out of the HomeHippo.com property portal as well as the ability to leverage the site's data to create apps or widgets. Home Hippo is a free to list portal letting users market their property portfolio to a worldwide audience. The API exposes methods such as property upload, property update or fetch property. Each action has its own URL. These can be accessed through RESTful calls with responses being formatted in JSON. 
+realestate
+Real Estate

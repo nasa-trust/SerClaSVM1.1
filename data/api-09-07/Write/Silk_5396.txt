@@ -1,0 +1,7 @@
+Web content management platform
+Silk
+Silk is a web content creation and management platform. Users can organize their web content and add features and characteristics to their web pages with Silk functionality. 
+
+The Silk API allows developers to access and integrate the functionality of Silk with other applications. Public documentation is not available; interested developers should sign up here: https://docs.google.com/spreadsheet/viewform?formkey=dFlwLXVOOXkzb1N5TDRyRFh0NU01WEE6MQ. 
+content internet management 
+Internet

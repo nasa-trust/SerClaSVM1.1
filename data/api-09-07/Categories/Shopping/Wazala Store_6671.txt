@@ -1,0 +1,14 @@
+cart 2
+checkout 1
+create 1
+embed 1
+google 1
+host 1
+interact 1
+make 1
+payment 1
+purchase 1
+shopping 4
+simple 1
+store 2
+widget 1

@@ -1,0 +1,16 @@
+blog 2
+bookmark 1
+create 2
+creation 1
+educate 1
+education 1
+history 1
+life 1
+news 2
+photo 4
+put 2
+reader 1
+social 1
+stock 1
+timeline 4
+topic 1

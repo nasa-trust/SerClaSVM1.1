@@ -1,0 +1,14 @@
+area 1
+article 3
+coordinate 1
+latitude 1
+like 1
+local 2
+location 1
+longitude 1
+mapping 1
+news 4
+receive 1
+return 1
+span 1
+specify 1

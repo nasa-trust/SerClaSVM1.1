@@ -1,0 +1,5 @@
+Social data analytics platform
+StatAd
+StatAd is user analytics service. Businesses can use it to assess their users??? social media information. StatAd provides a user analytics dashboard for reporting on large sets of data. The data is culled from customers who sign in via their social media accounts. The data sets are customizable and easily retrievable. StatAd provides an Engagement API that exposes the data retrieval and query functionality. It is a RESTful API that returns JSON-encoded data. 
+analytics social 
+Social

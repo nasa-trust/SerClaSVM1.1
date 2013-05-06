@@ -1,0 +1,5 @@
+On demand customer support software
+FreshDesk
+Freshdesk is an on demand customer support software that works across multiple support channels. Support channels include email, phone, websites and social networks. The Freshdesk API allows users to interact with their helpdesk in multiple ways. With the API users can connect to the helpdesk, populate data, extract data into other applications and even develop their applications to integrate with their Freshdesk helpdesk. The API uses RESTful calls and responses are formatted in XML.
+CRM customer-service enterprise helpdesk sbweb support 
+Enterprise

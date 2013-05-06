@@ -1,0 +1,5 @@
+Cloud computing services
+AT&T Synaptic Compute
+AT&T Synaptic Compute as a Service offers pay-as-you-go cloud computing for companies and developers allowing users to quickly obtain access to virtual servers. AT&T Synaptic Compute as a Service provides APIs that allow developers to enable a customized cloud computing interface over the Internet. Using the APIs, developers can:
+cloud internet
+Internet

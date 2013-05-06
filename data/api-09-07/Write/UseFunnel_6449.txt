@@ -1,0 +1,7 @@
+Mobile device form and survey data collection service
+UseFunnel
+The service provides a data-collection platform for smartphones designed to invite and log user responses for any application. Forms and collection tools provide touch-friendly controls for ease of use, logical question selection and branching based on user responses, and configurable themes. Data analysis and report tools retrieve responses with a range of visualization options. 
+
+API methods support creating and viewing questions to be presented as well as user responses, either by individual submission or in summary. 
+forms mobile social survey 
+Social

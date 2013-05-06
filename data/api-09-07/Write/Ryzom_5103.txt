@@ -1,0 +1,7 @@
+Game data integration service
+Ryzom
+The service provides information from the MMORPG game server, including basics like server and account status, but also game time statistics or summaries of character profiles. In addition to character information, the service provides access to information and images about in-game guilds and other details of game play.
+
+API methods support retrieval of server status and time, version release notes, and related detail. Methods also access to give titles and profiles of game characters as well as banner images, profiles, and membership of player guilds.
+games sharing social 
+Games

@@ -1,0 +1,5 @@
+Font retrieval and generation service
+Font Squirrel
+Font Squirrel is a collection of free typefaces that are licensed for commercial work. The Font Squirrel API allows users to retrieve fonts that are @font-face ready. The API exposes multiple functionalities including retrieving lists of font categories and families, outputting family details and downloading a font-face kit. It uses RESTful calls and responses are formatted in JSON.
+fonts internet typography 
+Other

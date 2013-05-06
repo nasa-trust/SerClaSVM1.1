@@ -1,0 +1,5 @@
+Real time mobile location service
+Veriplace Developer
+The Veriplace Developer API provides access to real-time and historic user location. It is REST-based, exposing location and privacy operations as standard HTTP requests, and uses the OAuth and OpenID standards for authorization and authentication.
+mobile telephony 
+Telephony

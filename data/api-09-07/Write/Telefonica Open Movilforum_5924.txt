@@ -1,0 +1,5 @@
+SMS and MMS message service
+Telefonica Open Movilforum
+Telefonica provides developers with access to APIs for services including SMS and MMS. Note: Site is currently available in Spanish only.
+deadpool messaging sms spain telephony 
+Messaging

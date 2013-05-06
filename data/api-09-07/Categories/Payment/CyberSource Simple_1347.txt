@@ -1,0 +1,11 @@
+accept 1
+card 1
+check 1
+credit 1
+kit 1
+language 1
+method 1
+number 1
+payment 5
+simple 1
+support 1

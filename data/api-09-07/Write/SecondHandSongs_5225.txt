@@ -1,0 +1,5 @@
+Cover song reference
+SecondHandSongs
+SecondHandSongs (SHS) is a reference database for original artists and cover artists of songs. It was designed to settle the question of who performed the original version of a particular song and who covered it. SHS tries to be as complete as possible (including not only the performer and song title, but also songwriters and original releases) and orders the data in a reusable and maintainable way. The SecondHandSongs API offers programmatic methods for searching the database of performances and works, as well as for retrieving information on artists, performances, releases, and more.
+music reference 
+Music

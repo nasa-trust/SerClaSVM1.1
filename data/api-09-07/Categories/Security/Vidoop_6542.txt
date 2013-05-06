@@ -1,0 +1,11 @@
+authentication 5
+free 1
+image 2
+mechanism 1
+phone 1
+protect 1
+range 1
+resource 1
+secure 1
+security 2
+sm 1

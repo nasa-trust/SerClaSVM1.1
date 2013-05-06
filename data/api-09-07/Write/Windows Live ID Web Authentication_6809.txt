@@ -1,0 +1,5 @@
+Web based authentication service
+Windows Live ID Web Authentication
+From their site: Windows Live ID Web Authentication enables you to authenticate users on your Web site and offer personalized access to your site???s content to any of the millions of registered Windows Live ID users.
+authentication security 
+Security

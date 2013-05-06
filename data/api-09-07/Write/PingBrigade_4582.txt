@@ -1,0 +1,5 @@
+Website Monitoring Service
+PingBrigade
+The PingBrigade API is designed to allow users to run the same functions from their own systems and code as they can from the PingBrigade website. The PingBrigade API enables users to test if the website or server being monitored is still online. The API uses the REST protocol and returns JSON. To use the API, users must register an account and  will receive an API Key with which to make POST and GET requests. 
+monitoring notifications ping tools 
+Tools

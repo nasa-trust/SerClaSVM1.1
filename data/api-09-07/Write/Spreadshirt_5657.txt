@@ -1,0 +1,6 @@
+eCommerce apparel store service 
+Spreadshirt
+Spreadshirt is a worldwide creative platform for personalised apparel. Spreadshirt web services allows you to extract the information from your own Spreadshirt store in XML format which you can transform using a scripting language so you can display the information in any way you want. The main use is to create a shop entirely on your own domain (not in a frame) with entirely your own interface. This means you could build a shop using Flash or JavaScript to create a more interesting interface. It also means you could also make a mashup with another web service, such as Amazon, and sell products from both on the same page. Note that the last stage, checkout, is always carried out on Spreadshirt&#039;s servers for obvious security reasons.
+The second use is for a blog or some site that isn&#039;t a shop but would like to have an interactive widget displaying your goods, for instance, in a sidebar, i.e. if you don&#039;t want to have a whole shop on your site. You could use AJAX or Flash to make a widget to display some of your products down along a column.
+apparel shopping 
+Shopping

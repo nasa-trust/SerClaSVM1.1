@@ -1,0 +1,5 @@
+Collaborative project management platform
+Morale
+Morale is a simple team project management platform. It allows teams of developers to share tasks and bugs through a single textbox. Once tickets are created they remain active until they are archived. Ticket creators can invite multiple workers and teams to multiple projects. The Morale API exposes the project and ticket information accession functionality. It is a RESTful API that returns JSON-encoded data.
+collaboration project-management social 
+Project Management

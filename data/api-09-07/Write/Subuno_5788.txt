@@ -1,0 +1,8 @@
+Fraud monitoring service
+Subuno
+The Subuno API allows developers to integrate Subuno&#039;s fraud screening service and gain access to multiple fraud prevention solutions. Transactions can then be passed to Subuno and screened based on the rules setup in the SaaS. 
+
+Subuno provides a fraud screening software-as-a-service (SaaS) platform that allows merchants to leverage multiple fraud detection solutions in a rules based and multi-layered approach. Without requiring technical knowledge, Subuno helps users easily automate their fraud screening flow and speed up the manual review process by bringing relevant fraud screening tools together on the same review screen.
+
+Fraud monitoring security 
+Security

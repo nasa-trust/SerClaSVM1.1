@@ -1,0 +1,7 @@
+Online marketing platform
+AlsaMarketing
+AlsaMarketing is an online marketing platform. AlsaMarketing offers lead tracking applications, integrations with CRMs, report generation, and lead management.
+
+The AlsaMarketing API allows developers to access AlsaMarketing functionality into other applications. Public documentation is not available; the API is a feature of AlsaMarketing accounts.
+deadpool enterprise leads marketing sales 
+Enterprise

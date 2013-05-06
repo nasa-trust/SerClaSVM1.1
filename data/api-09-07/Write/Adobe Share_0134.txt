@@ -1,0 +1,5 @@
+Service for publishing and sharing documents
+Adobe Share
+Welcome to the preview of Share, a free web-based service that allows you to easily share, publish and organize your documents. REST APIs for Share are also available - and through these APIs, you can easily use Share capabilities in a mashup or as the basis for a new application. You can do things like: Upload and download documents, Share documents as URLs, Set permissions on documents, Retrieve document thumbnails, Retrieve Flash-based document previews 
+office storage 
+Storage

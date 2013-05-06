@@ -1,0 +1,16 @@
+boss 2
+build 1
+few 1
+format 1
+image 7
+internet 1
+news 1
+own 1
+part 1
+photo 1
+protocol 1
+response 1
+restriction 1
+search 11
+technology 3
+yahoo 4

@@ -1,0 +1,5 @@
+New York City event listing
+BeThereNYC
+BeThereNYC hosts a listing for events occurring in New York City. It focuses on events taking place at museums, such as exhibitions and stargazing. It also provides a map that shows the locations of listed events. The information on BeThereNYC can be accessed programmatically via REST API.
+entertainment events nyc 
+Events

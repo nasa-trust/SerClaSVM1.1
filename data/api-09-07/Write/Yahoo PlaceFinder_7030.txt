@@ -1,0 +1,9 @@
+Geocoding of named places
+Yahoo PlaceFinder
+The Yahoo PlaceFinder API gives developers multi-language global geocoding of named places.
+
+PlaceFinder supports building-level address recognition in over 75 countries, and points of interest, airports, cities, and other place names (including administrative areas) for these countries and the rest of the world.
+
+In addition to supporting free-form, single-line, and multi-line address inputs, PlaceFinder also supports queries that include cross streets, WOEID, and IATA airport codes. It also supports reverse geocoding: you can give it a longitude/latitude coordinate and get back the nearest address.
+geocoding mapping places 
+Mapping

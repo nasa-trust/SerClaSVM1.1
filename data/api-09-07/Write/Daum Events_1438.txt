@@ -1,0 +1,9 @@
+Movie and festival search service
+Daum Events
+Daum is a web portal in South Korea that offers many Internet services to web users, including a popular free web-based e-mail, messaging service, forums, shopping and news. 
+
+The Daum Content API delivers information about films and festivals to developers. The information can then be integrated into a third party application or website. 
+
+The API uses RESTful calls and responses are formatted in XML, JSON and RSS. The site and documentation are in Korean.
+events movies southkorea 
+Events

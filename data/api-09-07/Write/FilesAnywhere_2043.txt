@@ -1,0 +1,5 @@
+Data storage and content sharing service
+FilesAnywhere
+Use the FilesAnywhere SOAP API (FAWAPI) to get access to your FilesAnywhere account. You can do the following: account login, basic file uploads and downloads, streaming uploads (&quot;AppendChunk&quot; method), view folder contents and create new folders, rename and delete files/folders, copy and move files/folders, view advanced folder properties, create new shares and manage existing ones, and request page images for supported file types.
+media storage 
+Storage

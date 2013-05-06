@@ -1,0 +1,5 @@
+Database and API for Canadian elected officials
+Open North Represent
+Open North is a service that allows users to enter a Canadian address or postal code to find their elected representatives. The Open North Represent API provides REST-based access to a wealth of information about Canadian elected officials and electoral districts. It includes all Members of Parliament, all members of provincial legislatures, and municipal elected officials for 39% of the Canadian population.
+address canada government representatives 
+Government

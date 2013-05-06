@@ -1,0 +1,5 @@
+Service for sending real gifts on Facebook
+RealGifts
+Use the RealGifts API to send real gifts to friends on Facebook. Developers have monetization opportunities when gifts are sent. Features of the API include built-in transactions, coupons, promotions, customer service, and more. Users who send the gifts do not need to know their recipient's address, plus they can choose from name brand gifts. 
+shopping social gifts
+Shopping

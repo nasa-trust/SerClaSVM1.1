@@ -1,0 +1,5 @@
+Phylogenetic tree creation service
+EBI ClustalW2 Phylogeny
+ClustalW2 Phylogeny generates phylogenetic trees from multiple sequence alignment data. Users can choose between two methods of calculating phylogeny; neighbor joining or UPGMA (Unweighted Pair Group Method with Arithmetic Mean). The ClustalW2 Phylogeny API, provided by the European Bioinformatics Institute, makes these functions available over SOAP and REST protocols.
+bioinformatics phylogenetics science 
+Science

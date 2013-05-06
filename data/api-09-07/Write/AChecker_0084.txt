@@ -1,0 +1,7 @@
+Accessibility review service
+AChecker
+The service provides analysis and validation of accessibility of web resources for users with disabilities. It can perform an automated review of resources at a specified URL, with a validation report citing accessible elements and issues potentially to be resolved. It can also log resources that require evaluation by a human reviewer, helping to target that effort on appropriate URLs.
+
+API methods support submission of a validation request, including the URL to be reviewed and guidelines against which to check the resource. Returned results provide summary counts of resources checked and issues found, along with detail about each issue&#039;s type and location with error message generated and guideline affected.
+accessability color usability utility 
+Utility

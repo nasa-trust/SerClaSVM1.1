@@ -1,0 +1,7 @@
+Online shopping cart service
+3dCart
+The 3DCart Store Web Service API gives merchants access to 3dCart Stores information. Shopping Carts from 3DCart allow businesses to market and sell their products online, and their clients to make online purchases. Thousands of companies world wide use 3DCart to build and maintain their online stores. 3DCart provides businesses with a search engine optimized e-Commerce solution that includes everything necessary to run their online business at a low monthly price with no startup investment.
+
+With the Store Web Service APIs, users can build applications to perform tasks such as listing or update orders, customers, and products. The API uses SOAP protocol and responses are formatted in XML.
+ecommerce shopping 
+Shopping

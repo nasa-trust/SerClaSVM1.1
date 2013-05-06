@@ -1,0 +1,5 @@
+Grid computing facilitation service
+GridLab
+The GridLab API facilitates grid computing by acting as an interface between grid applications and middleware. This allows the programmer to access the entire grid, even if different parts of the grid use different protocols or programming languages. It simplifies the actions of creating, deleting, copying, moving, and examining files on a grid system.
+grid internet 
+Internet

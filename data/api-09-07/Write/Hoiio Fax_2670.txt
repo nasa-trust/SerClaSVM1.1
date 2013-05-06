@@ -1,0 +1,5 @@
+Fax service
+Hoiio Fax
+Hoiio API provides developers access to voice and SMS services. The Hoiio Fax API allows developers to send and receive faxes to 200+ countries. The API allows developers to create an Internet Fax or email-to-fax service.
+fax messaging
+Fax

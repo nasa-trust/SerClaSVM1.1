@@ -1,0 +1,7 @@
+Digital postal mail service
+Zumbox 
+Zumbox is a service that allows users to receive postal, paper mail in a digital format. Zumbox connects large mailers (financial, transactional, governmental) with consumer households to allow traditional paper mail to be delivered electronically instead.
+
+The Zumbox API provides functionality for mailers, allowing the creation of digital postal mail items from existing paper mail. Functionality of the API includes handling secure transactions, enabling delivery of digital content, user information, and reporting information.
+mail 
+Other

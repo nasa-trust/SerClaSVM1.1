@@ -1,0 +1,7 @@
+National Football League (NFL) statistics service
+Washington Post NFL Statistics 
+The Washington Post is a newspaper out of Washington DC. 
+
+The Washington Post NFL Statistics API allows developers to access and integrate statistics from the National Football League (NFL) with other applications and to create new applications. Example API methods include retrieving players and player information, retrieving team statistics and information, and retrieving information on games. 
+football games news nfl sports 
+Sports

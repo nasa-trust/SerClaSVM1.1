@@ -1,0 +1,5 @@
+Internet performance monitoring data service
+SLAC IEPM
+The SLAC Internet End-to-end Performance Monitoring (IEPM) group monitors network links between sites of interest to the high energy nuclear and particle physics community. The group provides access to some of its measurement data via SOAP or XML-RPC APIs. Users must specify the type of measurement desired, the end node or path being measured, and the time period in which the desired measurements were taken.
+internet monitoring 
+Internet

@@ -1,0 +1,7 @@
+Webpage/Server Connection Tool
+Ericsson Web Connectivity
+Ericsson Labs provides the Web Connectivity API as a JavaScript library for web application and web page development. For server-side development, a Ruby on Rails library and an HTTP interface are provided.
+
+Web Connectivity is a way for developers to facilitate connectivity between web applications and web servers as well as other web applications by abstracting away from the connection techniques and providing a set of APIs to web application developers.
+internet telephony tools 
+Tools

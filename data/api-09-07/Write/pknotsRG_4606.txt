@@ -1,0 +1,5 @@
+RNA secondary structure prediction service
+pknotsRG
+pknotsRG is a tool for folding RNA secondary structures, including the class of simple recursive pseudoknots. Users can input RNA sequences in FASTA format and receive secondary structure information as the output. pknotsRG is available as a web console, download, or SOAP API.
+bioinformatics science 
+Science

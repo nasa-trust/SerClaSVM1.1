@@ -1,0 +1,13 @@
+execute 1
+finance 2
+industry 1
+interface 1
+leading 1
+need 1
+now 1
+open 1
+programming 1
+software 1
+stocks 1
+trade 5
+trading 1

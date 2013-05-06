@@ -1,0 +1,17 @@
+android 1
+create 1
+datum 1
+default 1
+desktop 1
+form 1
+function 2
+give 1
+giving 1
+integrate 1
+like 2
+management 1
+mobile 1
+own 1
+platform 1
+script 1
+store 1

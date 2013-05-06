@@ -1,0 +1,5 @@
+Web-based Positioning Service
+Ericsson Web Location
+Ericsson Labs provides a RESTful API that can be used in location-based applications in either a passive or active way. Developers of location based applications must tell users that their location may be used and give users details on why the application needs location data.
+deadpool geolocation telephony 
+Telephony

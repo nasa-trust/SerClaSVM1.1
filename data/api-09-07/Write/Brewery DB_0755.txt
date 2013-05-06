@@ -1,0 +1,5 @@
+Open library of breweries and beers
+Brewery DB
+Brewery DB is an open library of breweries and beers. Currently serving in  private beta, its API allows users to query the database. Users must register before using the API. All requests require an API key and are limited to 400 read requests per day. The API uses RESTful protocol and responses are formatted in XML, JSON and serialized PHP.
+beer reference 
+Reference

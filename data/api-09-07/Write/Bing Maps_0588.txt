@@ -1,0 +1,5 @@
+Microsoft online mapping service
+Bing Maps
+The Microsoft Bing Maps API is the re-branded name for the Microsoft Virtual Earth API and Virtual Earth SDK. It features an AJAX map control. Use Bing Maps to build maps which can include routes and traffic info. Gives developers the ability to code the controls, shapes, and layers of the maps, and can summon the birds-eye, 3D, and aerial imagery. For commercial applications there is a SOAP-based Web Service also provides access to the Bing maps and geospatial features. 
+display mapping places viewer 
+Mapping

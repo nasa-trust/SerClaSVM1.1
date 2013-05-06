@@ -1,0 +1,5 @@
+Disk Golf Course Review Service
+Disc Golf Course Review
+DGcoursereview.com provides an extensive database of disc golf courses across the United States which is accessible through the DGCourseReview API. This REST API allows users to build course details, ratings, hole information, and other data into sites and applications. An API key is required for use, and display requirements must be met for API use to be granted. The API has usage limit set to 100 calls per day during beta development, but once an app has been finalized a plan must be selected governing usage. 
+frisbee golf reviews sports 
+Sports

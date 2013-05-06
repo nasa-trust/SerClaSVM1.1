@@ -1,0 +1,5 @@
+Population information service
+Abundant World Population
+The Population Around the World API returns the human population for 227 countries or for the world. This SOAP-based API refers to the U.S. Census Bureau for its population data. 
+population country world deadpool
+Politics

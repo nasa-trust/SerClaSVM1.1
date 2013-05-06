@@ -1,0 +1,12 @@
+account 1
+administer 1
+details 1
+domain 2
+host 2
+internet 2
+names 1
+register 1
+registration 1
+require 1
+resell 2
+technical 1

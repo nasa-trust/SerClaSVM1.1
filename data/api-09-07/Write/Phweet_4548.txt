@@ -1,0 +1,7 @@
+Twitter talk service
+Phweet
+A Phweet makes conversations and conference calls possible between Twitter friends and across other social networks. Phweet enables voice conversations through unique hyperlinks which expire when the session ends. A Phweet is a link to an external directory listing.  Phweets simply enables voice conversations between two or more profiles without sharing any additional information between the parties.
+
+The Phweet API enables application developers to quickly integrate ???talk??? and put all ???calls??? on speed dial without the need for complicated  coding or infrastructure.
+microblogging social telephony Twitter 
+Telephony

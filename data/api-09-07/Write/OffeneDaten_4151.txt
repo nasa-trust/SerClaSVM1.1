@@ -1,0 +1,7 @@
+Germany open government data
+OffeneDaten
+OffeneDaten is an open government data portal for Germany. Powered by CKAN, the Comprehensive Knowledge Archive Network, Data groups include Data Catalog of Federal Ministry for Education and Research; GENESIS database of the Federal Statistical Office; Data Catalog Berlin; Data Catalog Bremen; MOGDy Munich. OffeneDaten datasets include: elections; waste disposal; employment; air quality; GDP; education; public budgets; and more. 
+
+The CKAN API provides access to this data. The API is RESTful and returns responses in JSON and JSONP.
+germany government 
+Government

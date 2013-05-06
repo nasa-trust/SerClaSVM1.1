@@ -1,0 +1,5 @@
+UK company information database
+Graydon Company Data Webservice
+The Graydon Company webservice API gives access to all our UK and International information. Graydon UK supplies company information on millions of companies worlwide. Company Searches, Detail and Reports are available via the  SOAP API. A Simple Search gadget is available for quick integration. Full access requires registration as a customer of Graydon UK.
+business deadpool enterprise uk 
+Reference

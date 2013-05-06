@@ -1,0 +1,5 @@
+Online document viewing
+Vuzit
+The Web Service API allows developers to interact securely with their Vuzit account. You can easily upload, remove, and retrieve attributes about Vuzit documents. 
+documents office 
+Office

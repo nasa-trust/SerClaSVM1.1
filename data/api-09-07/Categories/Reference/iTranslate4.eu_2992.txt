@@ -1,0 +1,17 @@
+choose 1
+comprehensive 1
+document 1
+european 2
+function 1
+language 4
+list 1
+localization 2
+output 1
+page 1
+prefer 1
+reference 2
+source 2
+specify 1
+text 1
+translate 1
+translation 3

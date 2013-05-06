@@ -1,0 +1,5 @@
+City of Philadelphia data
+OpenDataPhilly
+OpenDataPhilly is the online portal to the city of Philadelphia. Datasets are available for categories such as Arts/Culture/History, Elections/Politics, Parks, Public Safety, Transportation, and more. APIs are available for a number of datasets; select desired data and sort by the API filter for more information.
+datasets government Pennsylvania philadelphia 
+Government

@@ -1,0 +1,7 @@
+Collaborative life-science data management service
+pyMantis
+pyMantis is a collaborative life-science data management software platform intended to facilitate the exchange of data and information between experimentalists and theoreticians. It was developed for use in the TRANSLUCENT project, which aims to document data about the model yeast Saccharomyces cerevisiae. TRANSLUCENT is a part of the Systems Biology of Microorganisms (SysMO), a European transnational funding and research initiative focused on recording and describing molecular processes in unicellular microorganisms in the field of Systems Biology.
+
+This RESTful web service will allow pyMantis data management software to programmatically interact with the SysMO wide meta-database, enabling the sharing of data within the entirety of the SysMO project. Currently, the methods exposed in this API allow GET and POST operations to be ran on records held in the TRANSLUCENT database.
+biology collaboration Data science 
+Science

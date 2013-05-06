@@ -1,0 +1,17 @@
+add 1
+blog 1
+community 1
+create 1
+extend 1
+friend 1
+keep 1
+network 2
+own 2
+picture 1
+platform 1
+profile 1
+social 4
+system 1
+touch 1
+video 1
+youth 1

@@ -1,0 +1,7 @@
+Energy professional&#039;s weather information service
+DegreeDays
+The service provides weather reports from thousands of weather stations drawn from Weather Underground but emphasizing likely effects on energy consumption. Data can be obtained by station or by location for a range of time periods -- daily, weekly, monthly, and annual -- with averages over time. Concurrent processing allows rapid access to comprehensive data.
+
+API methods support retrieval of weather data by reporting station or by location, specified as postal code or latitude/longitude. Complex calculations allow the API to return accurate degree days estimates based on sometimes-incomplete raw input data.
+energy weather 
+Weather

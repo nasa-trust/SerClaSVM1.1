@@ -1,0 +1,8 @@
+Annymous proxy detection service
+FraudLabs IP2Proxy
+The FraudLabs IP2Proxy API allows you to detect an anonymous proxy by IP address and enables you to check proxy servers for anonymity. As sophisticated fraudsters can confuse online merchants by sending them a fake IP address through proxy server and bypass IP Geolocation along with their requests, IP2Proxy can give an additional layer of protection.
+
+The anonymous proxy server list will be updated every 24 hours by using a proprietary proxy-scanning algorithm.
+
+security 
+Security

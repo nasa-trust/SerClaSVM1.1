@@ -1,0 +1,9 @@
+antonym 1
+form 1
+get 1
+given 1
+reference 2
+rest 1
+synonym 3
+thesaurus 3
+word 1

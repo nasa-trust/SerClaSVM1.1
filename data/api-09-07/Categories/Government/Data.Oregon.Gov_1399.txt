@@ -1,0 +1,12 @@
+datum 3
+education 1
+giving 1
+government 4
+natural 1
+open 1
+oregon 2
+protocol 1
+resource 1
+sector 1
+state 3
+transportation 1

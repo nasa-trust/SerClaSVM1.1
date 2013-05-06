@@ -1,0 +1,9 @@
+French online deal aggregation service
+Ohmydeal
+Ohmydeal is a French-based deal aggregation site that collects group purchase offers from the ten largest cities in France with an average of over 4,000 offers per month and plans to expand to other European countries.
+
+Using your online preferences and profile , Ohmydeal can filter offers to find ones most relevant to you.
+
+The API utilizes a RESTful interface with response returns defaulting to XML.
+coupons deals france recommendations shopping 
+Shopping

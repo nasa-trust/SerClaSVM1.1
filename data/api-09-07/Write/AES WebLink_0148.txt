@@ -1,0 +1,5 @@
+Shipment submission and inquiry services
+AES WebLink
+Use the AESWebLink Submission API to save duplicate data entry efforts by your users because you can pass their information from your application to AESDirect. The information that the user submits is for a shipment transaction. Automated Export System (AES) is affiliated with the U.S. Customs Service and U.S. Census Bureau Foreign Trade Statistics. Use the AESWebLink Inquiry API to get the status of a shipment after the submission is complete.
+government 
+Government

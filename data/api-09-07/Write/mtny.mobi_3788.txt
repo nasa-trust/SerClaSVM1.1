@@ -1,0 +1,5 @@
+URL shortener service
+mtny.mobi
+mtny.mobi is a URL shortening service. mtny.mobi allows users to specify whether or not their shortened URL is accessible via mobile devices. When a mtny.mobi-shortened URL is accessed with a mobile device, the user has the option of viewing the resulting page in a mobile-friendly format.
+internet tools url-shortener 
+Tools

@@ -1,0 +1,6 @@
+SMS, WAP, and email messaging
+411Sync
+NOTE:As of 6/25/2008 it appears that this api is no longer available.
+From their site: We help software developers provide their content on cell phones using 411sync&#039;s SMS (text message) API and standard technologies such as XML and RSS. Developers can use 411sync SMS (Text Message) Services to offer custom information to the users. Users request information by sending a text message (SMS) to a custom unique sms id created by the developer. In response, the custom information is sent to the user on the cell phone as a text message. All you need to do is send us data in web standard RSS XML format.
+deadpool messaging mobile sms telephony 
+Messaging

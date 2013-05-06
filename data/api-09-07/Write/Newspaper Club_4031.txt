@@ -1,0 +1,5 @@
+Newspaper printing service
+Newspaper Club
+Newspaper Club is a website that helps users make their own printed newspapers. Visitors can use the online tool to upload and arrange their words and pictures or use the site to send a PDF. Users can add stories and pictures to their newspaper, using the appropriate API requests. API functionality includes working with stories and pictures and entire newspapers. Additionally users can track jobs with the API. The API uses RESTful calls and responses are formatted in JSON.
+newspaper printing tools 
+Other

@@ -1,0 +1,9 @@
+Social photo curation platform
+Pinterest
+Pinterest calls itself a &quot;virtual pinboard,&quot; allowing users to select photos from web pages to share with their friends. This process, called pinning, helps users collect ideas, recipes, inspiration or anything that can be found in a photo on a web page.
+
+The Pinterest API provides developers access to an authenticated user&#039;s pinboards and pins. The API provides detailed user data, as well as the home feed for a user, pins, likes, following, followers and the ability to unfollow. Developers can also access information about specific boards and pins, including creating boards, adding pins, categories and adding/removing likes.
+
+The API makes its data available via JSON only, with requests also wrapped as JSON. Though the official documentation has been removed, we&#039;ve included a cache of the page, as the API still appears to be supported.
+facebook photo social 
+Social

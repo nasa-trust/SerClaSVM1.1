@@ -1,0 +1,9 @@
+Telephone call service
+Fake Call
+Fake Call is an API that rings a phone. That&#039;s it. The service claims to help &quot;polite introverts exit unwanted conversations or meetings.&quot; On the other end of the call is a fictional &quot;Steve,&quot; who is actually a text-to-speech bot that helps you seem like you&#039;re engaging in a real conversation.
+
+The Fake Call API creates accounts, which requires a phone number and password. The phone number must then be verified, to ensure the recipient wants to receive phone calls. The API also allows to give other users authorization to initiate a call for you without sharing your password. The documentation site gives example cURL calls to get you started.
+
+The Fake Call API is built on top of the Twilio API. It uses RESTful calls with data returned as JSON.
+telephony twilio Voice 
+Telephony

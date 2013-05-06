@@ -1,0 +1,7 @@
+eBay Seller Ratings monitoring service
+eBay Feedback
+The eBay Feedback API provides developers a means to monitor account-level Feedback data, specifically Detailed Seller Ratings (DSR&#039;s). The Feedback Service generates DSR summary reports for sellers based on a variety of criteria, such as time period, listing category, transaction information, or specific shipping details.
+
+The Feedback Service uses an asynchronous programming model. There are &quot;create&quot; calls for specifying the criteria for generating the reports and a single &quot;get&quot; call, getDSRSummary, to retrieve the generated reports, since reports take too much time to generate to return them in the response of the create calls. The XML response for the create calls contains a job ID, which is used as input for the get call to check completion status and/or to retrieve the DSR summary report.
+feedback marketplace ratings reporting 
+Other

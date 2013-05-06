@@ -1,0 +1,5 @@
+Historical stock service
+Mergent Historical Securities Data
+Provides historical quotes for all US and Canadian stocks, indices, mutual funds, OTC bulletin board issues, and other securities. Prices are fully adjusted for splits, dividends and other corporate actions. Data on both living and dead issues is available. The API also provides access to non-price data such as short interest, shares outstanding, earnings per share and more.
+business finance history stocks 
+Financial

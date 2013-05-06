@@ -1,0 +1,8 @@
+Search service for registered real estate appraisers 
+ASC National Registry Search
+The U.S. Appraisal Subcommittee (ASC) is a governmental agency charged with overseeing the Appraisal Foundation, a private not-for-profit organization for maintaining real estate appraisal standards in the United States. The API exists to facilitate access to searches of the ASC National Registry, and is intended for use by lenders, regulatory agencies, and other interested parties. This SOAP-based API allows users to manipulate and perform automated searches based on a variety of output fields and filter conditions.
+
+Please refer to the following link for more information about this API:
+http://usgovxml.com/examples/Public/ASC%20SOAP%20Web%20Services.pdf
+government realestate search 
+Government

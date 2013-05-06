@@ -1,0 +1,5 @@
+Online educational resource directory
+Diglib
+Diglib is a directory of online educational resources. Currently, all of these resources are offered free of charge. Diglib provides an API to allow vendors of educational materials to integrate their systems with Diglib&#039;s. API users can retrieve site agreements, educational resources, and customers using REST calls in either XML or text format.
+education 
+Education

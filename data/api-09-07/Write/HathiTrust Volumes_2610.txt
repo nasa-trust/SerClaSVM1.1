@@ -1,0 +1,7 @@
+Library catalogue information retrieval service
+HathiTrust Volumes
+The HathiTrust Volumes API allows the user to retrieve information about volumes deposited in the HathiTrust Digital Library. Given a standard identifier for a known item, the API returns basic metadata for that item. This API is intended to be a simple and fast way to help people inline data from HathiTrust into their own OPAC or similar system.
+
+This is an unofficial API and is not owned, maintained, or endorsed by HathiTrust Digital Library.
+catalog inline library OPAC unofficial 
+Education

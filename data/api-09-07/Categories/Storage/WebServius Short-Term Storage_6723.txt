@@ -1,0 +1,17 @@
+amazon 1
+engine 1
+file 1
+format 1
+http 1
+period 1
+post 1
+protocol 1
+response 1
+secret 1
+short 4
+storage 6
+store 1
+term 3
+underlie 1
+url 2
+utility 1

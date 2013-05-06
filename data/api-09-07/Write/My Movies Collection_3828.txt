@@ -1,0 +1,7 @@
+Movie and TV show collection management service
+My Movies Collection
+My Movies Collection is an online application that allows users to keep track of and organize their movie and TV collections. Users can input and keep track of their digital movies and TV shows, hard copy movies and TV shows, and list movies and TV shows that they don&#039;t have but want.
+
+The My Movies Collection API allows developers to access and integrate the functionality and data of the My Movies Collection with other applications. The available API methods are listing movie and TV collections, checking and unchecking the status of the movies and TV shows, and marking items as &quot;seen.&quot;
+collection entertainment movies television 
+Entertainment

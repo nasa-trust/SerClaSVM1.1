@@ -1,0 +1,17 @@
+add 1
+book 4
+exchange 1
+format 1
+free 1
+item 2
+list 1
+member 1
+paperback 3
+protocol 1
+purchase 1
+retrieval 1
+return 1
+swap 3
+trade 1
+trading 1
+wish 1

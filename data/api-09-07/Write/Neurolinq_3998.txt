@@ -1,0 +1,7 @@
+Digital media marketing
+Neurolinq
+Neurotic Media provides technology-enabled marketing and distribution services for digital media including music, videos, and ringtones. Neurotic Media gives clients control over how they commercialize digital media using private-labeled stores and API services.
+
+Neurolinq is Neurotic Media&#039;s API suite. Use Neurolinq Products for file delivery, Neurolinq Awards for award redemption and POS card activation services, and Neurolinq Checkout for hosted or non-hosted checkout and payment services. Neurolinq uses the XML-RCP protocol.
+marketing payment shopping 
+Shopping

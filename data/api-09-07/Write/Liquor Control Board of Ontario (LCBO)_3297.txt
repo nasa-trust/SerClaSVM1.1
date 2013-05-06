@@ -1,0 +1,5 @@
+Liquor store, product and inventory lookup service
+Liquor Control Board of Ontario (LCBO)
+This is an API that accesses information from, but is not affiliated with, the Liquor Control Board of Ontario (LCBO). It is intended to provide data to mobile and web applications. The API uses RESTful protocol to allow users to get store, product, and inventory information in JSON format.
+alcohol canada shopping 
+Shopping

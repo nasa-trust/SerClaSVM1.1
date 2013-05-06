@@ -1,0 +1,7 @@
+Aid spending index
+International Aid Transparency Initiative
+The International Aid Transparency Initiative (IATI) makes information about aid spending more easily discoverable and usable. The IATI Registry is an online, searchable index on information about aid spending. Datasets include activity files for AIDS Alliance; DFID; European Union; World Bank; activity files for many countries; and more.
+
+The IATI Registry is powered by CKAN, the Comprehensive Knowledge Archive Network and data can be accessed via the CKAN RESTful API.
+finance government 
+Government

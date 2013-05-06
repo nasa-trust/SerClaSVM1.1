@@ -1,0 +1,17 @@
+audio 1
+build 1
+create 1
+language 1
+light 1
+making 1
+meme 3
+photo 1
+platform 2
+post 1
+query 1
+simple 1
+stuff 1
+table 1
+text 1
+video 1
+yahoo 4

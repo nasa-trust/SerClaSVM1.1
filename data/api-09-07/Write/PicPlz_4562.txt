@@ -1,0 +1,5 @@
+Photo sharing and filtering platform
+PicPlz
+Photo sharing mobile application picplz has a new API that has entered beta. The service provides read/write access to the picplz platform for sharing and editing photos. Developers can upload photos and use filter effects including &quot;Instant Film,&quot; &quot;Russian Toy Camera,&quot; &quot;the 70s&quot; and &quot;High Contrast Monochrome.&quot; The API also provides read access to others&#039; photos. Like its mobile apps, the API likely lets you add a caption and tag your location.
+effects Filters mobile photo upload 
+Photos

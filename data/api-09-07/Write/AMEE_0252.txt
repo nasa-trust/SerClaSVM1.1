@@ -1,0 +1,5 @@
+Carbon and energy calculation service
+AMEE
+AMEE is a platform for greenhouse gas calculation, with access to emissions factors, calculation algorithms, and storage for data history. Our science team take the published methodologies from the science community and put them into a simple unified API, so you don&#039;t have to trawl through PDFs and spreadsheets to work it all our yourself. With over 8 million possible calculations, the platform covers everything from simple electricity calculations through to insanely complex industrial processes. If you need to work out the environmental impact of an activity, AMEE has the environmental intelligence you need.
+carbon cleantech cleanweb climate environment green 
+Science

@@ -1,0 +1,7 @@
+Local time, time zone, and date service
+TimeAndDate
+The web service provides time and date information for locations worldwide. Options include local time and time zone, Daylight Saving Time dates, sunrise/sunset times, and more. Other services provide information about local holidays and international calling codes. Data can be integrated with online calendars and other IP-lookup/geolocation services.
+
+Methods allow current time retrieval for a location and time zone conversion between locations. Methods also return information about Daylight Savings Time and day-off holidays for a location.
+holidays time utility 
+Utility

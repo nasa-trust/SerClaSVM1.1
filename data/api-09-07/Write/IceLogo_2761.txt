@@ -1,0 +1,9 @@
+Peptide sequence alignment consensus visualization
+IceLogo
+IceLogo is a program that generates a sequence logo for aligned peptide sequences. A sequence logo is a histogram-like presentation in which the bars are vertical stacks of symbols. Stack height reflects the level of pattern conservation in aligned peptide sequences, and the height of individual symbols is a measure of their frequency at a given position.
+
+Unlike other sequence logo generating programs that rely on Shannon???s information theory, IceLogo operates based on probability theory. Basically, the algorithm takes the experimental set and compares it with a reference set, which can be configured by the user. These two sets are used in a probability analysis, and the results are shown in the resulting sequence logo.
+
+IceLogo&#039;s functions are freely available as an API using the SOAP protocol.
+science visualization 
+Science

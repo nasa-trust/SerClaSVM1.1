@@ -1,0 +1,7 @@
+U.K. legal document search service
+Justis
+The legal topic search service allows applications to integrate results on specific areas of law relevant to U.K. cases such as case law in Irish courts, European Union Directives, U.K. statutes, etc. Results provide links to retrieve full-text documents both managed by the service and from other providers. Results can be filtered and sorted for effective targeting of queries.
+
+API methods support submission of a search query string with parameters to control number and type of results, sorting, etc. Returned data include identifiers for retrieving source documents, with or without query terms highlighted, many with options for source format or PDF. A separate JustCite API provides citations of legal cases and precedents.
+documents law search uk 
+Search

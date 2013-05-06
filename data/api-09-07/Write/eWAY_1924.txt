@@ -1,0 +1,5 @@
+Online payments gateway
+eWAY
+eWAY is an Australian payment gateway solution that lets retailers process their customers&#039; online payment transactions in real time. The eWAY API allows developers to integrate the eWAY services into their own web sites and applications. Functionality includes the ability to offer hosted and redirected payment processing, refund processing, setup of automated payments, fraud monitoring and more. The API uses HTTP calls and responses are formatted in XML.
+ecommerce gateway payment 
+Payment

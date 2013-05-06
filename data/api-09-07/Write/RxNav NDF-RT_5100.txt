@@ -1,0 +1,7 @@
+Drug and medication terminology service
+RxNav NDF-RT
+The service provides programmatic access to the current National Drug File - Reference Terminology (NDF-RT) data set. The NDF-RT articulates a standard vocabulary, or reference terminology, for the list of medications recognized by the U.S. Veterans Administration (VA). It establishes a formal description format and ontology for therapeutic drugs to encourage consistent terminology across providers and applications.
+
+API methods support queries for all medications or subgroups of the full list, including associated compounds and those with parent-child relationships. Methods also support specification of drug properties and interactions.
+drugs medical taxonomy 
+Medical

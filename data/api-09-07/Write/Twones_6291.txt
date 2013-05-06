@@ -1,0 +1,5 @@
+Social music service
+Twones
+Twones offers two APIs: the Twones.Services API and the Twones.Tracker API. Use the Services API to access the functions of the site, such as adding friends, viewing artist information, getting play count information, and so on. Use the Tracker API to get your music site tracked on Twones if you offer music audio/video playback on your site. Twones is a music service that offers innovative ways to store, organize, find, and share music available online (YouTube, Myspace, Last.fm, Blogs) or on your computer (iTunes) to one place. Twones ties music together and lets you share with others. Contact to obtain docs.
+deadpool music social 
+Music

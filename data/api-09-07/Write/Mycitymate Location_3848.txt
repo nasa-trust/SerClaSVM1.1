@@ -1,0 +1,5 @@
+Local user reviews and city guides
+Mycitymate Location
+Use the MyCityMate Location API to insert venues, reviews, your present location, and more into your web site, social network, or application. Mycitymate is about finding and sharing the places in cities around the world. With the Mycitymate Location API, you get access to a wide range of rich venue content that you can add to your social network, site, or application. An email address is required to get documentation and access to the API.
+events food local places 
+Recommendations

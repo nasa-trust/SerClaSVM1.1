@@ -1,0 +1,7 @@
+3D Landscape Tool
+Ericsson 3D Landscape
+The Ericcson Labs 3D Lanscape tool is available in several different SDKs and as a web service. The 3D Landscape web service API is a RESTful API that returns a JPG image based on the request parameters. The 3D images can be used as standalone images, or be integrated into other map applications.
+
+Currently, 3D Landscapes are only available for the cities of Oslo (Norway) and Stockholm (Sweden).
+3d mapping norway photo sweden telephony 
+Mapping

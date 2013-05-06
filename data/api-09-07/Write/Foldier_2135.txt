@@ -1,0 +1,5 @@
+Personal online file sharing and mangement 
+Foldier
+Foldier offers users tools for searching, aggregating, organizing and sharing personal content. The foldier API is a RESTful interface that allows external applications to request services from foldier. 
+file-sharing storage 
+File Sharing

@@ -1,0 +1,13 @@
+ability 1
+authentication 2
+enhance 1
+environment 1
+even 1
+follow 1
+further 1
+give 1
+identity 1
+privacy 1
+protocol 1
+security 3
+while 1

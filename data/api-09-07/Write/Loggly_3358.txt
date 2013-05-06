@@ -1,0 +1,7 @@
+Cloud Based Logging Service
+Loggly
+Loggly is a cloud based logging service, with tools for collecting data in any format, searching data easily and accessing data analytics. Loggly also provides a RESTful API for developers to create their own applications around the Loggly services. Developers can send events to Loggly, retrieve events and access inputs and devices.
+
+Loggly is currently in Beta stage.
+cloud internet tools 
+Tools

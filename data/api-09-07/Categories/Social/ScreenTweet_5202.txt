@@ -1,0 +1,16 @@
+build 1
+dynamic 1
+feedback 1
+image 1
+medium 1
+photo 1
+picture 1
+screen 1
+share 1
+sharing 1
+shot 1
+social 2
+twitter 2
+value 1
+video 2
+welcome 1

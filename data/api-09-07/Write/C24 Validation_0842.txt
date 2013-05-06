@@ -1,0 +1,5 @@
+SWIFT message validation service
+C24 Validation
+C24 creates software for standards-based messaging and  provides integration solutions aimed at the wholesale financial services markets. The C24 API lets users validate a SWIFT message. The API asks users to specify the appropriate SWIFT Standard to use and the message to validate, then returns the validation result, and the eventual parsing or validation errors. The API uses HTTP calls and responses are formatted in JSON. A free trial period of 5 days is offered to developers.
+finance validation 
+Financial

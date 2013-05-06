@@ -1,0 +1,7 @@
+Cook County, IL government data
+Data.CookCountyIL.Gov
+Data.CookCountyIL.Gov is the web portal for the Cook County, Illinois Government. Data related to courts, economic development, health care, public safety, and more, is available through the website and API.
+
+Data.CookCountyIL.Gov uses the Socrata Open Data API, which supports a RESTful protocol and returns responses in a variety of formats including JSON and XML.
+county datasets government Illinois 
+Government

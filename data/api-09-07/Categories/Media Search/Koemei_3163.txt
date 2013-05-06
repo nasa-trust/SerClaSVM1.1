@@ -1,0 +1,17 @@
+asset 1
+audio 5
+example 1
+file 5
+functionality 1
+index 1
+integrate 1
+making 1
+medium 4
+method 1
+retrieve 2
+search 2
+transcribe 1
+transcript 2
+transcription 3
+upload 1
+video 5

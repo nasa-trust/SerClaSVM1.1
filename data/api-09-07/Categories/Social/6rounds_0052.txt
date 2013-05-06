@@ -1,0 +1,12 @@
+activity 1
+chat 1
+combine 1
+entertainment 2
+flash 2
+fun 1
+game 1
+platform 2
+real 1
+social 4
+way 1
+webcam 1

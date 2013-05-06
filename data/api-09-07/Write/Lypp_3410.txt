@@ -1,0 +1,5 @@
+VoIP Callback & Teleconferencing API
+Lypp
+The Lypp API and Lypp Rails Plugin enables rapid VoIP feature implementation leveraging callback technology: Click-to-Call and Click-to-Conference, virtual phone booth calling features, and integration of basic and advanced telephony such as embedded email and profile call links for FaceBook, MySpace and other web-based and mobile applications and services.
+callback lypp messaging SIP telephony VoIP 
+Telephony

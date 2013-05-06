@@ -1,0 +1,5 @@
+Aerial photography and mapping service
+GetMapping
+Note: Sign-up is required to view developer documentation. From their site: The GetMapping Imagery API for mobile devices will give developers access to Getmapping?s complete archive of aerial photography of Britain, at a variety of zoom levels up to 12.5 cms per pixel. Because of the increased clarity provided by the photography, mobile users will be able to see details on the ground as small as garden furniture and road markings anywhere in the country. 
+mapping mobile photo uk 
+Mapping

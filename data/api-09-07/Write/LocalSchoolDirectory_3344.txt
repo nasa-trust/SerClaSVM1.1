@@ -1,0 +1,8 @@
+School information and search service
+LocalSchoolDirectory
+The service provides data about K-12 public, private, and charter schools along with other education options in the vicinity of a specified location. Information provided include location -- address and latitude/longitude -- along with grades taught, number of enrolled students and faculty, student:teacher ratio, and notes on record.
+
+API methods support submission of a search location as five-digit ZIP code or city and state. Requests can limit matches by the school type, grade level, and distance from the specified location. 
+
+neighborhoods ratings reference school search 
+Reference

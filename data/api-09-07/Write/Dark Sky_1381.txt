@@ -1,0 +1,7 @@
+Short term weather forecasting service
+Dark Sky
+Dark Sky is an app that predicts the weather using location to figure out when it???s going to precipitate in the immediate future. It is meant to forecast the weather for a given location up to an hour in advance.
+
+The Dark Sky API allows users to query for short-term precipitation forecast data at geographical points inside the United States. It can provide an hourly forecast, forecasts for a collection of points and a list of interesting storms currently happening. The API uses RESTful calls and responses are formatted in JSON.
+forecast weather 
+Weather

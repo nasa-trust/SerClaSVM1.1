@@ -1,0 +1,6 @@
+desktop 1
+gadget 2
+sidebar 2
+vista 1
+widget 2
+windows 2

@@ -1,0 +1,5 @@
+News article retrieval by topic 
+XML ME Get Custom News
+The XML ME Get Custom News API allows users to retrieve news articles on a topic of their choosing. The user inputs a desired news topic, and the API returns a list of articles from Moreover&#039;s news service. This API is available via SOAP calls using the XML data format.
+news 
+News

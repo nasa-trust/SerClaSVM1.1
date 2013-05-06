@@ -1,0 +1,5 @@
+Article text and metadata extraction tool
+Clear Read
+Clear Read is a service for extracting article text and metadata from a URL. The API takes any article URL as an input and turns it into a full-text XML feed that can be integrated into a third party application. Along with the article text, Clear Read pulls out metadata such as title, description and link. The API uses RESTful calls and responses are formatted in XML and JSON.
+extraction internet metadata tools 
+Tools

@@ -1,0 +1,7 @@
+Social network creation service
+Grou.ps
+Grou.ps is a service that allows users to create their own social networks. Grou.ps allows organizations, companies, schools, and other groups create their own private social networks to keep their employees, students, members connected.
+
+The Grou.ps API allows developers to access and integrate the functionality of Grou.ps with other applications and to create new applications. Some example API methods include managing account information, managing user information, and retrieving network information. 
+business education networking organization social 
+Social

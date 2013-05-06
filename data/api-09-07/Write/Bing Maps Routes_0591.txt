@@ -1,0 +1,5 @@
+Mapping route creation service
+Bing Maps Routes
+The Bing Maps Routes API can be used to create routes that includes two or more locations and to create routes from major roads. Users have the option of creating routes for both driving and walking. Driving routes can include traffic information and the final routes can be overlaid routes on map imagery. The API uses REST and SOAP protocol and responses are formatted in XML, JSON and JSONP.
+Directions mapping 
+Mapping

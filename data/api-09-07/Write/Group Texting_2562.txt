@@ -1,0 +1,7 @@
+SMS Messaging Service
+Group Texting
+The GroupTexting API allows users to add text messaging to their applications. Group Texting uses long codes to let users send text messages from their computer using a browser. Shared long codes (aka long numbers / DIDs) and dedicated codes are available. The API also offers features such as checking & buying credits, checking, buying & configuring keywords, managing contacts and more. The API uses RESTful protocol and responses are formatted as TXT.
+
+Coverage in 160 countries. 
+Global messaging sms telephony text 
+Messaging

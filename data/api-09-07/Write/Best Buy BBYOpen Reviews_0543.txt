@@ -1,0 +1,7 @@
+Shopping reviews service
+Best Buy BBYOpen Reviews
+BBYOpen is Best Buy???s effort to open their sets of data. The data made available includes items being sold, company knowledge and services offered  in an effort to encourage developers to build relevant apps. BBYOpen offers new sources of data, access to BETA APIs, promotion of apps built using BBYOpen APIs, tools to help get started, and incentive models to reward developer work.
+
+The Reviews API allows access to every individual review submitted for the products sold by Best Buy. In addition users can access information such as reviewer, rating, date submitted and review commentary. The API uses RESTful calls and responses are formatted in XML,JSON and JSONP.
+reviews shopping 
+Shopping

@@ -1,0 +1,7 @@
+Insurance regulation compliance services
+NAIC SERFF
+The service from the National Association of Insurance Commissioners (NAIC) encourages voluntary compliance with its SERFF program (System for Electronic Rate and Form Filing). It presents a single, consistent way for insurers to comply with reporting requirements of NAIC-member state governments. It facilitates automated filing of insurance provider rate and form documentation, triggering regulatory review and approval.
+
+API methods support periodic filing of required insurance rate documentation and other required forms. Methods also support submission, response, and tracking of correspondence between providers and regulatory agencies along with updating previous submissions and managing file attachments as part of submissions.
+financial government Insurance state 
+Financial

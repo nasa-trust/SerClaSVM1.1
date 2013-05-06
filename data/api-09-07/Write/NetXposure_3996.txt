@@ -1,0 +1,5 @@
+Digital asset management software
+NetXposure
+NetXposure is a provider of Digital Asset Management(DAM) software offered in both on premise and cloud based models. The software offers extensive functionality including search, automatic indexing, and saved searches, granular targeting, faceted search, publishing, collaborating, sharing and syndicating and video management. The API allows developers to integrate the software with their own websites and applications. Custom processes can be created that push and pull data between the systems. It uses REST and SOAP protocol and responses can be formatted in XML, JSON and RSS.
+Asset content digital media-management 
+Media Management

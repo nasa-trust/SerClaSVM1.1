@@ -1,0 +1,5 @@
+On demand human translation services
+MyMemory HTS
+MyMemory is the world&#039;s largest Translation Memory created by collecting TMs from the European Union, United Nations and aligning the best domain specific multilingual websites. MyMemory gives users access to a large number of translations from professional translators, LSPs, customers and multilingual web content. It uses a matching algorithm to provide the best translations available for a given source text. The HTS API gives users access to on demand human translation services. The API lets users request and receive a professional translation without having to exchange documents via e-mail. It uses HTTP, SOAP, XLIFF (XML Localization Interchange File Format) calls with responses in XML.
+Human language Translation 
+Tools

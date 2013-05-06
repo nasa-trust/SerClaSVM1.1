@@ -1,0 +1,7 @@
+SMS messaging service
+Oventus
+The Oventus API provides web services for sending and receiving SMS, requesting location lookups for mobile devices, managing contacts, delivering reports, and other mobile-centric functionality. Oventus enables bulk SMS, multi-channel mass broadcasts, custom voice-messaging, and geo-location services using PageOne&#039;s messaging gateway.
+
+Developers can integrate their applications or devices with Oventus services using REST or SOAP, though their SOAP services provide more functionality.
+messaging sms 
+Messaging

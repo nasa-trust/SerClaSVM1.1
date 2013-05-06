@@ -1,0 +1,5 @@
+Online shipping marketplace
+uShip
+uShip is an online shipping marketplace that connects people with customer-reviewed transport companies. Transporters use uShip to place competing bids to win a customer&#039;s business. uShip?s API allows partners, affiliates, and 3rd party application developers to interact with the uShip marketplace. Using the API, users can create applications that interface with the uShip platform and build on uShip&#039;s existing functionality. Full documentation is available by contacting the uShip team.
+marketplace shipping transport 
+Shipping

@@ -1,0 +1,5 @@
+Email and social media integration platform
+BrandMyMail
+BrandMyMail offers a platform that lets users customize their email using social media. Users can add dynamic social content such as Twitter and Facebook updates, YouTube videos, blog posts, videos and more. In addition the platform gives users analytics tools that count the total emails sent, open rates and clicks. The API allows users to integrate the BrandMyMail platform with enterprise software. It uses HTTP calls and responses are formatted in XML and JSON.
+email social 
+Email

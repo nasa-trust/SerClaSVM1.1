@@ -1,0 +1,12 @@
+Cloud based mobile data CMS
+StorageRoom
+StorageRoom is a cloud-based CMS for the data in user Mobile Applications. It provides a platform to manage content online and to integrate that content into one or multiple mobile or desktop apps. The API lets users integrate the StorageRoom service into their applications. The API provides almost all of StorageRoom&#039;s functionality including:
+
+    Create a new Collection that contains further Entries
+    Add new Entries, your Collection&#039;s validation rules will be obeyed
+    Update or delete any Entry
+    Search all your Entries to only get the data you require.
+
+It uses RESTful calls and responses are formatted in JSON.
+cloud cms mobile storage 
+Storage

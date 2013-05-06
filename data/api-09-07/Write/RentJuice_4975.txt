@@ -1,0 +1,5 @@
+Real estate data management 
+RentJuice
+RentJuice provides rental relationship management software for brokers and landlords. Their software provides functionality for data organization and sharing. Brokers and landlords can digitize paperwork, share market and inventory information, and communicate with colleagues and prospective renters. Their RESTful API uses JSON, PHP, and XML. It provides integrative access to users??? raw listings data through outside applications. 
+marketing project-management realestate 
+Real Estate

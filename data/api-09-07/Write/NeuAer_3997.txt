@@ -1,0 +1,7 @@
+Proximity platform and application
+NeuAer
+NeuAer is a platform that allows users to automate actions in their digital lives by detecting things happening and things around users in their physical lives. Using proximity applications, NeuAer allows users to connect their phones with other devices and items.
+
+The NeuAer API allows developers to access and integrate the functionality of NeuAer with other applications and to create new applications. Some example API methods include connecting devices, managing devices, and managing account information.
+location mobile telephony tools 
+Telephony

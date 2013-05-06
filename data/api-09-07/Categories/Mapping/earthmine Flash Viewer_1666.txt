@@ -1,0 +1,14 @@
+contact 1
+datum 1
+flash 3
+image 2
+imagery 1
+integrate 1
+latitude 1
+level 2
+longitude 1
+mapping 2
+photo 1
+search 2
+street 2
+viewer 2

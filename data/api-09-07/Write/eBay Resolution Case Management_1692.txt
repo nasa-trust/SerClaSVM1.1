@@ -1,0 +1,9 @@
+eBay transaction complaint resolution management service
+eBay Resolution Case Management
+eBay&#039;s Resolution Case Management service allows users to retrieve, track, manage, and resolve complaint cases opened by buyers in the eBay Resolution Center. 
+
+The API is primarily used by sellers to retrieve, track, manage, and resolve all eBay &quot;Buyer Protection,&quot; &quot;Item Not Received,&quot; and &quot;Significantly Not As Described&quot; cases that are opened by buyers in the Resolution Center. 
+
+The API has calls that allow sellers to issue full refunds or partial refunds to buyers, and to provide shipping information to the buyer for returns.
+resolution shopping transactions 
+Other

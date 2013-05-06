@@ -1,0 +1,5 @@
+Group chat service
+Chatterous
+Chatterous is group chat combining the web, im, email and your phone. You can create groups of friends to chat together, but your friends can use their preferred chatting software--no need to even join Chatterous. The Chatterous API lets you access and edit members and groups, as well as send and search messages. The API is currently in public beta.
+chat im social 
+Chat

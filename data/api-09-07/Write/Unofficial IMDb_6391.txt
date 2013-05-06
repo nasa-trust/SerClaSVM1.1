@@ -1,0 +1,9 @@
+Unofficial search interface for Internet Movie Database (IMDb)
+Unofficial IMDb
+The IMDb API is an unofficial, but useful, API that allows users to search for and view JSON formatted information from IMDb. The API is free to use, and provides good information if you already know the title or ID of the movie.
+
+The API returns a number of pieces of movie metadata, including the release year, release date, MPAA rating, movie runtime, genre, director, writers and main crew. Developers can also access the movie&#039;s short plot description and imagery, useful in providing a quick snapshot of movie information. IMDb&#039;s rating and number of votes is also exposed.
+
+As with any unofficial API, this should be considered beta or worse.
+entertainment movies reference television unofficial 
+Reference

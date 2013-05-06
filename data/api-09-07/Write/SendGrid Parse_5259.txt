@@ -1,0 +1,7 @@
+Email parsing and posting service
+SendGrid Parse
+SendGrid&#039;s cloud-based email helps keep emails out of spam folders, provides a cloud service that scales with email demands, and provides email analytics to track opens and clicks.
+
+The Parse API can parse the attachments and contents from incoming emails and post them to a web application. The  API will POST the parsed email to a URL configured in the user account. Use cases for the API include: posting blog articles via email, processing email replies in a mailing list, allowing users to upload pictures to their profile via email, submit support requests via email. The API uses RESTful calls and responses are formatted in JSON.
+email tools 
+Email

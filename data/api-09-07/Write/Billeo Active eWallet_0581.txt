@@ -1,0 +1,5 @@
+Online payments management service
+Billeo Active eWallet
+Billeo is a free online service that aims to make web transactions easier for users. It lets users manage passwords, pay bills and shop online. The Billeo Active eWallet API allows issuers of credit, debit, prepaid and gift cards to include their cards as a payment option in Billeo&#039;s Active Context platform. Issuers can integrate their cards and provide easy set up of wallets, balance checking, card details and reloading of prepaid cards. Documentation is not publicly available but developers can contact the provider for more information.
+finance payment shopping 
+Payment

@@ -1,0 +1,7 @@
+Mobile payment processing service
+FaceCash
+FaceCash is a mobile payment platform that allows users to pay for goods and services with face recognition technology at merchants that accept FaceCash. FaceCash also offers mobile coupons for participating merchants. 
+
+The FaceCash API allows developers to integrate FaceCash functionality with merchant&#039;s point of sale applications and other applications. Public documentation is not available; API access comes with a FaceCash account. 
+face mobile payment recognition 
+Payment

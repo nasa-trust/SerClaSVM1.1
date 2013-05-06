@@ -1,0 +1,5 @@
+Weather data retrieval and forecasting service
+NCEP North American Mesoscale
+The National Centers for Environmental Prediction (NCEP) North American Mesoscale (NAM) Model retrieves and analyzes data taken from across the continental U.S. to make predictions about future weather conditions. Data used by this model comes from the Advanced Weather Interactive Processing System (AWIPS). The SOAP API for accessing the NCEP NAM functionality is provided by CUAHSI Hydrologic Information System (HIS).
+government weather 
+Weather

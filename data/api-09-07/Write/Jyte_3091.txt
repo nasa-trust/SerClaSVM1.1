@@ -1,0 +1,5 @@
+Community voting service
+Jyte
+Create a &quot;claim&quot; and let people vote it up or down. Jyte was built as a reputation service, but anything you can claim can be added and voted upon. The API provides your applications access to Jyte groups and contacts.
+social voting 
+Social

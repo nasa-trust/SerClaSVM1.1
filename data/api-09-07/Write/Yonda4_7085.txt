@@ -1,0 +1,5 @@
+Reading lists and recommendations
+Yonda4
+Yonda4 is a social site where users can post the books that they are reading and make recommendations. The API lets developers get reading records across the entire site and book records from a particular user given their twitter username. The API uses RESTful calls and responses are formatted in JSON and RSS. The site and documentation are in Japanese.
+books japan recommendations social Twitter 
+Recommendations

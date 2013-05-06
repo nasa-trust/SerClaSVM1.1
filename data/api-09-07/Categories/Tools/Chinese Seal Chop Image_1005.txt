@@ -1,0 +1,6 @@
+chinese 1
+chop 1
+image 1
+longer 1
+seal 1
+tool 1

@@ -1,0 +1,5 @@
+Real-time business dashboard
+Geckoboard
+The Geckoboard API allows user to configure widgets to consume data controlled by the user. Geckoboard is a hosted, real-time status board for businesses serving up the indicators chosen by the user. The RESTful API gives users the ability to build custom charts from various data sources in XML or JSON format.
+enterprise metrics realtime 
+Enterprise

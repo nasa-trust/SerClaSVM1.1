@@ -1,0 +1,5 @@
+Bad word list filtering service
+theFilthylist.com
+The Filthylist SOAP API is a free text sanitation service. Users can submit a string for &quot;Does Contain&quot; and &quot;Asterick-Out&quot; functionality, with a 50 submissions per day cap per registered domain. The idea is to see which dirty words people think are the worst, and also see all the variations of that word or expression that people are using.   Some words after enough votes will reach a &quot;Golden&quot; status, which means that pretty much everyone agrees that a word is certainly filthy. Premium service is also available which allows users to create and manage custom bad word lists for various sites, as well as get up to unlimited access.
+utility 
+Utility

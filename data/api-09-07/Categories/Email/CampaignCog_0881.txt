@@ -1,0 +1,17 @@
+campaign 2
+contact 1
+datum 1
+documentation 1
+email 9
+forward 1
+functionality 1
+interest 1
+list 1
+marketing 2
+metrics 1
+open 1
+people 2
+public 1
+read 1
+send 1
+track 1

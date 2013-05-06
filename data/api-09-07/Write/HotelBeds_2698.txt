@@ -1,0 +1,5 @@
+Travel accomodations service
+HotelBeds
+Hotelbeds accommodation & destination services is a provider of incoming travel services to travel trade professionals worldwide currently serving over 2,500 resorts across more than 80 countries. Hotelbeds provides an API for developers to integrate the functionality of hotelbeds.com into their own branded website. The API uses both REST and SOAP protocol with responses formatted in XML. Full documentation is not publicly available.
+deadpool hotel travel 
+Travel

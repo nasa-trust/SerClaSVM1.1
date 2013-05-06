@@ -1,0 +1,16 @@
+address 2
+country 6
+customer 1
+detection 2
+email 1
+force 1
+format 1
+get 1
+identify 1
+internet 1
+list 1
+mapping 1
+number 1
+select 1
+telephone 1
+uk 1

@@ -1,0 +1,15 @@
+communication 1
+format 1
+http 1
+integrate 1
+interface 1
+messaging 3
+mobile 1
+one 1
+provider 1
+receive 1
+sending 1
+sm 5
+soap 1
+two 1
+way 2

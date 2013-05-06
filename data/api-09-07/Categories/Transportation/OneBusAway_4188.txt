@@ -1,0 +1,16 @@
+call 1
+format 1
+mobile 1
+power 1
+real 1
+region 1
+response 1
+same 1
+seattle 2
+sound 1
+tool 1
+transit 3
+transportation 1
+travel 1
+washington 1
+write 1

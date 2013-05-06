@@ -1,0 +1,7 @@
+Corporation accountability research service
+CorpWatch
+CorpWatch is a non-profit organization that uses investigative research and journalism to expose corporate malfeasance and to advocate for multinational corporate accountability and transparency. 
+
+The CorpWatch API uses automated parsers to extract the subsidiary relationship information from Exhibit 21 of companies&#039; 10-K filings with the SEC and provides a free, well-structured interface for programs to query and process the data. Using the API users can access hundreds of thousands of formal names of public corporations, a consistent ID system for companies, locations associated with companies, subsidiary/parent relationships between companies, alternate and former names for companies and a link to the SEC filing. The API uses a RESTful interface and responses are formatted in either XML or JSON.
+advocacy nonprofit 
+Other

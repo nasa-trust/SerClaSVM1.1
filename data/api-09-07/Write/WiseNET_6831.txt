@@ -1,0 +1,5 @@
+Information management services for educational organizations
+WiseNET
+WiseNET is an information management solutions provider for registered training organizations based in Australia and New Zealand. They help vocational training institutions grow their business with information technology that supports educational programs and customer/student relations. They offer a range of products, including cloud-based financial workflow streamlining, customer satisfaction surveys, professional consultation, and more. WiseNET???s API is REST-based and exposes their data posting and retrieval functionality. It returns XML and JSON-formatted data. 
+cloud education management training 
+Education

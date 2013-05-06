@@ -1,0 +1,5 @@
+Domain specific site search service
+Spiderline Site Search
+Spiderline is a hosted site search service  providing domain-specific site search functionality. An XML API is provided with the service. Public documentation of the API is not available.
+internet search 
+Search

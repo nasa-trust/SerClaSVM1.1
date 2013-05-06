@@ -1,0 +1,12 @@
+end 1
+enhance 1
+germany 1
+gps 1
+location 4
+mobile 1
+place 1
+provider 1
+share 1
+social 4
+transition 1
+uk 1

@@ -1,0 +1,5 @@
+List creation and management
+gubb
+From their site: gubb is a free web-based application with an easy-to-use interface that enables you to create, manage and share an unlimited number of lists. The gubb API exists to help developers create non-commercial applications, browser plug-ins and other software that interacts with data inside of gubb. Very Exciting Point: The gubb API offers the ability to filter/query items across lists (abilities not exposed in the gubb web application). All calls are format as /api/[object-class]/[method-name].[response-format]
+database 
+Database

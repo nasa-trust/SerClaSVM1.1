@@ -1,0 +1,5 @@
+Rewards program services for small businesses
+RapidPoints
+The RapidPoints API enables third-party developers, such as point of sale system providers, to integrate RapidPoints functionality into their application. RapidPoints&#039; main site helps small businesses reward their valued customers, such as with exclusive offers from a business. Use the API to get reward rules, get the number of reward points based on a reward rule, award customer reward points, redeem reward points from a customer, create new customers, search for customers, and determine whether a customer is a new customer.
+business coupons enterprise shopping 
+Enterprise

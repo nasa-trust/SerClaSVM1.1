@@ -1,0 +1,5 @@
+French web hosting company
+OVH.com
+OVH is the No. 1 web hosting company in France and second largest in Europe. SoAPI is a webservice that lets users buy and configure OVH products without needing to connect to Manager web interface. With the WSDL technology, developers use OVH methods remotely in scripts of few lines only, with a number of popular programming language. SoAPI currently has 487 methods, divided into 20 groups. Solutions for entry-level high availability solutions, OVH accompanies changing needs in terms of high availability hosting.
+france hosting internet 
+Internet

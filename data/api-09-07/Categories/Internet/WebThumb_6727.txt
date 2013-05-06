@@ -1,0 +1,6 @@
+generation 1
+image 1
+internet 2
+page 1
+support 1
+thumbnail 2

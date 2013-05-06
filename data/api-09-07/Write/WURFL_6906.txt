@@ -1,0 +1,5 @@
+Phone capability query service
+WURFL
+The WURFL is an XML configuration file which contains information about capabilities and features of many mobile devices. WURFL Web Service provides a RESTful interface to the WURFL database. If a user is writing a web application for mobile phones and needs to know the capabilities of a specific device, they can use this service to query the exact capabilities of the device without having to build an implementation of WURFL. Responses are returned in JSON format.
+mobile shopping telephony 
+Telephony

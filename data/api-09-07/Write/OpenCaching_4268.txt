@@ -1,0 +1,5 @@
+Geocaching Data Set Service
+OpenCaching
+The OpenCaching API gives users the ability to query all of the data stored in the OpenCaching.com database. The service can also authorize users to update and write to the database. The API uses REST calls and will return JSON, XML, or  plain text depending on which data request is sent.  The OpenCaching service is a community based geocaching service with user generated content. The site is a subsidiary of Garmin Ltd. 
+games geocaching sports 
+Sports

@@ -1,0 +1,7 @@
+Small and medium-sized business phone service
+InVox
+Cloud-based service supporting business phone systems for small and medium-sized companies. The web-based phone designer tool allows users to build business telephone systems and advanced IVR systems without installing any new software or hardware using a visual drag-and-drop interface without programming. Data integration capabilities include real-time data exchange. Applications can scale to handle tens of simultaneous calls.
+
+
+sms telephony Voice voicemail 
+Telephony

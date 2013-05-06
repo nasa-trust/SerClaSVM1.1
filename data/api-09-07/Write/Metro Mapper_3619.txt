@@ -1,0 +1,7 @@
+Louisville, Kentucky data maps
+Metro Mapper
+Metro Mapper is an online, interactive data map service. Metro Mapper provides mapped data from public and private sources, mainly for the Louisville Metro area and Kentucky, with some mapped data for the U.S. Featured maps include: homes for sale, property values, crime reports, and more for Louisville; traffic accidents, political contributions, and more for Kentucky; meth labs, bridge safety, toxic pollution emissions, and more for the nation. 
+
+Metro Mapper is powered by the Your Mapper platform and data is available via the Your Mapper API, which provides data in XML. There are 3 levels of usage for this API. 
+Data datasets geolocation Kentucky mapping 
+Mapping

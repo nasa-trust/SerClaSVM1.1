@@ -1,0 +1,5 @@
+Restaurant health inspection scores
+Pizza-Rat Restaurant Health
+With Pizza-Rat&#039;s Restaurant Health API, users get access to real-time restaurant health department inspection scores and results for over 20 cities worldwide. The API offers a RESTful interface and returns results/scores via XML format.
+food health restaurant 
+Food

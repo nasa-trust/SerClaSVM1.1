@@ -1,0 +1,5 @@
+Indonesian online dictionary, thesaurus and glossary
+Kateglo
+Kateglo is an online dictionary, thesaurus and glossary for the Indonesian language. The Kateglo API allows developers to utilize the data from the web site in their own sites or applications. The API uses RESTful calls and responses are formatted in XML and JSON.
+Dictionary indonesia reference Thesaurus 
+Dictionary

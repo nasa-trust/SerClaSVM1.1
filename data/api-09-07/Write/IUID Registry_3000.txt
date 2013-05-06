@@ -1,0 +1,5 @@
+U.S. Department of Defense procurement information service
+IUID Registry
+The service supports the DoD's Wide Area Workflow system for paperless contracting. It allows retrieval of specifications for items available for vendor bids to fulfill DoD purchase contracts, including purchase history for some items. The service also identifies vendors registered to bid on supply contracts. Vendors can use the system to help fulfill contract terms by transmitting shipping notices for electronic receipt and acceptance.
+government
+Government

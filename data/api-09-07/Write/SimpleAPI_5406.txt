@@ -1,0 +1,5 @@
+Web site thumbnail image creation
+SimpleAPI
+Japanese web service for creating web site thumbnail images.
+internet japan photo 
+Internet

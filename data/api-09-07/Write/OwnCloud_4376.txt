@@ -1,0 +1,7 @@
+File storage and sharing service
+OwnCloud
+OwnCloud is a document and data storage and sharing application. Documents and data uploaded to OwnCloud are stored in the cloud. Users can sync their files, share their files, and encrypt their files.
+
+The OwnCloud API allows developers to access and integrate the functionality of OwnCloud with other applications and to create new applications. Some example API methods include uploading files, syncing files, and sharing files. 
+cloud Data documents file-sharing storage 
+File Sharing

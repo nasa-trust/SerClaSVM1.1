@@ -1,0 +1,5 @@
+Web based printing service
+MOO
+From their site: Welcome to MOO. We&#039;re a printing company. Customers create a pack and then the pack is printed to pre-defined products. Create an XML document to determine where the user is placed in the process. For example, if you define a list of images that you want the user to select from to make a pack of cards, then they will be forwarded to the &#039;chooser&#039; page. If you specify a list of images that you want them to actually use, and the &#039;crop&#039; data associated with them then the user will be sent to the part of the process where they design the back of the cards.
+internet photo printing sbweb 
+Photos

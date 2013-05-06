@@ -1,0 +1,13 @@
+cycling 2
+documentation 1
+format 1
+limited 1
+listing 2
+mapping 2
+offering 1
+place 1
+public 1
+spain 1
+sport 2
+stations 2
+text 1

@@ -1,0 +1,5 @@
+Payment network
+Liberty Reserve
+The service provides secure, confidential exchanges between members of the network. Payment amounts may be denominated in U.S. dollars, Euros, or grams of gold. The service provides a digital currency for payments as an alternative to credit card processing. Payments are irrevocable once made.
+payment digital financial
+Payment

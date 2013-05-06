@@ -1,0 +1,7 @@
+Risk modeling service
+freerisk
+Freerisk is a project with the goal of making freely available the data, algorithms and tools necessary to perform risk modeling. This RESTful API allows users to create risk metrics. It acts as a credit risk calculator composed of a set of web calls and responses are formatted in JSON.
+
+According to the developers, as it currently exists, the API is a prototype that&#039;s largely undocumented.
+calculator modeling Risk 
+Enterprise

@@ -1,0 +1,5 @@
+Digital media analytics
+Adigami Web Analytics
+Adigami offers a digital media analytics monitoring and aggregation tool that lets users view their data in a single dashboard. The REST API is designed to jumpstart developers who need access to all the major web advertising analytics data. Support is included for Google AdWords and Analytics, Microsoft adCenter (Bing and Yahoo search ads), Facebook Ads, Facebook Social (Graph API), Twitter, DoubleClick (display and search results from ReportCentral), Yahoo APT (display ads), SendGrid, MailChimp, and Verve Wireless. It gives users a few dozen or so standard calls that are applicable across many platforms. Responses are formatted in JSON.
+adcenter adwords analytics bing doubleclick facebook 
+Advertising

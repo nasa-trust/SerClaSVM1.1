@@ -1,0 +1,10 @@
+call 1
+format 1
+fun 2
+generate 1
+generator 1
+idea 2
+integrate 1
+own 1
+response 1
+startup 3

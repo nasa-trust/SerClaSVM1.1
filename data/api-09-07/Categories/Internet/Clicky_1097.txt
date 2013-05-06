@@ -1,0 +1,13 @@
+analyze 1
+datum 2
+display 1
+extract 1
+internet 2
+manipulate 1
+own 1
+piece 1
+range 1
+see 1
+statistics 1
+store 1
+traffic 1

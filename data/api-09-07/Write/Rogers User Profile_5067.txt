@@ -1,0 +1,7 @@
+Mobile user subscription information
+Rogers User Profile
+Rogers is a leading provider of Wireless, Digital Cable TV, High Speed Internet and other mobile phone and data services throughout Canada. Catalyst is a third party developer program giving developers a space to build their products using Rogers&#039; assets including SMS, LBS, and Carrier Billing APIs.
+
+The User Profile API allows developers to build systems that can determine if a user is an active Rogers or Fido subscriber. An Enhanced User Profile (EUP) API allows third-party applications to access Rogers??? subscriber profile information using either customer telephone number or IMSI. The API returns the subscriber???s class of service, mobile phone number and some other attributes. The API uses both REST and SOAP protocol and responses are formatted in XML.
+Profile telephony 
+Telephony

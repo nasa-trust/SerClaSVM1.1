@@ -1,0 +1,5 @@
+High score display tool
+This Arcade
+This Arcade is a place where developers submit games that are largely available as a paid service with the exception of a few free games. The This Arcade High Scores API allows developers to include a site wide high score listing for their games. 
+deadpool games 
+Games

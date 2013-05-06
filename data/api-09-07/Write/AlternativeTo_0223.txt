@@ -1,0 +1,5 @@
+Software application recommendations
+AlternativeTo
+The API allows users to integrate the features of the AlternativeTo site into applications. AlternativeTo provides user recommendations for alternative applications for mobile phones and computer software. Using the API, users can access features such as getting an application and its alternatives, finding recently listed applications and listing recently liked applications. The API uses RESTful protocol and returns data formatted in JSON.
+directory recommendations software 
+Recommendations

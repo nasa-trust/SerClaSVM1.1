@@ -1,0 +1,7 @@
+Mobile payments and billing service
+OneBip
+The service processes payments for web and mobile application purchases, either one-time or recurring, from balances maintained with the service. Applications can integrate selling/shopping access with the service to complete mobile phone charges, set up customer billing, and complete customer transactions.
+
+API methods allow submission of customer purchase details, including identity information, language, product purchased and price, etc. Response includes order identifier, total order price, national currency, and merchant information. Methods also support posting of subscription purchases.
+billing ecommerce mobile payment shopping 
+Payment

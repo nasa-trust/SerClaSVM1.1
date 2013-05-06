@@ -1,0 +1,5 @@
+Find GPS position of cellular networks
+openBmap
+The openBmap API returns GPS coordinates and polygon of the considered cellular zone. openBmap is a free and open map of wireless communicating objects (e.g. cellular antenna, Wi-Fi, Bluetooth). It provides tools to mutualize data, create and access this map. With the API users can get the GPS position from cellular networks Cell id. If the cell is not found in the database, it returns LAC data. If the LAC is not found in the database, it returns the MNC data. The API uses RESTful protocol and responses can be formatted in either XML, JSON or TXT.
+geolocation gps mapping mobile wifi 
+Other

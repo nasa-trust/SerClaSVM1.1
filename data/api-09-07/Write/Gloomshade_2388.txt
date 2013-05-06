@@ -1,0 +1,5 @@
+Remote media company
+Gloomshade
+Gloomshade is a remote media company that provides a variety of services supporting freelance digital artists. The Gloomshade API provides a RESTful interface for members and partner organizations to directly access Gloomshade???s systems.
+collaboration job-search jobs media 
+Job Search

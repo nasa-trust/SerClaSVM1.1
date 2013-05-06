@@ -1,0 +1,7 @@
+Medical insurance eligibility verification service
+pVerify
+pVerify provides an automated eligibility verification solution for medical practices. The solutions allows medical providers to determine patient???s coverage and benefits (including remaining deductibles, co-pays, co-ins etc.) thus enabling providers to collect 100% of patient obligations at the time of service.
+
+The Patient Insurance Eligibility and Benefits Verification Web Service supports real-time 600+ US Medical Insurance companies (with delay any insurace company in US). In addition to eligibility, users receive patient payment estimator, payment processing api and call reminder and 2-way text reminder. The API uses SOAP protocol and responses are formatted in XML.
+billing Insurance medical verification 
+Medical

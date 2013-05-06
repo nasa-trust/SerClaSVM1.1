@@ -1,0 +1,7 @@
+Mobile application service for musicians
+Mobile Roadie
+Mobile Roadie is a service for musicians to create and manage mobile applications to engage with their fans. Features included with Mobile Roadie include selling tickets to shows, selling music, adding music, and interacting with fans.
+
+The Mobile Roadie API allows developers to access and integrate the functionality and data from Mobile Roadie into other applications such as MySpace. Some example API methods include creating content, adding content, editing content, retrieving comments, and managing users information.
+mobile music social 
+Music

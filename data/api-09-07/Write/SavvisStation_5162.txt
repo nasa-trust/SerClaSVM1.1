@@ -1,0 +1,5 @@
+Cloud hosting and storage service
+SavvisStation
+The service provides an online storage and application hosting platform controlled either from a proprietary account portal or via API methods. It supports uploading, updating, retrieving, and deleting online resources under a user account. A dashboard is offered for managing resources hosted by the service.
+storage cloud saas hosting
+Storage

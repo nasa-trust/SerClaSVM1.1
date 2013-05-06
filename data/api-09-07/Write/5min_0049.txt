@@ -1,0 +1,5 @@
+Instructional video database
+5min
+Use 5min.com API to integrate 5min how-to, instructional and knowledge videos into sites, widgets, or applications. Use VideoSeed API to semantically attach videos to URL. Get info on users,videos and categories.
+education instructional video 
+Video

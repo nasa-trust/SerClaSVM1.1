@@ -1,0 +1,7 @@
+Austria open data
+Open Data Catalogue Austria
+Kataloge Offene Daten Oesterreich (Open Data Catalogue Austria) is the online portal to Austrian government, public administration, libraries, science, and research data. The goal of this site is to make public information more easily accessible and usable. 
+
+The site runs on the CKAN Open Data Source Hub software and data is accessible through the CKAN API, which is restful and returns responses in XML and JSON. 
+austria government library science 
+Government

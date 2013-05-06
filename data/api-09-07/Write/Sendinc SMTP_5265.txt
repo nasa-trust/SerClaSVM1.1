@@ -1,0 +1,8 @@
+Email encryption services
+Sendinc SMTP
+Sendinc offers web based email encryption services. With Sendinc users can compose and send encrypted email messages using their own email address. Recipients can then view messages by clicking on a link in a secure email sent to them and logging in with their own Sendinc account. 
+
+Sendinc???s API provides a simple way to integrate secure email into web and software applications. The SMTP API allows developers to implement Sendinc???s email encryption service into their
+application.
+email encryption security 
+Email

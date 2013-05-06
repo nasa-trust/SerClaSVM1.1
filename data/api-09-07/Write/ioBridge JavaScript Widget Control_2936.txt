@@ -1,0 +1,5 @@
+Control and monitor widgets
+ioBridge JavaScript Widget Control
+This API allows users to interact with widgets via RESTful calls vs. dynamic scripting. This enables direct and open access to widgets to support third-party desktop and mobile applications. Internet of Things projects are possible using mash ups of the open APIs with external APIs such as Yahoo Financials, Google Charts, Google Latitude, Twitter, WeatherBug, and Twilio. ioBridge&#039;s Internet of things platform is an end-to-end solution connecting users with environmental data collected by sensors, controlling devices via the Internet, and building projects, products and services. The API is simple enough for mobile phones to control and monitor widgets and robust enough to support LabVIEW applications. Responses can be formatted as XML, JSON, plain text, HTML, WAP/WML, voiceXML, TwiML or TWiML SMS.
+monitor widgets 
+Widgets

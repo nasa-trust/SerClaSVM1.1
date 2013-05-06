@@ -1,0 +1,5 @@
+Zip code look-up service
+Codebump Zip Codes
+Zip Codes provides an API for searching zip code, city, and area code databases for Canada and the U.S. Possible uses include locating offices, demographic research, and address validation. The &quot;User-Defined Places&quot; feature allows the storage of custom locations in the Zip Codes database so that they can be queried just like a regular zip code or city.
+address location tools ZipCode 
+Tools

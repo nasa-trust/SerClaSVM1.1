@@ -1,0 +1,5 @@
+VoIP provisioning service
+Voxbone
+From their site: The VoxAPI is a SOAP based Web Service that will allow you to transparently resell Voxbone DIDs in real time. Using VoxAPI you will be able to integrate our coverage into your website, manage your DIDs and so on. 
+telephony VoIP 
+Telephony

@@ -1,0 +1,7 @@
+Virtual work service
+CloudFactory
+CloudFactory is a service that allows businesses and developers to integrate a virtual factory for all types of digital work such as tagging images, moderating content, generating sales leads and transcribing audio content. The work is done virtually by workers around the world.
+
+The CloudFactory API is what allows developers to integrate jobs and work into other applications and sites. Some example API methods include accessing jobs and status of jobs, account information, worker information, and adding and editing job and account information.
+crowdsourcing tools 
+Tools

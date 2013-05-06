@@ -1,0 +1,5 @@
+Contextual advertising service
+Proximic
+Proximic Publisher Program allows publishers to display ad units on their web sites, the ads being delivered by the Proximic advertising partners and contextually matching the content of their pages. Publishers can publish ad units and track the performances of their pages against days, URL referrers, ad unit formats, or ad groups. The Proximic Publisher API v1.0 web service gives software developers direct access to the basic and extended functions needed for contextual advertisement publishing and reporting purposes.
+advertising deadpool 
+Advertising

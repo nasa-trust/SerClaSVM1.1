@@ -1,0 +1,15 @@
+applicant 1
+at 1
+candidate 1
+cat 1
+go 1
+hire 2
+hr 1
+job 2
+manage 1
+process 1
+recruit 2
+search 1
+system 1
+track 1
+tracking 1

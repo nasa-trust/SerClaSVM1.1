@@ -1,0 +1,5 @@
+Business messaging and transaction services
+EasyLink WebServices
+EasyLink provides business messaging and transaction services including desktop fax, production messaging, managed file transfer, document capture & management, and notifications. EasyLink WebServices SendFax API allows for the addition of fax functionality to custom applications, providing transmission for client statements, invoices, purchase orders, shipping notices, and trade confirmations. Manage users with the WebServices Account Management API. These APIs use SOAP protocol and responses are formatted in XML.
+enterprise fax messaging 
+Enterprise

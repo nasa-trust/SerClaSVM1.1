@@ -1,0 +1,5 @@
+Search Twitter tweets service
+Summize Twitter Search
+Twitter search API with optional restriction on language, from, to, and hashtags. Use it to find tweets, people and trends. Note that Summize was acquired by Twitter and is now their official search engine and search API. 
+microblogging search Twitter 
+Search

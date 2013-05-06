@@ -1,0 +1,9 @@
+desktop 1
+engine 1
+flash 1
+fox 1
+gadget 1
+medium 1
+platform 2
+run 1
+widget 6

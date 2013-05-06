@@ -1,0 +1,5 @@
+Books database and community
+LibraryThing
+From their site: Three APIs available: (1) thingISBN takes an ISBN and returns a list of ISBNs from the same "work" (ie., other editions and translations); (2) thingTitle takes a title and returns a list of ISBNs from the most likely LibraryThing "work," the LibraryThing title and a link to the LibraryThing work page; and (3) thingLang takes an ISBN and returns the language of the book, using language codes from MARC records, and from the Group Identifiers embedded at the start of the ISBN format. 
+library reference books
+Reference

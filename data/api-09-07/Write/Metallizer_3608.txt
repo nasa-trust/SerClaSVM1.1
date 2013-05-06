@@ -1,0 +1,7 @@
+Heavy metal album and song generator
+Metallizer
+Metallizer is a heavy metal music generator. With Metallizer, users can generate heavy metal albums, songs, and names. Users can also save the albums generated and edit them.
+
+The Metallizer API allows developers to access the content and functionality of Metallizer. The two API methods are generating random albums and generating specific albums.
+album music playlists songs 
+Music

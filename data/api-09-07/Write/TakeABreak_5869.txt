@@ -1,0 +1,7 @@
+Australian vacation/holiday property web service
+TakeABreak
+The service profiles and facilitates reservations for vacation/holiday accommodations in Australia. It gives access to information on nearly 40 properties in some 1400 Australian locations. Applications can integrate with the service to retrieve information supplied by property owners and book customer reservations.
+
+API methods support property search by type and location. Property lists are available by name, state, region, or country. Methods also support booking reservations with affiliate properties.
+Australia hotel reservations travel 
+Travel

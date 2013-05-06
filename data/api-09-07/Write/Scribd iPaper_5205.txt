@@ -1,0 +1,5 @@
+Document embedding service
+Scribd iPaper
+From their site: The iPaper Javascript API allows you to control how your documents are displayed when embedded in your webpage. Similar to the Google Maps API, it is a simple set of Javascript commands that customize the appearance of iPaper. Part of the Scribd Platform.
+enterprise office 
+Office

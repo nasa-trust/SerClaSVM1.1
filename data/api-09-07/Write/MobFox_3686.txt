@@ -1,0 +1,5 @@
+Mobile advertising service
+MobFox
+MobFox is an independent mobile advertising service. It provides services for publishers and for advertisers. Through their network of both, MobFox finds targeted outlets for businesses??? marketing campaigns. Businesses??? advertisements can be integrated with a numerous applications and websites. The MobFox API exposes the reporting data retrieval and remote account management functions. It is a RESTful API that returns XML-formatted data. 
+advertising marketing mobile 
+Advertising

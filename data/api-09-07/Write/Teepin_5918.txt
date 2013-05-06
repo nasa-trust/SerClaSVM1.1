@@ -1,0 +1,5 @@
+Idea collaboration platform
+Teepin
+Teepin is a collaborative workspace platform. It is designed for organizations to have open idea-sharing discussions that lead to actions. Teepin groups users and allows them to share ideas about office challenges, enterprise goals, and more with everyone. Administrators can follow up with each group???s progress in developing, implementing, and executing their ideas. Analyses for group and individual participation are also available. Teepin offers an API that exposes the idea posting and user information functionality. The API is offered in both SOAP and REST protocols. It returns JSON and XML-formatted data. 
+collaboration enterprise social 
+Social

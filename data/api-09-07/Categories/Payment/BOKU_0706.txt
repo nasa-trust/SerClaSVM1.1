@@ -1,0 +1,17 @@
+consumer 1
+country 1
+currency 1
+display 1
+documentation 1
+good 1
+integrate 1
+language 2
+mobile 3
+own 1
+pay 1
+payment 4
+phone 1
+registration 1
+telephony 1
+translation 1
+visitor 1

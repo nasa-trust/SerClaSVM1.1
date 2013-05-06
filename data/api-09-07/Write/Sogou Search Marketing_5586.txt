@@ -1,0 +1,5 @@
+Chinese search engine
+Sogou Search Marketing
+Sogou is a Chinese search engine with an index of 10 billion web pages. It can be used to search text, images, music and maps. The Sogou Search Marketing API is a suite of services that let developers interact with the Sogou servers programmatically. Developers can use the API to build applications that manager their online marketing accounts. Users must register for the service and approval is based on meeting outlined qualifications. The API uses SOAP protocol and responses are formatted in XML.
+china marketing search 
+Search

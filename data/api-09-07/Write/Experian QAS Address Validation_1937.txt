@@ -1,0 +1,7 @@
+Street address validation service
+Experian QAS Address Validation
+The service integrates the provider&#039;s Pro World Version (WV) functionality to return a complete, valid mailing address based on submission of variably formatted and even incomplete input supplied by a user or other source. The validation check occurs in the background, invisible to the user, and corrected address information allows enforcement of policies and prevents later troubleshooting of misdirected shipments due to inaccurate address input.
+
+API methods support submission of address data as entered by the user, including partial address information. Returned data provide full address information in standard format that reflects local formatting, to be transparently populated to available address fields. 
+address mail shipping validation 
+Shipping

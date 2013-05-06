@@ -1,0 +1,5 @@
+Tweet shortening service
+TweetShrink
+Tweetshrink is a service aimed at Twitter users, helping shave those few extra letters off a tweet that has exceeded the 140 character maximum. The service helps users clip that max allowance without having to actively edit their tweet or changing the meaning or basic readability of the original message. Other applications can send tweets/text messages to the Tweetshrink API and have it shrinked for them.
+microblogging Twitter 
+Blogging

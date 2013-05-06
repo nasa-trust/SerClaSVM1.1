@@ -1,0 +1,7 @@
+Online funds transfer service
+CashEdge TransferNow
+CashEdge, a division of Fiserv, is a provider of payments and aggregation solutions to financial institutions. These include Popmoney person-to-person (P2P) payments, account transfers, account opening and funding, small business invoicing and payments, and financial account aggregation.
+
+TransferNow is an online funds transfer solution that gives users the ability to securely transfer funds between accounts they own that are held at more than 23,000 banks, credit unions and brokerages via the ACH network. The TransferNow XML API allows developers to integrate the product modules with their financial institution&#039;s existing processes. Public documentation is not available.
+enterprise financial payment 
+Financial

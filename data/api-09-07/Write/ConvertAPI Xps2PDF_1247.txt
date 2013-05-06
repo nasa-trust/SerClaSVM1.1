@@ -1,0 +1,5 @@
+Xps document to PDF file conversion service
+ConvertAPI Xps2PDF
+Xps2PDF lets developers create a PDF file of any Xps document. The ConvertAPI Xps2PDF API is a pay-per-credit API. Developers can manipulate many different settings: orientation, page size, margins, cover pages, and more can be set with the Xps2PDF API. Pricing begins at $15 for 1,000 calls. 
+conversion document pdf tools xps 
+Tools

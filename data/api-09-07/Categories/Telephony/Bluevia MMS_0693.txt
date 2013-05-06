@@ -1,0 +1,17 @@
+behalf 1
+call 1
+check 1
+communications 1
+company 1
+delivery 1
+format 1
+initiative 1
+mm 7
+receive 1
+response 1
+send 1
+sent 1
+status 1
+telephony 2
+two 1
+way 1

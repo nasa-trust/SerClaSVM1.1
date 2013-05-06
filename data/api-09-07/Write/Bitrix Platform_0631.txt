@@ -1,0 +1,5 @@
+Online web design platform
+Bitrix Platform
+The Bitrix API provides insight into Bitrix Site Manager (web management system) and Bitrix Intranet Portal (intranet collaboration suite). The Bitrix Site Manager is the technological base for building and managing web sites. It offers a way to develop, support and maintain web projects. The Bitrix Site Manager can be used by both commercial and personal web developers as the base to develop new sites and manage existing sites. The API uses SOAP protocol and responses are formatted in XML.
+cms internet 
+Internet

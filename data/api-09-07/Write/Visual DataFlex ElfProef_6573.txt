@@ -1,0 +1,5 @@
+Dutch bank account number validation service
+Visual DataFlex ElfProef
+The Visual DataFlex ElfProef API allows users to perform ElfProef tests. This is a CRC (cyclic redundancy check) technique used as a test in Dutch electronic payments to determine if a bank account number is valid. It does so by adding the given number&#039;s digits and dividing by 11. Valid numbers will return an integer. This API can be accessed via SOAP calls using the XML data format.
+netherlands payment security validation 
+Security

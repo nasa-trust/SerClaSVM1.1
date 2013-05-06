@@ -1,0 +1,5 @@
+Phone campaign service
+Callfire Voice Broadcast
+The Campaign Voice Broadcast Service API lets users create and manage their campaigns. Functionality includes adding number to a do not call list, add numbers to an existing campaign, create a broadcast campaign without answering machine detection, send a broadcast out to specified phone numbers, return the statistics for a campaign and more. The API uses SOAP calls and responses are formatted in XML.
+telephony 
+Telephony

@@ -1,0 +1,14 @@
+book 1
+business 3
+capture 1
+finance 3
+format 1
+ft 2
+press 2
+read 1
+resource 2
+selling 1
+short 1
+summarize 1
+thinker 1
+top 1

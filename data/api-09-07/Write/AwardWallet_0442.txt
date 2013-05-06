@@ -1,0 +1,7 @@
+Loyalty program management service
+AwardWallet
+AwardWallet is a service that lets users manage their reward balances and travel itineraries. Over 429 loyalty programs are supported across areas such as air, hotel, car rental, credit card and more. AwardWallet is also used by businesses to manage their corporate reward balances.
+
+The AwardWallet API lets partners power their loyalty program mobile app or web site, access their accounts through mobile apps and view mileage balances and upcoming trip info. Public documentation is not available, but developers can contact the provider for further information and partnership opportunities.
+coupons finance 
+Financial

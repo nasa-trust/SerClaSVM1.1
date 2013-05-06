@@ -1,0 +1,9 @@
+UK travel booking and reconciliation service
+Conferma Booking
+With the Conferma API 2.0 Booking Engine, users can integrate many additional services into existing booking and settlement systems without having to connect to multiple providers individually. Conferma is the UK travel industry?s leading provider of booking, reconciliation and settlement software. Conferma specialises in providing tools to financial partners to enable the automation of previously manual processes in the travel and expenses sector. The API allows users to intergrate Conferma&#039;s additional booking and settlement platforms for their website, desktop call centre application or mobile device. 
+
+Users have access to a database of 150,000 hotels without having to use the Conferma Hotel Booker Interface. They can also implement the CSP payment process through the API to allow a complete booking and settlement service from a single provider. Access to rates from GDS (Sabre, Amadeus, Galileo), Merchant (Gullivers Travel Associates) and Direct Connects (Premier Inn, Travelodge & Ireland UK).
+
+Users must send an email to request full documentation.
+booking hotel search travel uk 
+Travel

@@ -1,0 +1,5 @@
+Romanian job search site
+JustJobs.ro
+JustJobs.ro is a job search site in Romania. The API allows developers to pull data from the site and integrate it on their own web sites. This allows for the addition of a section with jobs available in Romania and abroad directly on another site. Functionality includes retreiving cities, job categories and jobs. The API uses RESTful calls and responses are formatted in XML and JSON. The site and documentation are in Romanian.
+jobs romania search 
+Job Search

@@ -1,0 +1,7 @@
+Web-based SMS service
+Textport
+The service helps to integrate SMS/text messaging into applications by providing databases of phone number prefixes and carrier data. A local application can define message content and parameters, and the service routes the traffic for delivery. It assists with automated alerts and announcements via text message, as well as other bulk communication like promotional messaging and invitations. 
+
+API methods support submission of message requests with desired text and recipient phone number. Methods also support ping verification of network access and verification of authentication success.
+campaign Global messaging sms usa 
+Messaging

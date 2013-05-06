@@ -1,0 +1,5 @@
+Mexican postal code geolocation service
+FraudLabs Mexico Postal Code
+The PostalCodeWorld Mexico Postal Code Web Service lets you find geographical and other important information in Mexico. The Postal Code search returns information like: state name, city name, state abbreviation, latitude, longitude, time zone and more.
+deadpool geolocation mexico postal 
+Mapping

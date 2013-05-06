@@ -1,0 +1,5 @@
+Full text book search
+Random House Insight
+The Random House Insight API is a set of programming tools that allow internet applications to view and search digitized book content. It provides keyword searches that find matches against the full text of the book. The API can then serve up book pages in different formats depending on the needs of the developer.
+books search 
+Search

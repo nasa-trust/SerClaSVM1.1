@@ -1,0 +1,5 @@
+Simple online mapping service
+MapQuest Open Static Map
+This API is the open version of MapQuest&#039;s Static Map API. It is based on OpenStreetMap data and can be used to customize and create a map image through a simple HTTP request. Maps can be centered on a point, a bounding box, and even allowing the service to best-fit all features shown on the map. Options include map, hyb and sat.
+display mapping 
+Mapping

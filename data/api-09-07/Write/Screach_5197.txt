@@ -1,0 +1,7 @@
+Location-based social networking service
+Screach
+Screach is a social application for web and mobile. Screach offers location-based social interactivity for users to connect and share with each other.
+
+The Screach API allows developers to access and integrate the functionality of Screach with other applications and to create new applications. Some example API methods include retrieving nearby users, retrieving profile information, and creating and editing content.
+location mapping places social 
+Social

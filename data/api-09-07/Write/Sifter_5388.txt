@@ -1,0 +1,7 @@
+Bug and issue tracking service
+Sifter
+Sifter is a bug and issue tracking platform. Sifter provides an online dashboard for teams and organizations to manage and track bugs and issues that display progress, people working on the bugs and issues, and lists all issues.
+
+The Sifter API allows developers to access the data and functionality of Sifter. Currently, the API is read-only, but they plan on making write access available as well. The current API method is searching and displaying project information.
+bug programming project-management tools tracking 
+Tools

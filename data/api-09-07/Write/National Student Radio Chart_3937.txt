@@ -1,0 +1,7 @@
+Popular music information service
+National Student Radio Chart
+The National Student Radio Chart Show is a weekly live broadcast in the U.K. produced by the Student Radio Association. The program offers web services with music metadata such as performer bio and history, track list, images, video content, and other related information. Another service offers popularity charts specific to student-run radio stations.
+
+The Music API&#039;s Artist method returns data about a performer from a range of sources. The Chart API returns the week&#039;s most popular tracks, as played be members of the association. Member list is also available via API.
+artists bands music uk 
+Music

@@ -1,0 +1,7 @@
+Electrical power purchasing service
+Powershop
+The service provides information about electrical power consumption and access to electrical service from multiple providers within New Zealand, in areas where options are available to consumers. Information supplied helps users monitor their power use and understand provider options for both residential and business customers. In this way, the service promotes conservation and conscious choice among electricity suppliers.
+
+API methods support retrieval of customer account information, including electrical meter readings. Provider service information is also available, with offer pricing for available service providers. 
+environment newzealand power 
+Other

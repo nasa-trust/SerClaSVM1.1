@@ -1,0 +1,5 @@
+Media embedding service
+Box.net Embedit
+Embedit.in is a document embedding service for website content development. It provides simple code to embed documents. Developers can also choose how to document will appear to users. Additional features for annotation and analysis allow content developers to highlight new documents and track their use. A RESTful API is provided for programmatically embedding and adjusting files. It returns JSON and XML formatted data. 
+embed tools 
+Tools

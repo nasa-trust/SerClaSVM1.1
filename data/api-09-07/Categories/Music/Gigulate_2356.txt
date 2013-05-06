@@ -1,0 +1,10 @@
+artist 1
+blog 1
+build 1
+chart 1
+event 1
+gig 1
+listing 1
+music 4
+news 1
+popularity 1

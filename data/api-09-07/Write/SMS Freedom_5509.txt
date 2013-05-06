@@ -1,0 +1,7 @@
+Bulk text messaging service
+SMS Freedom
+SMS Freedom is a bulk text messaging service that allows customers to send numerous text (SMS) messages to groups at one time. Messages can be sent via web interfaces, mobiles, SMTP, and SMPP platforms.
+
+The SMS Freedom API allows developers to access and integrate the functionality and information from SMS Freedom. Some example API methods include sending messages, receiving confirmation of messages sent, accessing delivery status, and pushing messages out.
+bulk Global india messaging sms 
+Messaging

@@ -1,0 +1,5 @@
+Web to mobile user verification 
+Duo Verify
+Duo Security enables protected login and transactional functions for smartphones users. It does this by sending users authorization verification from web-based platform logins to their phones. Their Verify API provides access to the verification function with a one-time PIN number, as well as lookup methods for specific phone numbers and IP addresses. The API is RESTful and responds with JSON, BSON, and XML. 
+authentication mobile security 
+Security

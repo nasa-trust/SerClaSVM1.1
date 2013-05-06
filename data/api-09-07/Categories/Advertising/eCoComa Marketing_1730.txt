@@ -1,0 +1,17 @@
+advertising 6
+affiliate 1
+banner 1
+call 1
+click 1
+datum 1
+email 2
+engine 2
+format 1
+mail 1
+marketing 7
+method 1
+optimization 1
+pay 1
+pe 1
+search 2
+soap 1

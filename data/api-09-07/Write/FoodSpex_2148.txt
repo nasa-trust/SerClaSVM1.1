@@ -1,0 +1,7 @@
+Belgian food product information service
+FoodSpex
+The service provides detailed nutritional information for a large selection of food products available at markets in Belgium, including generic food types and name-brand commercial products. Information provided includes bar code, nutritional content such as calories and fat content, and a complete list of ingredients included. Information is targeted at retailers, dieticians and nutritionists, and public health programs among others.
+
+API methods support retrieval of food product information by generic name and brand name. Methods also provide supporting content relevant to a topic by either chapter or paragraph. Returned data include product name and available brands, nutritional content, package types, and related variables.
+diet fitness food health medical 
+Medical

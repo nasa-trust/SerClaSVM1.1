@@ -1,0 +1,5 @@
+Online file storage service
+Ubuntu One Files
+The Ubuntu One Files API can be used to store files in the Ubuntu One cloud. Users may choose to sync their stored files to some, all, or none of their machines and devices. This API can also be used to publish files to a public URL. The Ubuntu One Files API operates over REST using GET or PUT calls.
+cloud file-sharing 
+File Sharing

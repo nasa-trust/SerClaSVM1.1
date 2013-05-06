@@ -1,0 +1,5 @@
+URL shortening service
+G8L.US
+From their site: G8L.US provides URL shortening services via an API and Website. API can be accessed via HTTP and supports XML, JSON, and a simple comma-delimited response format. G8L.us has two api calls, one to shrink links and one to get stats for the links. You can look at the Home and Stats pages to see how to use the API via Ajax.
+internet utility 
+Internet

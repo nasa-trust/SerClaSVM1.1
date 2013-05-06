@@ -1,0 +1,5 @@
+File storage/sharing service
+YouSendIt
+Cloud folders for free file storage up to 2GB accessible via mobile device, web app, or installed desktop app. Tiered pricing for larger capacities. Plug-in integration with file editing applications. Security model allows sharing via URL with electronic signature Note: API home is a form to submit to receive email link for PDF documentation.
+cloud collaboration filesharing 
+File Sharing

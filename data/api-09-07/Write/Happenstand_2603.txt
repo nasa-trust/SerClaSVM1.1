@@ -1,0 +1,5 @@
+Bay area events listing service
+Happenstand
+Happenstand is a website featuring Bay Area arts events. The API allows developers to retrieve lists of events, venues and person data from the site. The lists can be sorted by start date, end date, proximity and details. Users can also perform keyword searchs of the data. The API uses RESTful calls and responses are formatted in XML and JSON.
+bayarea events local 
+Events

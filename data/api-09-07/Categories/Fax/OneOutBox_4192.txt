@@ -1,0 +1,16 @@
+confirmation 1
+correspondence 1
+fax 4
+format 1
+integration 1
+internet 2
+invoice 1
+order 1
+protocol 1
+reporting 1
+response 1
+soap 1
+status 1
+transmission 1
+update 1
+workflow 1

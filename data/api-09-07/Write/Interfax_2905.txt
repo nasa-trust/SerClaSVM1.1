@@ -1,0 +1,7 @@
+Fax services
+Interfax
+Mutltiple methods give developers control of outbound fax transmission, inbound fax reception, and administrative control (add users, set preferences, etc.).  Secure access is accessible via SSL.
+
+The InterFAX REST fax API is a commercial subscription-based service which enables transmission and reception of fax messages without the need to install any hardware or software. The original document to be transmitted may be of various formats, such as PDF, Microsoft Word, HTML, TXT etc. Received faxes are in TIF or PDF format. As an extension to sending capabilities, the Interfax Fax REST API provides facilities for retrieving status information regarding fax messages sent through it. It supports secure communications via HTTPS between the custom-programmed application and the Interfax server. 
+email fax 
+Fax

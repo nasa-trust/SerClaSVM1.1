@@ -1,0 +1,5 @@
+Survey operation enhancement service
+Key Survey
+Key Survey offers an online survey service as well as real-time data interpretation and personalized business services. The Key Survey API enables users to automate survey releases after events, create customized surveys based on each customer, track historic personal and general survey data. The API is available with the underlying service using SOAP/XML and is compatible with a growing number of languages including Java, .NET, Perl, PHP, Python, OCAML and Ruby.
+surveys tools 
+Tools

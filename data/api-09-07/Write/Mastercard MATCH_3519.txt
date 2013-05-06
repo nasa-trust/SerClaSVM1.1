@@ -1,0 +1,5 @@
+Assesses potential credit risk  
+Mastercard MATCH
+Member Alert to Control High-risk Merchants (MATCH) is Mastercard???s offering to acquirers for vetting merchants prior to entering into contracts with them. Users must inquire with Mastercard for MATCH certification. The API provides real-time and automated access to the MATCH database which contains information about terminated merchants that users are required to keep updated. The API uses RESTful calls and provides responses in XML.
+Data finance tools 
+Financial

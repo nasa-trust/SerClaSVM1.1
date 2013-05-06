@@ -1,0 +1,49 @@
+Semantic Intelligence, Site recommendations service
+BeliefNetworks
+It&#039;s about The Concepts
+The BeliefNetworks service is about discovering concepts locked within data such as unformatted text documents, HTML documents, Word documents, PDF files, RSS feeds and XML representations dumped from databases. It???s this simple idea, coupled with automation, which provides a foundation for your next-generation, intelligent web application.
+
+The discovery of concepts is fundamental to the BeliefNetworks service. If you are familiar with search text discovery, then consider a starting point of &quot;I&#039;m a little teapot&quot;. This, in turn, is the basis for ???Finding Not Searching???.??? Keywords, in this context, have no relevance.
+
+However, that&#039;s just scratching the surface. Once DataChasm has mined a document for concepts, or conceptually mapped its concepts, the document becomes a resource for richer search features enabled in applications powered by BeliefNetworks. Up until now, conceptually mapped documents were the potential endpoints of a search scenario, that is, a document to be discovered. However, BeliefNetworks applies an interesting twist by making the conceptually mapped document also the starting point of a search. For example, a conceptually mapped document can be the target of the statement &quot;Find me all documents that are like this document&quot;. And, as soon as you consider that documents don&#039;t have to be literally documents, that they can actually be unstructured information that represents anything in your domain, then the possibilities begin to multiply.
+
+Finding Not SearchingTM
+Imagine you???re trying to find all documents related to a document about &quot;The History of Military Aircraft&quot; using a straight-up search appliance. First, you read the document closely, extracting the concepts you believe represent the essence of the document, and then you start a search with those concepts as search keywords. We&#039;ve already seen an example of the subtle differences between discovery of search keywords and the discovery of higher-level conceptual meaning. What can you expect? You&#039;ll probably find a lot documents about camels, for starters.
+
+With a BeliefNetworks??? application, that last step might actually be as simple as &quot;pushing a button&quot;. The action of that button would extract concepts that you would otherwise be forced to do manually, and then search for other documents that represent similar concepts. With a BeliefNetworks??? application, if you started with a document on the History of Military Aircraft, you might get results ranging from World War Aircraft and Classic Aircraft to Lethal Aircraft. Bingo.
+
+Recommendations based on what you know.
+That was a discovery scenario. Let&#039;s think about a recommendation scenario. Suppose you are building an application, the premise of which is that you can provide value to a user base by matching pet owners to pet service providers (groomers, walkers, stables, supplies vendors, etc). Both pet owners and pet service providers can register in your system, but they are two separate groups that are managed separately by your application.
+
+There are affinities between the two groups that, if discovered, may lead to greater user satisfaction with your service, good buzz, more customers, and ultimately higher profits for you. For instance, obviously you don&#039;t recommend a stable to someone looking for a kennel, but a person looking for a kennel for Roscoe for the weekend may have some particular likes and needs that can be matched to the right kennel with minimal effort for Roscoe&#039;s owner.
+
+In this case, the &quot;documents&quot; scanned for concepts are pet owner profiles they freely enter at registration time describing themselves and their pets (with appropriate confidence the details won&#039;t be sold or revealed). Profiles would be fed, as created, into the conceptual mapper. Meanwhile, pet service providers would fill out some forms describing their offerings that ultimately could be rendered as XML documents. As you can see, there are a number of approaches for each major actor in your application.
+
+Now, imagine a pet-services discovery service powered by BeliefNetworks. The conceptual information for all pet owners is mapped and placed into one silo, and likewise another silo of conceptual information is built for all pet service providers. Finally, we return to Roscoe&#039;s owner who pushes a button on the BeliefNetworks??? powered application to start searching for recommendations in the pet services silo based upon the conceptual information gleaned from their owner&#039;s profile.
+
+It could also work another way. Suppose you offer anonymous direct marketing, something that would inform pet owners of goods and services but would not expose their personal data to the service providers. This approach would not be as annoying as a phone call, but could be a message on their customer page linking them to the service provider that they can click on if they???re interested. Conversely, the pet service provider, interested in buying a batch of push marketing, pushes a button and your service discovers pet owners most likely to be interested in their products and services by asking BeliefNetworks to match the pet service provider&#039;s profile to the most conceptually relevant profiles of pet owners.
+
+The DataChasmTM Service
+Version 1.0 of BeliefNetworks??? DataChasm??? web service provides RESTful programmatic conceptual discovery against two large data repositories - The World Wide Web and Twitter. No additional effort is required on the part of the programmer other than to make the call. These two data repositories are most useful for interesting search applications and mashups. As an example, the MashMeUp web application illustrates the functionality of concept discovery with Twitter and web site recommendations.
+
+The DataChasm web service also provides the means to build your own silos of conceptual information, closely tuned to your own application business needs. Once built, those silos become the foundation for recommendation features, that until now, you&#039;ve only wished you could have.
+
+But, to use the APIs properly, some conceptual information should be introduced (pun intended).
+
+Concepts, Concepts, Concepts
+We started with concepts, and now we return to them. Concepts are key to successful use of the DataChasm service. We like to think of concepts as information thumbnails (actually, we consider them a higher cognitive learning process, but that is another discussion). The habit of pushing simple keyword search, while actionable by the APIs, isn???t as successful as starting with a document that expresses and represents the concepts you are interested in discovering. You&#039;ll find many APIs accept a generic &quot;text&quot; parameter. This may refer to as little or as much text as you need to represent your concepts, or it can refer to a fully qualified URL which points to a document or resource on the web (think article, publication, XML output from some other API) that encapsulates the concepts. For instance, you may have better results pointing to an article on The Cramps for a punk band search than simply the text &quot;The Cramps&quot;.
+
+Recommendations
+A recommendation is the relationship between your starting point (text or URL) and the haystack of information with which you wish to establish an affinity with that starting point in order i to discover the ???needles???, sorted for relevance. What BeliefNetworks believes to be the most relevant possibilities are returned first; if you wish, you can go deeper into the stack with successive queries. For instance, when you ask for recommendations from Twitter, you are returned ongoing conversations considered most relevant to your conceptual starting point. We like to call that ???tweaning???; in other words, bringing meaning to tweeting.
+
+&quot;Weight&quot; is the term we use for the degree of relevance a recommendation has to your chosen starting point. You&#039;ll see various weights returned for recommendations, and you can build logic around this such as sorting, cut-off, etc.
+
+Custom APIs
+Our custom APIs allows you to build applications against your own business data. You can define silos of information by business need, seed them and maintain them with resources, and then query them for recommendations, just like you can with our Twitter and Web APIs. This is a powerful tool that allows you to discover conceptual relationships of the highest relevance against between your own repositories of business data.
+
+One Corpus, Many Corpora
+The &quot;Corpora&quot; referred to by BeliefNetworks??? APIs are your information silos. You create a corpus to hold the results of resources that are related by conceptual consistency. For example, if you were Amazon, one corpus might hold Books, while another might hold Reviewers. A resource list is typically provided at creation time. The corpus resources are subsequently managed and updated as resources come and go. Every 24 hours, DataChasm crawls any new resources for addition to, and removes all those marked for deletion from, your corpus.
+
+Once a corpus is created, you may begin to query it for recommendations. 
+deadpool intelligence microblogging recommendations semantic 
+Recommendations

@@ -1,0 +1,9 @@
+interface 1
+internet 1
+key 1
+require 1
+result 1
+return 1
+shortener 1
+shortening 2
+url 3

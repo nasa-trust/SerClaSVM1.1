@@ -1,0 +1,14 @@
+band 1
+compile 1
+create 1
+fan 3
+group 1
+key 1
+music 3
+musical 1
+preserve 1
+protect 2
+public 1
+require 1
+run 1
+serve 1

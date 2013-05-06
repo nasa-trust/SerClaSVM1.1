@@ -1,0 +1,5 @@
+Find locations based on mobile information
+ktailab Mobile Country Code
+The MCCMNC API returns coarse location based on Mobile Country Code and Mobile Network Code. World wide roaming capable mobile phones (cell phones) can display the mobile country code (MCC) and mobile network code (MNC) on the screen. This API decodes the combination of MCC and MNC, back to name of the country, operator name, capital of the city and capital city location (with latitude and longitude). 
+location mobile telephony 
+Telephony

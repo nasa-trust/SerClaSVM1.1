@@ -1,0 +1,8 @@
+ease 1
+feed 2
+internet 1
+news 1
+own 1
+publication 1
+publish 1
+technology 1

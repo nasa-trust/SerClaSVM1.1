@@ -1,0 +1,5 @@
+Accounting software
+Merchant's Mirror
+Merchant&#039;s Mirror is accounting software for small businesses. It lets users manage customers, track vendor accounts and generate reports. The API allows developers to integrate the service into their applications. The functionality exposed includes managing accounts and vendors, looking up sales tax and terms and more.
+accounting billing finance sbweb 
+Financial

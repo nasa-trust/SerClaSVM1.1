@@ -1,0 +1,5 @@
+Bar code generating service
+Barcodesoft
+The SOAP web service streams bar codes in one of the following formats: BMP, GIF, JPeg, TIFF and PNG. It supports most linear and 2D barcode symbologies: Code39, Code128, UPC-A, UPC-E, EAN13, EAN8, Bookland, ISBN, POSTNET, Code93, Code25, Interleaved 25, Codabar, MSI / Plessey, Data Matrix, PDF417, QR Code, and Aztec Code.
+barcode image utility 
+Utility

@@ -1,0 +1,15 @@
+background 1
+bradstreet 1
+business 4
+company 1
+credit 1
+datum 1
+dun 1
+enrich 1
+initiative 1
+intelligence 1
+reference 2
+report 2
+research 1
+rich 1
+verification 1

@@ -1,0 +1,5 @@
+Social music service
+Blip.fm
+Use the Blip.fm API to access Blip.fm users and their data. Get a Blip by user ID, or for multiple user IDs. Get the most recent Blips for a user, sequentially listed by most recent. Create your customized music station with Blip.fm. Be your own DJ and then share your station with your friends, or have your friends program your station for you. Share your musical interests with millions.
+music social 
+Music

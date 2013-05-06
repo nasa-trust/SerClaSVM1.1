@@ -1,0 +1,17 @@
+ad 1
+advertisement 2
+advertising 2
+call 1
+distribute 1
+farsi 1
+format 1
+iran 1
+message 1
+messaging 1
+persian 2
+schedule 1
+send 3
+sent 1
+short 1
+sm 4
+soap 1

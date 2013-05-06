@@ -1,0 +1,5 @@
+Open source software database
+Freecode Data
+Freecode is a database of Linux, Unix, and other cross-platform software and apps. The repository holds catalogue of technical definitions of mostly open-source applications and a history of each project???s release. Freecode also publishes its own content on the culture and craft of coding. The API exposes the site???s database for developers wishing to access information such as releases and screenshots for different applications. It is a RESTful API that returns JSON and XML formatted data. 
+database programming software tools 
+Database

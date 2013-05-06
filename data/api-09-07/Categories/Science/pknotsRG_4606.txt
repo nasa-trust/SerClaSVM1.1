@@ -1,0 +1,17 @@
+class 1
+console 1
+download 1
+folding 1
+format 1
+input 1
+output 1
+prediction 1
+receive 1
+rna 3
+science 2
+secondary 3
+sequence 1
+simple 1
+soap 1
+structure 3
+tool 1

@@ -1,0 +1,7 @@
+Captcha generation service
+Sapo Captcha
+SAPO is a Portuguese Internet service provider whose main web site acts as a web portal featuring a directory of Portuguese sites. SAPO Services provides a large suite of web services and applications to developers worldwide.
+
+The Sapo Captcha API lets developers generate and customize captchas. Customization options include font, colors, sound and image. It uses RESTful calls and responses are formatted in XML.
+captcha security 
+Security

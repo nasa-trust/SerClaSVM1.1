@@ -1,0 +1,17 @@
+analysis 1
+create 1
+datum 7
+effort 1
+enterprise 2
+example 1
+functionality 1
+insight 1
+integrate 1
+item 1
+maximize 1
+method 1
+price 2
+pricing 1
+retrieve 3
+sales 4
+seller 1

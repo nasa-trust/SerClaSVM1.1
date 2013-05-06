@@ -1,0 +1,5 @@
+3D API for web browsers
+Google O3D
+O3D is a new, shader-based, low-level graphics API for creating interactive 3D applications in a web browser. O3D runs on multiple operating systems and browsers, performs well in JavaScript, and offers the capabilities developers need to create a diverse set of rich applications. O3D has an open-source JavaScript API for creating interactive 3D graphics applications that run in a browser window???games, ads, 3D model viewers, product demos, and virtual worlds.
+3d graphics 
+Other

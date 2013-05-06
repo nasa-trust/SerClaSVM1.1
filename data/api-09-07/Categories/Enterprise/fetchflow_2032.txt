@@ -1,0 +1,17 @@
+accept 1
+client 2
+create 3
+customer 1
+datum 1
+enterprise 2
+estimate 1
+example 1
+finance 1
+functionality 1
+integrate 1
+invoice 6
+manage 2
+method 1
+payment 4
+retrieve 1
+send 1

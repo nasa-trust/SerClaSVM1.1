@@ -1,0 +1,5 @@
+Incoming emails to web service
+APInbox
+APInbox allows users to interact with a web app via email ??? without adding any email polling code. APInbox gives users a special email address that instantly translates incoming emails into form submissions that are pushed in realtime to a web app. The API uses HTTP POST protocol and responses can be formatted in JSON.
+deadpool email internet 
+Email

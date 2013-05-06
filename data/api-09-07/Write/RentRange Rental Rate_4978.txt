@@ -1,0 +1,5 @@
+Real estate pricing service
+RentRange Rental Rate
+The Rental Rate API is a for websites that provides real estate or rental listings for website visitors. The RentRange API provides low, median and high rental rates for individual properties or by zip code. Using REST/HTTP protocol, the API lets you pass a property address or zipcode and provides resulting data back in XML. 
+realestate 
+Real Estate

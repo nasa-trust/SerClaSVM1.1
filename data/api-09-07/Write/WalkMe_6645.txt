@@ -1,0 +1,7 @@
+Custom step-by-step instructions for websites & applications
+WalkMe
+WalkMe is a platform that allows website owners and application developers and designers create custom step-by-step instructions for various procedures on their website or application, such as eCommerce, registration, and other online or mobile tasks.
+
+The WalkMe API allows developers to access and integrate the functionality of WalkMe with other applications. Some example API methods include managing account information, playing back walk-through instructions, checking status of walk-through instructions, and accessing user activity.
+customer-service tools 
+Tools

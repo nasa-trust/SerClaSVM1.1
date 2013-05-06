@@ -1,0 +1,5 @@
+Open football API data platform
+openfooty
+Openfooty offers the latest football (soccer) videos, a community, a proprietary dreamfooty fantasy football game, user profiles, and fan traits and fan valuation leaderboards. The openfooty API makes the footytube technology platform available to developers, editors, publishers, and footy addicts who want to dig deep into the world of football (soccer). The API is offered via a RESTful protocol and returns data in JSON or PHP format.
+soccer sports 
+Sports

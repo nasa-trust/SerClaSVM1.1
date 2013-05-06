@@ -1,0 +1,17 @@
+clinician 1
+content 2
+documentation 1
+drug 3
+full 1
+health 1
+healthcare 1
+industry 1
+internet 1
+make 1
+medical 2
+module 1
+party 1
+provider 1
+reference 1
+solution 1
+third 1

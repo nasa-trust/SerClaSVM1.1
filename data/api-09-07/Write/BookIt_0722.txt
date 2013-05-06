@@ -1,0 +1,5 @@
+Travel booking services
+BookIt
+The Vianet API lets developers add properties and get information from the vianet.travel database, which specializes in New Zealand travel. Also, get KML feeds and other data to give travelers better insight into the things to do near their destination.
+newzealand travel 
+Travel

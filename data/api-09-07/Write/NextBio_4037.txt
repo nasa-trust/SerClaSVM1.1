@@ -1,0 +1,7 @@
+Science data research platform
+NextBio
+NextBio is the developer of a global discovery platform for life sciences data. Research data from diverse experiments can be imported, integrated with public data, and explored within relevant biological and clinical context. Researchers can mine this data in real-time. 
+
+NextBio provides a set of APIs enabling organizations to import, analyze, and export data. A RESTful search API lets developers integrate NextBio search results with their applications. The Secure Bulk Import of Data can be used for importing large amounts of data into NextBio in an automated manner. Full documentation is not publicly available.
+reference research science 
+Reference

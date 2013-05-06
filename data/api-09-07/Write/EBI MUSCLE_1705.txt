@@ -1,0 +1,5 @@
+Multiple sequence alignment service
+EBI MUSCLE
+MUSCLE (MUltiple Sequence Comparison by Log-Expectation) is a tool for the alignment of multiple nucleotide or amino acid sequences. Multiple sequence alignments are a crucial part of processing biological data. This tool provides a range of options that give users the choice of optimizing accuracy, speed, or some compromise between the two. The European Bioinformatics Institute offers access to MUSCLE as an API over SOAP or REST protocols.
+bioinformatics genetics science 
+Science

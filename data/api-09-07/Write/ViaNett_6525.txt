@@ -1,0 +1,5 @@
+SMS messaging service
+ViaNett
+ViaNett offers commercial services for sending and recieving SMS messages. The ViaNett API allows developers the ability to integrate the messaging gateway in their application, site or system. With the API users can send many types of messages including ordinary text, binary and MMS messages. Functionality includes bulk SMS delivery, two way SMS, SMS billing, status reports are more. API connectivity is provided for HTTP, YAP, SMPP, SMTP, SOAP, FTP and more. Responses are formatted in XML. 
+sms messaging Global
+Messaging

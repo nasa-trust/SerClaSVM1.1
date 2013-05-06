@@ -1,0 +1,7 @@
+Cloud storage and backup service
+Livedrive
+Livedrive is a cloud storage and backup service. Livedrive allows users to upload files to the cloud for storage and sharing, as well as syncing. Livedrive also offers backup services.
+
+The Livedrive API allows developers to access and integrate the functionality of Livedrive with other applications. Some example API methods include managing users, creating backups, managing backups, and managing accounts.
+backup cloud file-sharing storage 
+File Sharing

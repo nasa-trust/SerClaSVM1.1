@@ -1,0 +1,5 @@
+SMS  and MMS Messaging and Status API
+Movistar
+Moviestar.com offers two APIs, a SMS API and a MMS API, with the same functionality for different message formats. Both services contain methods to send a SMS/MMS and to view the status of the message. Both APIs are RESTful APIs, with data returned in a JSON or XML format.
+deadpool MMS telephony 
+Telephony

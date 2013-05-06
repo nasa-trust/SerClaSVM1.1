@@ -1,0 +1,5 @@
+UK train arrival/departure time board
+Live Departure Boards
+The Live Departure Boards API allows users to obtain the same live train information presented on the LDB web pages for use on their own sites. Users can choose to employ a board listing departures only, a board listing arrivals only, or a board that lists both arrivals and departures. A license must be requested from National Rail Enquiries prior to using this API.
+trains transportation uk 
+Transportation

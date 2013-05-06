@@ -1,0 +1,7 @@
+Open source government data
+FederalRegister.gov
+The Office of the Federal Register informs citizens of their rights and obligations, documents the actions of Federal agencies, and provides a forum for public participation in the democratic process. The Office of the Federal Register (OFR) of the National Archives and Records Administration (NARA), and the U.S. Government Printing Office (GPO) jointly administer the FederalRegister.gov website. The OFR/GPO partnership is developing an unofficial XML-based edition of the daily Federal Register on this site. FederalRegister.gov is a fully open source project. 
+
+The API allows users to retrieve information about all the agencies in the FederalRegister.gov database and metadata/details about a particular Federal Register document. Users can also access full search capabilities, matching the functionality of the site&#039;s advanced search. The API uses RESTful calls and responses are formatted in JSON and JSONP.
+government open 
+Government

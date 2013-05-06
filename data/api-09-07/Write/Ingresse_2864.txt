@@ -1,0 +1,5 @@
+Brazilian event management platform
+Ingresse
+Ingresse is Brazilian event management platform. It allows event planners and attendees convenient access to ticket sales, as well as event information and communications. Events can range from private barbeques to large outdoor concerts. Event planners create a page with basic descriptions of the party, set ticket types (if required), and establish a payment system. Attendees can simply find the event they want to go to and electronically purchase tickets or get information about it. The Ingresse API exposes the platform&#039;s event updating functionality. It is a RESTful API that returns JSON-formatted data. The site is in Portuguese. 
+brazil events management social 
+Events

@@ -1,0 +1,11 @@
+gallery 1
+graphics 1
+icon 2
+page 1
+program 1
+search 2
+set 1
+straight 2
+street 1
+symbol 2
+utility 1

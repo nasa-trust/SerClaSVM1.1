@@ -1,0 +1,5 @@
+Space physics data service
+Data Translation Web Service (DTWS)
+The Data Translation Web Service (DTWS) is a service of NASA/Goddard Space Flight Center&#039;s Space Physics Data Facility (SPDF) to facilitate and promote data exchanges among space scientists. DTWS supports data in Common Data Format (CDF). The API uses the SOAP protocol and allows users to translate one or more local and/or remote files into other data formats.
+astronomy government physics science 
+Science

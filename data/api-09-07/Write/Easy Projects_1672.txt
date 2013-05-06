@@ -1,0 +1,5 @@
+Web-based project management tool
+Easy Projects
+Easy Projects is a web-based project management platform for businesses seeking to offer a collaborative online environment for team and individual projects. It offers team management tools for assigning tasks, reporting tools for monitoring business efficiency, and messaging boards for collaborating. The API uses GET, POST, PUT and DELETE calls to interact with projects, activities, timelogs, messages, users and portfolios.
+analytics collaboration office project-management 
+Project Management

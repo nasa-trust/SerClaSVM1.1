@@ -1,0 +1,5 @@
+image recognition service
+IQ Engines
+IQ Engines provides image recognition software that can identify the content in virtually any photo. Use the API to send images from your mobile phone app to the server to retrieve image identification. If you have a small dataset (less than 100 images) the image recognition can be processed entirely on the mobile device. Use the iOS or Android SDKs to enable this functionality.
+photo recognition search 
+Photos

@@ -1,0 +1,7 @@
+Web Conferencing
+Citrix Online GoToWebinar
+GoToWebinar by Citrix Online is a webinar service that allows users to create and host webinars for up to 1,000 people. Presentations for the webinars can be done from the user&#039;s desktop computer.
+
+The GoToWebinar API allows developers to integrate the functionality of GoToWebinar with other services and applications. Some example API methods include creating webinars, creating and managing sessions, register participants, and access participant information. 
+conference meetings online webinar 
+Enterprise

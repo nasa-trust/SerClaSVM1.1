@@ -1,0 +1,5 @@
+Local search services
+deCarta MapSearch Engine
+deCarta is a location based services provider. The Map Search Engine API gives developers the ability to implement local search on their web sites and applications. The API can search address and point of interest data sourced from content partners. Developers can also overlay their own searchable content onto the map. MapSearch Engine is ???white label???, allowing customers to unitize their own UI, branding and content. The API uses RESTful calls and responses are formatted in XML, JSON, JSONP and XHTML.
+local mapping search 
+Mapping

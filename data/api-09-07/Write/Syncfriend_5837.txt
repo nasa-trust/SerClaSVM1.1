@@ -1,0 +1,7 @@
+Contact syncing service
+Syncfriend
+Syncfriend is a service that syncs a user&#039;s mobile phone contacts and stores the contact information in the cloud. 
+
+The Syncfriend API allows developers to access data and functionality of Syncfriend. The current API methods are adding a user and sending a sync message over the air.
+contacts deadpool mobile sync telephony 
+Tools

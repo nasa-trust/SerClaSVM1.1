@@ -1,0 +1,5 @@
+Email marketing service
+ActiveCampaign 
+ActiveCampaign is a web based email marketing software that allows you to send permission based  mailings to lists of subscribers. In order to use the API, you will need to write an application that can connect to the server where your Email Marketing is located, send a request to it and handle the response it receives from your Email Marketing software.
+email marketing sbweb 
+Email

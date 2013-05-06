@@ -1,0 +1,5 @@
+SaaS geospatial application service
+SpatialStream
+The API provides a series of programming interfaces to simplify the integration of advanced spatial intelligence into existing applications. It creates a SaaS geospatial platform for developing location-aware information applications on top of common mapping platforms. The service was designed to facilitate the rapid development of embedded GIS and consumer mapping applications without needing to be a GIS expert. In addition to REST services, specialized client APIs are available to work with Google and Bing map controls.
+gis mapping 
+Mapping

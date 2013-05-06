@@ -1,0 +1,5 @@
+Client2Cloud application service
+Apstrata
+Apstrata provides a suite of on-demand Rich Cloud services aimed at simplifying the development and operation of Web-connected applications. Apstrata is a RESTful web service providing an interface to manage a persistent data store from the back end. It uses a document-style database which has features such as persistent Storage, rolling user APIs, user management and server side scripting. Responses are formatted in XML and JSON.
+cloud storage 
+Storage

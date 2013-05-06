@@ -1,0 +1,5 @@
+Mobile advertising service
+Admob
+The AdMob API allows you to access the campaign, sites and applications data in your AdMob account with a secure programmatic interface. You can build custom applications using the AdMob API to help better manage your mobile business.
+advertising mobile 
+Advertising

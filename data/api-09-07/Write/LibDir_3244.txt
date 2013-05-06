@@ -1,0 +1,5 @@
+Online web directory
+LibDir
+LibDir is an openly editable web directory. Submissions, changes, and deletions all appear instantly. The LibDir API provides access to the various submissions and entries available in the LibDir database. 
+directory internet deadpool
+Internet

@@ -1,0 +1,7 @@
+Group messaging service
+youRoom
+youRoom is a web application for group messages and conversations. youRoom includes functions like private mailing lists, &quot;rooms&quot; for group conversations, and searchable archives of group messages.
+
+The youRoom API allows developers to access and integrate the functionality and data from youRoom. Some example API methods include accessing timelines, managing entries, showing attachments, and creating and managing user information.
+chat group messaging social 
+Messaging

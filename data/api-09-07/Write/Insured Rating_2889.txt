@@ -1,0 +1,7 @@
+Insurance Rating Engine
+Insured Rating
+The service enables users to develop a well-documented rate plan reflecting risk levels posed by prospective customers. Quote requests can then be made via the Insured Rating API which return coverage and premium information. The data generated helps to manage insurance product offerings and provide accurate rate quotes matched to determinants of risk.
+
+API methods support input of prospective customer data and return risk ratings compliant with the industry ACORD standard. Methods can be adapted to an applications existing XML schema if needed. Users can utilize Insured Rating&#039;s SOAP or REST endpoints.
+cloud Engine Insurance ratings saas software 
+Financial

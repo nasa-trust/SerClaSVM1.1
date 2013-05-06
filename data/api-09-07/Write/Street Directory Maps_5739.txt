@@ -1,0 +1,5 @@
+Australian street map service
+Street Directory Maps
+Street Directory provides street-level maps of Australia along with addresses and profiles for local businesses, events, community groups, and accommodations. The Street Directory Maps JavaScript API uses Ausway, an Australian road map provider, to enable users to create and customize maps for use on their own websites.
+Australia mapping 
+Mapping

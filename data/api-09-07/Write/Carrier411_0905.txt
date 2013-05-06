@@ -1,0 +1,7 @@
+Trucking and transportation provider monitoring service
+Carrier411
+The service allows customers for trucking and transportation services to review the records of competing providers and evaluate their qualifications to meet specific needs. It allows applications to monitor changes in trucking companies&#039; insurance, safety records, and compliance with operating requirements. Users can qualify motor carriers by their CSA 2010 BASIC scores and create Due Diligence Certificates or Eco-Cert Certificates.
+
+API methods support retrieval of company listings for motor carriers, the dates and contents of safety report filings, and BASIC scores. Methods also support starting and ending monitoring of a carrier, which triggers notification of any  status changes on that company&#039;s listing.
+monitoring tracking transportation 
+Transportation

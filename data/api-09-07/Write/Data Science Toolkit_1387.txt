@@ -1,0 +1,18 @@
+Open Source tools for science
+Data Science Toolkit
+Data Science Toolkit is a site that offers a free collection of open data sets and open-source tools for data science. The suite of tools include the following:
+
+*Geodict
+*Text to Places
+*IP Address to Coordinates
+*Street Address to Coordinates
+*Coordinates to Politics
+*File to Text
+*Text to Sentences
+*HTML to Text
+*HTML to Story
+*Text to People 
+
+The APIs use RESTful protocol and responses are formatted in JSON.
+address geocoding IP science 
+Reference

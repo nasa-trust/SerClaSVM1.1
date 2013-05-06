@@ -1,0 +1,7 @@
+Website user and profile management service
+Push Open Door
+Push Entertainment provides a platform that lets developers integrate a variety of features, such as user profiles, rewards, points, user incentives, registration, login, and privacy management into their web sites.
+
+The Push Open Door API allows programmatic access to much of the data and functionality provided by the Push Platform via SOAP protocol. The functionality exposed by the API includes such things as user login (including Facebook connect, Google login, and site specific login), exporting of user data, reporting and analytics, and various methods for tracking and engaging user behavior. The Push platform is available with tiered pricing options and, as such, requires an account with service for access.
+internet login 
+Internet

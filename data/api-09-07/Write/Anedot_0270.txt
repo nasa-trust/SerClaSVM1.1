@@ -1,0 +1,7 @@
+Donation and contribution management service
+Anedot
+The service helps not-for-profit organizations to manage fund-raising campaigns and donations, including ongoing relationships with donors and other sources of funding. It provides coordinated interactions via websites, social media outlets, and mobile devices to simplify accepting money whenever and however it is offered.
+
+The API supports queries against information about the not-for-profit&#039;s account, fund-raising campaigns, and donations received. Methods support tracking of communications with and contributions from donors over time. Methods also support interaction with the organization&#039;s bank account to aid processing of payments.
+charity donation fundraising nonprofit payment 
+Payment

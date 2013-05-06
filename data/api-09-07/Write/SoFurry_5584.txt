@@ -1,0 +1,7 @@
+Anthropomorphic art website
+SoFurry
+SoFurry is home to over 200,000 artists and fans of the anthropomorphic arts. Users may share their artwork, animations, stories, and music as well as enjoy the works of others, buy and sell commissions, and build community groups with their own forums and chat rooms.
+
+The SoFurry API allows users to download submissions from the site, upload submission to the site, get user details, get submission details, and retrieve shouts or comments on submissions. The API is RESTful and employs JSON-formatted calls.
+adult art social 
+Social

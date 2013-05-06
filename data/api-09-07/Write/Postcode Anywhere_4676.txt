@@ -1,0 +1,5 @@
+UK and international address management software, postcode finder web services and more
+Postcode Anywhere
+US, UK and global geographic based web services including address data cleansing, geocoding, mapping, lifestyle profiling, government data, business data, route optimisation and bank and credit card validation services. The suite of APIs are based on REST, SOAP and XML-RPC protocol and responses can be formatted in a number of ways including XML, JSON, CSV, HTML and ADO.
+address location mapping postal reference uk 
+Mapping

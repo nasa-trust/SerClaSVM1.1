@@ -1,0 +1,14 @@
+call 1
+chat 6
+cm 1
+customer 1
+datum 4
+export 2
+format 1
+integrate 1
+live 2
+location 1
+own 1
+response 1
+search 1
+support 2

@@ -1,0 +1,5 @@
+Micropayments via SMS services
+Zaypay
+From their site: Zaypay makes international micropayments through SMS, phone calls and other alternative pay methods a piece of cake. With its free service a micropayment can be integrated into your website for just minutes of your time. Using our API enables your application to talk with Zaypay directly, and allows Zaypay to talk back to your application.
+Global mobile payment sms telephony 
+Payment

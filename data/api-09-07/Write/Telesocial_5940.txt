@@ -1,0 +1,5 @@
+voice calling in social networks
+Telesocial
+Enables mobile voice calling within social networks. Authenticates devices to linked Facebook, Twitter, iTunes users via social network user accounts, allowing users to opt-in to calls to/from linked users, set up &quot;TalkSpace&quot; voice conferences, leave voicemail. Phone number remains anonymous because authentication uses social network accounts.
+facebook social telephony Twitter Voice 
+Social

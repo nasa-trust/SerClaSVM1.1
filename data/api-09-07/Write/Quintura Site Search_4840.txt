@@ -1,0 +1,5 @@
+Site search provider
+Quintura Site Search
+Quintura is an online search service. It offers an API that lets users perform web-site searches. The search results are provided as an XML feed which can be used from the programming code in a number of ways. The API uses RESTful calls and responses are formatted in XML.
+internet search 
+Search

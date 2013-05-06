@@ -1,0 +1,7 @@
+Dutch art museum information service
+Rijksmuseum
+The service gives access to metadata and digital images related to over 100,000 artworks from the collection of the Rijksmuseum in Amsterdam, The Netherlands. The museum chronicles the Dutch heritage through artworks and artifacts spanning the country&#039;s history from antiquity to the late 19th century. (The service does not include more recent works due to copyright considerations.) Data provides Dutch-language documentation for a large range of paintings and prints, ceramics, household items, and more. 
+
+Methods expose descriptive data for each artwork according to the standard Dublin Core structure: title, creator, creation dates, description and language, type (e.g., painting, print, sculpture), format (medium, such as paper, oil paint on canvas, bronze), and usage rights. Methods also return images in three sizes: 100x100px, 250x250px, and 2500x2500px. Note that API documentation is also in the Dutch language.
+art education museums netherlands 
+Education

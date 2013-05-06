@@ -1,0 +1,17 @@
+area 1
+display 1
+find 1
+food 3
+format 1
+interface 1
+mania 1
+menu 3
+output 1
+own 1
+photo 1
+rest 1
+restaurant 5
+review 2
+search 2
+view 1
+visitor 1

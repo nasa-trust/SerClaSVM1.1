@@ -1,0 +1,5 @@
+Stock fundamentals lookup service
+XigniteGlobalFundamentals
+The GlobalFundamentals web service provides stock fundamentals for a large universe of globally listed public companies. Users can query the service to return data including Corporate information, Shares Outstanding, Market Capitalization, Earnings Per Share, Price Earning Ratio and more. Users can look up fundamentals of a globally listed company either by its symbol, CUSIP, ISIN, or Valoren. Data is updated daily. The API uses REST and SOAP calls and responses are formatted in XML.
+financial stocks 
+Financial

@@ -1,0 +1,5 @@
+Local business search and recommendation service
+welovelocal
+welovelocal is a site for finding the best local businesses by reading reviews and ratings from people in your city. The SOAP web service allows users to perform direct queries against the database and provides a flexible way to make use of the data in their own application.
+local mapping places recommendations shopping uk 
+Recommendations

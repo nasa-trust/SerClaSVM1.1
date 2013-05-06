@@ -1,0 +1,5 @@
+Semantic data search and extraction service
+Calais
+From their site: Reuters run a service called Calais. The Calais web service automatically attaches rich semantic metadata to the content you submit in well under a second. Using natural language processing, machine learning and other methods, Calais categorizes and links your document with entities (people, places, organizations, etc.), facts (person &quot;x&quot; works for company &quot;y&quot;), and events (person &quot;z&quot; was appointed chairman of company &quot;y&quot; on date &quot;x&quot;).
+language search semantic 
+Other

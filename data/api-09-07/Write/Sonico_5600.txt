@@ -1,0 +1,5 @@
+OpenSocial service
+Sonico
+Sonico is a free-access social networking website oriented toward a Latin American audience. The OpenSocial API can search and add friends, update personal profiles, manage privacy settings, upload photos and videos, organize events, challenge other users in online games and interact with other people by means of private messages, public comments, photo tags, and a web-based instant messenger.
+latinamerica opensocial social 
+Social

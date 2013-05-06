@@ -1,0 +1,7 @@
+Online texting service
+Lemonstorm
+Lemonstorm is a UK-based web development company providing domain hosting, web and graphic design services, SSL certificates, and online texting service.
+
+The Lemonstorm API allows for the integration of texting functionality into software or websites. It uses HTTP and returns responses in XML and JSON.
+deadpool messaging sms uk 
+Messaging

@@ -1,0 +1,9 @@
+Social link-sharing service
+Shareaholic
+The Share API allows developers to give users the ability to share content/links from their (or any) website, desktop app, mobile app, etc to any of 300+ supported destination services.
+
+Shareaholic provides social APIs to connect a user&#039;s site or application to each of the major social networks for sharing. With these RESTful APIs users can customize the social sharing experience for their users to match the branding of their own site.
+
+
+bookmark email internet social 
+Social

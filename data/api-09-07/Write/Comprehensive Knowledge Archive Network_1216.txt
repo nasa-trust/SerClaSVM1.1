@@ -1,0 +1,5 @@
+Community driven open knowledge database
+Comprehensive Knowledge Archive Network
+From their site: CKAN is the Comprehensive Knowledge Archive Network, a registry of open knowledge packages and projects. CKAN is the place to search for open knowledge resources as well as register your own. CKAN has a wiki-like interface that lets anyone add and correct packages. Examples of existing entries include a set of Shakespeare&#039;s works, a global population density database, the voting records of UK MPs, or 30 years of US patents. Those familiar with freshmeat, CPAN or PyPI can think of CKAN as providing an analogous service for open knowledge. CKAN is developed and maintained by the Open Knowledge Foundation.
+database reference wiki 
+Reference

@@ -1,0 +1,5 @@
+Personal health platform
+HealthJibe
+HealthJibe is a personal health platform. It allows users to track conditions, assess progress toward health goals, and more. Users can register through participating employers to create a personal information center called a HealthVault. Users add and monitor pertinent information as they go. HealthPoints are accumulated and can be redeemed for incentives from employers. The HealthJibe API is a RESTful service that exposes functionality for integration with other health services and devices. It returns JSON-encoded data. 
+health medical 
+Medical

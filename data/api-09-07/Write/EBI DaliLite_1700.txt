@@ -1,0 +1,5 @@
+Pairwise protein structure comparison service
+EBI DaliLite
+DaliLite is a tool for pairwise protein structure comparison. It uses a suite of programs to compute optimal and suboptimal protein structural alignments between two input sets of atomic coordinates, or between one input and a database of known structures. The European Bioinformatics Institute makes this service available as a SOAP API.
+bioinformatics science 
+Science

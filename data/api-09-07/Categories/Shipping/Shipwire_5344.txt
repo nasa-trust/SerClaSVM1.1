@@ -1,0 +1,17 @@
+back 1
+customer 1
+handle 1
+inventory 1
+merchandise 2
+order 2
+pass 1
+platform 1
+rating 1
+real 1
+receive 1
+send 1
+shipment 1
+shipping 4
+status 1
+tracking 1
+warehouse 1

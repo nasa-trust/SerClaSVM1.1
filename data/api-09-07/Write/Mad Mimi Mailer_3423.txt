@@ -1,0 +1,5 @@
+Mass email marketing tool
+Mad Mimi Mailer
+Mad Mimi&#039;s Mailer API lets users use Mad Mimi to send transactional emails like welcome letters, password resets, and account activations. It can also be used to programmatically send promotional emails to an audience list.
+email marketing sbweb 
+Email

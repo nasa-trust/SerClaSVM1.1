@@ -1,0 +1,5 @@
+Temperature conversion service
+W3 TempConvert
+The W3 TempConvert API allows users to convert temperatures from Celsius to Fahrenheit and vice versa. This API was created as an example for W3 Schools, but is nonetheless fully functional. The API can be accessed via SOAP calls using the XML data format.
+conversion tools weather 
+Tools

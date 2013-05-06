@@ -1,0 +1,5 @@
+Internet commodity trading service
+Mt Gox
+Mt Gox allows users to trade US Dollars for Bitcoins and vice versa. The Mt Gox API allows users to fetch public data and place orders. It uses RESTful calls and responses are formatted in JSON.
+bitcoin finance virtual 
+Financial

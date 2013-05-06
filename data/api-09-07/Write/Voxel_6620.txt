@@ -1,0 +1,5 @@
+Cloud hosting and management service
+Voxel
+Voxel is a Cloud hosting company that offers all of it&#039;s services entire online including content delivery, public and private hosting, dedicated hosting, and private service. The Voxel API allows access to all the infrastructure services provided, as well as reporting, billing, monitoring and other ancillory services.
+hosting internet 
+Internet

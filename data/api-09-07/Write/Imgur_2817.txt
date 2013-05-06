@@ -1,0 +1,5 @@
+Photo sharing service
+Imgur
+Share photos using Imgur and its API. There are two options: anonymous upload or OAuth upload, which connects your photos to your account and gives your app twice the number of uploads per hour.
+photo social 
+Photos

@@ -1,0 +1,5 @@
+Video game broadcasting and chat community
+TwitchTV
+TwitchTV is a video game broadcasting and chat community featuring gaming personalities, players, tournaments, leagues, and commentary. The TwitchTV API, composed of a REST API and a Javascript SDK, provides access to TwitchTV data, including user, channel, and team information.
+games social video 
+Social

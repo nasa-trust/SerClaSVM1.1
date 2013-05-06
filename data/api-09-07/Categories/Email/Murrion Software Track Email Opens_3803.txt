@@ -1,0 +1,17 @@
+call 1
+campaign 2
+developing 1
+email 5
+format 1
+generate 1
+image 1
+marketing 3
+open 4
+place 1
+response 1
+smart 1
+software 2
+specialize 1
+total 1
+track 4
+tracking 1

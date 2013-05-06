@@ -1,0 +1,7 @@
+Energy resource data services
+Open Energy Information
+Open Energy Information (OpenEI) is a knowledge sharing online community that aims to provide users with the latest worldwide information and data on energy resources. OpenEI offers a wide range of information including details about renewable energy incentives, access to energy data, and much more. 
+
+The API provides realtime access to data including information surrounding electric utility rates and incentives for renewables and efficiency associated with a specific location. The API uses RESTFUL calls and responses are formatted in XML and JSON.
+Data energy government usage 
+Government

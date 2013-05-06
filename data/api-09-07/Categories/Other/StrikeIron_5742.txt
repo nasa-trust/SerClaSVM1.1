@@ -1,0 +1,12 @@
+catalog 1
+customer 1
+details 1
+full 1
+get 2
+list 1
+marketplace 4
+method 1
+over 1
+register 1
+up 1
+usage 1

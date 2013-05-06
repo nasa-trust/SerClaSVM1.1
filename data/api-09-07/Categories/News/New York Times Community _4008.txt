@@ -1,0 +1,17 @@
+article 1
+comment 1
+community 2
+content 3
+current 1
+generate 3
+movie 1
+news 2
+reader 1
+release 1
+retrieve 1
+review 1
+social 1
+times 2
+type 1
+version 1
+york 2

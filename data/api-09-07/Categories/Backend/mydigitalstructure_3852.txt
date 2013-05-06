@@ -1,0 +1,9 @@
+accounting 1
+building 2
+contact 1
+full 1
+functionality 2
+manage 1
+method 2
+over 1
+range 1

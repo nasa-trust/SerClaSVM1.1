@@ -1,0 +1,7 @@
+2,000+ dataset reference library
+InfoChimps Datasets
+InfoChimps is a data platform and marketplace for sharing and selling data of all types. The InfoChimps Datasets API provides access to 2,000 &quot;tables&quot; of data across several categories, including science, government, sports and music.
+
+The site allows for searching for datasets by keyword, cost and tags. Sample API calls are documented along with each dataset. Free datasets can be accessed up to 100,000 calls per month, then InfoChimps offers tiered pricing.
+reference 
+Reference

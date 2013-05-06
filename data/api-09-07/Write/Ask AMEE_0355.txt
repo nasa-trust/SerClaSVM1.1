@@ -1,0 +1,5 @@
+Natural language query service
+Ask AMEE
+AMEE is a platform for greenhouse gas calculation, with access to emissions factors, calculation algorithms, and storage for data history. Ask AMEE is an experimental search platform that attempts to provide natural language query capabilities to AMEE data. The Ask AMEE API gives developers access to the functionality of this service. The API uses RESTful calls and responses are formatted in JSON.
+language search semantic 
+Search

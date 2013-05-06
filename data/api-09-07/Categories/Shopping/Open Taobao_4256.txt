@@ -1,0 +1,9 @@
+auction 3
+china 1
+chinese 2
+open 2
+payment 1
+platform 1
+processing 1
+shopping 4
+way 1

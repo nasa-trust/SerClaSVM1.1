@@ -1,0 +1,8 @@
+ajax 1
+automate 1
+language 3
+page 3
+portion 1
+translation 3
+translator 2
+utility 1

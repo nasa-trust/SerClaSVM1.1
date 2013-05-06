@@ -1,0 +1,8 @@
+free 1
+generation 1
+host 1
+integrate 1
+photo 3
+sharing 1
+thumbnail 1
+upload 1

@@ -1,0 +1,7 @@
+Biological and genome data service
+BioCyc
+The service provides aggregated access to almost 2000 databases of organism genome data (formally, Pathway/Genome Databases or PGDBs). Each database describes the genetic makeup and metabolic pathways of one biological organism. The service helps to navigate data, with tools for visualization of data relationships and analysis, both of individual organism data and comparisons among organisms.
+
+API methods support description of individual genes, including proteins, pathways, enzymes, reactions, and products generated. In addition to metabolic pathways and other characteristics of individual genes, methods enable the service&#039;s genome browser and metabolic maps relating separate genes.
+biology research science 
+Science

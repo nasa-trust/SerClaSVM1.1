@@ -1,0 +1,5 @@
+Mobile device identification service
+AT&T Device Capabilities
+The AT&T Device Capabilities API gives developers a way to identify the end user's device and its capabilities in order to develop applications that best support the user's experience. Developers can customize their apps to match user devices based on information such as make, model and firmware release. The API, currently in beta, uses RESTful calls and responses are in XML and JSON. 
+mobile telephony identification
+Telephony

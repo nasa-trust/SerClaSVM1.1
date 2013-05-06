@@ -1,0 +1,5 @@
+Coastal mapping information retrieval tool
+nowCOAST LayerInfo
+nowCOAST is a GIS-based online mapping tool that provides access to real-time coastal environmental observations and NOAA forecasts for any region in the coastal United States. nowCOAST&#039;s LayerInfo API provides access to additional useful information on mapping layers, including Legends, Timestamps, Icons, and Layer Descriptions. The API uses HTTP calls and responses are formatted in XML, HTML and TXT.
+mapping ocean 
+Mapping

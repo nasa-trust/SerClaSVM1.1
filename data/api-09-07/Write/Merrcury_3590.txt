@@ -1,0 +1,5 @@
+Travel shopping service
+Merrcury
+The Merrcury APIs allow your application to interact with the sites powered by the Merrcury Engine; a shared infrastructure of software, hardware, data, and APIs that powers LetMeGo.com, Localo.com, TheRealHosts Network, and other sites. The APIs can also be used in conjunction with the Merrcury referral program to earn commissions on the bookings made by users to whom developers refer to our sites. Currently the API supports updating and fetching of pricing and availability. It also allows for querying the database of listings to provide booking alternatives to travelers. The API uses RESTful protocol and responses can be formatted in either XML or JSON.
+deadpool shopping travel 
+Travel

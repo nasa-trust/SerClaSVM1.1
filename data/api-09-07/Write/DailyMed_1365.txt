@@ -1,0 +1,7 @@
+Marketed drugs information service
+DailyMed
+The U.S. Department of Health and Human Services (HHS), through the National Library of Medicine, provides users with access to current Structured Product Language (SPL) information about marketed drugs. The data provided by this service is the most recent provided to the FDA (such as FDA labels/package inserts), and also includes information about warnings and in-progress FDA product reviews.
+
+Users can query this RESTful service using a variety of parameters, including prescription or over the counter, human or animal drugs, drug name, drug imprint data, and National Drug Code (NDC). This free service returns data as XML or JSON based on user specificaiton.
+drugs health medical 
+Medical

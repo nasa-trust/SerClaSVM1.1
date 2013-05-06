@@ -1,0 +1,5 @@
+Ukraine banking and payment service 
+PrivatBank
+PrivatBank is the largest commercial bank in Ukraine. It offers a RESTful API that can connect any internet services, kiosks and software to their payment services and databases. SSL is supported and responses are formatted in XML. The site and documentation are in Russian.
+banking financial payment ukraine 
+Financial

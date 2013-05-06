@@ -1,0 +1,7 @@
+Facial biometrics applications
+Animetrics FIMS Cloud
+Aimed at the law enforcement, security and military intelligence industries, Animetrics&#039; FaceR Identity Management Solution (FIMS) allows organizations to bring mobile security and video surveillance facial-biometrics applications into the field for use in real time
+
+FIMS Cloud is used to centralize and access a user&#039;s cloud based photographic stores using facial recognition. FIMS Cloud organizes, searches and centralizes access to photographic stores using 1:many web service based verification engine. Access to the service is provided via a RESTful API. Public documentation is not available.
+biometrics identity recognition security 
+Security

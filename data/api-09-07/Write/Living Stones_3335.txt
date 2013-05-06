@@ -1,0 +1,5 @@
+Bible lookup service
+Living Stones
+Living Stones is a web service for any website to be able to search any of three Bible translations that are in the public domain (KJV, AKJV, ASV) and to lookup passages from those translations.
+bible books religion 
+Other

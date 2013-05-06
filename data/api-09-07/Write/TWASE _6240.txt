@@ -1,0 +1,5 @@
+Twitter spam prevention service
+TWASE 
+TWASE is an anti-spam engine that given a Twitter username can determine whether the thing behind it is a spammer, marketeer, bot or just disruptive member of the Twitterverse. TWASE will also enable developers to set customized filtering preferences such as follower-following ratios, tweet content regular expressions, and other things. 
+social spam Twitter 
+Social

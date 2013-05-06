@@ -1,0 +1,7 @@
+Bookmarking service
+Gimme Bar
+Gimme Bar is a bookmarking service. Gimme Bar saves and stores a user&#039;s bookmarks in personalized libraries in the cloud. Bookmarks can be organized into different collections and lists, backed up to Dropbox, and shared with others.
+
+The Gimme Bar API allows developers to access the functionality and data of Gimme Bar for integration with other applications. Some example API methods include accessing user collections, getting user information, posting collections, and accessing collection information.
+bookmarks dropbox social 
+Bookmarks

@@ -1,0 +1,5 @@
+Emotional profiling tool 
+Emoome
+Emoome is an emotional profiling tool. Users input words, feelings, and events at the app???s prompting a few times a day. The app will chart, color-code, and create a timeline of the variety of emotions it interprets. The RESTful API provides developers and users access to all of their personal data stored in the system. The API uses a variety of formats, including, JSON, XML, and PHP.
+health monitoring tools 
+Tools

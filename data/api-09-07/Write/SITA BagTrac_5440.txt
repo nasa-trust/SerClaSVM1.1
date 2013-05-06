@@ -1,0 +1,5 @@
+Luggage tracking service
+SITA BagTrac
+SITA???s BagJourney, a new managed service by SITA, aids the baggage management process. With BagJourney, users can instantly see where a bag has been and where it is at currently. Baggage messages are tracked within the system where they can be processed and analyzed to determine the real-time status of a bag. Historical data is also available. The BagTrac API lets users retrieve info from the BagJourney service such as the list of events by either bag tag number or PNR booking reference. Booking reference requests will return events for all bag tags associated with that PNR. Public documentation is not available; interested developers should sign up for access to the API. 
+luggage realtime tracking travel 
+Travel

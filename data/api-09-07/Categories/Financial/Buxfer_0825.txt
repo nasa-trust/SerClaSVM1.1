@@ -1,0 +1,17 @@
+boring 1
+create 1
+discussion 1
+finance 5
+fun 1
+goal 1
+group 1
+live 1
+make 1
+money 1
+personal 2
+social 1
+something 1
+today 1
+topic 1
+twenty 1
+want 1

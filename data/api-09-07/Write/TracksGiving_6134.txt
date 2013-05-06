@@ -1,0 +1,5 @@
+charitable giving tracking tool
+TracksGiving
+Tracksgiving is a backend platform built to track charitable giving initiatives. Its goal is to add more transparency and accountability to the giving process. The TracksGiving APIs offer functionality for tracking donation logs, orders, and giving campaigns.
+backend charity fundraising tools 
+Backend

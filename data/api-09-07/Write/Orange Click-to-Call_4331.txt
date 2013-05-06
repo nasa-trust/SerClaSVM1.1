@@ -1,0 +1,7 @@
+Click to call Internet voice services
+Orange Click-to-Call
+Use the Orange click-to-call API to initiate calls between two numbers using VoIP, landline, or mobile directly from your application. 
+
+The users on each end of the line need not be Orange customers.
+telephony Voice VoIP 
+Telephony

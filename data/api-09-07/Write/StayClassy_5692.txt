@@ -1,0 +1,7 @@
+Not-for-profit fundraising support service
+StayClassy
+The service supports online fundraising for charities, foundations, churches, schools, and other not-for-profit organizations. It seeks to help maintain and strengthen relationships with supporters so they help to achieve fundraising goals. The company also recognizes accomplishments of not-for-profits in its annual philanthropic awards show, the Classy Awards.
+
+API methods support search against a directory of charity organizations to retrieve location, size, contact information, and funding levels. Methods also provide information about projects and events sponsored by a charity, both past and upcoming. The API provides listings of top fundraisers for an organization and other measures of successful outreach.
+financial fundraising nonprofit 
+Financial

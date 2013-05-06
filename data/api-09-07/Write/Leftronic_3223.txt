@@ -1,0 +1,7 @@
+Data and analytics visualization service
+Leftronic
+Leftronic provides tools and applications for data visualization. Some features include template dashboards for viewing data, data tracking visualization tools, and integration with other applications and services where data is.
+
+The Leftronic API allows developers to access and integrate the functionality and data from Leftronic with other applications. Some example API methods include pushing data to the dashboard, editing file information, and managing account information. 
+analytics dashboard Data tools tracking visualization 
+Tools

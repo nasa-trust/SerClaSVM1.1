@@ -1,0 +1,12 @@
+FIX Routing and Normalization Service
+EZX iServer
+EZX&#039;s products and services provide Traders with robust yet easy to implement solutions that enable them to trade quickly and efficiently.
+
+EZX supports trading directly from your own Algorithm / Strategy Engine, proprietary trading screens, Excel spreadsheets, or our EZOMS application.
+
+The iServer API integrates easily with your Strategy/Algo engine, custom trading screen, or Excel spreadsheet so that you can get your strategies live quickly and lower your operating costs. The iServer performs FIX version normalization, state management, FIX destination routing, and supports FIX versions 4.0 thru 5.0, including custom tags and FIX variants. EZX supports tool kits in Java, .NET, COM, and RTD for Excel spreadsheets so the API can be used in a variety of software development environments.
+
+EZX???s RTD plugin for Excel gives you the ability to FIX enable your spreadsheets so you can automate your strategy right from your desktop. With EZX RTD, you can make your Excel Spreadsheet an Execution Management System without the hassle and cost of a large system implementation.
+
+financial stocks trading 
+Financial

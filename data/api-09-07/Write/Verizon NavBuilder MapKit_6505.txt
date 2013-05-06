@@ -1,0 +1,20 @@
+Mobile location based services
+Verizon NavBuilder MapKit
+The MapKit framework allows a developer to embed a comprehensive set of location-based services that include maps, search, traffic and static directions in an application with minimum programming effort.
+
+The kit is centered on a map object that provides a tile-based solution supporting multiple layers (road map/satellite/hybrid, traffic, routes) and provides built-in controls for standard map operations such as panning and zooming using the host device???s native gestures. The Map object includes programmable hooks that allow the host application to take full control of the map display.
+
+The MapKit also provides a full set of search APIs that allow complex searches to be performed, providing the following types of results:
+
+Address Search (Geocoding)
+Reverse Geocoding 
+Local Search 
+Fuel Price Search 
+Movie Theaters 
+Movie Showtimes 
+Events 
+Event Venues 
+Traffic Incidents 
+Static Directions 
+display mapping mobile places telephony viewer 
+Mapping

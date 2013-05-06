@@ -1,0 +1,5 @@
+Market quotes for U.S. equities and ETFs
+XigniteQuotes
+The XigniteQuotes API gives you access to delayed market quotes for stocks and ETFs traded on U.S. stock exchanges. You can access intra-day ticks, stock price charts, top movers, and more.
+finance stocks 
+Financial

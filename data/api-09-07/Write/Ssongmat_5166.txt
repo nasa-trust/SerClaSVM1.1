@@ -1,0 +1,5 @@
+Swedish-language seasonal food information service
+Ssongmat
+The service provides Swedish-language content about seasonal availability of foods in Sweden and the region. When foods are naturally available, they can be supplied with the least environmental impact while they are also least expensive and quality is highest. The service seeks to help consumers to maximize their uses of seasonally products by giving access to a database of foods and sources.
+food recipes semantic
+Food

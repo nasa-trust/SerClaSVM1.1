@@ -1,0 +1,5 @@
+Chore/Task Tracking and Management
+MyChores
+MyChores is a website where users can manage and track their chores or recurring tasks. Users can also form groups and assign group members different chores/tasks. MyChores also offeres an API. Requests can be made through HTTP GET requests and data is returned in JSON or XML format. HTTP Basic Authentication is used for most methods, except for Site Statistics. 
+deadpool pim tasks 
+PIM

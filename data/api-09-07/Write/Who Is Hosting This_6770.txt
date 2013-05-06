@@ -1,0 +1,5 @@
+Find out who hosts a web site
+Who Is Hosting This
+The Who Is Hosting This API is a tool that lets you find out who is hosting any web site. The API returns similar data for use on external sites. To use the API, it&#039;s just four lines of code. Send an email to the address provided to get more information about the API and to start using it.
+internet whois 
+Internet

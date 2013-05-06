@@ -1,0 +1,15 @@
+cookie 1
+display 1
+entertainment 2
+find 1
+fortune 3
+like 1
+much 1
+one 1
+over 1
+phrase 2
+quotation 2
+retrieval 1
+run 1
+simple 1
+soap 1

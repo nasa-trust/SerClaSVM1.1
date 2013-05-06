@@ -1,0 +1,5 @@
+UW financial information service
+University of Washington Financial
+The University of Washington Financial API provides programmatic access to the University of Washington&#039;s budget and organization information from the FIN mainframe database, vendor information from the PAS mainframe database, and metadata from the MyFD glossary. All resources are private, that is, they are available only with approval.
+financial university 
+Financial

@@ -1,0 +1,7 @@
+3d 3
+datum 1
+flash 2
+globe 1
+incorporate 1
+mapping 4
+pushpin 1

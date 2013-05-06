@@ -1,0 +1,17 @@
+compile 1
+contain 1
+datum 1
+implement 1
+interaction 3
+list 1
+match 1
+one 1
+protein 2
+protocol 1
+query 3
+receive 1
+replicate 1
+rest 1
+result 1
+science 2
+soap 1

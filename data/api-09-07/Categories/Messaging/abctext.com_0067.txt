@@ -1,0 +1,12 @@
+business 1
+individual 1
+interface 1
+messaging 5
+private 1
+result 1
+return 1
+sm 3
+soap 1
+telephony 1
+text 3
+world 1

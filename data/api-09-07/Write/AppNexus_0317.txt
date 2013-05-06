@@ -1,0 +1,5 @@
+Real time advertising platform
+AppNexus
+AppNexus is an open and customizable advertising platform that specializes in real-time advertising. AppNexus offers a proprietary gateway to premier ad exchanges and ad inventory aggregators as well as an online auction infrastructure and technology for data management, optimization, financial clearing and support for directly negotiated advertising campaigns. This platform is exposed via a set of RESTful APIs. Documentation is available to customers.
+advertising realtime 
+Advertising

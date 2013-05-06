@@ -1,0 +1,5 @@
+Driving directions service
+MapQuest Open Directions
+This API is the open version of MapQuest&#039;s Directions API. It is based on OpenStreetMap data and can also provide results internationally. The service provides routing between two or more latitude/longitude points and includes driving, walking, biking and transit directions.
+Directions mapping openstreetmap 
+Mapping

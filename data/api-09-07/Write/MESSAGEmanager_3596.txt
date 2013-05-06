@@ -1,0 +1,7 @@
+SMS and email message monitoring service
+MESSAGEmanager
+The service handles messaging via email or SMS, configuring and sending messages to specified recipient contact lists. It also monitors outbound messaging traffic and reports on success or failure  by message and mode.
+
+API methods support submitting a message, including message body, delivery mode, recipient address, and other specifications. Methods also support designation of a file folder location where the service will poll for new files containing message sending and configuration information. Query methods retrieve delivery performance information to confirm receipt of messages, bounce rates, and blocked addresses.
+email Global monitoring sms tracking 
+Email

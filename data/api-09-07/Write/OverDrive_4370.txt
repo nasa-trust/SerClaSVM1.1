@@ -1,0 +1,7 @@
+Digital media content platform
+OverDrive
+OverDrive is a digital media platform for retailers, libraries, and users. OverDrive offers features for users to access digital media content, such as eBooks from retailers and libraries, on various devices and applications.
+
+The OverDrive APIs allow developers to access and integrate the functionality of OverDrive with other applications and to create new applications. Some example API methods include searching digital media, managing user accounts, and managing digital media content.
+books digital ebook ereader libraries media 
+Media Management

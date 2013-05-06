@@ -1,0 +1,9 @@
+Local deals aggregation service
+MyDealBag
+MyDealBag aggregates group buying daily deals from the leading group deal sites. The API lets developers use the data from the MyDealBag database to show daily deals on their sites or integrate into their own apps. Categories of data include cities, deals and categories. The API uses RESTful calls and responses are formatted in XML with JSON support in beta.
+
+
+
+
+aggregator coupons local shopping 
+Shopping

@@ -1,0 +1,5 @@
+Server automation platform
+Opscode Cookbooks
+Opscode helps organizations deploy automated server infrastructures. Its &quot;cookbooks&quot; site is a database of &quot;recipes&quot; for web servers, databases, applications, packages and more. The Opscode Cookbooks API provides searchable, browseable access to these recipes, so that you can make it easy to deploy new cookbooks. In other words, the API lets you automate automation.
+internet Server 
+Internet

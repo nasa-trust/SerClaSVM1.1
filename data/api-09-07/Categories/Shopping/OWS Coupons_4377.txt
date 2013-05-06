@@ -1,0 +1,10 @@
+coupon 9
+datum 2
+deal 5
+display 1
+feed 2
+functionality 1
+integrate 1
+method 1
+shopping 2
+software 2

@@ -1,0 +1,5 @@
+Commercial web search services
+80legs
+80legs is a service platform for web crawling and processing web content. The 80legs API gives developers a simple programmatic interface with access the functionality that 80legs provides outside of the web portal. This is a fee based service.
+search spider 
+Search

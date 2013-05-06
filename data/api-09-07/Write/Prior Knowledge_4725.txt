@@ -1,0 +1,5 @@
+Predictive database service
+Prior Knowledge
+Prior Knowledge runs Veritable, a predictive database that makes inferences on the data it contains. The Veritable API lets users upload their data, analyze it, and generate insight and predictions. Resources include tables and rows to upload data for analysis, analyses which represent the collection of analyses performed on a data table and predictions which lets users generate predictions based on a completed analysis. The API uses RESTful calls and responses are formatted in JSON.
+analysis database prediction 
+Database

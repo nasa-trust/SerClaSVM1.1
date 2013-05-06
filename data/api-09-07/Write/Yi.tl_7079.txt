@@ -1,0 +1,7 @@
+URL shortener with stats
+Yi.tl
+Yi.tl allows users to make long URLs into shorter yitl urls. The service provides shorter URLs than bit.ly or Tinyurl and also allows users to tag their short URLs. The service also allows users to track their URLs in order to see how many clicks each link gets, where they come from, when they clicked and more.
+
+The yi.tl API allows developers to integrate the service with their own applications and sites. The API offers much of the same functionality including the ability to generate or get existing short URLs and retrieving statistics such as top clicked links, least clicked links, newest links. The API uses RESTful calls and responses are formatted in XML and JSON.
+internet tools url-shortener utility 
+Tools

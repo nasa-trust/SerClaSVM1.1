@@ -1,0 +1,6 @@
+collect 1
+give 1
+internet 2
+share 1
+so 1
+store 1

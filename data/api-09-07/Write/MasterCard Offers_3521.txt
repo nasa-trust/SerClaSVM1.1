@@ -1,0 +1,5 @@
+Discount, deals, and offers service
+MasterCard Offers
+The Offers API allows access, via REST services, to MasterCard Offers from participating merchants. The API has offers, deals, and discounts in many categories ??? retail and recreation are two examples. The Offers API also provides the ability to construct a more detailed search for an offer. For example, you can filter offers by category or display offers near a certain location or point on the map.
+coupons shopping 
+Shopping

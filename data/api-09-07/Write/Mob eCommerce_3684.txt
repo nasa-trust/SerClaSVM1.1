@@ -1,0 +1,5 @@
+Mobile eCommerce application
+Mob eCommerce
+Mob eCommerce is a mobile app (Android and iPhone) for eCommerce platforms Magento, prestashop and others. It allows users to enable their customers to access their eCommerce sites on mobile platforms. The basic functionality of the app lets customers search for products by keyword or category, filter products by price, add products to their cart and checkout the products in their cart. The API uses SOAP protocol and responses are formatted in XML.
+applications ecommerce mobile retail 
+Retail

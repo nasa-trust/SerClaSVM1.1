@@ -1,0 +1,7 @@
+High school track and field and cross country coverage site
+MileSplit 
+MileSplit is an online network for high school track and field and cross-country sports. MileSplit provides  state-by-state coverage of the sport. Coverage of track and field and cross-country include results, rankings, articles, videos, and statistics. 
+
+The MileSplit API allows other websites and applications to interact with the MileSplit website. Public documentation is limited; documentation is provided once users sign up for an API Key. 
+highschool sports statistics 
+Sports

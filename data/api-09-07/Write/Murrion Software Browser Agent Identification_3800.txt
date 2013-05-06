@@ -1,0 +1,5 @@
+Browser agent identification service
+Murrion Software Browser Agent Identification
+Murrion Software specializes in developing smart web applications using PHP/Codeigniter & mySQL. The &#039;Browser Agent&#039; API allows a browser agent to be identified as a web browser, a web robot or a mobile device. The API will return an array containing the original browser agent and the browser agent type. It uses RESTful calls and responses are formatted in JSON.
+BROWSER identification internet 
+Internet

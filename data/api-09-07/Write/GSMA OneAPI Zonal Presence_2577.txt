@@ -1,0 +1,7 @@
+Mobile location services
+GSMA OneAPI Zonal Presence
+The GSMA is an association of mobile operators worldwide. Representing more than 800 mobile operators in more than 220 countries, the GSMA supports the standardizing, deployment and promotion of the GSM mobile telephone system. The GSMA also produces industry-leading events such as the Mobile World Congress and Mobile Asia Expo.
+
+The GSMA OneAPI is a set of APIs that expose network capabilities over HTTP. The OneAPI Zonal Presence interface allows a Web application to query a ???Zone???. A zone is a cluster of one or more Femtocells to which end user phones may be connected. With the Zonal Presence API you can determine the number of users in a zone, be notified of entries to/exits from the Zone, and the user path taken through the Femtocells in a Zone.
+location mobile telephony 
+Telephony

@@ -1,0 +1,5 @@
+Event Aggregation Service 
+Evently
+The Evently API allows users to include the Evently event information on outside websites. Evently collects event information from over 1000 unique event listing services and organizes the data to be searchable by venue, genre and location. Using this REST API which returns in either JSON or XML,  users can access this information and provide it on their website. An API Key is required for use. 
+events music 
+Events

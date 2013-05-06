@@ -1,0 +1,7 @@
+Indoor mapping service
+Micello
+Micello is an indoor mapping service. Micello offers indoor maps of venues, such as shopping malls, airports, hospitals, and museums. Micello indoor maps can be used for integration with outdoor maps, as well as navigation and wayfinding.
+
+Micello offers two APIs: a JavaScript API that allows developers to embed indoor maps into applications and a Map Web Services API that allows for retrieval and display of indoor maps by location, proximity, and retrieving map information. Public documentation is available, but limited. Interested developers should register for an API Key for full API access.
+gps indoor location mapping navigation places 
+Mapping

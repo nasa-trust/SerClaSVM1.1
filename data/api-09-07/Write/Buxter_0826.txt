@@ -1,0 +1,5 @@
+Transfer money over Facebook
+Buxter
+The Buxter Java API allows Facebook application developers to use the Buxter transaction webservice to monetize their Facebook applications. Buxter is ClickandBuy&#039;s Facebook application. With Buxter, Facebook users can transfer money to each other, as well as purchase items in Facebook apps. Using the API, developers can securely create purchase links, query the status of transactions and cancel transactions.
+facebook finance payment social 
+Payment

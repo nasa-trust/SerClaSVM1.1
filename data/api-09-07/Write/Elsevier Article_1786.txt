@@ -1,0 +1,5 @@
+Scientific journals and articles search service
+Elsevier Article
+The Elsevier Article API facilitates search and access to scientific journals and scientific articles. The API provides web services for searching for journals, journal volumes, specific issues, articles, and article images. The Article and Article Image specific  API interactions provide access to the full-text article XML (and the associated images) and enable a mashup developer to render the returned article in customizable formats.
+research science search 
+Reference

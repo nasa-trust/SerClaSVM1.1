@@ -1,0 +1,7 @@
+Virtual sports fan network platform
+Sofanatics
+Sofanatics is a virtual sports fan network platform. Sofantics provides a social platform where football (soccer) fans can come together to watch matches together. 
+
+The Sofanatics API allows developers to embed Sofanatics functionality and information. Some example API methods include embedding matches on other sites and embedding specific events on other sites.
+europe soccer social sports 
+Sports

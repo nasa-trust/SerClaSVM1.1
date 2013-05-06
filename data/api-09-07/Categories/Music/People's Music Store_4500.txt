@@ -1,0 +1,15 @@
+champion 1
+company 1
+fan 1
+give 1
+independent 1
+love 1
+music 7
+people 2
+power 1
+promote 1
+recommendation 1
+set 1
+social 1
+store 3
+up 1

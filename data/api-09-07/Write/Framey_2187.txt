@@ -1,0 +1,5 @@
+Website video recording tool
+Framey
+Framey is a JavaScript application that lets users record video on any website. With Framey, users can embed a webcam recorder into their sites. Users can integrate Framey by embedding the recorder, then use a rubygem or provided code snippets to accept updates from the Framey server when new videos are ready. Responses are formatted in JSON.
+recording video webcam 
+Video

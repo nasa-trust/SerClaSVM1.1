@@ -1,0 +1,8 @@
+Auckland, NZ, traffic data service
+NZTA Auckland Traffic
+The web service provides real-time data on traffic conditions in Auckland, New Zealand, including highway congestion, notices from Variable Message Signs in the area, a list of web cameras and the URLs for the camera images.
+
+
+API methods provide a list of the highways in the Auckland region with human-readable name and location specifications. Methods also provide locations experiencing traffic congestion with direction of travel and messaging currently displayed on warning signs.  
+newzealand traffic transportation 
+Transportation

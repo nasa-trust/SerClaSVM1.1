@@ -1,0 +1,7 @@
+Customer loyalty program 
+PunchTab
+PunchTab is a service that allows website owners, companies, and bloggers to add a customer/user loyalty program to their sites and applications. PunchTab has pre-made loyalty programs, like giveaways, as well as customizable loyalty program options.
+
+The PunchTab API allows developers to integrate and access PunchTab functionality into other sites and applications. Some example API methods include accessing user activities and information, redeeming offers, and creating and editing rewards.
+contests customer giveaways loyalty rewards 
+Other

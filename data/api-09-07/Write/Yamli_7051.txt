@@ -1,0 +1,5 @@
+Arabic search engine using Latin characters
+Yamli
+Yamli allows users to search Arabic content using Latin characters. With the Yamli API you can allow your users to easily type Arabic in all the HTML forms on your website, including email, forums, search boxes, comment forms, etc. The Yamli technology can be integrated without disrupting the existing layout and functionality, and with a minimum of effort. When you integrate Yamli on a textbox, the Yamli settings link appears next to, or inside, the textbox. 
+Arabic search Translation transliteration 
+Search

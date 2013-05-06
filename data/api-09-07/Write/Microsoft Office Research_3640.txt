@@ -1,0 +1,5 @@
+Microsoft Office-based research service
+Microsoft Office Research
+Microsoft Office Research is a feature offered in a number of different Microsoft Office programs. This feature provides access to resources such as dictionaries, thesauri, and various internet research web sites. The Microsoft Office Research API allows registered users to access these services programmatically via SOAP API.
+office research search 
+Search

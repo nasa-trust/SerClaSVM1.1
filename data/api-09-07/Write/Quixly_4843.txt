@@ -1,0 +1,11 @@
+Digital Product Delivery Service
+Quixly
+Quixly solves a big problem in online payments today. Quixly delivers your digital files (Music Albums, PDF Books, Software, Video, Artwork, and anything else that can be downloaded) to your customers instantly and automatically once they make their purchase. Quixly generates a self-expiring URL, that is fully customizable, for them to access your digital file. Quixly can hook in to your PayPal or Google Checkout account as well and any other e-commerce platform, using our secure API, to automatically & securely deliver your digital products to your customers. You can then manage and track customer orders from within Quixly.
+Quixly is also a file storage/sharing service. Upload your files and share them using self-expiring URLs that are fully customizable. File management couldn&#039;t be easier and more intuitive than with Quixly. 
+
+The full Quixly Public API has not yet been released. Below you will find the portion of the full API that is available. 
+
+The Public API is used to interface with Quixly from your own website or application. Currently the only API method available is the &quot;orders&quot; method. You would use this to tell Quixly when an order has been placed on your system. You would send Quixly all the necessary info about the transaction, and Quixly will take it from there. Quixly will then create an order record for the transaction and email your customer a link to download the appropriate file.
+Below we have an example of how to do this in PHP. However, you are not limited to PHP and can use any language you want. 
+file-sharing shopping tools 
+Shopping

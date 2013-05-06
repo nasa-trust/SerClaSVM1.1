@@ -1,0 +1,14 @@
+build 1
+compare 1
+comparison 3
+datum 1
+get 1
+hotel 7
+one 1
+own 1
+price 3
+pricing 1
+real 1
+search 2
+show 1
+travel 1
